@@ -2,218 +2,218 @@
 18
 Tooltip Headline (1st lines), Description (2nd lines), Short Info about effect for autoresolved battles (3rd lines) -> use "-" to not show anything, starting with Level 0, 1, 2;
 0/Lvl0
-Siege Train I
-The heavy siege artillery is assembled into what is called a siege train and transported to take part in sieges only. The siege train consists of heavy rifled artillery and mortars. Siege firepower +25%. Level up by laying siege.
-Siege firepower +25%.
+攻城列車I
+重攻城砲は攻城列車と呼ばれるものへと組み立てられ、攻城戦にのみ参加するために輸送される。攻城列車は重ライフル砲と臼砲から成る。攻城火力+25%。攻城戦でレベルアップ。
+攻城火力+25%。
 0/Lvl1
-Siege Train II
-With heavier 10-inch mortars and heavy howitzers with high trajectory, this siege train is more effective against fieldworks and entrenched troops. Siege firepower +50%. Level up by laying siege.
-Siege firepower +50%.
+攻城列車II
+より重い10インチ臼砲と高弾道の重榴弾砲により、この攻城列車は野戦築城や塹壕に籠る部隊に対してより効果的になる。攻城火力+50%。攻城戦でレベルアップ。
+攻城火力+50%。
 0/Lvl2
-Siege Train III
-With a wide array of heavy and super heavy artillery, up to 100-pounder rifles, this siege train has formidable firepower against any fortified enemy positions. Siege firepower doubled. This is an elite siege unit.
-Siege firepower doubled.
+攻城列車III
+100ポンドライフル砲に至るまでの多種多様な重砲・超重砲を擁するこの攻城列車は、いかなる要塞化された敵陣地に対しても恐るべき火力を発揮する。攻城火力が倍増。これは精鋭の攻城部隊である。
+攻城火力が倍増。
 1/Lvl0
-Field Telegraph I
-Orders are sent via wire faster than couriers can ride, decreasing order delays. Order delays -10%. Level up by executing movement orders.
+野戦電信I
+命令は伝令が馬で運ぶよりも速く電線で送られ、命令の遅延を減少させる。命令遅延-10%。移動命令の実行でレベルアップ。
 -
 1/Lvl1
-Field Telegraph II
-With experience, the signal troops are faster in erecting the wires. With cipher codes, outsiders will not be able to tap in and read the orders. Order delays -20%, information delays -25%. Level up by executing movement orders.
+野戦電信II
+経験を積むことで、通信兵は電線をより速く架設できるようになる。暗号を用いることで、部外者が命令を傍受・解読することはできなくなる。命令遅延-20%、情報遅延-25%。移動命令の実行でレベルアップ。
 -
 1/Lvl2
-Field Telegraph III
-With experience, trial and error and proper equipment, the signal troops of the telegraph corps have perfected the use of the field telegraph. Order delays -30%, information delays -50%. This unit has elite signal corps personnel.
+野戦電信III
+経験と試行錯誤、そして適切な装備により、電信隊の通信兵たちは野戦電信の使用を極めた。命令遅延-30%、情報遅延-50%。この部隊は精鋭の通信兵を擁する。
 -
 2/Lvl0
-Balloon Corps I
-A hot air balloon and someone crazy enough to take it up under enemy fire, to report enemy movements. Order delays +25%, intelligence gathering +25%. Level up by executing movement orders.
+気球隊I
+熱気球と、それに乗って敵の砲火の下で敵の動きを報告するほど命知らずな者。命令遅延+25%、情報収集+25%。移動命令の実行でレベルアップ。
 -
 2/Lvl1
-Balloon Corps II
-With experience, hydrogen gas generators and different kinds of balloons for different weather conditions, the hot air balloon is faster to put up and take down. Order delays +10%, intelligence gathering +25%. Level up by executing movement orders.
+気球隊II
+経験を積み、水素ガス発生装置や気象条件に応じた様々な気球を用いることで、熱気球はより速く展開・撤収できるようになった。命令遅延+10%、情報収集+25%。移動命令の実行でレベルアップ。
 -
 2/Lvl2
-Balloon Corps III
-With telegraph equipment and flag signals, the aeronauts are able to direct the fire of hidden batteries against enemy targets, converting the balloon into the artillery forward observer of its time. Order delays +10%, intelligence gathering +50%, siege effectiveness +5%. This unit has elite aeronauts.
+気球隊III
+電信機器と旗信号を用いることで、気球搭乗員は隠された砲台の射撃を敵目標に対して指示できるようになり、気球はその時代の砲兵前方観測員へと変貌を遂げた。命令遅延+10%、情報収集+50%、攻城効果+5%。この部隊は精鋭の気球搭乗員を擁する。
 -
 3/Lvl0
-Bureau of Military Information I
-Using civilians as detectives and spies and gathering the information in an organized fashion improves the situational awareness of this unit. Intelligence gathering +10%. Level up by scouting.
+軍事情報局I
+民間人を探偵や間諜として活用し、情報を組織的に収集することで、この部隊の状況認識能力が向上する。情報収集+10%。偵察でレベルアップ。
 -
 3/Lvl1
-Bureau of Military Information II
-Using the field agents for infiltrating enemy units and the interrogation of prisoners of war provides valuable information about enemy movements. Intelligence gathering +25%, information delay -25%. Level up by scouting.
+軍事情報局II
+工作員を用いて敵部隊への潜入と捕虜の尋問を行うことで、敵の動きに関する貴重な情報が得られる。情報収集+25%、情報遅延-25%。偵察でレベルアップ。
 -
 3/Lvl2
-Bureau of Military Information III
-Collecting enemy newspapers and discarded documents, interrogating prisoners and civilians and using experienced field agents means information about the enemy is as good as it can get. Intelligence gathering +50%, information delay -50%. This unit has elite intelligence personnel.
+軍事情報局III
+敵の新聞や廃棄された文書を収集し、捕虜や民間人を尋問し、経験豊富な工作員を活用することで、敵に関する情報の質はこれ以上望めないほど高まる。情報収集+50%、情報遅延-50%。この部隊は精鋭の諜報要員を擁する。
 -
 4/Lvl0
-Skilled cartographers I
-Drawing maps is an art. Drawing accurate maps that actually benefit their military users is rare. Intelligence gathering and movement speed +5%. Level up by scouting.
+熟練地図製作者I
+地図を描くことは一つの芸術である。実際に軍の利用者の役に立つ正確な地図を描ける者は稀である。情報収集および移動速度+5%。偵察でレベルアップ。
 -
 4/Lvl1
-Skilled cartographers II
-With increasingly accurate maps, the commander is able to use the terrain and roads, making it harder to surprise him. Intelligence gathering and movement speed +10%. Level up by scouting.
+熟練地図製作者II
+ますます正確になる地図により、指揮官は地形と道路を活用できるようになり、奇襲を受けにくくなる。情報収集および移動速度+10%。偵察でレベルアップ。
 -
 4/Lvl2
-Skilled cartographers III
-The skilled engineers provide maps, that make it feel like this commander never takes a wrong turn or loses himself in the countryside. Intelligence gathering and movement speed +20%. This unit has elite map makers.
+熟練地図製作者III
+熟練の工兵たちが提供する地図は、この指揮官がまるで一度も道を間違えたり田園地帯で迷ったりしないかのように感じさせる。情報収集および移動速度+20%。この部隊は精鋭の地図製作者を擁する。
 -
 5/Lvl0
-Flying Column I
-Copying the French invention, it’s possible to break free from the heavy logistical chain. Its simplicity is to carry more rations and less clothing and tents to allow longer and faster marches. Movement speed +10%, maximum supplies +50%. Level up by marching.
+機動縦隊I
+フランスの発明を模倣し、重い兵站の連鎖から解放されることが可能になる。その要点は、衣類やテントを減らし、より多くの糧食を携行することで、より長く速い行軍を可能にすることにある。移動速度+10%、最大補給量+50%。行軍でレベルアップ。
 -
 5/Lvl1
-Flying Column II
-Utilizing mules to carry extra ammunition and rations means the marching columns can be even lighter and self-sufficient for longer. Movement speed +10%, maximum supplies +100%. Level up by marching.
+機動縦隊II
+ラバを用いて追加の弾薬と糧食を運ぶことで、行軍縦隊はさらに軽量化され、より長期間自給自足できるようになる。移動速度+10%、最大補給量+100%。行軍でレベルアップ。
 -
 5/Lvl2
-Flying Column III
-With experience on what is really needed during the campaigns, the flying columns are even lighter and more independent, matching the French example, or even surpassing it? Movement speed +25%, maximum supplies +150%. This is an elite maneuver unit.
+機動縦隊III
+作戦行動中に本当に必要なものは何かという経験を積むことで、機動縦隊はさらに軽量化され自立性を高め、フランスの例に匹敵する、あるいはそれを凌駕するほどになる。移動速度+25%、最大補給量+150%。これは精鋭の機動部隊である。
 -
 6/Lvl0
-Foot Cavalry I
-With inspiring leadership and familiarization with the hardships of forced marches, the men will keep on going longer than you thought possible. Forced march speed +10%, attrition during forced marches -10%. Level up by using forced marches.
+徒歩騎兵I
+士気を鼓舞する指導と強行軍の苦難への慣れにより、兵士たちは思っていたよりも長く進み続けることができる。強行軍速度+10%、強行軍中の消耗-10%。強行軍の使用でレベルアップ。
 -
 6/Lvl1
-Foot Cavalry II
-To hell with cadence and formation! And if a man cannot keep up with the rest, he joins them later, following the sound of the guns. Forced march speed +20%, attrition during forced marches -20%. Level up by using forced marches.
+徒歩騎兵II
+隊列も歩調もくそくらえだ！遅れる者がいれば、砲声を頼りに後から追いつけばよい。強行軍速度+20%、強行軍中の消耗-20%。強行軍の使用でレベルアップ。
 -
 6/Lvl2
-Foot Cavalry III
-“Colonel, I yield to no man in sympathy, but I am obliged to sweat these men tonight so I may save their blood tomorrow.” Forced march speed +30%, attrition during forced marches -30%. This is an elite infantry unit.
+徒歩騎兵III
+「大佐殿、私は誰にも劣らぬ同情心を持っておりますが、明日彼らの血を救うために、今夜は彼らに汗をかかせねばなりません」強行軍速度+30%、強行軍中の消耗-30%。これは精鋭の歩兵部隊である。
 -
 7/Lvl0
-Engineers & Mechanics I
-Organizing the civil engineers and construction experts from all units into a single unit, to be used at a time of need, will allow quicker construction progress. Construction speed +25%. Level up by constructing forts, depots and telegraph stations.
+工兵・技術兵I
+各部隊から民間出身の技師や建設の専門家を集めて一つの部隊に組織し、必要な時に投入することで、より迅速な建設進行が可能になる。建設速度+25%。要塞・補給拠点・電信基地の建設でレベルアップ。
 -
 7/Lvl1
-Engineers & Mechanics II
-With specialized equipment and experts, this unit will be able to build anything from a fort to a depot in formidable speed. Construction speed +50%. Level up by constructing forts, depots and telegraph stations.
+工兵・技術兵II
+専門装備と専門家により、この部隊は要塞から補給拠点まであらゆるものを驚異的な速さで建設できるようになる。建設速度+50%。要塞・補給拠点・電信基地の建設でレベルアップ。
 -
 7/Lvl2
-Engineers & Mechanics III
-The engineers and mechanics in this unit are the best known in America, with their skill and tenacity unsurpassed. Construction speed doubled. This is an elite construction unit.
+工兵・技術兵III
+この部隊の工兵・技術兵はアメリカで最も名高く、その技量と粘り強さは他の追随を許さない。建設速度が倍増。これは精鋭の建設部隊である。
 -
 8/Lvl0
-Ambulance Corps I
-Proper organization of the ambulance system, rooting out corruption and unwillingness to gather wounded soldiers is the first step towards proper medical care to wounded soldiers. Speed reduction due to wounded soldiers -25%, mortality rate of wounded -10%. Level up by attending the wounded.
+野戦病院隊I
+救急馬車制度を適切に組織し、腐敗と負傷兵収容への消極性を根絶することが、負傷兵への適切な医療の第一歩となる。負傷兵による速度低下-25%、負傷者の死亡率-10%。負傷兵の看護でレベルアップ。
 -
 8/Lvl1
-Ambulance Corps II
-Standardizing the ambulance equipment with medical supplies, stretchers, water, removable benches and seats allows more efficient evacuation of the wounded from the field. Speed reduction due to wounded soldiers -50%, mortality rate of wounded -25%. Level up by attending the wounded.
+野戦病院隊II
+医療用品、担架、水、取り外し可能なベンチや座席を備えた救急馬車装備を標準化することで、戦場からの負傷兵の後送がより効率的になる。負傷兵による速度低下-50%、負傷者の死亡率-25%。負傷兵の看護でレベルアップ。
 -
 8/Lvl2
-Ambulance Corps III
-A proper ambulance corps, with standards to train the ambulance crew, routine inspections and strategic evacuation plans for battles. Speed reduction due to wounded soldiers -75%, mortality rate of wounded -50%. This unit has elite ambulance corps personnel.
+野戦病院隊III
+救急馬車要員の訓練基準、定期点検、そして戦闘時の戦略的な後送計画を備えた本格的な野戦病院隊。負傷兵による速度低下-75%、負傷者の死亡率-50%。この部隊は精鋭の野戦病院要員を擁する。
 -
 9/Lvl0
-Pontoon train I
-Pontoon bridges are used to quickly cross rivers with all the equipment the army carries. These bridges are made of wood or India rubber, which are better than nothing. Movement speed across small rivers +25%, supply efficiency +10%. Level up by crossing small rivers.
+舟橋列車I
+舟橋は、軍が携行する全ての装備とともに川を素早く渡るために用いられる。これらの橋は木材やインドゴムで作られており、無いよりはましなものである。小河川横断時の移動速度+25%、補給効率+10%。小河川の横断でレベルアップ。
 -
 9/Lvl1
-Pontoon train II
-Equipped with cotton-canvas covered pontoons, these are lightweight, easy to work with and to transport, but require more maintenance. Movement speed across small rivers +50%, supply efficiency +20%. Level up by crossing small rivers.
+舟橋列車II
+綿布で覆われた舟を装備しており、軽量で扱いやすく輸送も容易だが、より多くの整備を必要とする。小河川横断時の移動速度+50%、補給効率+20%。小河川の横断でレベルアップ。
 -
 9/Lvl2
-Pontoon train III
-A standardized lightweight pontoon equipment combined with experienced troops to operate them, helps this unit overcome any water obstacles with speed. Movement speed across small rivers +75%, supply efficiency +30%. This unit has elite pontoon train engineers.
+舟橋列車III
+標準化された軽量の舟橋装備と、それを操作する経験豊富な兵士を組み合わせることで、この部隊はあらゆる水上障害を迅速に克服できるようになる。小河川横断時の移動速度+75%、補給効率+30%。この部隊は精鋭の舟橋工兵を擁する。
 -
 10/Lvl0
-Sappers and Miners I
-The soldiers in the armies include many with mining background. Organizing these men to sap towards enemy fieldworks would make assaults a lot less costly? Siege assault efficiency +25%. Level up in siege assaults.
-Siege assault efficiency +25%.
+坑道兵I
+軍の兵士の中には鉱山出身者も多い。彼らを組織して敵の野戦築城に向けて坑道を掘らせれば、突撃の犠牲をかなり減らせるのではないか？攻城突撃効率+25%。攻城突撃でレベルアップ。
+攻城突撃効率+25%。
 10/Lvl1
-Sappers and Miners II
-The sappers have learned to utilize a sap roller, by forming a parapet on the engaged side of the trench for cover against enemy fire. This reduces losses in the trenches. Siege assault efficiency +50%. Level up in siege assaults.
-Siege assault efficiency +50%.
+坑道兵II
+坑道兵たちは、塹壕の敵陣側に胸墻を築くことで敵の砲火から身を守る「サップ・ローラー」の活用法を習得した。これにより塹壕内での損失が減少する。攻城突撃効率+50%。攻城突撃でレベルアップ。
+攻城突撃効率+50%。
 10/Lvl2
-Sappers and Miners III
-Utilizing expert miners to dig a proper mine shaft under enemy fieldworks to plant large powder charges would not only kill the defenders, but also open a wide hole to charge through? Siege assault efficiency doubled. This is an elite siege assault unit.
-Siege assault efficiency doubled.
+坑道兵III
+熟練の坑夫を用いて敵野戦築城の下に本格的な坑道を掘り、大量の火薬を仕掛ければ、守備兵を殺傷するだけでなく突撃のための大きな穴も開けられるのではないか？攻城突撃効率が倍増。これは精鋭の攻城突撃部隊である。
+攻城突撃効率が倍増。
 11/Lvl0
-Land Torpedoes I
-A land torpedo is an anti-personnel explosive, a “barbarous” subterranean booby trap to hinder enemy movement, especially to cover withdrawal. Skirmishing efficiency +5%, enemy movement speed within range -10%. Level up by skirmishing.
+地雷I
+地雷とは対人爆発物であり、敵の動きを妨げる、特に撤退を援護するための「野蛮な」地中の罠である。遊撃戦効率+5%、範囲内の敵移動速度-10%。遊撃戦でレベルアップ。
 -
 11/Lvl1
-Land Torpedoes II
-With a sufficient amount of land torpedoes used, the enemy will tread lightly and their morale is hurt. Combined with clever use of terrain, ambushes are more effective. Skirmishing efficiency +10%, enemy movement speed within range -20%. Level up by skirmishing.
+地雷II
+十分な量の地雷を用いることで、敵は慎重に進まざるを得なくなり、その士気は損なわれる。巧みな地形利用と組み合わせれば、待ち伏せの効果はさらに高まる。遊撃戦効率+10%、範囲内の敵移動速度-20%。遊撃戦でレベルアップ。
 -
 11/Lvl2
-Land Torpedoes III
-While massed use of land torpedoes can be described as “not warfare, but murder”, it can slow down the enemy considerably. Skirmishing efficiency +20%, enemy movement speed within range -30%. This is an elite delaying unit.
+地雷III
+地雷の大規模な使用は「戦争ではなく殺人である」と評されることもあるが、敵の動きを大幅に鈍らせることができる。遊撃戦効率+20%、範囲内の敵移動速度-30%。これは精鋭の遅滞部隊である。
 -
 12/Lvl0
-Partisan Brigades I
-Using conventional cavalry forces for deep raids will harass enemy movements in their rear, making this unit good at distracting the enemy. Skirmishing efficiency +25%, raiding morale hit on enemies +10%. Level up by raiding.
+パルチザン旅団I
+通常の騎兵戦力を用いた深部への襲撃は、敵後方での動きを妨害し、この部隊を敵を撹乱するのに優れたものにする。遊撃戦効率+25%、襲撃による敵士気低下+10%。襲撃でレベルアップ。
 -
 12/Lvl1
-Partisan Brigades II
-With experienced cavalry under cunning leadership, enemy forces can be kept on their toes by launching violent charges out of the blue and vanishing before the enemy can react. Skirmishing efficiency +50%, raiding morale hit on enemies +25%. Level up by raiding.
+パルチザン旅団II
+狡猾な指揮の下にある経験豊富な騎兵により、敵部隊は不意打ちの猛烈な突撃を受け、反応する間もなく姿を消されることで、常に気を抜けない状態に置かれる。遊撃戦効率+50%、襲撃による敵士気低下+25%。襲撃でレベルアップ。
 -
 12/Lvl2
-Partisan Brigades III
-With elite cavalrymen and legendary partisan commanders, the raiding parties can wreak havoc and bring the fight to the enemy where they thought they were safe. Skirmishing efficiency doubled, raiding morale hit on enemies +50%. This is an elite raiding unit.
+パルチザン旅団III
+精鋭騎兵と伝説的なパルチザン指揮官により、襲撃部隊は敵が安全だと思っていた場所にまで大混乱をもたらし、戦いを持ち込むことができる。遊撃戦効率が倍増、襲撃による敵士気低下+50%。これは精鋭の襲撃部隊である。
 -
 13/Lvl0
-Bushwhackers I
-A form of guerrilla warfare, bushwhacking aims to attrit the enemy using ambushes against military forces and civilian targets alike, with non-uniformed irregular cavalry. Skirmishing efficiency +25%, raiding support hit +10%. Level up by raiding.
+ブッシュワッカーI
+ゲリラ戦の一形態であるブッシュワッキングは、非正規の私服騎兵を用いて軍事目標と民間目標の両方に待ち伏せ攻撃を仕掛け、敵を消耗させることを目的とする。遊撃戦効率+25%、襲撃による補給打撃+10%。襲撃でレベルアップ。
 -
 13/Lvl1
-Bushwhackers II
-The guerrilla warfare is taking a life of its own, with civilian targets being hit often and the irregular forces acting more and more independently from the military organization. Skirmishing efficiency +20%, raiding support hit +25%. Level up by raiding.
+ブッシュワッカーII
+ゲリラ戦は独自の様相を呈しつつあり、民間目標がたびたび襲われるようになり、非正規部隊は軍組織からますます独立して行動するようになっている。遊撃戦効率+20%、襲撃による補給打撃+25%。襲撃でレベルアップ。
 -
 13/Lvl2
-Bushwhackers III
-With the bushwhackers being viewed as outlaws, or terrorists, the raids against civilian targets cause uproar. The fear instilled in enemy soldiers before has turned into pure hatred. Skirmishing efficiency +10%, raiding support hit +50%. This is an elite irregular unit.
+ブッシュワッカーIII
+ブッシュワッカーが無法者、あるいはテロリストと見なされるようになると、民間目標への襲撃は大きな騒動を引き起こす。かつて敵兵の中に植え付けられていた恐怖は、純粋な憎悪へと変わっている。遊撃戦効率+10%、襲撃による補給打撃+50%。これは精鋭の非正規部隊である。
 -
 14/Lvl0
-Embedded reporters I
-In this time of fast traveling news, allowing newspaper reporters to follow the unit in battle will make the deeds of the leaders better known to the public. Speed of fame development +25%. Level up by fighting battles.
-Speed of fame development +25%.
+従軍記者I
+情報の伝達が速いこの時代、新聞記者に部隊への同行と戦闘取材を許すことで、指揮官たちの功績が一般大衆によりよく知られるようになる。名声上昇速度+25%。戦闘でレベルアップ。
+名声上昇速度+25%。
 14/Lvl1
-Embedded reporters II
-With increased access to military matters within the army, the stories written by the embedded reporters are followed daily by the increasingly interested public. Speed of fame development +50%. Level up by fighting battles.
-Speed of fame development +50%.
+従軍記者II
+軍内部の事情への取材アクセスが増えたことで、従軍記者たちが書く記事は、ますます関心を高める大衆に日々読まれるようになる。名声上昇速度+50%。戦闘でレベルアップ。
+名声上昇速度+50%。
 14/Lvl2
-Embedded reporters III
-A good story can make or break a military career, as things are as they appear in the news. The stories travel far and fast, creating heroes and villains that even the administration cannot ignore. Speed of fame development doubled. This unit is accompanied by the best reporters in the nation.
-Speed of fame development doubled.
+従軍記者III
+良い記事は軍歴を作りもすれば壊しもする。物事は新聞に書かれた通りに受け取られるからだ。記事は遠くまで速く伝わり、政府すら無視できない英雄や悪役を生み出す。名声上昇速度が倍増。この部隊には国内最高の記者陣が同行している。
+名声上昇速度が倍増。
 15/Lvl0
-Limelights I
-Chemical lamps using superheated balls of lime, or calcium oxide, create a glow known from lighthouses and theaters, but now also adapted for combat, allowing the illumination of enemy targets for night time bombardment. Siege and skirmishing efficiency during night time +25%. Level up fighting sieges.
-Siege and skirmishing efficiency during night time +25%.
+石灰光I
+酸化カルシウムの塊を過熱して発光させる化学ランプは、灯台や劇場で知られているが、今や戦闘にも応用され、夜間砲撃のために敵目標を照らし出すことができる。夜間の攻城・遊撃戦効率+25%。攻城戦でレベルアップ。
+夜間の攻城・遊撃戦効率+25%。
 15/Lvl1
-Limelights II
-Illuminating targets for the gunners is one use for the calcium lights, but the lights can also be used to blind enemy gunners, decreasing counter-battery fire accuracy. Siege and skirmishing efficiency during night time +50%. Level up fighting sieges.
-Siege and skirmishing efficiency during night time +50%.
+石灰光II
+目標を照らして砲手を助けるのが石灰光の一つの用途だが、敵の砲手の目をくらませ、対砲兵射撃の精度を下げるためにも使用できる。夜間の攻城・遊撃戦効率+50%。攻城戦でレベルアップ。
+夜間の攻城・遊撃戦効率+50%。
 15/Lvl2
-Limelights III
-With the effective use of powerful calcium lights, enemy movements at night are as easy to detect as during daylight. Siege and skirmishing efficiency during night time doubled. This is an elite night combat unit. 
-Siege and skirmishing efficiency during night time doubled.
+石灰光III
+強力な石灰光を効果的に用いることで、夜間の敵の動きも昼間と同じくらい容易に発見できるようになる。夜間の攻城・遊撃戦効率が倍増。これは精鋭の夜戦部隊である。
+夜間の攻城・遊撃戦効率が倍増。
 16/Lvl0
-Expert Scouts I
-This unit has organized a band of hand-picked cavalrymen that have the skills to avoid detection by enemy pickets and the bravery to move behind enemy lines in small groups. Intelligence gathering +25%. Level up by scouting.
+精鋭斥候I
+この部隊は、敵の哨戒線を回避する技術と、小集団で敵陣後方へ進む勇気を兼ね備えた、選び抜かれた騎兵の一団を組織している。情報収集+25%。偵察でレベルアップ。
 -
 16/Lvl1
-Expert Scouts II
-While normally scouts would fall back in front of enemy advance, this unit has a small number of troopers that allow the enemy to bypass them, to provide intel from behind the enemy lines. Intelligence gathering +50%. Level up by scouting.
+精鋭斥候II
+通常、斥候は敵の進撃の前で後退するものだが、この部隊には敵にあえて通過させ、敵陣後方から情報をもたらす少数の兵がいる。情報収集+50%。偵察でレベルアップ。
 -
 16/Lvl2
-Expert Scouts III
-A highly experienced band of scouts operating independently behind enemy lines to provide intelligence of enemy movements and avoiding capture. “Iron scouts” as even the enemy would put it. Intelligence gathering doubled. This unit has elite cavalry scouts.
+精鋭斥候III
+敵陣後方で独立して行動し、敵の動きに関する情報をもたらしつつ捕縛を避ける、非常に経験豊富な斥候団。敵からさえも「鉄の斥候」と呼ばれる。情報収集が倍増。この部隊は精鋭の騎兵斥候を擁する。
 -
 17/Lvl0
-River Expedition I
-Operating closely with the brown-water navy, this unit is used to navigating the rivers and opening new fronts against enemy fortifications guarding the waterways. River movement speed +25% and siege assault efficiency +10%. Level up by using river transports.
+河川遠征隊I
+褐水海軍と緊密に連携して活動するこの部隊は、河川の航行に慣れており、水路を守る敵要塞に対して新たな戦線を開くために用いられる。河川移動速度+25%、攻城突撃効率+10%。河川輸送の使用でレベルアップ。
 -
 17/Lvl1
-River Expedition II
-This unit is skilled in river warfare operations in close coordination with the river gunboat flotilla and capturing enemy fortifications by storm. River movement speed +50% and siege assault efficiency +25%. Level up by using river transports.
+河川遠征隊II
+この部隊は、河川砲艦隊との緊密な連携による河川戦作戦と、強襲による敵要塞の占領に長けている。河川移動速度+50%、攻城突撃効率+25%。河川輸送の使用でレベルアップ。
 -
 17/Lvl2
-River Expedition III
-This unit is highly skilled in navigating and operating along the rivers and bayous, taking enemy strongpoints and fieldworks by surprise, in joint operations with the supporting river gunboats. River movement speed doubled and siege assault efficiency +50%. This is an elite amphibious unit.
+河川遠征隊III
+この部隊は河川や入り江の航行と作戦行動に非常に長けており、支援する河川砲艦との共同作戦により、敵の拠点や野戦築城を奇襲によって奪取する。河川移動速度が倍増、攻城突撃効率+50%。これは精鋭の水陸両用部隊である。
 -

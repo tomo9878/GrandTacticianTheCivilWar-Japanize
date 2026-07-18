@@ -2,134 +2,134 @@
 11
 Tooltip Headline (1st lines), Description (2nd lines), Short Info about effect for autoresolved battles (3rd lines) -> use "-" to not show anything, starting with Level 0, 1, 2;
 0/1
-Torpedoes I
-Spar torpedoes are bombs placed at the end of a long pole, which is attached to a boat. The torpedo is placed on enemy hull by ramming, and then detonated. This allows smaller ships to take on larger ones. Ramming efficiency +25%. Level up by ramming during naval battles.
-Ramming efficiency +25%. 
+魚雷I
+スパー魚雷とは、長い竿の先に取り付けられた爆弾で、ボートに装着される。魚雷は体当たりによって敵艦の船体に押し付けられ、その後起爆する。これにより小型艦が大型艦に立ち向かうことが可能になる。体当たり効率+25%。海戦での体当たりでレベルアップ。
+体当たり効率+25%。
 0/2
-Torpedoes II
-Using torpedoes has proven effective, especially against the ironclads that are virtually invulnerable to cannon fire, but weak below the waterline. Ramming efficiency +50%. Level up by ramming during naval battles.
-Ramming efficiency +50%.
+魚雷II
+魚雷の使用は、特に砲撃にはほぼ無敵だが喫水線下には弱い装甲艦に対して効果的であることが証明されている。体当たり効率+50%。海戦での体当たりでレベルアップ。
+体当たり効率+50%。
 0/3
-Torpedoes III
-With multiple types of torpedoes used, from spar torpedoes under the waterline to towed torpedoes, ramming warfare with even smaller ships or boats has become deadly. Ramming efficiency doubled. This is an elite ram fleet.
-Ramming efficiency doubled.
+魚雷III
+喫水線下用のスパー魚雷から曳航式魚雷まで複数の種類の魚雷を用いることで、より小型の艦艇やボートとの体当たり戦闘さえも致命的なものとなった。体当たり効率が倍増。これは精鋭の体当たり艦隊である。
+体当たり効率が倍増。
 1/1
-Mortar Boats I
-Mortar boats and towed river barges allow blue and brown-water navies to engage enemy fortifications using the high-trajectory mortar. Bombardment efficiency +5%. Level up by bombarding.
-Bombardment efficiency +5%.
+臼砲艇I
+臼砲艇と曳航式の川はしけにより、青水・褐水海軍は高弾道の臼砲を用いて敵の要塞を攻撃できるようになる。砲撃効率+5%。砲撃でレベルアップ。
+砲撃効率+5%。
 1/2
-Mortar Boats II
-With more sophisticated boats and firing techniques used, many of the mortar rounds fired from the boats or barges actually manage to land inside the enemy fort! Bombardment efficiency +10%. Level up by bombarding.
-Bombardment efficiency +10%.
+臼砲艇II
+より洗練された艇と射撃技術の使用により、艇やはしけから発射された臼砲弾の多くが実際に敵の要塞内に着弾するようになった！砲撃効率+10%。砲撃でレベルアップ。
+砲撃効率+10%。
 1/3
-Mortar Boats III
-While the mortar boats lack accuracy, now, with sufficient numbers available, they do provide proper support, especially when support cannot be provided from land. Bombardment efficiency +25%. This is an elite fort attack fleet.
-Bombardment efficiency +25%.
+臼砲艇III
+臼砲艇の命中精度は低いものの、十分な数が揃った今では、特に陸上からの支援が得られない場合に適切な支援を提供できる。砲撃効率+25%。これは精鋭の要塞攻撃艦隊である。
+砲撃効率+25%。
 2/1
-Supply Colliers I
-To allow vessels to operate longer without the need to return to port for supplies, barges and colliers of supplies can be towed by the fleet. This allows longer engagements, but makes the fleet slower. Movement speed -30%, supply consumption -15%. Level up by bombarding and blockading.
+補給運炭船I
+艦艇が補給のために港へ戻ることなく長期間活動できるよう、物資を積んだはしけや運炭船を艦隊で曳航することができる。これにより長期の作戦行動が可能になるが、艦隊の速度は低下する。移動速度-30%、補給消費-15%。砲撃と封鎖でレベルアップ。
 -
 2/2
-Supply Colliers II
-With experience, the sailors make good use of the supply barges or colliers, allowing the fleet to remain on station for a considerably longer time than before. Movement speed -20%, supply consumption -30%. Level up by bombarding and blockading. 
+補給運炭船II
+経験を積むことで水兵たちは補給はしけや運炭船を上手く活用できるようになり、艦隊は以前よりもかなり長く任務海域に留まることができる。移動速度-20%、補給消費-30%。砲撃と封鎖でレベルアップ。
 -
 2/3
-Supply Colliers III
-With proper equipment and tactics employed, the fleet can carry double the number of supplies, but with little effect to its traveling speed. Especially useful for blockades. Movement speed -10%, supply consumption -50%. This fleet has superior supply stores.
+補給運炭船III
+適切な装備と戦術を用いることで、艦隊は移動速度にほとんど影響を与えることなく2倍の物資を運搬できる。特に封鎖任務に有用である。移動速度-10%、補給消費-50%。この艦隊は優れた補給備蓄を有する。
 -
 3/1
-Balloon Barge I
-A coal barge fitted with gas-generating apparatus and modified into a balloon barge. The first ever aircraft carriers allow the spying of enemy defenses using a hot air balloon. Intelligence gathering +25%, fort bombardment efficiency +5%. Level up by bombarding.
-Intelligence gathering +25%, fort bombardment efficiency +5%.
+気球はしけI
+ガス発生装置を装備した石炭運搬はしけを改造した気球はしけ。史上初の空母とも言えるこれにより、熱気球を用いた敵防衛陣地の偵察が可能になる。情報収集+25%、要塞砲撃効率+5%。砲撃でレベルアップ。
+情報収集+25%、要塞砲撃効率+5%。
 3/2
-Balloon Barge II
-With experience, hydrogen gas generators and different kinds of balls for different weather conditions, the hot air balloon is faster to put up and take down. Intelligence gathering +35%, fort bombardment efficiency +10%. Level up by bombarding.
-Intelligence gathering +35%, fort bombardment efficiency +10%.
+気球はしけII
+経験を積み、水素ガス発生装置や気象条件に応じた様々な気嚢を用いることで、熱気球はより速く展開・撤収できるようになった。情報収集+35%、要塞砲撃効率+10%。砲撃でレベルアップ。
+情報収集+35%、要塞砲撃効率+10%。
 3/3
-Balloon Barge III
-With telegraph equipment and flag signals, the aeronauts are able to direct the fire of the ships against enemy targets, converting the balloon into the artillery forward observer of its time. Intelligence gathering +50%, fort bombardment efficiency +15%. This fleet has elite aeronauts.
-Intelligence gathering +50%, fort bombardment efficiency +15%.
+気球はしけIII
+電信機器と旗信号を用いることで、気球搭乗員は艦艇の砲撃を敵目標に対して指示できるようになり、気球はその時代の砲兵前方観測員へと変貌を遂げた。情報収集+50%、要塞砲撃効率+15%。この艦隊は精鋭の気球搭乗員を擁する。
+情報収集+50%、要塞砲撃効率+15%。
 4/1
-Limelights I
-Chemical lamps using superheated balls of lime, or calcium oxide create a glow, known from lighthouses and theaters, but now also adapted for combat, allowing the illumination of enemy targets for night time bombardment. Combat efficiency in the dark +25%. Level up by bombarding.
-Combat efficiency in the dark +25%.
+石灰光I
+酸化カルシウムの塊を過熱して発光させる化学ランプは、灯台や劇場で知られているが、今や戦闘にも応用され、夜間砲撃のために敵目標を照らし出すことができる。暗所での戦闘効率+25%。砲撃でレベルアップ。
+暗所での戦闘効率+25%。
 4/2
-Limelights II
-Illuminating targets for the gunners is one use for the calcium lights, but the lights can also be used to blind enemy gunners, decreasing counter-battery fire accuracy. Combat efficiency in the dark +50%. Level up by bombarding.
-Combat efficiency in the dark +50%.
+石灰光II
+目標を照らして砲手を助けるのが石灰光の一つの用途だが、敵の砲手の目をくらませ、対砲兵射撃の精度を下げるためにも使用できる。暗所での戦闘効率+50%。砲撃でレベルアップ。
+暗所での戦闘効率+50%。
 4/3
-Limelights III
-With effective use of the powerful calcium light, enemy movement at night is as easy to detect as during daylight. Combat efficiency in the dark doubled. This is an elite night fighting fleet.
-Combat efficiency in the dark doubled.
+石灰光III
+強力な石灰光を効果的に用いることで、夜間の敵の動きも昼間と同じくらい容易に発見できるようになる。暗所での戦闘効率が倍増。これは精鋭の夜戦艦隊である。
+暗所での戦闘効率が倍増。
 5/1
-Blockading Squadron I
-Blockade service may be dull, but being a safer job than that in the infantry for a soldier, there's never lack of volunteers in a blockading squadron. Blockading efficiency +10%. Level up by blockading.
+封鎖戦隊I
+封鎖任務は退屈かもしれないが、歩兵よりも安全な任務であるため、封鎖戦隊には志願兵が尽きることがない。封鎖効率+10%。封鎖でレベルアップ。
 -
 5/2
-Blockading Squadron II
-Even more volunteers flock to blockade service after captured ships and their cargoes are auctioned and the earnings split among the sailors. Blockading efficiency +25%. Level up by blockading.
+封鎖戦隊II
+拿捕した船とその積荷が競売にかけられ、その収益が水兵たちに分配されるようになると、さらに多くの志願兵が封鎖任務に集まるようになる。封鎖効率+25%。封鎖でレベルアップ。
 -
 5/3
-Blockading Squadron III
-Having learned all the tricks of the blockade runners, not many can escape capture when heading out to sea past this fleet's blockade. Blockading efficiency +50%. This is an elite blockading fleet.
+封鎖戦隊III
+封鎖突破船のあらゆる手口を学び尽くしたことで、この艦隊の封鎖線を突破して外洋へ出ようとして捕縛を逃れられる者はほとんどいない。封鎖効率+50%。これは精鋭の封鎖艦隊である。
 -
 6/1
-Sea Raiders I
-Sea raiding, or sometimes privateering, targets merchant shipping, capturing them as prizes, it also hits marine insurance rates. Allows blockading trade nodes, import prices +10%. Level up by blockading trade nodes. 
+海上襲撃隊I
+海上襲撃、あるいは私掠行為とも呼ばれるこの活動は商船を標的とし、それらを捕獲物として拿捕することで、海上保険料にも打撃を与える。交易拠点の封鎖が可能になり、輸入価格+10%。交易拠点の封鎖でレベルアップ。
 -
 6/2
-Sea Raiders II
-Effective tactics and sponsorship allow more lucrative raiding by this fleet, and enemy marine insurance rates soar. Allows blockading trade nodes, import prices +25%. Level up by blockading trade nodes.
+海上襲撃隊II
+効果的な戦術と支援により、この艦隊はより実入りの良い襲撃を行えるようになり、敵の海上保険料は急騰する。交易拠点の封鎖が可能になり、輸入価格+25%。交易拠点の封鎖でレベルアップ。
 -
 6/3
-Sea Raiders III
-Famous sea raiders strike fear into hearts of the merchant sailors, and men willing to take the risk are harder to find. Allows blockading trade nodes, import prices +50%. This is an elite corsair fleet.
+海上襲撃隊III
+名高い海上襲撃者たちは商船の水夫たちの心に恐怖を植え付け、危険を冒す意思のある者を見つけるのが困難になる。交易拠点の封鎖が可能になり、輸入価格+50%。これは精鋭の私掠艦隊である。
 -
 7/1
-Amphibious Attack I
-New tactics and marines allow this fleet to attack and capture enemy fortifications for the army to hold. This requires good coordination between the services. Allows the fleet to capture forts. Level up by attacking forts.
-Allows the fleet to capture forts.
+水陸両用攻撃I
+新戦術と海兵隊により、この艦隊は敵要塞を攻撃・占領し、陸軍に引き渡すことができるようになる。これには各軍種間の緊密な連携が必要とされる。艦隊が要塞を占領できるようになる。要塞攻撃でレベルアップ。
+艦隊が要塞を占領できるようになる。
 7/2
-Amphibious Attack II
-This fleet is known for reducing forts and ports in daring amphibious attacks, even in torpedo infested waters, thanks to good intelligence and ferocious marines. Allows the fleet to capture forts, capture probability +10%. Level up by attacking forts.
-Allows the fleet to capture forts, capture probability +10%.
+水陸両用攻撃II
+この艦隊は、優れた情報と獰猛な海兵隊のおかげで、魚雷が仕掛けられた海域でさえも大胆な水陸両用攻撃によって要塞や港を陥落させることで知られている。艦隊が要塞を占領できるようになり、占領確率+10%。要塞攻撃でレベルアップ。
+艦隊が要塞を占領できるようになり、占領確率+10%。
 7/3
-Amphibious Attack III
-With success comes fame. This fleet and the attached marines have raided and captured enemy fortifications and earned a reputation as an amphibious shock force, always faithful. Allows the fleet to capture forts, capture probability +50%. This fleet has elite marines. 
-Allows the fleet to capture forts, capture probability +50%.
+水陸両用攻撃III
+成功は名声をもたらす。この艦隊と付属の海兵隊は敵要塞を襲撃・占領し、常に忠実なる水陸両用の衝撃部隊としての評判を確立した。艦隊が要塞を占領できるようになり、占領確率+50%。この艦隊は精鋭の海兵隊を擁する。
+艦隊が要塞を占領できるようになり、占領確率+50%。
 8/1
-Blockade Busters I
-Guarding against a blockade and supporting blockade runners with attacks helps to keep the trade lifelines open. Fighting efficiency against blockading fleets +10%, blockade efficiency within ports in this fleet's radius -10%. Level up by attacking blockading fleets.
-Fighting efficiency against blockading fleets +10%.
+封鎖突破戦隊I
+封鎖に対して警戒し、攻撃によって封鎖突破船を支援することは、交易の生命線を開いたままに保つ助けとなる。対封鎖艦隊戦闘効率+10%、この艦隊の行動範囲内の港湾封鎖効率-10%。封鎖艦隊への攻撃でレベルアップ。
+対封鎖艦隊戦闘効率+10%。
 8/2
-Blockade Busters II
-Keeping the blockading fleet concerned about quick attacks from the cover of coastal batteries helps more commerce slip past the blockade. Fighting efficiency against blockading fleets +20%, blockade efficiency within ports in this fleet's radius -20%.  Level up by attacking blockading fleets.
-Fighting efficiency against blockading fleets +20%.
+封鎖突破戦隊II
+沿岸砲台の援護から素早く攻撃を仕掛けてくる恐れを封鎖艦隊に抱かせ続けることで、より多くの交易船が封鎖をすり抜けられるようになる。対封鎖艦隊戦闘効率+20%、この艦隊の行動範囲内の港湾封鎖効率-20%。封鎖艦隊への攻撃でレベルアップ。
+対封鎖艦隊戦闘効率+20%。
 8/3
-Blockade Busters III
-Having perfected raiding tactics against a blockading squadron, this fleet is a true thorn in the side of the enemy navy, allowing blockade runners make a run for it. Fighting efficiency against blockading fleets +30%, blockade efficiency within ports in this fleet's radius -30%.  This is an elite blockade busting fleet.
-Fighting efficiency against blockading fleets +30%.
+封鎖突破戦隊III
+封鎖戦隊に対する襲撃戦術を極めたこの艦隊は、敵海軍にとって真に厄介な存在となり、封鎖突破船が脱出を図るのを助ける。対封鎖艦隊戦闘効率+30%、この艦隊の行動範囲内の港湾封鎖効率-30%。これは精鋭の封鎖突破艦隊である。
+対封鎖艦隊戦闘効率+30%。
 9/1
-Battery Runner I
-A surprise attack, moving past enemy batteries in a tight formation, firing rapidly. This "running the batteries" can be effective especially along rivers, to open a new front. Fighting efficiency vs. forts +25%. Level up by attacking forts with ironclads on the move.
-Fighting efficiency vs. forts +25%.
+砲台突破艦I
+密集隊形で速射しながら敵砲台の前を通過する奇襲攻撃。この「砲台突破」は特に河川において新たな戦線を開く際に効果的である。対要塞戦闘効率+25%。移動中の装甲艦による要塞攻撃でレベルアップ。
+対要塞戦闘効率+25%。
 9/2
-Battery Runner II
-Making use of the night's darkness to run the enemy batteries are tactics used by this fleet to bypass and disable enemy defenses. Fighting efficiency vs. forts +50%. Level up by attacking forts with ironclads on the move.
-Fighting efficiency vs. forts +50%.
+砲台突破艦II
+夜の闇を利用して敵砲台を突破するのが、この艦隊が敵の防御を迂回・無力化するために用いる戦術である。対要塞戦闘効率+50%。移動中の装甲艦による要塞攻撃でレベルアップ。
+対要塞戦闘効率+50%。
 9/3
-Battery Runner III
-This fleet has perfected the tactics of running enemy batteries, using surprise, furious vigor, the cover of darkness and even flooding. Fighting efficiency vs. forts doubled. This is an elite ironclad fleet.
-Fighting efficiency vs. forts doubled.
+砲台突破艦III
+この艦隊は、奇襲、猛烈な勢い、夜陰、さらには浸水すらも利用して、敵砲台を突破する戦術を極めた。対要塞戦闘効率が倍増。これは精鋭の装甲艦艦隊である。
+対要塞戦闘効率が倍増。
 10/1
-Port Defender I
-This fleet uses floating batteries and torpedoes to protect its home port against attacking enemy fleets. Fighting efficiency when within port radius +25%. Level up by fighting naval battles.
-Fighting efficiency when within port radius +25%.
+港湾防衛隊I
+この艦隊は浮き砲台と魚雷を用いて、攻撃してくる敵艦隊から母港を防衛する。港湾行動範囲内での戦闘効率+25%。海戦でレベルアップ。
+港湾行動範囲内での戦闘効率+25%。
 10/2
-Port Defender II
-Combining the fleet's mobility, firepower from coastal defenses, floating batteries and torpedoes, makes the removal of this fleet protecting the port very difficult. Fighting efficiency when within port radius +50%. Level up by fighting naval battles.
-Fighting efficiency when within port radius +50%.
+港湾防衛隊II
+艦隊の機動力、沿岸防衛施設の火力、浮き砲台、そして魚雷を組み合わせることで、港を守るこの艦隊を排除することは非常に困難になる。港湾行動範囲内での戦闘効率+50%。海戦でレベルアップ。
+港湾行動範囲内での戦闘効率+50%。
 10/3
-Port Defender III
-This fleet uses all means possible to keep its port open and has perfected the tactics and coordination between land and water-based assets into an explosive maze for the attacker. Fighting efficiency when within port radius doubled. This is an elite defensive fleet.
-Fighting efficiency when within port radius doubled.
+港湾防衛隊III
+この艦隊は港を開いたままに保つためあらゆる手段を用い、陸と海の戦力を組み合わせた戦術と連携を、攻撃者にとって爆発的な迷路へと昇華させた。港湾行動範囲内での戦闘効率が倍増。これは精鋭の防衛艦隊である。
+港湾行動範囲内での戦闘効率が倍増。
