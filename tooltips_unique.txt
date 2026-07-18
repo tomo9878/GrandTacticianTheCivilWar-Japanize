@@ -1,0 +1,183 @@
+970
+Hide
+
+971
+Show
+
+3000
+Current command: 
+Staff Officer
+3001
+Home state: 
+Age: 
+3002
+Infamous
+Fame
+3005
+Professional officer 
+Pre-War experience
+3006
+promoted to
+
+3007
+Greenhorn
+This officer has seen little or no combat during his lifetime, or has very little experience in his current assignment, and cannot be counted on to successfully lead his men in the thick of battle.
+3008
+Inexperienced
+This officer has seen some combat, but is still too inexperienced in his current assignment to effectively lead his men in battle.
+3009
+Battle experienced
+This officer has enough experience to lead his men reliably in most combat situations in his current assignment.
+3010
+Veteran officer
+This officer has seen many battles, is comfortable in his current assignment, and can be counted on to do his duty well, even when in command of greener troops.
+3011
+Highly experienced
+This officer is at home in the thick of the battle and knows exactly what is expected from him.
+3012
+Old hand
+This officer has seen it all and knows how to utilize all his knowledge and personal attributes to the fullest, to fulfill his tasks.
+3020
+Initiative
+Click to adjust!
+3021
+Leadership
+Click to adjust!
+3022
+Administration
+Click to adjust!
+3023
+Cunning
+Click to adjust!
+3024
+[VAR74]
+[VAR75]
+3025
+[VAR76]
+[VAR77]
+3026
+[VAR78]
+[VAR79]
+3027
+[VAR80]
+[VAR81]
+3030
+Experience
+
+3031
+Uninspiring
+This officer believes that communication flows one-way in the order of battle. His men dislike him and would rather follow anyone else into battle.
+3032
+Backward
+This officer does not like to be around his men much if not necessary. The men share the feeling, though don't think bad of him.
+3033
+Liked
+The men trust this officer, and he knows how to lead them, though he is not what could be considered an outstanding leader.
+3034
+Distinguished
+Well trusted, with noticeable leadership skills, it's a common sight seeing this officer in the thick of the battle, rallying his men.
+3035
+Inspiring
+The men look up to him, giving nicknames and always telling stories of his courage. This officer thrives in the thick of the battle, leading by example.
+3036
+Exemplar
+Give a cheer to our leader! The men are honoured to follow him into battle, and trust him to get them through alive. A true leader of men, he can get the most out of even greenhorns or old lags.
+3040
+Unknown
+That one officer, what's his name? Seems like no-one has heard of him.
+3041
+Insignificant
+This officer has made little impression, even if his name has come up a few times.
+3042
+Little known
+This officer is quite well known within his army, but his fame has not yet reached the lips of the masses.
+3043
+Renown
+Well known in the military, this officer's deeds are already being noticed by the public.
+3044
+Rising star
+The troops cheer when he rides past, and the people tell tales of his heroic achievements. He is well noted by the enemy as well.
+3045
+Legendary
+Everyone knows his name and deeds. Knowing he is there, fighting for the nation, raises spirits high. Even the foreign newspapers love to write of him, and all this makes the enemy nervous when facing him and his troops!
+3050
+Unenterprising
+This officer seems to get nothing done without his commanders pushing him. Taking the initiative in battle is unheard of from him, and even simple tasks take a long time to prepare.
+3051
+Passive
+Not only cautious, but also incapable. This commander would rather have someone tell him exactly what to do, than to make a decision of his own.
+3052
+Cautious
+To take the initiative, this officer requires perfect conditions and quite a lot of time. In battle, he likes to be defensive, even if he has the advantage.
+3053
+Active
+This officer is self-acting and capable, but in uncertain situations he may be cautious. He gets things done in reasonable time.
+3054
+Venturous
+This officer likes to seek the initiative whenever it presents itself. He is quick to assess any situation and to get his men moving when needed.
+3055
+Aggressive
+This officer is famous for taking matters in his hands and taking the initiative. He is a rare talent in the art of war, usually push his men against, and beyond their limits.
+3060
+Incapable administrator
+He does not understand the basics of military life or logistics. And probably does not even care about these trivial things.
+3061
+Poor administrator
+This officer understands the basic needs of soldiers, but hasn't got much idea on how to get things done.
+3062
+Mediocre administrator
+This officer has sufficient understanding about logistics and basic needs of soldiers, but he is not very effective in organizing it.
+3063
+Good administrator
+When men are fed, have ammunition and are well drilled, they will perform in battle. This officer does his best to achieve this.
+3064
+Skilled administrator
+This officer has his staff well organized and the logistics are handled professionally.
+3065
+Master administrator
+Amateurs study tactics; professionals study logistics. -is a famous quote from this officer, though unfortunately no records of him saying it will survive the war.
+3070
+Unimaginative
+He is not gifted or skilled enough to use any imagination. Enemies can read him like an open book. Shall we try another frontal assault?
+3071
+Foreseeable
+Does everything strictly by the book, and nothing else. Maybe he is afraid of taking risks or failure, but this makes him easy to read for the enemy.
+3072
+Predictable
+This officers is cunning enough to fool an amateur on a good day, but his maneuvers are not imaginative enough to much more.
+3073
+Unpredictable
+This officer has read his Jomini, and he understands quite well the basics of military tactics, including deception.
+3074
+Skilled in diversion
+He is known to keep his enemies on their toes, as his movements are hard to predict. During battles he prefers maneuvers around the enemy flanks and knows the value of field fortifications.
+3075
+Master of mystification
+He has the natural ability to predict what the enemy is up to, and will often trick them with false signals. In the battle he does skillful maneuvers and prefers flanking maneuvers whenever he can.
+3080
+This commander is not able to improve his skills through service as his experience is already higher than the nation's military experience.
+Latest changes:
+3081
+...promotions/demotions: 
+...battles: 
+3082
+...returning from WIA: 
+...policies/objectives: 
+3083
+Influence of senior officers: 
+...service: 
+3084
+...staff: 
+...actions: 
+3085
+...items: 
+...companions: 
+3086
+...camp:
+
+3100
+promoted to [VAR89]
+
+3101
+Led his unit into the [VAR70] on [VAR71]
+
