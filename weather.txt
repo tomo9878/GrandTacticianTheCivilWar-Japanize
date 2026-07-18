@@ -2,98 +2,98 @@
 0
 None
 None
-Line of sight reduction (factor)
+視界縮小率（係数）
 1
-Line of sight reduction (factor)
+視界縮小率（係数）
 1
 1
-Foggy
-Fog limits visibility, hiding troop movement and making artillery, long range fall of shot, hard to observe.
-Line of sight reduction (factor)
+霧
+霧は視界を制限し、部隊の動きを隠す。また遠距離からの砲撃の弾着を観測しづらくする。
+視界縮小率（係数）
 0.8
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 0.8
 2
-Light Rain
-A little drizzle won't hurt! Even if the men may complain, from general's point of view the light rain hinders visibility only slightly, while reducing dust and the lingering of smoke.
-Line of sight reduction (factor)
+小雨
+小雨程度なら問題ない！兵たちは文句を言うかもしれないが、将軍の視点で見れば視界への影響はわずかで、むしろ砂塵や煙の滞留を抑えてくれる。
+視界縮小率（係数）
 0.7
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 0.2
 3
-Thunder Storm
-Heavy rain, lightning and winds. In these conditions it would be better to stay in camp. The roads and fields turn into mud slowing everything down. A cunning general with crack troops may use these conditions to hide troop movement. The conditions are very bad for the men out in the field, and the storm hinders visibility. Who would fight in such a weather?
-Line of sight reduction (factor)
+雷雨
+激しい雨、雷、そして強風。こんな時は野営地に留まっているのが得策だ。道や畑はぬかるみと化し、あらゆる行動が遅くなる。狡猾な将軍が精鋭部隊を率いていれば、この状況を利用して部隊の動きを隠せるかもしれない。野外にいる兵にとっては非常に過酷な状況であり、嵐は視界も妨げる。こんな天候でわざわざ戦おうとする者がいるだろうか？
+視界縮小率（係数）
 0.5
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 0
 4
-Partly Cloudy
-The weather is good for warfare. Visibility may be slightly hampered, but not much.
-Line of sight reduction (factor)
+晴れ時々曇り
+戦闘には適した天候だ。視界は多少妨げられるが、大きな支障はない。
+視界縮小率（係数）
 1
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 1
 5
-Snow Storm
-With freezing cold and poor visibility, military operations are difficult. The men fall sick easily and the mortality rate for the wounded is terrible. Out in the field, desertion will be in minds of the less spirited men.
-Line of sight reduction (factor)
+吹雪
+凍えるような寒さと悪い視界のせいで、軍事作戦の遂行は困難になる。兵は病気にかかりやすく、負傷者の死亡率も恐ろしく高い。士気の低い兵たちの間では、脱走が頭をよぎるだろう。
+視界縮小率（係数）
 0.4
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 0
 6
-Snow
-It's cold and the men are chilly. Roads and fields are quite muddy and marching is tiring. Visibility is slightly hindered.
-Line of sight reduction (factor)
+雪
+寒く、兵たちは冷え込んでいる。道や畑はかなりぬかるんでおり、行軍は疲労を伴う。視界も多少悪くなる。
+視界縮小率（係数）
 0.5
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 0
 7
-Mostly Clear
-With some clouds in the sky, weather is excellent for war. The men won't suffer from the scorching sun.
-Line of sight reduction (factor)
+ほぼ快晴
+空にいくらか雲があり、戦闘には絶好の天候だ。兵たちが照りつける日差しに苦しむこともない。
+視界縮小率（係数）
 1
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 1
 8
-Sunny
-It's the optimal weather for war! Visibility is good and conditions tolerable, though dust or smoke could be a problem.
-Line of sight reduction (factor)
+晴れ
+戦闘には最適な天候だ！視界は良好でコンディションも申し分ないが、砂塵や煙が問題になることもある。
+視界縮小率（係数）
 1
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 1.2
 9
 None
 None
-Line of sight reduction (factor)
+視界縮小率（係数）
 1
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 0.8
 10
-Storm
-The storm winds blow hard, men are chilly, the pouring rain has turned roads and fields into mud, additionally the strong winds will make long range artillery fire less accurate.
-Line of sight reduction (factor)
+嵐
+嵐の風が強く吹き荒れ、兵たちは冷え込んでいる。土砂降りの雨で道や畑はぬかるみと化し、さらに強風によって遠距離からの砲撃の精度も低下する。
+視界縮小率（係数）
 0.7
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 0
 11
-Mostly Cloudy
-It is good weather for military operations all around. But there is always the chance of rain.
-Line of sight reduction (factor)
+曇り
+全体として軍事作戦には良い天候だ。ただし、雨が降る可能性は常にある。
+視界縮小率（係数）
 1
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 0.8
 12
-Heavy Rain
-Everyone is miserable. The roads and fields quickly turn into mud that makes marching exhausting and wagon movement nigh on impossible. Smoke will not be a problem if the powder remains dry.
-Line of sight reduction (factor)
+大雨
+誰もがみじめな思いをする。道や畑はあっという間にぬかるみと化し、行軍は疲弊し、荷馬車の移動もほぼ不可能になる。火薬さえ乾いていれば、煙は問題にならないだろう。
+視界縮小率（係数）
 0.6
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 0
 13
-Falling Leaves
-It's Fall, chilly, the rains have made the soil moist, reducing dust.
-Line of sight reduction (factor)
+落ち葉
+秋であり、肌寒い。雨で土が湿り、砂塵は少なくなる。
+視界縮小率（係数）
 1
-Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+部隊移動時の砂塵係数（0～1。0は砂塵なし、1は各部隊の砂塵値どおりの最大砂塵量を意味する）
 0.7
