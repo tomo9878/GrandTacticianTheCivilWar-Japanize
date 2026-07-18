@@ -40,10 +40,10 @@
 125000
 150000
 True
-Bank
+銀行
 -1
 0
-National banks increase the available capital in the region, increasing private wealth and lowering construction costs of companies. Furthermore national funding becomes cheaper as war loans become available for the broad public.
+国立銀行は地域で利用可能な資本を増やし、民間の富を増加させると同時に企業の建設コストを引き下げる。さらに戦時公債が広く一般に発行できるようになることで、国家資金の調達も安価になる。
 False
 023;123;
 1
@@ -85,10 +85,10 @@ False
 37500
 45000
 True
-Brickworks
+煉瓦工場
 3
 1500000
-Brickworks produces construction material needed for most buildings. Brick-making is a tedious process that involved mixing soil and water that is then stomped into clay before the mixture was packed into wooden molds. The dried bricks would then harden in a kiln for nearly a week. Such simple production allows the use of slave labor.
+煉瓦工場は、ほとんどの建物に必要な建材を生産する。煉瓦作りは、土と水を混ぜて粘土にし、それを踏み固めてから木型に詰めるという地道な工程を要する。乾燥させた煉瓦はその後、窯の中で1週間近くかけて焼き固められる。この単純な生産工程には奴隷労働を利用できる。
 False
 
 2
@@ -124,7 +124,7 @@ False
 0
 0
 False
-Bridge Iron
+鉄橋
 0
 0
 
@@ -163,7 +163,7 @@ False
 0
 0
 False
-Bridge Stone
+石橋
 0
 0
 
@@ -202,7 +202,7 @@ False
 0
 0
 False
-Bridge Wood
+木橋
 0
 0
 
@@ -241,7 +241,7 @@ False
 0
 0
 False
-Factory
+工場
 0
 0
 
@@ -292,10 +292,10 @@ False
 37500
 45000
 True
-Farms
+農場
 2
 2500000
-Farms grow crops, livestock and horses needed to feed, cloth and move the nation and its armies. Agriculture is simple work which allows use of slave labor. Constructing new farms in fertile lands allows greater production.
+農場は、国家とその軍隊を養い、衣服を提供し、移動させるために必要な農作物、家畜、馬を育てる。農業は単純な作業であり、奴隷労働の利用が可能である。肥沃な土地に新たな農場を建設すれば、より大きな生産量が得られる。
 False
 
 7
@@ -349,7 +349,7 @@ False
 62500
 75000
 False
-Fort
+砦
 -1
 0
 
@@ -398,10 +398,10 @@ True
 18750
 22500
 True
-Foundries
+鋳造所
 3
 2500000
-A foundry produces metal castings. Metals are cast into shapes by melting them into a liquid, pouring the metal into a mold, and removing the mold material after the metal has solidified as it cools. Foundries produce iron and bronze.
+鋳造所は金属鋳物を生産する。金属を溶かして液体にし、型に流し込み、冷えて固まった後に型を取り除くことで金属を成形する。鋳造所は鉄と青銅を生産する。
 False
 
 9
@@ -449,10 +449,10 @@ False
 250000
 300000
 True
-Hospital
+病院
 -1
 0
-Military hospitals are large complexes that provide medical care to soldiers wounded in combat. Hospitals reduce mortality of wounded soldiers, which in turn reduces loss of support due to casualties.
+陸軍病院は、戦闘で負傷した兵士に医療を提供する大規模な施設である。病院は負傷兵の死亡率を低下させ、それによって死傷による支持率の低下を抑える。
 False
 
 10
@@ -506,10 +506,10 @@ False
 187500
 225000
 True
-Iron Works
+製鉄所
 3
 3750000
-Iron Works is an industrial plant where heavy iron and steel products are made. This includes small-arms, artillery and ammunition. Steel from iron works is used in factory and shipyard production.
+製鉄所は、小火器、大砲、弾薬を含む、重量のある鉄鋼製品が作られる工業施設である。製鉄所で作られた鋼は、工場や造船所の生産にも使用される。
 False
 
 11
@@ -551,10 +551,10 @@ False
 37500
 45000
 True
-Lumber Mills
+製材所
 3
 1750000
-Lumber mill is a facility where logs are cut into lumber, which is used for construction material.
+製材所は、丸太を建材として使う木材に切り出す施設である。
 False
 
 12
@@ -606,10 +606,10 @@ False
 312500
 375000
 True
-Factories
+工場群
 3
 4500000
-A factory is an industrial site, where workers manufacture items or operate machines which process each item into another. Factories mass produce everything needed by the population, from processed food to textiles, to machinery and chemical products like gunpowder.
+工場は、労働者が製品を製造したり、ある品目を別の品目へと加工する機械を操作したりする産業施設である。工場は、加工食品から織物、機械、そして火薬のような化学製品まで、国民に必要なあらゆるものを大量生産する。
 False
 
 13
@@ -655,10 +655,10 @@ False
 250000
 300000
 True
-Market
+市場
 -1
 0
-Markets improve economy locally by increasing transport capacity, which in turn improves flow of goods in the area.
+市場は輸送能力を高めることで地域経済を改善し、それによってその地域の物資の流れを向上させる。
 False
 
 14
@@ -700,10 +700,10 @@ False
 12500
 15000
 True
-Mills
+製粉所
 2
 1625000
-A mill grinds seeds from crops into flour, that is used for making bread. The flour is sold to citizens, and more importantly to larger food processing plants that are part of larger factory complexes.
+製粉所は農作物の種子を挽いて小麦粉にし、パン作りに使用する。小麦粉は市民に販売されるほか、より大きな工場群の一部である大規模な食品加工施設にも供給される。
 False
 
 15
@@ -747,7 +747,7 @@ False
 18750
 22500
 False
-Mines
+鉱山
 3
 3250000
 
@@ -798,10 +798,10 @@ False
 50000
 60000
 True
-Plantations
+プランテーション
 2
 3000000
-A plantation is an agricultural estate meant for farming, that specializes in cash crops like cotton, tobacco, sugar and rice. Slave labor is widely used in American plantations. Construct plantations in places with high fertility for one or several cash crops.
+プランテーションは、綿花、タバコ、砂糖、米といった換金作物の栽培に特化した農業経営地である。アメリカのプランテーションでは奴隷労働が広く用いられている。肥沃度の高い土地に、一つまたは複数の換金作物向けのプランテーションを建設せよ。
 False
 
 17
@@ -859,7 +859,7 @@ False
 250000
 300000
 False
-Port
+港
 3
 7500000
 
@@ -904,10 +904,10 @@ False
 187500
 225000
 True
-News Agency
+通信社
 -1
 0
-News Agencies employ reporters writing stories published in newspapers, that improve flow of information around the nation. This includes information about military movements, providing a new source for military intelligence gathering.
+通信社は記者を雇い、新聞に掲載される記事を執筆させることで、国内の情報の流れを改善する。これには軍の動向に関する情報も含まれ、軍事情報収集の新たな情報源となる。
 False
 
 19
@@ -947,10 +947,10 @@ False
 25000
 30000
 True
-Prison Camp
+捕虜収容所
 -1
 0
-When capturing enemy soldiers, field commanders have the choice of paroling them, or sending them to prisoner of war (P.O.W.) camps. Paroled soldiers very often return to their units and continue fighting. The camps require workforce and supplies, but make sure the enemy soldiers do not return to fight again.
+敵兵を捕らえた場合、現地指揮官は彼らを仮釈放するか、捕虜(P.O.W.)収容所へ送るかを選択できる。仮釈放された兵士は非常に高い頻度で部隊に復帰し、戦闘を続ける。収容所には労働力と物資が必要だが、敵兵が再び戦闘に戻ることを確実に防げる。
 False
 
 20
@@ -992,10 +992,10 @@ False
 18750
 22500
 True
-Saltworks
+製塩所
 2
 1500000
-Salt is an important commodity, needed for preserving food and curing leather. It's said that an army with no salt cannot feed its men. Saltworks produce salt by evaporating salt water, allowing pure salts to be harvested. The simple method allows use of slave labor.
+塩は食料の保存や皮革のなめしに必要な重要な物資である。塩のない軍隊は兵を養えないとも言われる。製塩所は海水を蒸発させることで塩を生産し、純粋な塩の採取を可能にする。この単純な製法には奴隷労働を利用できる。
 False
 
 21
@@ -1041,10 +1041,10 @@ False
 375000
 450000
 True
-Military Academy
+陸軍士官学校
 -1
 0
-A Military Academy trains young cadets in the art of war. This improves their commander attributes and prepares them to wartime command. All officers with a military academy in their home state benefit from the improved military education and culture.
+陸軍士官学校は若い士官候補生に戦術を教育する。これにより指揮官としての資質が向上し、戦時の指揮に備えることができる。本国州に陸軍士官学校を持つ全ての将校は、その充実した軍事教育と気風の恩恵を受ける。
 False
 
 22
@@ -1090,7 +1090,7 @@ False
 250000
 300000
 True
-Supply Depot
+補給廠
 -1
 0
 
@@ -1133,7 +1133,7 @@ True
 62500
 75000
 False
-Telegraph Station
+電信局
 -1
 0
 
@@ -1172,7 +1172,7 @@ True
 0
 0
 False
-Summer Camp
+夏営地
 -1
 0
 
@@ -1213,7 +1213,7 @@ True
 0
 0
 False
-Winter Quarters
+冬営地
 -1
 0
 
@@ -1256,7 +1256,7 @@ True
 0
 0
 False
-Entrenchments
+塹壕陣地
 -1
 0
 
@@ -1299,7 +1299,7 @@ True
 0
 0
 False
-Siege Fortifications
+攻囲工事
 -1
 0
 

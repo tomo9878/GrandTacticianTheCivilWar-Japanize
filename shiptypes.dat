@@ -1,6 +1,6 @@
 41
 0
-Ship's Tender Gunboat
+補給砲艦
 -1
 true
 true
@@ -58,7 +58,7 @@ true
 false
 
 1
-4th Rate Steamer
+四等汽走艦
 -1
 true
 true
@@ -116,7 +116,7 @@ true
 false
 
 2
-3rd Rate Steamer
+三等汽走艦
 -1
 true
 true
@@ -174,7 +174,7 @@ true
 false
 
 3
-2nd Rate Steamer
+二等汽走艦
 -1
 true
 true
@@ -232,7 +232,7 @@ true
 false
 
 4
-Schooner
+スクーナー
 -1
 true
 true
@@ -288,7 +288,7 @@ true
 false
 
 5
-Motor Schooner
+機走スクーナー
 -1
 true
 true
@@ -346,7 +346,7 @@ true
 false
 
 6
-Sloop-of-War
+軍用スループ
 -1
 false
 true
@@ -402,7 +402,7 @@ true
 false
 
 7
-Steam Sloop
+汽走スループ
 -1
 false
 true
@@ -460,7 +460,7 @@ true
 false
 
 8
-Broadside Ironclad
+舷側式装甲艦
 -1
 false
 true
@@ -518,7 +518,7 @@ true
 true
 0;1;
 9
-Double-Ender
+ダブルエンダー
 -1
 true
 true
@@ -576,7 +576,7 @@ true
 false
 
 10
-Frigate
+フリゲート
 -1
 false
 true
@@ -632,7 +632,7 @@ true
 false
 
 11
-Steam Frigate
+汽走フリゲート
 -1
 false
 true
@@ -690,7 +690,7 @@ true
 false
 
 12
-Side-wheel Frigate
+外輪フリゲート
 -1
 false
 true
@@ -748,7 +748,7 @@ true
 false
 
 13
-Ironclad Frigate
+装甲フリゲート
 -1
 false
 true
@@ -806,7 +806,7 @@ true
 true
 0;1;
 14
-Casemate Ironclad Ram
+ケースメート式装甲衝角艦
 -1
 false
 true
@@ -864,7 +864,7 @@ true
 true
 0;1;
 15
-Ocean Casemate Ironclad
+外洋ケースメート式装甲艦
 -1
 false
 true
@@ -922,7 +922,7 @@ true
 true
 0;1;
 16
-Ironclad Warship
+装甲軍艦
 -1
 false
 true
@@ -980,7 +980,7 @@ true
 true
 0;1;
 17
-Ironclad Turret Ship
+砲塔式装甲艦
 2
 false
 true
@@ -1038,7 +1038,7 @@ true
 true
 0;1;
 18
-Ocean Ironclad Ram
+外洋装甲衝角艦
 3
 false
 true
@@ -1096,7 +1096,7 @@ true
 true
 0;1;
 19
-Ironclad Monitor
+モニター型装甲艦
 -1
 true
 true
@@ -1154,7 +1154,7 @@ true
 true
 0;1;
 20
-Ship-of-the-Line
+戦列艦
 -1
 false
 true
@@ -1210,7 +1210,7 @@ true
 false
 0;1;
 21
-Paddle Steamer Gunboat
+外輪汽走砲艦
 -1
 true
 false
@@ -1268,7 +1268,7 @@ false
 false
 
 22
-Timberclad Gunboat
+木甲砲艦
 -1
 true
 false
@@ -1326,7 +1326,7 @@ false
 false
 0;1;
 23
-Tinclad Gunboat
+薄鉄甲砲艦
 -1
 true
 false
@@ -1384,7 +1384,7 @@ false
 false
 0;1;
 24
-Cottonclad Ram
+綿甲衝角艦
 -1
 true
 true
@@ -1444,7 +1444,7 @@ true
 false
 0;1;
 25
-Ironclad River Gunboat
+装甲河用砲艦
 -1
 true
 false
@@ -1502,7 +1502,7 @@ false
 true
 0;1;
 26
-Ironclad Gunboat
+装甲砲艦
 -1
 true
 true
@@ -1560,7 +1560,7 @@ true
 true
 0;1;
 27
-River Monitor
+河用モニター艦
 -1
 true
 false
@@ -1618,7 +1618,7 @@ false
 false
 0;1;
 28
-Ironclad Gunboat Ram
+装甲衝角砲艦
 -1
 true
 true
@@ -1678,7 +1678,7 @@ true
 true
 0;1;
 29
-Sail Spardeck Corvette
+帆走スパーデッキ・コルベット
 -1
 false
 true
@@ -1734,7 +1734,7 @@ true
 false
 0;1;
 30
-Ironclad Ship-of-the-Line
+装甲戦列艦
 3
 false
 true
@@ -1792,7 +1792,7 @@ true
 true
 0;1;
 31
-Converted Screw Frigate
+改造スクリューフリゲート
 -1
 false
 true
@@ -1850,7 +1850,7 @@ true
 false
 0;1;
 32
-Screw Spardeck Corvette
+スクリュー式スパーデッキ・コルベット
 -1
 false
 true
@@ -1908,7 +1908,7 @@ true
 false
 0;1;
 33
-Fast Screw Ship-of-the-Line
+高速スクリュー戦列艦
 -1
 false
 true
@@ -1966,7 +1966,7 @@ true
 false
 0;1;
 34
-Screw Schooner
+スクリュー・スクーナー
 -1
 false
 true
@@ -2024,7 +2024,7 @@ true
 false
 0;1;
 35
-Screw Ship-of-the-Line
+スクリュー戦列艦
 -1
 false
 true
@@ -2082,7 +2082,7 @@ true
 false
 0;1;
 36
-Warrior Class
+ウォーリア級
 2
 false
 true
@@ -2140,7 +2140,7 @@ true
 true
 0;1;
 37
-Steam Corvette
+汽走コルベット
 -1
 false
 true
@@ -2198,7 +2198,7 @@ true
 false
 0;1;
 38
-Gunboat
+砲艦
 -1
 true
 true
@@ -2256,7 +2256,7 @@ true
 false
 1;
 39
-Bark
+バーク型帆船
 -1
 false
 true
@@ -2312,7 +2312,7 @@ true
 false
 
 40
-Brig
+ブリッグ
 -1
 false
 true

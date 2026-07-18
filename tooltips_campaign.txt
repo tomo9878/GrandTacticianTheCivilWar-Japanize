@@ -62,7 +62,7 @@ no vessels
 Continue last game
 
 31
-Start Campaign
+キャンペーン開始
 
 32
 Start Historical Battle
