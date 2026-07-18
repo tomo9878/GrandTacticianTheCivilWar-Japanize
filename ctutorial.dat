@@ -1,7 +1,7 @@
 131
 0
-Welcome
-Welcome to the Campaign Tutorial. Follow the instructions given in this window, which cannot be closed during the Tutorial.\nIn the bottom of the panel you may skip tutorial lessons or advance to next tutorial step within a lesson. A moving arrow indicates that an action is required to proceed.\nNow, click <Next Tutorial Step>, which is blinking.
+ようこそ
+キャンペーンチュートリアルへようこそ。このウィンドウに表示される指示に従ってください。チュートリアル中はこのウィンドウを閉じることはできません。\nパネル下部では、チュートリアルのレッスンをスキップしたり、レッスン内の次のステップへ進んだりできます。動いている矢印は、進行するために操作が必要であることを示します。\n点滅している<次のチュートリアルステップ>をクリックしてください。
 
 -1
 423_SkipLesson
@@ -22,8 +22,8 @@ Welcome to the Campaign Tutorial. Follow the instructions given in this window, 
 false
 true
 1
-Field Book
-During the game, you will find more detailed information about the game's mechanics and controls via the Field Book.\nClick the <?> button to open the Field Book.
+フィールドブック
+ゲーム中、フィールドブックからゲームの仕組みと操作についてより詳しい情報を見つけることができます。\n<?>ボタンをクリックしてフィールドブックを開いてください。
 094_GameGuide
 17
 
@@ -44,8 +44,8 @@ During the game, you will find more detailed information about the game's mechan
 false
 true
 2
-Field Book
-Browse the topics on the left side. Select a topic by clicking it, and read the instructions on the right side.\nClose the Field Book using the same <?> button.
+フィールドブック
+左側のトピック一覧を見てください。トピックをクリックして選択し、右側の説明を読んでください。\n同じ<?>ボタンでフィールドブックを閉じてください。
 094_GameGuide
 18
 IndexViewPort
@@ -66,8 +66,8 @@ InfoPage
 false
 false
 3
-Camera
-Move the camera up/down by pushing the mouse cursor to top/bottom edge of your screen, where you see the red arrows.\nLikewise, move the camera left/right by pushing the cursor to bottom half of the screen's left/right edge. You may also use assigned hotkeys for this (default: W, A, S, D).\nTo continue, move the camera as indicated by the arrows.
+カメラ
+画面上端または下端の、赤い矢印が表示されている部分にマウスカーソルを置くと、カメラが上下に移動します。\n同様に、画面左右下半分の端にカーソルを置くとカメラが左右に移動します。割り当てられたホットキー(デフォルト: W、A、S、D)も使用できます。\n続けるには、矢印が示す方向にカメラを動かしてください。
 
 0
 
@@ -88,8 +88,8 @@ Move the camera up/down by pushing the mouse cursor to top/bottom edge of your s
 false
 true
 4
-Camera
-Rotate the camera by pushing the cursor to top half of the screen's left/right edge, where you see the red arrows, or by using hotkeys (default: Q, E). If rotating does not work with your mouse, it is disabled in the Game Options menu, which will be looked at shortly. The hotkeys will always work.\nTo continue, move the camera as indicated by the arrows.
+カメラ
+画面左右上半分の端の、赤い矢印が表示されている部分にカーソルを置くか、ホットキー(デフォルト: Q、E)を使うことでカメラを回転できます。マウスでの回転が機能しない場合は、後ほど説明するゲームオプションメニューで無効化されている可能性があります。ホットキーは常に機能します。\n続けるには、矢印が示す方向にカメラを動かしてください。
 
 1
 
@@ -110,8 +110,8 @@ Rotate the camera by pushing the cursor to top half of the screen's left/right e
 false
 false
 5
-Camera
-Zoom in/out using the mouse wheel, or hotkeys (default: Y, X). When zooming, the map will automatically change from political map to operational map to 3D view, and back.\nAfter trying it, click <Next Tutorial Step>.
+カメラ
+マウスホイールまたはホットキー(デフォルト: Y、X)でズームイン・ズームアウトできます。ズーム時、マップは政治地図から作戦地図、3Dビューへと自動的に切り替わり、また元に戻ります。\n試したら<次のチュートリアルステップ>をクリックしてください。
 
 -1
 
@@ -132,8 +132,8 @@ Zoom in/out using the mouse wheel, or hotkeys (default: Y, X). When zooming, the
 false
 false
 6
-Main Menu
-You may at any time change the camera movement speed controls via the Game Options, which can be accessed via main menu by clicking the highlighted button or hotkey (default: ESC).\nClick the <Main Menu> button.
+メインメニュー
+カメラの移動速度設定は、いつでもゲームオプションから変更できます。ゲームオプションには、ハイライトされたボタンまたはホットキー(デフォルト: ESC)でメインメニューからアクセスできます。\n<メインメニュー>ボタンをクリックしてください。
 099_MenuButton
 -1
 
@@ -154,8 +154,8 @@ You may at any time change the camera movement speed controls via the Game Optio
 false
 true
 7
-Options
-In this menu you can save & load the game, change game options and exit the game.\nNotice, that the options such as difficulty settings and realism options you selected when starting a campaign cannot be changed later.\nWhen you exit, an autosave is automatically created, allowing you to continue the game later.\nNow, open <Game Options.>
+オプション
+このメニューではゲームの保存・読み込み、ゲームオプションの変更、ゲームの終了ができます。\nキャンペーン開始時に選んだ難易度設定やリアリズムオプションなどは、後から変更できないことに注意してください。\n終了時には自動的にオートセーブが作成され、後でゲームを再開できます。\n<ゲームオプション>を開いてください。
 034_OptionsC
 -1
 
@@ -176,8 +176,8 @@ In this menu you can save & load the game, change game options and exit the game
 false
 false
 8
-Options
-Here, you can change the camera settings. In the bottom of the scrollable panel, you can also see and change the camera control hotkeys.\nClick <Next Tutorial Step> button to proceed.
+オプション
+ここではカメラ設定を変更できます。スクロール可能なパネルの下部で、カメラ操作のホットキーを確認・変更することもできます。\n<次のチュートリアルステップ>ボタンをクリックして進んでください。
 
 -1
 CampMapScrollSpeed
@@ -198,8 +198,8 @@ OptionsPanel
 false
 false
 9
-Options
-Here, you may scale the size of the UI using the slider. You may try this now. When moving the scaling slider to Large, it's possible some UI elements overlap when using certain resolutions. In this case, downscale the UI a bit.\nWhen ready, click <OK> to close Game Options.
+オプション
+ここではスライダーを使ってUIの大きさを調整できます。今試してみてください。スケーリングスライダーを「大」に動かすと、解像度によっては一部のUI要素が重なる場合があります。その場合は少しUIを縮小してください。\n準備ができたら<OK>をクリックしてゲームオプションを閉じてください。
 297_Accept
 -1
 UIScale
@@ -220,8 +220,8 @@ OptionsPanel
 false
 false
 10
-Saving
-You can save the game, as well as this tutorial, at any point in the Main Menu, as well as load any old save.\nClick <Load & Save.>
+セーブ
+ゲームおよびこのチュートリアルは、メインメニューからいつでも保存でき、また過去のセーブデータを読み込むこともできます。\n<ロード＆セーブ>をクリックしてください。
 169_SaveGame
 -1
 
@@ -242,8 +242,8 @@ MainSmall
 false
 false
 11
-Saving
-In this panel you can select a new save to be created, or manage existing saves, including deleting them. The game will also be automatically saved every time you Exit the battle, or periodically as per setting in Game Options.\nUse the filters on the right side of the panel to control which of the campaign and battle scenario saves are shown in the list.\nClose the panel by clicking the <X> in the top right corner.
+セーブ
+このパネルでは新しいセーブデータの作成や、既存のセーブデータの管理(削除を含む)ができます。ゲームは、戦闘を終了するたびに、またゲームオプションの設定に応じて定期的に自動保存もされます。\nパネル右側のフィルターを使って、一覧に表示するキャンペーンおよび戦闘シナリオのセーブデータを絞り込めます。\n右上の<X>をクリックしてパネルを閉じてください。
 018_ClosePanel
 -1
 038_DeleteSave
@@ -264,8 +264,8 @@ LoadSaveBig
 false
 false
 12
-Saving
-Now, return to game by closing the Main Menu, clicking <Continue.>
+セーブ
+それでは、メインメニューを閉じて<続ける>をクリックし、ゲームに戻ってください。
 159_ContinueGame
 -1
 038_DeleteSave
@@ -287,7 +287,7 @@ false
 false
 13
 UI
-You may show/hide or minimize/maximize many of the UI elements using the <double arrow> buttons. If you test this, make sure you show the panels again as they are needed throughout this tutorial.
+多くのUI要素は<二重矢印>ボタンで表示・非表示や最小化・最大化ができます。試す場合は、このチュートリアルを通して必要になるので、必ずパネルを再表示させてください。
 
 -1
 116_CHide
@@ -309,7 +309,7 @@ false
 true
 14
 UI
-In the top bar you can see some of the most important information regarding the campaign. When hovering mouse cursor on top of them, a tooltip will give further information.
+上部のバーには、キャンペーンに関する最も重要な情報の一部が表示されています。それらの上にマウスカーソルを重ねると、ツールチップでさらに詳しい情報が表示されます。
 
 -1
 053_Manpower
@@ -331,7 +331,7 @@ false
 false
 15
 UI
-To win the campaign, you must defeat the enemy's national morale. Current balance is shown here. The side that has its national morale drop below 25 first, loses.
+キャンペーンに勝利するには、敵の国家士気を打ち砕く必要があります。現在の均衡状態はここに表示されます。国家士気が最初に25を下回った側が敗北します。
 
 -1
 060_PowerBar
@@ -353,7 +353,7 @@ false
 false
 16
 UI
-Your nation's current national morale is shown here. Lost battles, low support and certain political choices will affect the value. If national morale drops down to 25, you will lose the campaign.
+自国の現在の国家士気はここに表示されます。戦闘での敗北、支持率の低下、特定の政治的選択がこの数値に影響します。国家士気が25まで低下すると、キャンペーンに敗北します。
 
 -1
 054_Morale
@@ -375,7 +375,7 @@ false
 false
 17
 UI
-High debt and poor economical perspective will lower your nation's credit rating. Poor credit rating increases interest costs. The rating is between AAA (best) to D (worst). If it goes below B, the Congress will not allow further troop recruitment or construction of ships and buildings.
+多額の負債と乏しい経済見通しは、自国の信用格付けを低下させます。信用格付けが低いと利子コストが増加します。格付けはAAA(最良)からD(最悪)まであります。Bを下回ると、議会はそれ以上の部隊徴募や艦船・建物の建設を許可しなくなります。
 
 -1
 055_Rating
@@ -397,7 +397,7 @@ false
 false
 18
 UI
-Here you can see the number of men fielded currently. The tooltip will also show summary of available recruits, including recent and projected short-term changes.
+ここには現在動員している兵員数が表示されます。ツールチップでは、直近および短期的な予測変化を含む、動員可能な徴募兵の概要も確認できます。
 
 -1
 053_Manpower
@@ -419,7 +419,7 @@ false
 false
 19
 UI
-Utilization of the nation's shipyards is shown here. Constructing new ships, or repairing damaged ones, requires free shipyard capacity. The capacity depends on number and level of available ports in your nation.\nBlockaded and raided ports will provide reduced capacity.\nConstructing and repairing ships will slow down, if insufficient capacity is available.
+自国の造船所の稼働状況はここに表示されます。新造艦の建造や損傷艦の修理には、造船所の空き容量が必要です。容量は自国が保有する港の数とレベルに依存します。\n封鎖・襲撃を受けた港は容量が低下します。\n十分な容量がない場合、艦船の建造・修理は遅くなります。
 
 -1
 056_Wharf
@@ -441,7 +441,7 @@ false
 false
 20
 UI
-For a quick overview of the political map, click <Quick Map Overview> button. 
+政治地図を素早く確認するには、<クイックマップ概観>ボタンをクリックしてください。
 098_ZoomInOut
 -1
 
@@ -463,7 +463,7 @@ false
 false
 21
 UI
-When clicked, the map view is zoomed out and oriented to North.\nNow, let's have a look at the Map Filters. Click the <Show Map Filters.> button.
+クリックすると、マップ表示が縮小されて北向きに揃います。\n次はマップフィルターを見てみましょう。<マップフィルターを表示>ボタンをクリックしてください。
 862_Map
 -1
 
@@ -485,7 +485,7 @@ false
 false
 22
 UI
-Try out different filters by checking the box. The map will show the selected information. These filters will come in handy when managing your nation, and will work even if the Quick Map Overview is not used.\nWhen ready, deselect any filters or set <None>, so any filters will be removed from the map.\nClick <Quick Map Overview> button to return to normal view and to proceed.
+チェックボックスをオンにして様々なフィルターを試してみてください。マップには選択した情報が表示されます。これらのフィルターは、クイックマップ概観を使わない状態でも機能し、自国の統治に役立ちます。\n準備ができたら、フィルターの選択を解除するか<なし>に設定して、マップからフィルターを消してください。\n<クイックマップ概観>ボタンをクリックして通常表示に戻り、先へ進んでください。
 098_ZoomInOut
 -1
 FilterSelectionText
@@ -507,7 +507,7 @@ false
 false
 23
 UI
-Open <Map Information Settings.>
+<マップ情報設定>を開いてください。
 097_CToolsButton
 -1
 
@@ -529,7 +529,7 @@ false
 false
 24
 UI
-Here, with the individual buttons, you can control which visual information is shown, or not shown, on the map.\nTo demonstrate this, click the <Map Borders> button.
+ここでは個別のボタンを使って、マップ上にどの視覚情報を表示するか、または表示しないかを制御できます。\n例として、<州境線>ボタンをクリックしてください。
 105_MapBorders
 -1
 
@@ -551,7 +551,7 @@ false
 false
 25
 UI
-As you can see, the colored state borders on your map are now removed.\nClick the <Map Borders> button to again show the borders.
+ご覧の通り、マップ上の色分けされた州境線が消えました。\n<州境線>ボタンをもう一度クリックして境界線を再表示してください。
 105_MapBorders
 -1
 
@@ -573,7 +573,7 @@ false
 false
 26
 UI
-All the other buttons function the same way. Their function is to customize the map view to your liking. See the tooltips in each button for more information.\nNow, close the <Map Information Settings.>
+他のボタンもすべて同じように機能します。それぞれの機能は、マップ表示を好みに合わせてカスタマイズすることです。詳しくは各ボタンのツールチップを参照してください。\n<マップ情報設定>を閉じてください。
 097_CToolsButton
 -1
 
@@ -595,7 +595,7 @@ false
 false
 27
 UI
-The campaign runs in real time. You can control the time in the <Time Panel.> All orders can be given also when the game is paused. The game is automatically paused whenever one of the main UI elements are opened, or news are received.\nClick <Play>.
+キャンペーンはリアルタイムで進行します。時間は<時間パネル>で制御できます。命令は、ゲームが一時停止中でもすべて出すことができます。主要なUI要素が開かれたとき、または新着ニュースがあったときは、ゲームは自動的に一時停止します。\n<再生>をクリックしてください。
 073_Play
 -1
 BattleTime
@@ -617,7 +617,7 @@ false
 false
 28
 UI
-Current date is shown in the top bar. Time of day is shown in the time panel. As you can see, when news is received, the game is paused, and when the newspaper is closed, time will continue running.\nFirst, close the newspaper using the top right button <X> or hotkey ESC. Time will continue running.\nNow, click <Pause.>
+現在の日付は上部のバーに表示されます。時刻は時間パネルに表示されます。ご覧の通り、ニュースを受け取るとゲームは一時停止し、新聞を閉じると時間の進行が再開されます。\nまず、右上の<X>ボタンまたはホットキーESCで新聞を閉じてください。時間の進行が再開されます。\n次に<一時停止>をクリックしてください。
 072_Pause
 -1
 BattleTime
@@ -639,7 +639,7 @@ false
 false
 29
 UI
-In the top bar you have a set of buttons that will open the main panels for nation management and information.\nOpen the <Strategy Panel> by clicking it.
+上部のバーには、国家管理と情報のための主要パネルを開くボタン群があります。\n<戦略パネル>をクリックして開いてください。
 370_Strategy
 -1
 371_Military
@@ -660,8 +660,8 @@ In the top bar you have a set of buttons that will open the main panels for nati
 false
 true
 30
-Strategy
-In the middle you can see the current balance between the nations. Move the cursor on top of <National Morale> text. The tooltip shows what is influencing the national morale of each side.\nThe morale balance can also be seen in the top bar.\nThe side that has its national morale drop below 25 will lose the war.
+戦略
+中央には両国間の現在の均衡状態が表示されています。<国家士気>の文字の上にカーソルを置いてみてください。ツールチップに、各陣営の国家士気に影響を与えている要因が表示されます。\n士気の均衡状態は上部のバーでも確認できます。\n国家士気が先に25を下回った側が戦争に敗北します。
 
 -1
 270_Morale
@@ -682,8 +682,8 @@ Strategy
 false
 false
 31
-Objectives
-On the left you have the list of campaign objectives. See the tooltip for detailed information about how to complete them and what benefits they will give. Notice, it's not mandatory to complete them, but they will help in winning the campaign.
+目標
+左側にはキャンペーン目標の一覧があります。達成方法や得られる効果についての詳細は、ツールチップを参照してください。これらの達成は必須ではありませんが、キャンペーンの勝利を助けてくれます。
 
 -1
 CampObj
@@ -704,8 +704,8 @@ Strategy
 false
 false
 32
-Records
-On the right, the Official Records keep track of all the most important campaign events, like battles. Scroll them with mouse wheel. Some can be clicked to move the camera to said location.
+記録
+右側の公式記録には、戦闘などキャンペーン中の最も重要な出来事がすべて記録されます。マウスホイールでスクロールできます。中にはクリックするとその場所へカメラが移動するものもあります。
 
 -1
 JournalContent
@@ -727,7 +727,7 @@ false
 false
 33
 UI
-With the basic knowledge of the controls and UI now provided, and the understanding of how to win the campaign, it's time to hand you over to my trusty cabinet, and let them guide you through their areas of expertise.\nFirst, the Postmaster General, Mr. Montgomery Blair. Close the <Strategy Panel> by clicking the button in the top bar.
+操作とUIの基本を理解し、キャンペーンの勝ち方も分かったところで、いよいよ私の頼れる閣僚たちにあなたを引き継ぎ、それぞれの専門分野について案内させましょう。\nまずは郵政長官、モンゴメリー・ブレア氏です。上部バーのボタンをクリックして<戦略パネル>を閉じてください。
 370_Strategy
 -1
 
@@ -748,8 +748,8 @@ Strategy
 false
 false
 34
-Messages
-General, you will receive telegrams from your subordinates and the cabinet throughout the game. When a telegram arrives, it's shown in the left side of the screen as a folded letter. The letter will provide the main information in the tooltip. Clicking this letter opens it, double clicking the letter moves the camera to location of the sender. Right click will remove the letter icon from your screen, but the telegram itself will be stored in the log.\nClick the <Message Log> to open it.
+メッセージ
+将軍、ゲーム中は部下や閣僚から電報が届きます。電報が届くと、画面左側に折りたたまれた手紙のアイコンとして表示されます。手紙にはツールチップで主な情報が表示されます。この手紙をクリックすると開き、ダブルクリックすると送信者の場所へカメラが移動します。右クリックすると画面から手紙のアイコンが消えますが、電報自体はログに保存されます。\n<メッセージログ>をクリックして開いてください。
 108_MessageLog
 -1
 
@@ -770,8 +770,8 @@ MessagesShown
 false
 true
 35
-Messages
-In this log you will see all received telegrams. Unread ones are marked red. Click on any of the lines to open the said telegram. Use the buttons in the bottom to mark all as read, and to remove all read telegrams from the log.
+メッセージ
+このログでは受信したすべての電報を確認できます。未読のものは赤で表示されます。いずれかの行をクリックすると該当の電報が開きます。下部のボタンで全てを既読にしたり、既読の電報をすべてログから削除したりできます。
 
 -1
 187_RemoveDispatches
@@ -792,8 +792,8 @@ MessageLog
 false
 false
 36
-Messages
-During the game, you can order the last month's economy or intelligence reports to be delivered to you, using these two buttons. Notice, the buttons will become available later, when a month has passed.
+メッセージ
+ゲーム中は、この2つのボタンを使って先月分の経済報告書や諜報報告書を届けさせることができます。これらのボタンは、1か月が経過した後に利用可能になることに注意してください。
 
 -1
 362_EconomyReport
@@ -814,8 +814,8 @@ MessageLog
 false
 false
 37
-Messages
-Close the message log and I will hand you over to Secretary of the Treasury, Mr. Salmon P. Chase.
+メッセージ
+メッセージログを閉じてください。次は財務長官、サーモン・P・チェイス氏に引き継ぎます。
 108_MessageLog
 -1
 
@@ -836,8 +836,8 @@ MessageLog
 false
 false
 38
-Economy
-General, next we will take a look at the economy and how to manage it.\nStart by opening the <Finances Panel.>
+経済
+将軍、次は経済とその管理方法について見ていきましょう。\nまず<財務パネル>を開いてください。
 372_Economy
 -1
 
@@ -858,8 +858,8 @@ General, next we will take a look at the economy and how to manage it.\nStart by
 false
 true
 39
-Economy
-On the left you have a list of government revenues and expenses. Clicking any of the lines, that highlight when you place your mouse cursor over them, will show said information in the graph. The information is shown for both sides by default, but using the check boxes above the graph you can control which nation to show.
+経済
+左側には政府の歳入と歳出の一覧があります。カーソルを重ねるとハイライトされる行をクリックすると、その情報がグラフに表示されます。情報はデフォルトでは両陣営分表示されますが、グラフ上部のチェックボックスでどちらの国を表示するか制御できます。
 
 -1
 054_Dollar
@@ -880,8 +880,8 @@ Finances
 false
 false
 40
-Credit Rating
-As the President explained, during the war revenues will be lower than expenses. In this case new debt is required. This is issued automatically. Debt increases interest costs and will hurt your credit rating. If it drops below B, the Congress will no longer allow recruitment of new units or construction of new ships or buildings.
+信用格付け
+大統領が説明した通り、戦争中は歳入が歳出を下回ります。この場合、新たな負債が必要になります。これは自動的に発行されます。負債は利子コストを増加させ、信用格付けを悪化させます。Bを下回ると、議会は新規部隊の徴募や新しい艦船・建物の建設をそれ以上許可しなくなります。
 
 -1
 784_Credit
@@ -902,8 +902,8 @@ Finances
 false
 false
 41
-Credit Rating
-To improve your credit rating, you can use certain policies and acts, which will be explained to you shortly, or you may increase taxes or reduce government spending (subsidies) using the sliders. Subsidies and taxes are also linked to policies. Some policies will allow higher taxes and new tax types.\nRemember, high taxes mean less wealth for the private corporations and citizens. High wealth will increase national morale, and vice versa.
+信用格付け
+信用格付けを改善するには、後ほど説明する特定の政策や法令を利用するか、スライダーを使って増税または政府支出(補助金)を削減してください。補助金と税は政策とも連動しています。一部の政策はより高い税率や新しい税の種類を可能にします。\n税が高いほど民間企業や国民の富は減ることを覚えておいてください。富が高いほど国家士気は上昇し、その逆もまた然りです。
 
 -1
 XXX_SliderTariffs
@@ -924,8 +924,8 @@ Finances
 false
 false
 42
-Subsidies
-Paying government subsidies allows further policies, projects and cheaper construction of economy buildings.\nPolitics-subsidies increase automatically the maximum amount of policies that can be active. All subsidy types allow different kinds of projects that help your nation's war effort. We will inspect these and the construction options shortly.
+補助金
+政府補助金を支払うことで、さらなる政策・プロジェクトの実施や、経済関連建物の建設費用の削減が可能になります。\n政治-補助金は、同時に有効化できる政策の最大数を自動的に増加させます。すべての補助金の種類は、自国の戦争努力を助ける様々なプロジェクトを可能にします。これらと建設オプションについては、間もなく見ていきます。
 
 -1
 Subsidies
@@ -946,8 +946,8 @@ Finances
 false
 false
 43
-Automanage
-Below the Finances you have a check-box option to let me, the Secretary of the Treasury (AI), run the finances of the nation for you.\nNext, open <Production Panel.>
+自動管理
+財務パネルの下部には、私、財務長官(AI)に国家財政の運営を任せるチェックボックスオプションがあります。\n次に<生産パネル>を開いてください。
 373_Production
 -1
 CheckBoxAutomanage
@@ -968,8 +968,8 @@ Finances
 false
 false
 44
-Production
-This panel shows all the industries and government buildings in the game.\nUse the filters and sorting options to filter the shown industries and building types. Clicking any industry will move camera there and will also show further information on the left.\nYou may target enemy industry with your military in the game, so the information here may provide some help when planning military operations.\nNext, open <Trade Panel.>
+生産
+このパネルには、ゲーム内のすべての産業施設と政府施設が表示されます。\nフィルターと並べ替えオプションを使って、表示する産業・建物の種類を絞り込んでください。いずれかの産業をクリックすると、カメラがその場所へ移動し、左側にさらに詳しい情報が表示されます。\nゲーム内では敵の産業を軍事的に標的にすることもできるため、ここでの情報は軍事作戦の計画に役立つかもしれません。\n次に<交易パネル>を開いてください。
 375_Trade
 -1
 xxx_Filters
@@ -990,8 +990,8 @@ Production
 false
 false
 45
-Trade
-In this panel you see how the supply, demand, and price of each product in the game develops, including over time. Clicking on any product name (line) will open further information on the left. Import and export of selected product is shown in the bottom left.\nIn short, if demand is high and supply is low, prices will increase. If prices are very high, wealth will suffer, reducing national morale.\nIn the graph you will also see information about enemy trade situation. For example, if you blockade rebel ports, the long term effects may be seen in the prices. Again, if the economy cannot be sustained, new debt is required, which increases interest costs, reduces credit rating, and eventually may lead into inability to sustain the war effort.
+交易
+このパネルでは、ゲーム内の各製品の供給・需要・価格の推移が時系列で確認できます。製品名(行)をクリックすると、左側にさらに詳しい情報が表示されます。選択した製品の輸入・輸出量は左下に表示されます。\n簡単に言えば、需要が高く供給が低ければ価格は上昇します。価格が非常に高くなると富が損なわれ、国家士気が低下します。\nグラフには敵の交易状況に関する情報も表示されます。例えば、反乱軍の港を封鎖すれば、その長期的な効果が価格に現れることがあります。ここでも、経済が維持できなければ新たな負債が必要になり、利子コストが増加し、信用格付けが悪化し、最終的には戦争努力を維持できなくなるかもしれません。
 
 -1
 GoodsInfo
@@ -1012,8 +1012,8 @@ Trade
 false
 false
 46
-Policies
-General, I am Secretary of State William Seward, and I will quickly guide you through the basics of policy making in Grand Tactician.\nLet's start by opening the <Policies Panel.>
+政策
+将軍、私は国務長官ウィリアム・スワードです。グランド・タクティシャンにおける政策立案の基本を手早く案内しましょう。\nまず<政策パネル>を開きましょう。
 374_Policies
 -1
 
@@ -1034,8 +1034,8 @@ General, I am Secretary of State William Seward, and I will quickly guide you th
 false
 true
 47
-Policies
-In the panel you have the policy tree, containing policies and acts. A limited number of policies can be active at any one time.\nTop left, you can see the number of activated and available policies. When more policies are no longer available to be activated, you may increase Politics-subsidies in the Finances Panel. Maximum number, with the maximum politics subsidies set, is twelve (12).
+政策
+このパネルには政策と法令から成る政策ツリーがあります。同時に有効化できる政策の数には制限があります。\n左上には、有効化済みおよび有効化可能な政策の数が表示されています。有効化できる政策がこれ以上ない場合は、財務パネルで政治-補助金を増やすことができます。政治補助金を最大に設定した場合の最大数は12です。
 
 -1
 RemainingNumber
@@ -1056,8 +1056,8 @@ Policies
 false
 false
 48
-Policies
-Here you can see the selected pre-war policies for both nations. The tooltips show the active effects. Pre-war policies are chosen when starting the campaign scenario, and cannot be changed during the game. These policies will greatly affect morale, support and diplomatic standings at the start of the scenarios.
+政策
+ここでは両国が選択した開戦前政策を確認できます。ツールチップには有効な効果が表示されます。開戦前政策はキャンペーンシナリオ開始時に選択され、ゲーム中に変更することはできません。これらの政策は、シナリオ開始時の士気、支持率、外交的立場に大きな影響を与えます。
 
 -1
 704_Flag_Side0
@@ -1078,8 +1078,8 @@ Policies
 false
 false
 49
-Policies
-The policies are shown under the main categories and are connected with thick red lines. Each further policy level, as shown with the small number, requires that the previous ones are active. For example, to activate Diplomacy 3 -policy, Diplomacy 1-2 must be active.\nActs are connected to policies with blue lines, showing the required policies. Acts cannot be cancelled, and will not increase the number of active policies. Acts can have positive and negative effects, see the tooltips.
+政策
+政策は主要カテゴリーの下に表示され、太い赤線でつながっています。小さな数字で示されるように、それぞれの政策レベルには、その前段階の政策が有効であることが必要です。例えば「外交3」政策を有効化するには、「外交1-2」が有効である必要があります。\n法令は青線で必要な政策とつながっています。法令は取り消すことができず、有効な政策数にも加算されません。法令には正負両方の効果があり得ます。詳細はツールチップを参照してください。
 
 -1
 Funds
@@ -1100,8 +1100,8 @@ Policies
 false
 false
 50
-Policies
-When no policy or act is in process of being activated, a notification <!> will be shown on the <Policies Panel> button.\nFurther policies and acts will become available when the campaign proceeds to later Chapters. Due to limited number of policies that can be active simultaneously, you will have to prioritize.
+政策
+政策や法令が有効化される過程にない場合、<政策パネル>ボタンに<!>という通知が表示されます。\nキャンペーンが後の章に進むにつれて、さらなる政策や法令が利用可能になります。同時に有効化できる政策数には限りがあるため、優先順位をつける必要があります。
 
 -1
 374_Policies
@@ -1122,8 +1122,8 @@ Policies
 false
 false
 51
-Policies
-To activate a policy, left click it. To deactivate a policy, or to cancel activation process of a policy or an act before it is ready, right click the policy/act. You will need to confirm this.\nNow, click <Diplomacy 1> policy to activate it.
+政策
+政策を有効化するには左クリックします。政策を無効化する、あるいは政策や法令の有効化プロセスを完了前に取り消すには、右クリックしてください。これには確認が必要です。\n<外交1>政策をクリックして有効化してください。
 Diplo1
 2
 
@@ -1144,8 +1144,8 @@ Policies
 false
 false
 52
-Policies
-Now the Congress is taking action to get further diplomatic deals done with the European nations, as is shown by the small green timer symbol in the bottom right of policy icon. Hovering the cursor over <Diplomacy 1> will now show the time it will take to activate it.\nIf activating multiple policies/acts simultaneously, the time to activate will be distributed equally between them, making the process longer!
+政策
+これで議会は、ヨーロッパ諸国とのさらなる外交取引をまとめるべく動き始めました。政策アイコン右下の小さな緑のタイマー記号がそれを示しています。<外交1>にカーソルを重ねると、有効化にかかる時間が表示されます。\n複数の政策・法令を同時に有効化しようとすると、有効化にかかる時間はそれらの間で均等に分配され、その分プロセスが長引きます！
 
 -1
 Diplo1
@@ -1166,8 +1166,8 @@ Policies
 false
 false
 53
-Policies
-Maybe the most important policies and acts in the game are the ones that can be used to improve the credit rating, or to increase the number of recruits.\nThe funding -branch acts will allow further funding and taxation. See the tooltips.\nMilitia Acts will increase the number of volunteers available for recruitment, and will also introduce longer contracts. If you run out of volunteers, you may introduce the draft, or start paying bounties to volunteers. Allowing colored troops will also increase the pool of recruits. See the tooltips for each act for also the adverse effects!
+政策
+おそらくゲーム中最も重要な政策・法令は、信用格付けの改善や徴募兵数の増加に使えるものでしょう。\n財政関連の法令はさらなる資金調達と課税を可能にします。詳しくはツールチップを参照してください。\n民兵法令は徴募可能な志願兵の数を増やし、より長期の契約も導入します。志願兵が不足した場合は徴兵制を導入するか、志願兵への報奨金支払いを開始できます。有色部隊の受け入れも徴募兵プールを増やします。各法令のツールチップでは、悪影響についても必ず確認してください！
 
 -1
 Funds
@@ -1188,8 +1188,8 @@ Policies
 false
 false
 54
-Policies
-Top Right you have a <Automanage> check-box option to let me, the Secretary of State (AI), run the politics of your nation.
+政策
+右上には、私、国務長官(AI)に国家の政治運営を任せる<自動管理>チェックボックスオプションがあります。
 
 -1
 CheckBoxAutomanagePol
@@ -1210,8 +1210,8 @@ Policies
 false
 false
 55
-Diplomacy
-Regarding our relations with European nations, some policies and acts will have a direct impact. The relations are compared to those of the enemy nation. It's possible that the rebels can persuade the Europeans to intervene in the war.\nTo further improve relations, you may fund diplomacy projects via <Projects Panel>, using diplomacy subsidies. Further diplomacy subsidies are allowed when following diplomacy policies.\nNow, open the the <Projects Panel.>
+外交
+ヨーロッパ諸国との関係については、いくつかの政策・法令が直接的な影響を与えます。この関係は敵国のものと比較されます。反乱軍がヨーロッパ諸国を説得し、戦争に介入させる可能性もあります。\n関係をさらに改善するには、外交補助金を使って<プロジェクトパネル>から外交関連プロジェクトに資金を提供できます。外交政策に従うことで、さらなる外交補助金が可能になります。\n次に<プロジェクトパネル>を開いてください。
 376_Projects
 -1
 Diplo1
@@ -1232,8 +1232,8 @@ Policies
 false
 false
 56
-Projects
-In this panel we have the Civil and Military Projects available for our nation. Use the filters and sorting options on the right side.\nThe bottom right will show a list of all active effects from appointed projects. Currently there are none, as none of the projects are yet to be appointed.
+プロジェクト
+このパネルには、自国が利用できる民間・軍事プロジェクトがあります。右側のフィルターと並べ替えオプションを使ってください。\n右下には、任命済みプロジェクトによる有効な効果の一覧が表示されます。現時点ではプロジェクトが一つも任命されていないため、何も表示されません。
 
 -1
 Filters
@@ -1254,8 +1254,8 @@ Projects
 false
 false
 57
-Projects
-Click on any of the projects to show further info on the left side.\nThe funding progress for each project is shown in the small coins in the list. When the full number of subsidies has been paid, a project can be appointed by clicking the red appointment button in the list.\nWhen a project is available to be appointed, the Projects-button in the top panel will show an exlamation mark <!>.
+プロジェクト
+いずれかのプロジェクトをクリックすると、左側にさらに詳しい情報が表示されます。\n各プロジェクトの資金調達の進捗状況は、一覧内の小さなコインで表示されます。補助金の全額が支払われると、一覧内の赤い任命ボタンをクリックしてプロジェクトを任命できます。\nプロジェクトが任命可能になると、上部パネルのプロジェクトボタンに感嘆符<!>が表示されます。
 
 -1
 702_Appoint
@@ -1276,8 +1276,8 @@ Projects
 false
 false
 58
-Projects
-Bottom left you have a <Automanage> check-box option to let me, the Secretary of State (AI), run the projects of your nation.\nNow, close the Projects-panel using the Projects-button or the <X>.
+プロジェクト
+左下には、私、国務長官(AI)に国家のプロジェクト運営を任せる<自動管理>チェックボックスオプションがあります。\nそれでは、プロジェクトボタンまたは<X>でプロジェクトパネルを閉じてください。
 
 21
 850_CheckBoxButton
@@ -1298,8 +1298,8 @@ Projects
 false
 false
 59
-Building Options
-In the bottom of the screen are the construction options. These buttons are shown when no army or fleet is selected.\nClick to open <Federal Buildings.>
+建設オプション
+画面下部には建設オプションがあります。これらのボタンは、軍や艦隊が選択されていないときに表示されます。\n<連邦建物>をクリックして開いてください。
 890_FederalBuildings
 -1
 891_CompanyApplications
@@ -1320,8 +1320,8 @@ In the bottom of the screen are the construction options. These buttons are show
 false
 true
 60
-Building Options
-Federal Buildings are funded directly from the treasury. Each building offers certain bonus to your nation, see the tooltips on each building type for further information. Notice, that new debt may be necessary, and this may have an effect in your credit rating.\nYou may choose to let me handle the Federal construction by ticking the <Automanage> check box. If you want to construct a building manually, click the <Construct> button.\nIf you want me to place the building for you, tick the <Auto-placement> check box.\nNow, click <Company Applications> -button in the bottom. 
+建設オプション
+連邦建物は国庫から直接資金が拠出されます。それぞれの建物は自国に一定のボーナスをもたらします。詳細は各建物の種類のツールチップを参照してください。新たな負債が必要になる場合があり、これが信用格付けに影響することに注意してください。\n<自動管理>チェックボックスをオンにすれば、連邦建物の建設を私に任せることもできます。手動で建物を建設したい場合は<建設>ボタンをクリックしてください。\n建物の配置場所を私に任せたい場合は<自動配置>チェックボックスをオンにしてください。\n次に下部の<企業申請>ボタンをクリックしてください。
 891_CompanyApplications
 -1
 CheckBoxAutomanage
@@ -1342,8 +1342,8 @@ CheckBoxAutoPlace
 false
 false
 61
-Building Options
-Here you can attract construction of new economy buildings, or industries. As with the projects, here you can spend government subsidies. If sufficient subsidies are available, construction of new industries is quite cheap. You may also choose to pay extraordinary subsidies from the nation's treasury to cover the costs, but this will be far more expensive.\nAgain, you have the <Automanage> check box, a <Construct> button and the option for <Auto-placement>.\nNext, click the <Railroads> -button.
+建設オプション
+ここでは新しい経済建物、すなわち産業の誘致ができます。プロジェクトの場合と同様、ここでも政府補助金を使用できます。十分な補助金があれば、新しい産業の建設はかなり安価になります。国庫から臨時の補助金を支払って費用を賄うこともできますが、その場合はかなり高くつきます。\nここにも<自動管理>チェックボックス、<建設>ボタン、そして<自動配置>オプションがあります。\n次に<鉄道>ボタンをクリックしてください。
 892_Railroads
 -1
 CheckBoxAutomanage
@@ -1364,8 +1364,8 @@ CheckBoxAutoPlace
 false
 false
 62
-Building Options
-In this list you can see all the railroad lines, built and unbuilt, on the map. Railroads can be used to transport troops and supplies effectively, in addition to the benefits they offer in flow of trade goods.\nClicking on a railroad line name will select the track, showing it on the map. Some lines can be built during the game, this is done by clicking the <Construct Railroad> button.\nAgain, you may leave this to me by checking the <Automanage> box.\nNow, close the panel by clicking the <Railroads> button or the <X> button in the top right.
+建設オプション
+この一覧では、マップ上のすべての鉄道路線(建設済み・未建設を含む)を確認できます。鉄道は交易品の流通における利点に加え、部隊や物資の効率的な輸送にも使用できます。\n鉄道路線名をクリックすると、その路線が選択されマップ上に表示されます。ゲーム中に建設可能な路線もあり、<鉄道を建設>ボタンをクリックして行います。\nここでも<自動管理>チェックボックスをオンにして私に任せることができます。\n<鉄道>ボタンまたは右上の<X>ボタンをクリックしてパネルを閉じてください。
 
 22
 CheckBoxAutomanage
@@ -1386,8 +1386,8 @@ CheckBoxAutomanage
 false
 false
 63
-Military
-General, my name is Simon Cameron, and I am the Secretary of War.\nFor a quick overview of your military, under the compass you have the list of all armies, garrisons and fleets under your command.\nClick <Show Campaign Units.>
+軍事
+将軍、私はサイモン・キャメロン、陸軍長官です。\n自国の軍事状況を素早く確認するには、コンパスの下にある、指揮下のすべての軍・守備隊・艦隊の一覧をご覧ください。\n<キャンペーンユニットを表示>をクリックしてください。
 860_Units
 -1
 
@@ -1408,8 +1408,8 @@ ToolsPanelCampaign
 false
 true
 64
-Army
-Click any unit in the list to move camera to the unit and to select it. When a unit is selected, detailed information about the unit is shown in the bottom left part of your screen. Clicking on the map will deselect a unit. You may try this now.\nNext, click <Show Campaign Fleets.>
+陸軍
+一覧内の任意の部隊をクリックすると、カメラがその部隊の場所へ移動し、選択されます。部隊が選択されると、画面左下に詳細情報が表示されます。マップをクリックすると選択が解除されます。今試してみてください。\n次に<キャンペーン艦隊を表示>をクリックしてください。
 861_Fleets
 -1
 
@@ -1430,8 +1430,8 @@ ToolsPanelCampaign
 false
 false
 65
-Navy
-This list shows any fleets under your command, and has same controls as the previous units list. You may try selecting and deselecting any fleet now.\nNext, open the <Military Panel.>
+海軍
+この一覧には指揮下のすべての艦隊が表示され、先ほどの部隊一覧と同じ操作方法です。艦隊の選択・選択解除を試してみてください。\n次に<軍事パネル>を開いてください。
 371_Military
 -1
 
@@ -1452,8 +1452,8 @@ ToolsPanelCampaign
 false
 false
 66
-Management
-This is your main military management panel. It is divided into four parts: armies, fleets, officers and weapons. We will take a closer look at them next.\nIn this panel you can filter and sort the information with the controls on the right. You may also use the <Find by Name> filter to search by clicking it, and writing.\nMake sure the <Armies> tab is selected by clicking it, to proceed.
+管理
+これが主要な軍事管理パネルです。陸軍、艦隊、士官、兵器の4つの部分に分かれています。次にそれぞれを詳しく見ていきます。\nこのパネルでは、右側のコントロールで情報のフィルターと並べ替えができます。<名前で検索>フィルターをクリックして入力することで検索することもできます。\n先へ進むには、<陸軍>タブが選択されていることを確認してクリックしてください。
 493_Armies
 -1
 xxx_Filters
@@ -1474,8 +1474,8 @@ Panel_Main
 false
 false
 67
-Management
-Here you can browse and manage all the armies and garrisons of your nation. You can browse all the units, that fit the selected filter settings, using the arrows on top. 
+管理
+ここでは自国のすべての軍と守備隊を閲覧・管理できます。上部の矢印を使って、選択したフィルター条件に合致するすべての部隊を確認できます。
 
 -1
 382_PrevArmy
@@ -1496,8 +1496,8 @@ Panel_Main
 false
 false
 68
-Management
-Now, find Department of Pennsylvania, commanded by General Patterson, and select Thomas' 1st Brigade from Cadwallader's 1st Division.\nSelecting units is done by clicking the NATO symbols in the middle part of the panel, containing the Order of Battle (OOB).
+管理
+では、パターソン将軍指揮下のペンシルベニア方面軍を見つけ、キャドウォラダー第1師団のトーマス第1旅団を選択してください。\n部隊の選択は、パネル中央部の編成表(OOB)にあるNATO記号をクリックして行います。
 
 3
 
@@ -1518,8 +1518,8 @@ Panel_Main
 false
 false
 69
-Management
-Information about the selected unit will be shown on the left part of the panel.\nYou may change the name of the unit by clicking it and typing and then pressing hotkey ENTER.
+管理
+選択した部隊に関する情報がパネル左側に表示されます。\n部隊名をクリックして入力し、ホットキーENTERを押すことで名前を変更できます。
 
 -1
 078_UnitName
@@ -1540,8 +1540,8 @@ Panel_Main
 false
 false
 70
-Management
-You may see unit information, the commander's information, or the unit's history by clicking the buttons below the commander's portrait.\nThe reinforce and replenish buttons offer controls to increase manpower in the selected unit(s).
+管理
+指揮官の肖像画の下にあるボタンをクリックすることで、部隊情報、指揮官情報、または部隊の履歴を確認できます。\n増援・補充ボタンでは、選択した部隊の兵員数を増やすことができます。
 
 -1
 390_Unit
@@ -1562,8 +1562,8 @@ Panel_Main
 false
 false
 71
-Management
-You may replace and promote commanders during the game using the buttons next to the commander's portrait.\nPromoting commanders will allow them to be placed in command of larger units. See the tooltip in the button.\nNow, let's promote Colonel Thomas to the rank of brigadier general by clicking the <Promote> button.
+管理
+指揮官の肖像画の横にあるボタンを使って、ゲーム中いつでも指揮官の交代や昇進をさせることができます。\n指揮官を昇進させると、より大きな部隊の指揮を任せられるようになります。詳しくはボタンのツールチップを参照してください。\nそれでは<昇進>ボタンをクリックして、トーマス大佐を准将に昇進させましょう。
 384_Promote
 -1
 385_Replace
@@ -1584,8 +1584,8 @@ Panel_Main
 false
 false
 72
-Management
-As you can see, Thomas is now a brigadier general. But he also lost some experience (stars under his portrait went from 2 to 1) in the progress, as his previously held experience was in colonel's commission. The promotion did make him more famous, though.\nNow, let's recruit a new unit to Sandford's 3rd Division. Click the <+> sign in the NATO symbol, with the name "Sandford" on it.
+管理
+ご覧の通り、トーマスは准将になりました。ただしその過程で経験値も一部失っています(肖像画の下の星が2つから1つに減少)。これは彼が大佐としての経験を積んでいたためです。とはいえ昇進によって彼の名声は高まりました。\n次は、サンフォード第3師団に新しい部隊を徴募しましょう。「Sandford」と書かれたNATO記号の<+>記号をクリックしてください。
 
 16
 
@@ -1606,8 +1606,8 @@ Panel_Main
 false
 false
 73
-Recruitment
-Next step is to specify the state from where the unit is recruited from. Let's pick <Illinois>, as the number of available volunteers is high.
+徴募
+次のステップでは、部隊をどの州から徴募するかを指定します。志願兵の数が多い<イリノイ州>を選んでみましょう。
 
 4
 
@@ -1628,8 +1628,8 @@ Panel_Main
 false
 false
 74
-Recruitment
-The recruitment options open one the left side.\nYou may choose the unit type using the appropriate NATO symbol. You may specify the uniform type and colors, initial brigade size, and recruit type using the buttons. Currently you may only recruit volunteers.\nPick <Infantry> unit type, size and uniform of your choosing, and then click <Recruit>.
+徴募
+徴募オプションが左側に開きます。\n適切なNATO記号を使って部隊の種類を選択できます。ボタンで軍服の種類・色、初期旅団規模、徴募兵種を指定できます。現時点では志願兵のみ徴募可能です。\n<歩兵>部隊種を選び、規模と軍服はお好みで選んで<徴募>をクリックしてください。
 481_Recruit
 -1
 590_RecruitInfantry
@@ -1650,8 +1650,8 @@ Panel_Main
 false
 false
 75
-Recruitment
-Now, the new unit is added to the OOB. It's shown partially transparent, as it's still in progress of being recruited, and it will still need to be transported to join the army. You can see how long this will take in the tooltip, provided by the NATO symbol.\nA commander is assigned to the unit automatically. You may replace him: click <Replace.>
+徴募
+これで新しい部隊が編成表に追加されました。まだ徴募中のため半透明で表示されており、軍に合流するには輸送も必要です。ツールチップで、それにかかる時間を確認できます。\n指揮官は自動的に部隊へ割り当てられます。彼を交代させるには<交代>をクリックしてください。
 385_Replace
 -1
 
@@ -1672,8 +1672,8 @@ Panel_Main
 false
 false
 76
-Recruitment
-A list of all your officers is now shown. Using the filters, you may find the commander you want.\nAll the commanders marked red are unavailable for any reason. When selecting a commander from the list, his information is shown on the left side.\nChoose any available commander, and click <Assign.>
+徴募
+全士官の一覧が表示されます。フィルターを使って希望の指揮官を見つけてください。\n赤で表示されている指揮官は何らかの理由で任命不可です。一覧から指揮官を選択すると、左側に情報が表示されます。\n任意の任命可能な指揮官を選び、<割り当て>をクリックしてください。
 490_Assign
 -1
 CommanderIcons
@@ -1694,8 +1694,8 @@ Panel_Main
 false
 false
 77
-Recruitment
-The new commander is now shown. If promotion is required in his new assignment, this will happen automatically once you close the management panel. The new rank he will receive is shown in brackets.\nThe previously proposed commander will not be promoted.\nNow, change the weapon for the new unit by clicking <Upgrade.>
+徴募
+新しい指揮官が表示されました。新しい任務に昇進が必要な場合、管理パネルを閉じると自動的に昇進します。彼が受け取る新しい階級は括弧内に表示されます。\n先ほど提案されていた指揮官は昇進しません。\n次に<アップグレード>をクリックして新部隊の兵器を変更してください。
 090_ChangeWeapon
 -1
 084_CommanderName
@@ -1716,8 +1716,8 @@ Panel_Main
 false
 false
 78
-Recruitment
-In this list you see all the available weapon types. You can see more information in the weapon tooltips, and more details about availability in the <Weapon Crate> -icon's tooltip.\nMore weapons will be produced by your industry, foreign types can be imported, and enemy weapons captured in victorious battles.\nSelect any weapon type you wish the new unit to have, by selecting it, then click <Upgrade.>
+徴募
+この一覧には利用可能なすべての兵器の種類が表示されます。兵器のツールチップでさらに詳しい情報を、<兵器箱>アイコンのツールチップで入手可能性についての詳細を確認できます。\nさらなる兵器は自国の産業によって生産されるほか、外国製の種類を輸入したり、勝利した戦闘で敵の兵器を鹵獲したりすることもできます。\n新部隊に持たせたい兵器の種類を選択し、<アップグレード>をクリックしてください。
 484_Upgrade
 -1
 065_EquipSoldier
@@ -1738,8 +1738,8 @@ Panel_Main
 false
 false
 79
-Recruitment
-You can also use the quick commands to recruit a number of units, and to upgrade their weapons automatically.\nFirst, add a new Division to Department of Pennsylvania, by clicking the yellow <++> symbol in Patterson's NATO symbol.
+徴募
+クイックコマンドを使って複数の部隊を一括徴募し、兵器を自動的にアップグレードすることもできます。\nまず、パターソンのNATO記号内にある黄色い<++>記号をクリックして、ペンシルベニア方面軍に新しい師団を追加してください。
 
 5
 
@@ -1760,8 +1760,8 @@ Panel_Main
 false
 false
 80
-Recruitment
-The new division, called 4th Division is created, but it has no units in it. Now, if you do not add any units in this division, the division HQ will be removed when you close the management panel.\nSelect the unit by clicking the <NATO symbol> of the new division.
+徴募
+「第4師団」という新しい師団が作成されましたが、まだ部隊が一つもありません。この師団に部隊を追加しないまま管理パネルを閉じると、師団司令部は削除されてしまいます。\n新しい師団の<NATO記号>をクリックして選択してください。
 
 6
 
@@ -1782,8 +1782,8 @@ Panel_Main
 false
 false
 81
-Recruitment
-Now, use the quick recruitment buttons in the bottom of the OOB panel: choose to add 1 infantry and 1 artillery unit by clicking the highlighted <Up Arrows>, and select the unit size by clicking the round symbols on the left side.\nAfter this, click <Auto Generate Units>.
+徴募
+それでは編成表パネル下部のクイック徴募ボタンを使ってみましょう。ハイライトされた<上矢印>をクリックして歩兵1部隊と砲兵1部隊を追加することを選択し、左側の丸い記号をクリックして部隊規模を選択してください。\nその後<部隊を自動生成>をクリックしてください。
 521_AutoGenerateUnits
 7
 524_AutoIncInf
@@ -1804,8 +1804,8 @@ Panel_Main
 false
 false
 82
-Recruitment
-Now 4th Division has 2 units in it, an infantry brigade and an artillery battalion. The said units are equipped with default weapons, Mixed Muskets and 6-pdr Cannons.\nTo quickly upgrade the weapons, first select 4th Division...
+徴募
+これで第4師団に歩兵旅団1個と砲兵大隊1個、計2部隊が編成されました。これらの部隊はデフォルトの兵器、すなわち混成マスケット銃と6ポンド砲で装備されています。\n兵器を素早くアップグレードするには、まず第4師団を選択してください...
 
 6
 
@@ -1826,8 +1826,8 @@ Panel_Main
 false
 false
 83
-Recruitment
-...and then click <Auto Upgrade Weapons.>
+徴募
+...次に<兵器を自動アップグレード>をクリックしてください。
 520_WeaponAutoUpgrade
 -1
 
@@ -1848,8 +1848,8 @@ Panel_Main
 false
 false
 84
-Recruitment
-Now, the weapons are upgraded to best available types. Notice, you may upgrade weapons for whole armies at a time, using the same controls.
+徴募
+これで兵器は入手可能な最良の種類にアップグレードされました。同じ操作で、軍全体の兵器を一括アップグレードすることもできることに注意してください。
 
 -1
 
@@ -1870,8 +1870,8 @@ Panel_Main
 false
 false
 85
-Transferring
-You can drag and drop units within the OOB to modify it. Select Williams' 3rd Brigade under 1st Division, and drag and drop it into 4th Division's NATO symbol. The unit will then be transferred from 1st to 4th Division.
+部隊移動
+編成表内では部隊をドラッグ＆ドロップして編成を変更できます。第1師団配下のウィリアムズ第3旅団を選択し、それを第4師団のNATO記号にドラッグ＆ドロップしてください。これでその部隊は第1師団から第4師団に移動します。
 
 8
 
@@ -1892,8 +1892,8 @@ Panel_Main
 false
 false
 86
-Management
-Other controls available here are:\n- To transfer units or headquarters between different armies, you can divide the OOB window into two by pressing the <Transfer> -button. This allows dragging and dropping from one window to another.\n- You may create new armies using the <Recruit a New Army> button.\n- You may remove a selected unit from the OOB by clicking <Delete Selected Unit.>\n- You may change between the current OOB view, which is used for recruitment and management of your armies, and a list view, which shows all your units in one list.\nNow, let's move on to Fleets: click the <Fleets Tab> above the panel.
+管理
+ここで使える他の操作は以下の通りです:\n・異なる軍の間で部隊や司令部を移動させるには、<移動>ボタンを押して編成表ウィンドウを2つに分割できます。これにより一方のウィンドウからもう一方へドラッグ＆ドロップできます。\n・<新しい軍を徴募>ボタンで新しい軍を作成できます。\n・<選択した部隊を削除>をクリックして、選択した部隊を編成表から削除できます。\n・部隊の徴募や管理に使う現在の編成表ビューと、全部隊を一つの一覧に表示するリストビューを切り替えることができます。\nそれでは艦隊に進みましょう。パネル上部の<艦隊タブ>をクリックしてください。
 494_Fleets
 -1
 472_Transfer
@@ -1914,8 +1914,8 @@ Panel_Main
 false
 false
 87
-Fleets
-General, Secretary of the Navy, Gideon Welles.\nThe fleets panel works in similar fashion as the armies previously. The panel is divided into 2 parts in the middle. On the left part you see either the selected fleet, or a list of all fleets, depending on the selected view. On the right you see all the ships that are not assigned to a fleet currently.
+艦隊
+将軍、海軍長官のギデオン・ウェルズです。\n艦隊パネルは、先ほどの陸軍と似た方式で機能します。パネルは中央で2つの部分に分かれています。左側には、選択したビューに応じて、選択中の艦隊か全艦隊の一覧のどちらかが表示されます。右側には現在いずれの艦隊にも配属されていない艦船がすべて表示されます。
 
 -1
 499_SelectedFleet
@@ -1936,8 +1936,8 @@ Panel_Main
 false
 false
 88
-Fleets
-On the left side of the panel, you see information about the selected fleet and ship. The controls work like in the case of armies and units.
+艦隊
+パネルの左側には、選択中の艦隊と艦船に関する情報が表示されます。操作方法は陸軍や部隊の場合と同様です。
 
 -1
 391_Ship
@@ -1958,8 +1958,8 @@ Panel_Main
 false
 false
 89
-Fleets
-To manage your fleets, you may:\n- Delete a selected ship using the <-> button.\n- Create a new fleet using the <Create New Fleet> button.\n- Drag and drop ships from fleets to harbor and vice versa.\n- Build new ships using the <+> button.\nNow, order construction of a new ship by pressing the <Construct New Ship> button on the right side, where it says "Ships in Harbor".
+艦隊
+艦隊を管理するには以下の操作ができます:\n・<->ボタンで選択した艦船を削除する。\n・<新しい艦隊を作成>ボタンで新しい艦隊を作る。\n・艦船を艦隊と港の間でドラッグ＆ドロップする。\n・<+>ボタンで新しい艦船を建造する。\nそれでは、右側の「港にいる艦船」欄にある<新しい艦船を建造>ボタンを押して、新造艦の建造を命令してください。
 505_CreateShipPool
 -1
 512_NewFleet
@@ -1980,8 +1980,8 @@ Panel_Main
 false
 false
 90
-Fleets
-A list opens, with all the available ship types shown. Selecting one allows building it.\nIn case you are constructing new ships into fleets, depending on the fleet type (river, sea), some ship types may be unavailable and marked red.\nNow, select any ship type and click <Build.>
+艦隊
+利用可能な全艦種の一覧が開きます。いずれかを選択すると建造できます。\n艦隊(河川用・外洋用)に新造艦を配属する場合、艦隊の種類によっては利用できず赤で表示される艦種もあります。\n任意の艦種を選択して<建造>をクリックしてください。
 506_Build
 -1
 
@@ -2002,8 +2002,8 @@ Panel_Main
 false
 false
 91
-Fleets
-The new ship is added to the pool of ships in harbor. It will take many days to build it, the progress can be seen in the ship's information, and estimated time for the ship to be ready is shown in the tooltip provided in the ship's small image in the list (Under construction X days).\nOK, now let's move on to commanders. Press the <Officers Tab.>
+艦隊
+新造艦は港にいる艦船のプールに追加されます。建造には数日かかり、進捗状況は艦船情報で確認できます。完成までの推定時間は、一覧内の艦船の小さな画像のツールチップ(「建造中 あとX日」)で表示されます。\nそれでは指揮官について見ていきましょう。<士官タブ>を押してください。
 495_Commanders
 -1
 
@@ -2024,8 +2024,8 @@ Panel_Main
 false
 false
 92
-Officers
-In this window you can browse and manage all of your officers corps. Use the filters on the right-hand side. Notice, that either <Army> or <Navy> must be selected.\nYou can also search for certain commanders using the <Find by Name> filter, and promote or replace officers, the latter is only available for assigned commanders.\nLastly, let's inspect the weapons, shall we? Press the <Weapons Tab.>
+士官
+このウィンドウでは、自国の全士官団を閲覧・管理できます。右側のフィルターを使用してください。<陸軍>か<海軍>のいずれかを選択する必要があることに注意してください。\n<名前で検索>フィルターで特定の指揮官を探すこともでき、士官の昇進や交代もできます(交代は任命済みの指揮官のみ可能です)。\n最後に兵器を見てみましょう。<兵器タブ>を押してください。
 496_Weapons
 -1
 
@@ -2046,8 +2046,8 @@ Panel_Main
 false
 false
 93
-Weapons
-In this panel you can see the number of all the weapons in our armories and depots.\nWhen a weapon type is made available through a project, you may place orders for the weapon. Depending on the weapon in question, the order will be fullfilled by the nation's industry, or through imports.\nSelect any of the weapons in the list.
+兵器
+このパネルでは、自国の兵器庫と補給所にあるすべての兵器の数を確認できます。\nある兵器の種類がプロジェクトによって利用可能になると、その兵器の発注ができるようになります。兵器の種類によって、発注は自国の産業または輸入によって満たされます。\n一覧から任意の兵器を選択してください。
 
 23
 486_WeaponList0
@@ -2068,8 +2068,8 @@ Panel_Main
 false
 false
 94
-Weapons
-When a weapon is selected, you can see detailed information on the left side, including the controls to place an order. Click the small left/right arrows to decrease/increase the order volume. The price and estimated time of delivery is shown near the bottom.\nNow let General Winfield Scott take you to the field. Close the <Military Panel> by pressing the button in the top bar.
+兵器
+兵器を選択すると、左側に詳細情報が表示され、発注のための操作も可能になります。小さな左右の矢印をクリックして発注量を増減できます。価格と納期の目安は下部近くに表示されます。\nそれではウィンフィールド・スコット将軍に戦場を案内してもらいましょう。上部バーのボタンを押して<軍事パネル>を閉じてください。
 371_Military
 -1
 CheckBoxAutomanage
@@ -2090,8 +2090,8 @@ Panel_Main
 false
 false
 95
-Alarms
-Welcome, General. First, eyes right, to the alarms under the top panel. Here you can see every alarming event going on at any given time. See the tooltips in each alarm icon for more information. Clicking the icons will rotate the camera from each location to the next.\nAs you can see, the rebels reportedly have an army in Missouri. The British are also favoring the rebel cause, at least for now.
+警報
+ようこそ、将軍。まずは右側、上部パネル下の警報を見てください。ここには、その時点で発生しているあらゆる警戒すべき出来事が表示されます。詳細は各警報アイコンのツールチップを参照してください。アイコンをクリックすると、カメラが各場所を順に巡ります。\nご覧の通り、反乱軍はミズーリに軍を展開していると報告されています。イギリスも、今のところ反乱軍側に好意的なようです。
 
 -1
 847_UnionInvasion
@@ -2112,8 +2112,8 @@ CampaignTopBar
 false
 true
 96
-Armies
-Now, let's focus on the task at hand: Click <Show Campaign Units> and then on the list select <Army of the West.>
+陸軍
+それでは目下の任務に集中しましょう。<キャンペーンユニットを表示>をクリックし、一覧から<西方軍>を選択してください。
 
 9
 860_Units
@@ -2134,8 +2134,8 @@ ToolsPanelCampaign
 false
 false
 97
-Armies
-General Lyon's army is now selected, and further information is shown in the unit panel. You can see the strength information, supplies, status, and other information there. Most of the lines offer tooltips about the details.\nMost important ones are morale, supplies and readiness.\nAt any time, you can center the camera on the selected unit by clicking the commander's portrait.
+陸軍
+ライアン将軍の軍が選択され、部隊パネルにさらなる情報が表示されます。ここでは戦力情報、補給、状態、その他の情報を確認できます。ほとんどの行にツールチップで詳細が表示されます。\n最も重要なのは士気、補給、即応度です。\nいつでも指揮官の肖像画をクリックすると、カメラが選択中の部隊を中心に移動します。
 
 -1
 222_ReadinessText
@@ -2156,8 +2156,8 @@ ToolsPanelCampaign
 false
 false
 98
-Armies
-Around the army on the map, you see two circles. The outer one is <Command Range> and the inner one <Combat Range>. Armies can reinforce others inside their command range, and they will engage enemies within combat range. 
+陸軍
+マップ上で軍の周囲に2つの円が見えます。外側は<指揮範囲>、内側は<戦闘範囲>です。軍は指揮範囲内にある他の軍を増援でき、戦闘範囲内の敵とは交戦します。
 
 -1
 
@@ -2178,8 +2178,8 @@ ToolsPanelCampaign
 false
 false
 99
-Supplies
-Let's take a look at Lyon's supplies. First, open the <Map Information Settings.>
+補給
+ライアン軍の補給状況を見てみましょう。まず<マップ情報設定>を開いてください。
 097_CToolsButton
 -1
 
@@ -2200,8 +2200,8 @@ ToolsPanelCampaign
 false
 false
 100
-Supplies
-Now, select <Show Supply Lines.>
+補給
+次に<補給線を表示>を選択してください。
 107_SupplyLines
 -1
 
@@ -2222,8 +2222,8 @@ ToolsPanelCampaign
 false
 false
 101
-Supplies
-Close the <Map Information Settings.>
+補給
+<マップ情報設定>を閉じてください。
 097_CToolsButton
 -1
 
@@ -2244,8 +2244,8 @@ ToolsPanelCampaign
 false
 false
 102
-Supplies
-Select Lyon's army, if it's no longer selected.\nYou can now see a green arrow line from Springfield, Missouri, to the army. When hovering mouse cursor over the <Connected Supply Depots> button, the tooltip tells there are none nearby. This means the army is living off the land currently, and the situation is not sustainable for a longer period of time.\nOrder Lyon to build a supply depot: Click <Construction> in the bottom Orders Panel.
+補給
+ライアン軍の選択が解除されていたら、再度選択してください。\nミズーリ州スプリングフィールドから軍へ向かう緑色の矢印線が見えるはずです。<接続された補給拠点>ボタンにマウスカーソルを重ねると、ツールチップに近くに補給拠点がない旨が表示されます。これはこの軍が現在現地調達で自活しており、長期間は維持できない状況にあることを意味します。\nライアンに補給拠点の建設を命令しましょう。下部の命令パネルで<建設>をクリックしてください。
 602_CONSTRUCT
 -1
 313_SupplyDepots
@@ -2266,8 +2266,8 @@ Select Lyon's army, if it's no longer selected.\nYou can now see a green arrow l
 false
 false
 103
-Supplies
-Units can construct forts, telegraph stations and supply depots in the game.\nSelect <Supply Depot> by left clicking it.
+補給
+ゲーム中、部隊は要塞、電信基地、補給拠点を建設できます。\n左クリックで<補給拠点>を選択してください。
 631_DEPOT
 -1
 
@@ -2288,8 +2288,8 @@ Units can construct forts, telegraph stations and supply depots in the game.\nSe
 false
 false
 104
-Supplies
-Now, choose a location for the depot near the army, within its combat range. If a suitable location is found, the building 3D model will show normal colors instead of red.\nWhen a suitable location is found, left click the terrain to order construction of the depot.
+補給
+次に、軍の戦闘範囲内で、軍の近くに拠点の建設場所を選んでください。適切な場所が見つかると、建物の3Dモデルが赤ではなく通常の色で表示されます。\n適切な場所が見つかったら、地形を左クリックして拠点の建設を命令してください。
 
 10
 
@@ -2310,8 +2310,8 @@ Now, choose a location for the depot near the army, within its combat range. If 
 false
 false
 105
-Supplies
-When the game time is running again, the depot will be constructed for as long as the army remains nearby. This will take some days, and during that time a progress bar is shown on top of the construction site. Once the depot is ready, it will start to fill with military supplies, that will be distributed to armies that have the depot within their command range.
+補給
+ゲーム内の時間が再び進み始めると、軍がその場に留まっている限り拠点の建設が進みます。これには数日かかり、その間は建設現場の上に進捗バーが表示されます。拠点が完成すると軍需物資が蓄積され始め、指揮範囲内にその拠点を持つ軍へ分配されます。
 
 -1
 
@@ -2332,8 +2332,8 @@ When the game time is running again, the depot will be constructed for as long a
 false
 false
 106
-Supplies
-Now, select the town of Springfield, Missouri: Move the mouse cursor near the town on the map, an icon will be shown. <Click the icon> to open information about Springfield.\nIf you cannot find the town, click the magnifying glass below to move camera to Springfield, then select the town.
+補給
+それではミズーリ州スプリングフィールドの町を選択してください。マップ上で町の近くにマウスカーソルを近づけるとアイコンが表示されます。<そのアイコンをクリック>してスプリングフィールドの情報を開いてください。\n町が見つからない場合は、下の虫眼鏡アイコンをクリックしてカメラをスプリングフィールドへ移動させてから、町を選択してください。
 
 19
 Town_Springfield
@@ -2354,8 +2354,8 @@ Town_Springfield
 false
 false
 107
-Supplies
-Armies and depots connect to "Important Infrastructure Points" (IIPs). All goods, including military supplies, of your nation flow through these points, depending on supply & demand. The speed is determined by transport capacity.\nAs Springfield, MO, is not connected to a railroad, its transport capacity is quite low. This means moving supplies through it is slow. For example, if it had a railroad connection, capacity would be much higher.\nEspecially larger armies can only be supported when they have good lines of supplies available: rivers, railroad lines, canals, and harbors offer best capacity.
+補給
+軍と拠点は「重要インフラ拠点」(IIP)に接続されます。軍需物資を含む自国のあらゆる物資は、需要と供給に応じてこれらの拠点を通じて流通します。速度は輸送能力によって決まります。\nミズーリ州スプリングフィールドは鉄道に接続されていないため、輸送能力はかなり低くなっています。つまりここを通る物資の移動は遅いということです。例えば鉄道が接続されていれば、能力ははるかに高くなります。\n特に大規模な軍は、河川、鉄道路線、運河、港など、良好な補給線が確保されている場合にのみ維持できます。
 
 -1
 
@@ -2376,8 +2376,8 @@ Armies and depots connect to "Important Infrastructure Points" (IIPs). All goods
 false
 false
 108
-Supplies
-To see the flow of goods to and from Springfield, MO, you may click any of the goods icons in the panel, and the supply lines are shown. The color of the animated line describes how many goods of said type are being moved to and from Springfield to other IIPs it is connected to.
+補給
+ミズーリ州スプリングフィールドとの間の物資の流れを見るには、パネル内の各物資アイコンをクリックすると補給線が表示されます。アニメーション表示される線の色は、その物資がスプリングフィールドと接続する他のIIPとの間でどれだけ移動しているかを表します。
 
 -1
 
@@ -2398,8 +2398,8 @@ To see the flow of goods to and from Springfield, MO, you may click any of the g
 false
 false
 109
-Orders
-As you can see, General, economy and supplies are important to our military. But they are as important to the enemy. To deny the rebels foreign supplies, we must blockade their ports. Let Senior Flag Officer, U.S.N., Charles Stewart, show you how to give orders to our fleets.\nClick <Show Campaign Fleets.>
+命令
+ご覧の通り、将軍、経済と補給は我が軍にとって重要ですが、敵にとっても同様に重要です。反乱軍に外国からの物資供給を断つには、彼らの港を封鎖しなければなりません。上級旗艦将官、チャールズ・スチュワートに、艦隊への命令の出し方を案内させましょう。\n<キャンペーン艦隊を表示>をクリックしてください。
 861_Fleets
 -1
 
@@ -2420,8 +2420,8 @@ ToolsPanelCampaign
 false
 true
 110
-Fleets
-General, let's start by selecting Atlantic Blockading Squadron, off the coast of Virginia, from the list of fleets.
+艦隊
+将軍、それではバージニア沖の大西洋封鎖戦隊を艦隊一覧から選択してみましょう。
 
 11
 
@@ -2442,8 +2442,8 @@ General, let's start by selecting Atlantic Blockading Squadron, off the coast of
 false
 false
 111
-Fleets
-Just like with armies, the fleets show two circles around them, the command and combat ranges.\nOffensive fleets will reinforce other fleets within their command range. If an enemy fleet or a fort is within the combat range a battle will commence. All naval engagements are autoresolved.\nThe fleet panel shows similar information as the unit panel earlier. The difference is that you may browse the individual ships within the fleet using the left/right arrows, and see their information in the tooltip when cursor is pointing at the ship image.
+艦隊
+陸軍と同様、艦隊の周囲にも指揮範囲と戦闘範囲の2つの円が表示されます。\n攻撃的な艦隊は指揮範囲内の他の艦隊を増援します。戦闘範囲内に敵艦隊や要塞があれば戦闘が発生します。すべての海戦は自動解決されます。\n艦隊パネルには、先ほどの部隊パネルと同様の情報が表示されます。異なる点は、左右の矢印を使って艦隊内の個々の艦船を閲覧でき、カーソルを艦船の画像に重ねるとツールチップで情報を確認できることです。
 
 -1
 309_ArrowNextShip
@@ -2464,8 +2464,8 @@ Just like with armies, the fleets show two circles around them, the command and 
 false
 false
 112
-Fleets
-Fleets will autonomously rotate their individual ships to and from port if any ship is low on supplies or damaged. The fleet itself will remain on station where you ordered it to be. The ships that are not with the fleet at any time, cannot take part in combat.
+艦隊
+艦隊は、いずれかの艦船の補給が少なくなったり損傷したりした場合、自律的に個々の艦船を港との間で交代させます。艦隊自体は命令された配置場所に留まります。ある時点で艦隊に同行していない艦船は戦闘に参加できません。
 
 -1
 
@@ -2486,8 +2486,8 @@ Fleets will autonomously rotate their individual ships to and from port if any s
 false
 false
 113
-Orders
-Now, let's order the fleet to blockade enemy ports, like that at Norfolk.\nFrom the orders panel in the bottom, click <Fleet Orders> button.
+命令
+それでは、ノーフォークのような敵の港を封鎖するよう艦隊に命令しましょう。\n下部の命令パネルから<艦隊命令>ボタンをクリックしてください。
 651_FLEET
 -1
 
@@ -2508,8 +2508,8 @@ Now, let's order the fleet to blockade enemy ports, like that at Norfolk.\nFrom 
 false
 false
 114
-Orders
-A fleet can be ordered to patrol, to raid blockading fleets, or to blockade. Further information is given in the tooltips.\nNow, order the fleet to <Blockade> by clicking the highlighted button.
+命令
+艦隊には哨戒、封鎖艦隊への襲撃、または封鎖を命令できます。詳細はツールチップを参照してください。\nそれではハイライトされたボタンをクリックして艦隊に<封鎖>を命令してください。
 670_BLOCKADE
 -1
 
@@ -2530,8 +2530,8 @@ A fleet can be ordered to patrol, to raid blockading fleets, or to blockade. Fur
 false
 false
 115
-Orders
-The fleet is now blockading, as indicated by the graphic in the NATO symbol. All enemy ports within the fleet's command range (outer circle) are considered blocked. The effectiveness depends on range to the fleet, the fleet's size and the commander's abilities.\nAll blockaded ports show a "flame" icon to indicate being blocked. Port tooltip will show the percentage of trade being blocked. These indicators will be shown soon, when the game time is running.
+命令
+これで艦隊は封鎖を実行中です。NATO記号内のグラフィックがそれを示しています。艦隊の指揮範囲(外側の円)内にある敵の港はすべて封鎖されているとみなされます。効果は艦隊までの距離、艦隊の規模、指揮官の能力によって決まります。\n封鎖されている港はすべて「炎」のアイコンで示されます。港のツールチップには、封鎖されている交易の割合が表示されます。ゲーム内時間が進み始めると、間もなくこれらの表示が現れます。
 
 -1
 Port_Norfolk
@@ -2552,8 +2552,8 @@ Port_Onancock
 false
 false
 116
-Orders
-As you can see, Rocket's Landing, a port near Richmond, and West Point port are not yet blockaded, as they are not within the command range of the Atlantic Blockading Squadron.\nFor this reason, move the fleet closer, near Hampton Roads (as indicated by the arrow). The order is given by using Right Mouse Button while the fleet is selected.
+命令
+ご覧の通り、リッチモンド近くの港ロケッツ・ランディングとウェストポイント港は、大西洋封鎖戦隊の指揮範囲内にないため、まだ封鎖されていません。\nそこで、艦隊をハンプトン・ローズ付近(矢印で示された場所)に近づけましょう。命令は艦隊を選択した状態でマウス右ボタンを使って出します。
 
 12
 Port_Richmond
@@ -2574,8 +2574,8 @@ Port_WestPoint
 false
 false
 117
-Orders
-Next, click <Play> in the time panel.
+命令
+次に、時間パネルの<再生>をクリックしてください。
 073_Play
 -1
 
@@ -2596,8 +2596,8 @@ Next, click <Play> in the time panel.
 false
 false
 118
-Orders
-The fleet starts moving immediately. Fleets are not subject to order delays in the game.\nWhen moving, the fleet's readiness will be slowly reduced. If readiness is low, the fleet cannot carry out all orders. The information about readiness is shown in the tooltip.\nSoon, you will see the enemy ports being blockaded.
+命令
+艦隊は即座に移動を開始します。ゲーム内で艦隊には命令遅延が適用されません。\n移動中、艦隊の即応度は徐々に低下します。即応度が低いと、艦隊はすべての命令を実行できなくなります。即応度に関する情報はツールチップで確認できます。\n間もなく、敵の港が封鎖されていくのが見えるでしょう。
 
 -1
 ReadinessSlider
@@ -2618,8 +2618,8 @@ ReadinessSlider
 false
 false
 119
-Orders
-The other orders available for fleets are:\n- Stances: offensive fleets will reinforce other fleets and will not stop before an engagement, unlike defensive fleets.\n- Movement: halt, or sail to nearest safe port.\n- The last button opens fleet management.
+命令
+艦隊に対して利用できる他の命令は以下の通りです:\n・態勢: 攻撃的な艦隊は他の艦隊を増援し、防御的な艦隊とは異なり交戦前に停止しません。\n・移動: 停止する、または最寄りの安全な港へ航行する。\n・最後のボタンで艦隊管理を開きます。
 
 -1
 650_STANCE
@@ -2640,8 +2640,8 @@ The other orders available for fleets are:\n- Stances: offensive fleets will rei
 false
 false
 120
-Orders
-Last thing you should know about the fleets, is that, depending upon ship types they contain, they can sail the seas, navigate the major rivers like the Mississippi, or both. For example, the North Atlantic Blockading Squadron has so large ships in it, that it cannot move up major rivers, but can only operate on open seas.\nNow, pause the game by pressing <Pause> in the time panel.
+命令
+艦隊について最後に知っておくべきことは、含まれる艦種によって、外洋を航行できるか、ミシシッピ川のような主要河川を航行できるか、あるいはその両方が可能かが決まるという点です。例えば北大西洋封鎖戦隊には非常に大型の艦船が含まれているため、主要河川を遡ることはできず、外洋でのみ活動できます。\nそれでは時間パネルの<一時停止>を押してゲームを一時停止してください。
 072_Pause
 -1
 
@@ -2662,8 +2662,8 @@ Last thing you should know about the fleets, is that, depending upon ship types 
 false
 false
 121
-Orders
-Now, General, back to the field.\nClick <Show Campaign Units>.
+命令
+それでは将軍、再び戦場に戻りましょう。\n<キャンペーンユニットを表示>をクリックしてください。
 860_Units
 -1
 
@@ -2684,8 +2684,8 @@ ToolsPanelCampaign
 false
 true
 122
-Orders
-Next, select Army of Northeastern Virginia.
+命令
+次に北東バージニア軍を選択してください。
 
 13
 
@@ -2706,8 +2706,8 @@ ToolsPanelCampaign
 false
 false
 123
-Orders
-The orders available for armies can be seen in the Orders Panel, bottom of the screen:\n- Stance: defensive armies will entrench and will not engage enemies in open field battle by default. Offensive armies will remain in higher readiness and will engage any enemy encountered.\n- Army Orders: Allows the army to carry out raiding, guarding or scouting.\n- You already know about construction.\n- Movement orders allow ordering a halt or a forced march. Only units with high readiness (green) can use forced march.\n- Management opens the army management in the military panel. Each order button will show details in its tooltip.
+命令
+軍に対して利用できる命令は、画面下部の命令パネルで確認できます:\n・態勢: 防御的な軍はデフォルトで塹壕を構築し、野戦で敵と交戦しません。攻撃的な軍はより高い即応度を維持し、遭遇した敵とは交戦します。\n・軍の命令: 軍に襲撃、警戒、偵察を行わせることができます。\n・建設についてはすでにご存知の通りです。\n・移動命令では停止や強行軍を命令できます。強行軍を使えるのは即応度が高い(緑色の)部隊のみです。\n・管理では軍事パネル内の軍管理を開きます。各命令ボタンのツールチップに詳細が表示されます。
 
 -1
 600_STANCE
@@ -2728,8 +2728,8 @@ The orders available for armies can be seen in the Orders Panel, bottom of the s
 false
 false
 124
-Orders
-A rebel army is deployed near Manassas Junction. It's time to move McDowell's army to defeat it and then march on to Richmond to end this folly.\n<Give a movement order to the shown location>, using Right Mouse Button.\nWhen the order is given, you see a small orange symbol with a timer around it. Moving your cursor on top of this symbol opens a small on-map panel and pauses the game.
+命令
+マナサス・ジャンクション付近に反乱軍が展開しています。マクダウェル軍を進撃させてこれを打ち破り、そのままリッチモンドへ進軍してこの愚行に終止符を打つ時です。\nマウス右ボタンを使って<表示されている場所へ移動命令を与えて>ください。\n命令を出すと、タイマー付きの小さなオレンジ色の記号が表示されます。この記号にカーソルを重ねると、マップ上に小さなパネルが開きゲームが一時停止します。
 
 14
 Army of the Potomac
@@ -2750,8 +2750,8 @@ Army of the Potomac
 false
 false
 125
-Orders
-In this movement order panel, you may give further instructions to the unit.\nBy allowing transportation, the commander may plan a route that takes advantage of sea, river, or rail movement. In the top bar you can see the transportation capacity per type. When transported, the unit reserves portion of the capacity, and the government will pay upkeep for it.\nYou may also order the unit to carry out the order at a certain date, to use forced marching, or to retreat.\nNow, accept the movement order by clicking the <Issue Orders> button (tick).
+命令
+この移動命令パネルでは、部隊にさらなる指示を与えることができます。\n輸送を許可すると、指揮官は海路・河川・鉄道の輸送を活用した経路を計画できます。上部のバーには種類ごとの輸送能力が表示されます。輸送されると、その部隊は容量の一部を占有し、政府はその維持費を支払います。\nまた、部隊に特定の日付での命令実行、強行軍の使用、撤退を命令することもできます。\nそれでは<命令発行>ボタン(チェックマーク)をクリックして移動命令を承認してください。
 006_AcceptRoute
 -1
 Panel_Cmovement
@@ -2772,8 +2772,8 @@ Panel_Cmovement
 false
 false
 126
-Order Delays
-When an order is given to an army, or a corps, it will be carried out only after a delay (when order delays are enabled in game options). The higher the readiness, the lower the delay. If the unit has telegraph connection, the delay is much lower as well. The delay is shown in the unit panel as a timer, as well as on the map next to the NATO symbol.\nNow, click play, to see how the order delay counts down and the unit moves out.
+命令遅延
+軍または軍団に命令が出されると、(ゲームオプションで命令遅延が有効な場合)一定の遅延の後に実行されます。即応度が高いほど遅延は短くなります。部隊が電信で接続されている場合も遅延は大幅に短くなります。遅延は部隊パネルにタイマーとして、またマップ上のNATO記号の横にも表示されます。\nそれでは再生をクリックして、命令遅延がカウントダウンし部隊が出発する様子を見てみましょう。
 073_Play
 -1
 OrderDelayInfo
@@ -2794,8 +2794,8 @@ OrderDelayInfo
 false
 false
 127
-Order Delays
-As the army is moving out, <Accelerate Time to 20X> from the time panel.
+命令遅延
+軍が出発しつつある間、時間パネルから<時間を20倍速に加速>してください。
 
 15
 075_4x
@@ -2816,8 +2816,8 @@ As the army is moving out, <Accelerate Time to 20X> from the time panel.
 false
 false
 128
-Engagement
-Once your army is in contact with an enemy army, an engagement panel opens and the game is paused. Click the <Go to Location> arrow-button to move camera to the engagement location.\nIn the panel, you can choose whether to engage in a field battle, autoresolve the battle, to deploy to defend and dig in, or to withdraw or retreat. Each button shows the tooltip for further information.\nIn case there are reinforcements nearby, you may choose which ones to order to march to the sound of guns from the <Reinforcements> -panel. Click <Next Tutorial Step.>
+交戦
+自軍が敵軍と接触すると、交戦パネルが開きゲームが一時停止します。<場所へ移動>矢印ボタンをクリックすると、カメラが交戦地点へ移動します。\nこのパネルでは、野戦で交戦するか、戦闘を自動解決するか、防御展開して塹壕を構築するか、撤退・退却するかを選択できます。各ボタンにはツールチップでさらに詳しい情報が表示されます。\n近くに増援部隊がいる場合は、<増援>パネルから砲声を聞いて駆けつけさせる部隊を選ぶことができます。<次のチュートリアルステップ>をクリックしてください。
 
 -1
 ReinforcementsTextUSA
@@ -2838,8 +2838,8 @@ ReinforcementsTextUSA
 false
 false
 129
-End of Tutorial
-General, the tutorial is over, and you are ready to start learning the game by doing.\nAs was said in the beginning of the tutorial, it only contained the basics of Grand Tactician campaign game play. Remember, at any time you may open the Field Book for instructions. You may also refer to the game's manual, which can be found in the install folder.\nYou may continue to play this scenario without this Tutorial interface, by starting the battle, or to end the scenario via Main Menu.\nIf you choose to lead the battle personally, there will not be a tutorial interface. Battle tutorial can be found in the Historical Battles scenarios.\nGood luck, General!
+チュートリアル終了
+将軍、チュートリアルはこれで終了です。実際にプレイしながらゲームを学ぶ準備が整いました。\nチュートリアルの冒頭で述べた通り、これはグランド・タクティシャンのキャンペーンプレイの基本のみを扱ったものです。いつでもフィールドブックを開いて説明を確認できることを忘れないでください。また、インストールフォルダにあるゲームのマニュアルも参考にできます。\nこのチュートリアルインターフェースなしでこのシナリオをそのままプレイし続けるには、戦闘を開始するか、メインメニューからシナリオを終了してください。\n自ら戦闘を指揮することを選んだ場合、そこにチュートリアルインターフェースはありません。戦闘チュートリアルは史実戦闘シナリオで見ることができます。\n幸運を、将軍！
 
 -1
 094_GameGuide
@@ -2860,7 +2860,7 @@ General, the tutorial is over, and you are ready to start learning the game by d
 false
 false
 130
-End of Tutorial
+チュートリアル終了
 
 
 -1
