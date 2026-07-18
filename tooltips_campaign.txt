@@ -1,0 +1,2013 @@
+0
+Move at time
+Order the unit to move out at a given time.
+1
+Forced March
+When ordered, the unit will keep marching without stopping to forage or to rest. This will increase attrition and the strain on the men, but will allow faster movement. This option is only available if readiness is green.
+2
+Retreat!
+Break contact and retreat from the enemy. If morale is low the men may rout.
+3
+Rail movement
+Allow the commander to use railroad transportation to plan the quickest route. Railroad transport capacity is required.
+4
+Sea movement
+Allow the commander to use transport ships to plan the quickest route. Sea transport capacity is required.
+5
+River movement
+Allow the commander to utilize river flotilla when planning the quickest route. River transport capacity is required.
+6
+Issue orders
+
+7
+Cancel orders
+
+8
+Change date
+Click to modify the date when the order should be carried out.
+9
+Left
+Coordinate with the target unit positioning on its left side.
+10
+Front
+Coordinate with the target unit positioning in front of it.
+11
+Reserve
+Coordinate with the target unit positioning as reserve.
+12
+Right
+Coordinate with the target unit positioning on its right side.
+13
+Movement Options
+
+14
+All ships in fleet disabled!
+
+16
+[Battle monument]
+[Here a historical battle has taken place]
+17
+Newspaper
+Extra, extra! News from the front lines is reviewed carefully by the citizenship and the nature of the news has an impact in their support for the War Effort. 
+18
+Close Panel
+LMB to close this panel.
+19
+Select
+
+25
+[VAR68] days
+no vessels
+30
+Continue last game
+
+31
+Start Campaign
+
+32
+Start Historical Battle
+
+33
+Field Book
+
+34
+Game Options
+
+35
+Credits
+
+36
+Quit
+
+37
+Click to select
+
+39
+Autosave
+
+40
+Select Scenario
+
+41
+Select Side
+
+42
+Increase Difficulty
+
+43
+Reduce Difficulty
+
+44
+AI Bonus
+This side will receive the stated amount of additional morale and experience for its commanders and units.
+45
+Increase Difficulty
+
+46
+Reduce Difficulty
+
+49
+Start Tutorial
+Play a brief tutorial explaining the main functionalities of campaigns and battles.
+50
+Transport Ships (Sea)
+
+51
+Transport Ships (River)
+
+52
+Trains
+
+53
+Fielded Manpower
+Shows the combined strength of all branches of arms of the army.
+54
+[National Morale]
+[National Morale Info]
+55
+[Current Rating]
+[Rating Info]
+56
+[Wharf Capacity]
+[Wharf Capacity Info]
+60
+[Power Bar]
+The victory bar represents the relation of national morale of each faction. It is influenced by defeats in battles, sieges and naval engagements, as well as policies.
+61
+Battle Ongoing
+
+65
+[Availability]
+[Approximate number of units that can be equipped with this weapon. The higher the standardization of the weapon, the more units can be equipped. Older weapons are normally available in large quantities. To improve standardization, improve factory capacities or arrange trade agreements with European nations.]
+66
+[Standardization Description]
+[Standardization Description]
+70
+Battle time
+When darkness falls, the armies will stand down and prepare for the next day.
+71
+Retreat time
+Your army is preparing to retreat. This timer shows when the retreat will commence.
+72
+Pause
+
+73
+Play
+
+74
+Accelerate time
+
+75
+Accelerate time
+
+76
+Accelerate time
+
+79
+Maximize
+Expand the panel for more information.
+80
+OOB: up
+Move up one command level to this commander's superior officer's HQ. (Hotkey: up)
+81
+Previous Unit
+Move to previous unit under the same commander. (Hotkey: left)
+82
+Next Unit
+Move to next unit under the same commander. (Hotkey: right)
+83
+OOB: down
+Move down one command level to this commander's subordinates. (Hotkey: down)
+86
+Minimize
+Hide the detailed information.
+87
+Main weapon
+{weapon name, class, material if arty, caliber (inch), range, weight (tube if arty), weight factor (if arty), weapon length (if rifle), reload speed, accuracy}
+89
+Melee weapon
+Armed with variety of knives, Equipped with bayonet, Equipped with sword bayonet, Armed with sabers and revolvers, Armed with artillery short swords, Armed with light sabers 
+90
+Change weapon
+LMB to upgrade the assigned weapon for this unit.
+94
+Field Book
+Shows a quick guide about the game functionality.
+95
+Hide Tools
+Closes the list of tools.
+96
+Show Tools
+Activate or deactivate information shown on the map using the map information tools.
+98
+Quick map overview
+Zoom out to political map. Click again to return to normal view.
+97
+Map information settings
+Filter the information you wish to see on the map.
+99
+Menu
+Adjust game options or return to main menu.
+100
+Command and control
+Show command, combat range, links, command lines.
+101
+Movement arrows
+Show all or only selected unit's movement arrows.
+102
+Telegraph lines
+Show all telegraph connections to your units.
+103
+Military icons
+Show icons for army and navy units and fort garrisons.
+104
+Map icons
+Show icons for buildings and infrastructure when pointing with mouse cursor, show cities.
+105
+Map borders
+Show state borders on campaign map.
+106
+Map text
+Show map text on campaign map.
+107
+Show supply lines
+Show flow of supply on campaign map. Selecting a unit shows its supply lines. Selecting a building and clicking on any of the goods icons shows their flow.
+108
+Dispatch log
+Click to open up the log of all military dispatches received.
+109
+Hide Message Log
+
+110
+Expand Railroads
+Order the expansion of the selected railroad line. Building progress is shown on this icon.
+111
+Unread Telegrams
+
+112
+Number of Telegrams in the Log
+
+113
+Show Message Log
+
+114
+Dispatch
+
+115
+Show top panel
+
+116
+Hide top panel
+
+120
+Show battle monuments
+Show the locations of land and naval battles on the map, containing information about the outcome and casualties.
+123
+[Add Unit to OOB]
+
+125
+Greenhorns
+The men are not accustomed to the hardships of battle, they are fragile and not dependable under fire and stress of combat. Good leadership and drilling can help, but only up to a point.
+126
+Inexperienced
+The men have seen battle, but are still learning the ropes. More dependable than greenhorns, they still need strong leadership and proper drilling to hold their own under fire.
+127
+Battle experienced
+The men know battle and can be depended on to carry out most combat missions. Under heavy stress, they still need the encouragement of a good commander.
+128
+Veteran unit
+The men are battle hardened and dependable and can be relied on even under heavy fire, most of the time.
+129
+Elite unit
+These men are at home in the maelstrom of battle. But they know a suicide mission when they see one and may rely on their survival instincts under heavy fire, especially under weak leadership.
+130
+Crack unit
+These men have seen it all and are very effective soldiers inspiring those around them. Tough, close knit, they have tendency to avoid situations leading to high casualties. Well managed, under strong leadership, they are unbeatable!
+131
+Land's Men
+The sailors are raw recruits, with little or no experience at sea, making them fragile and unreliable.
+132
+Inexperienced
+The sailors may have overcome seasickness, but in combat they still need strong leadership in order to perform.
+133
+Battle Experienced
+The sailors are accustomed to life at sea and know battle and can be depended on to perform well in engagements.
+134
+Veterans
+Battle hardened and dependable, these veteran sailors can be relied on to carry the day.
+135
+Elite Sailors
+Performing their duties to the highest standards, the sailors have seen it all and will not let their commanders down.
+136
+Sea Dogs
+Even if their ships are made of wood these sailors are made of iron.
+137
+Greenhorn
+This officer has seen little or no combat during his lifetime, or has very little experience in his current assignment, and cannot be counted on to successfully lead his men in the thick of battle.
+138
+Inexperienced
+This officer has seen some combat, but is still too inexperienced in his current assignment to effectively lead his men in battle.
+139
+Battle experienced
+This officer has enough experience to lead his men reliably in most combat situations in his current assignment.
+140
+Veteran officer
+This officer has seen many battles, is comfortable in his current assignment, and can be counted on to do his duty well, even when in command of greener troops.
+141
+Highly experienced
+This officer is at home in the thick of the battle and knows exactly what is expected from him.
+142
+Old hand
+This officer has seen it all and knows how to utilize all his knowledge and personal attributes to the fullest, to fulfill his tasks.
+150
+Switch AI Behavior
+
+151
+Switch AI Behavior
+
+152
+Switch AI Behavior
+
+153
+Switch AI Behavior
+
+154
+[AI Options]
+
+155
+Start Battle
+
+156
+Close
+
+157
+Start Campaign
+
+158
+Load Game
+
+159
+Continue Game
+
+160
+Quit to Main Menu
+
+169
+Save Game
+
+170
+Order Delay active
+This unit is awaiting orders. Shorter distance to its commander and well established telegraph networks reduce the order delay. Low readiness increases the delay tremendously.
+176
+[Add Unit to OOB/Background]
+
+177
+Blockade effects
+This fleet is blockading [VAR22] IIPs with an average efficency of [VAR23]%. The speed of the fleet contributes by [VAR24]% to the overall blockade strength and the combat value by [VAR25]%. The commander cunning increases the blockade efficiency by [VAR26]%.
+178
+Unit status
+
+179
+Ships in fleet
+This commander may command a maximum of [VAR19] ships. Administration skills increase the number of ships commanded by [VAR21].\n\nBasic ship limitations per rank:\n[VAR20]
+180
+[Guns]
+[Guns description]
+181
+Disabled
+[Info Disabled]
+182
+Log Entry
+LMB to open the message, use mouse wheel to scroll through the messages.
+183
+Unit Status
+[Unit Status]
+184
+[Morale]
+[Morale Description]
+185
+[Firepower]
+[Firepower Description]
+186
+Clear input
+
+187
+Remove all read dispatches
+
+188
+Mark all dispatches as read
+
+189
+Search by name
+
+190
+Quit Campaign
+
+191
+Inspect Campaign
+Inspect the campaign map and detailed statistics. The game will not continue.
+192
+[Number Men]
+[Number Men descr]
+194
+In range
+This unit is within command range of the army commander and will reinforce any battles within that range.
+195
+Telegraph
+This unit is connected to the War Department via telegraph. This reduces order delays.
+196
+Encamped
+The camp allows resting, drilling, foraging and shelter from the weather.
+197
+Low food
+Provisions are regulated and the condition of the men is deteriorating.
+198
+Low ammunition
+Ammunition is running low!
+199
+Condition alert
+The condition of the men is poor, increased sickness and desertion are slowing the unit down.
+200
+Condition alert
+The condition of the horses is poor, decreasing speed of cavalry and artillery.
+201
+Condition alert
+The condition of the artillery in this unit is alarmingly low, reducing its effectiveness.
+202
+Attrition
+The unit is suffering from high sickness and desertion, lowering morale and speed.
+203
+High officer casualties
+High casualties among the officers in this unit cause demoralization and loss of discipline among the men.
+204
+Weather
+The unit is suffring from hostile weather, increasing attrition and lowering morale.
+205
+Raided
+Enemy raiders are targeting this unit, causing casualties and slowing down movement.
+206
+Unhappy
+Many soldiers in this unit are unhappy with their leaderhip and many are deserting. Veterans are happier with commanders that have high fame and leadership. It's advised you inspect the officer corps of this unit and make required changes.
+207
+Medical Treatment
+This unit is close to a hospital, wounded soldiers recover fast and the mortality rate is lower.
+215
+[Branch]
+
+221
+[Unit Name]
+
+222
+[Readiness]
+[Readiness Description]
+223
+[VAR34]
+(Army Group)\n[VAR35]\n\nAttached units:\n[VAR36]
+224
+Assign to army group
+Combine independent corps or armies to army groups to increase efficiency. New army groups can only be created if at least one [VAR33] is available. 
+225
+[Supplies]
+[Supplies Info]
+226
+New Army Group
+days
+227
+[VAR34]
+(Army Group)\n[VAR35]\n\nAttached units:\n[VAR36]\n\n[SYM3] Remove unit
+228
+[VAR37]
+[VAR38]\n\n[SYM2] Zoom to attached unit
+229
+Order Delays
+Commander's initiative reduces order delay durations for all attached units.
+230
+Morale Recovery
+Commander's leadership improves morale recovery for all attached units.
+231
+Readiness Recovery
+Commander's administration improves readiness recovery for all attached units.
+232
+Reinforcement Times
+Commander's cunning reduces reinforcement times for all attached units.
+233
+Coordination Time
+When assigning units to army groups the commanders will take time to operate within the new structures, while bonus is applied gradually. High experience, administration skills and good relations reduce this coordination time.
+234
+[VAR39]
+[VAR40]
+235
+Replace Commander
+Army Group commanders need to have at least the rank of [VAR33] and a minimum experience of [VAR41]. The higher the experience grows, the more units can be commanded.
+236
+Replacing Commander not available
+There are no suitable army group commanders left. Army Group commanders need to have at least the rank of [VAR33] and a minimum experience of [VAR41]. 
+237
+Units attached:[VAR42]
+Unit is outside of command range, no bonus is applied.
+238
+Army Group Range
+Subordinated units within range of this army group receive a bonus on order delays, morale recovery, readiness recovery and reinforcement times.
+239
+Part of [VAR45]
+([VAR46])\nCoordination: [VAR44]\n\n[VAR43]
+240
+Replacing Commander not available
+You cannot replace yourself. Ask for a different command instead!
+241
+Replacing Commander not possible
+The low experience of this commander prevents appointment of this command. Try to pick a higher experienced commander or remove units.
+242
+Under Fire
+The fleet is under effective fire from an enemy fortification.
+243
+Repairing
+The ships are being repaired, which lowers combat readiness considerably.
+244
+Resupplying
+The fleet is resupplying, which means lowered combat readiness.
+245
+Low Ammunition
+The sailors know that every shot has to count and are nervous engaging the enemy.
+246
+Low Supplies
+Supplies are running low and are being regulated. Half rations of maggot infested bread does not improve the fighting spirits onboard the vessels.
+247
+Commander Casualty
+The commander was recently lost and the men are shaken.
+248
+Bad Weather
+Seasickness may not be lethal but getting washed away in the waves is. The sailors are losing heart in this horrid weather.
+249
+Supported
+Another friendly fleet is within range. This improves morale among the sailors.
+250
+Pursued
+The fleet is retreating under fire and men are panicking.
+251
+Enemy Ironclads
+As shots harmlessly bounce off the enemy armor the sailors could easily lose heart. 
+252
+Clad in Iron
+Having ironclads in the fleet improves confidence and morale. 
+253
+Untried
+Most of the men have not yet tasted combat and may be nervous and unstable.
+270
+National Morale
+Represents the citizens' willingness to fight. It is influenced by policies and objectives, and is reduced when losing battles or towns are occupied. Recapturing lost towns retrieves the morale loss. If national morale drops too low the campaign is lost.
+271
+Average State Support
+This is the average support of the states of each faction. Support can be influenced through policies and objectives. Support of the home states will drop if their brigades suffer high casualties.
+272
+Average Army Morale
+The average morale of all units in the army. To obtain a detailed information what causes negative effects on morale, check the status symbols on the unit panel.
+273
+Number of States & Territories
+The number of states and territories that are considered loyal towards each faction, having a minimum of 65% support. A state cannot be loyal towards both sides, but can be considered contested. 
+274
+Army Size
+The size of all land units of each faction, also counting units being recruited.
+275
+Navy Size
+The tonnage strength of the navy of each faction.
+276
+Military Experience
+The experience of the whole military of each side. Each battle, no matter if won or lost, adds to military experience, as the soldiers and commanders alike learn how to fight and train in this new kind of war. With military experience, more entrenchments can be constructed and new commanders have better initial experience values.
+277
+Battles Won
+The number of battles won by each faction.
+278
+Casualties
+The number of battle casualties of each faction, not taking into account attrition.
+279
+Intervention
+The influence on European nations. The relation determines the probability of intervention for each side. On the top bar you will have more detailed information about the propability of intervention by each European nation. You will need a major victory on the battlefield and 100% probability of intervention to provoke Europe to intervene.
+280
+[Trade Warfare]
+[Description Trade Warfare]
+281
+[Weapons Industry]
+[Weapons Industry Description]
+282
+An order for this weapon is already being executed!
+This weapon is not being produced or imported.
+283
+Order Weapons
+You may not place weapon orders in career mode!
+284
+available
+
+290
+[Ship Image Autoresolve Panel]
+
+291
+Load Game
+
+292
+Historical Battle
+
+293
+Campaign Battle
+
+294
+Load Game
+
+295
+Save Game
+
+296
+Delete Game
+
+297
+Quit Options Panel and accept changes
+
+298
+Quit Options Panel and restore old settings
+
+300
+Ammunition
+[Supply State]
+301
+Artillery ammunition [deactivated]
+[Supply State]
+302
+Provisions
+[Supply State]
+303
+Forage
+[Supply State]
+304
+Ammunition
+[Supply State Fleet]
+305
+Provisions
+[Supply State Fleet]
+306
+Coal
+[Supply State Fleet]
+307
+No Coal
+[Supply State Fleet]
+308
+[Ship in Fleet Name & Description]
+[Data]
+309
+Next
+Click to select next ship in current fleet.
+310
+Previous
+Click to select previous ship in current fleet.
+311
+Previous Fleet
+Move to previous fleet of your alliance.
+312
+Next Fleet
+Move to next fleet of your alliance.
+313
+Connected Supply Depots
+[Supply Depots Info]
+320
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+321
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+322
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+323
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+324
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+325
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+326
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+327
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+328
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+329
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+330
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+331
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+332
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+333
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+334
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+335
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+336
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+337
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+338
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+339
+[Reserved for Perks]
+[Tooltips are taken from separate file]
+350
+Elite Battle Flag
+To honor this unit you may choose an elite battle flag as soon as all of the perk slots have been assigned.
+351
+[Elite Battle Flag Selection Panel]
+[Elite Battle Flag Description]
+352
+Previous flag
+
+353
+Next flag
+
+354
+Cancel flag assignment
+
+355
+Assign elite battle flag
+
+360
+Hide panel
+
+361
+Show panel
+
+362
+Show last economy report
+Economy reports are published at the end of month.
+363
+Show last intelligence report
+Intelligence reports are published at the end of month.
+370
+Strategy
+View the campaign objectives, military balance and official records of the War.
+371
+Military
+Manage your armies, fleets, officer corps and order weapons.
+372
+Finances
+Shows information about revenues, expenses, debt and subsidies.
+373
+Buildings & Production
+View information about government buildings and the production companies that keep the wheels of economy rolling.
+374
+Policies
+Influence the priorities of political decision making.
+375
+Goods & Trade
+View trade statistics within your nation, including import and export.
+376
+Projects
+Finance private and public projects by subsidies.
+377
+Projects can be appointed!
+
+379
+No policy research selected!
+Further policies are available for research.
+380
+LMB to activate/deactivate criteria
+
+381
+LMB to activate/deactivate criteria
+
+382
+Previous Unit
+
+383
+Next Unit
+
+384
+Promote Commander
+[Promote Commander]
+385
+Replace Commander
+Order another officer to take command. The replaced commanders' fame may suffer in the eyes of the citizens, especially if he has been removed from a high position.
+390
+Show commanding unit info
+(brigade level only)
+391
+Show ship information
+
+392
+Show commander information
+
+393
+Show unit history
+
+394
+[Rank]
+
+395
+[Branch]
+
+396
+Veteran
+This officer saw combat before the civil war fighting in Mexico during the war of 1846-1848. Even if war has changed since, he knows what to expect when the shells start bursting.
+397
+Fame
+Everyone knows his name and deeds. Knowing he is there fighting for the nation, raises spirits high. Even foreign newspapers love to write about him and this fame makes the enemy nervous when facing him and his troops!
+398
+Defamed
+Having failed the nation or been demoted from command, leaving this officer in command will do more harm than good for the morale of the people. His men will question his abilities and he is considered a laughing stock in the enemy camps. If conducting heroic deeds the commander may get rid of this stain. His bad performance should also be forgotten as time goes by, if he does not repeat such mistakes before then.
+399
+West Point Graduate
+This officer has completed formal military studies in a military academy, making him a professional in the art of war and suitable to quickly adapt to higher command.
+400
+Politically assigned
+This officer has acquired his rank thanks to his political status. Commanding troops increases support in his home state, but he is apt to feuds. If removed from command, it will hurt the support in his state.
+401
+Volunteer
+Volunteered for duty and was appointed or elected to command. While lacking a formal military education, volunteers tend to be quick to adapt to this new kind of modern warfare and they tend to avoid personal conflicts, unlike professional or politically appointed officers.
+409
+Accept
+
+410
+Cancel
+
+411
+Play battle
+Prepare for battle! Take personal command of your troops in an open field battle. 
+412
+Autoresolve
+Order your generals to engage the enemy. The battle result will be automatically calculated. Participating units will be engaged and cannot be given orders for the duration of the battle.
+413
+Deploy to defend
+The enemy is not offering a battle, if you don t attack. Order your unit to deploy to defend and to hold the enemy at bay. 
+414
+Withdraw
+Try to slip away from the attacking enemy without offering battle. If successful, the unit will break contact and withdraw in orderly fashion, with the rear guard ordered to skirmish with the enemy. If this fails the enemy could force a battle or the withdrawal could turn into a rout. 
+415
+Retreat
+Order the unit to retreat. The unit will break contact with the enemy and morale will suffer.
+416
+Go to Location
+Click to visit the battle location and to check the opposing armies.
+417
+Go to Location
+Click to scroll to the related location of this dispatch.
+418
+Deploy to defend not possible
+Deploying to defend is only possible if all opponents are using defensive stance.
+420
+Next tutorial step
+
+421
+Return to previous tutorial step
+
+422
+Jump to location
+
+423
+Skip lesson
+
+440
+Avatars
+
+450
+[Fame attribute]
+
+451
+[Initiative attribute]
+
+452
+[Leadership attribute]
+
+453
+[Administration attribute]
+
+454
+[Cunning attribute]
+
+460
+Upkeep
+Shows the maintainance and wage costs per year. For government buildings these costs are visible in the construction section of the financial report, private companies are operating on their own.
+461
+Transport Capacity
+The transport capacity shows the ability to handle goods flows through this IIP (important infrastructure point). The higher the transport capacity, the more sales tax revenues are generated through higher trade and companies are increasingly supplied by pre-goods. Markets nearby increase the logistical capacity. 
+462
+Available Workforce
+The lower the available workforce in this area, the lower the effectiveness of this building. Workforce is reduced by recruitment, other nearby companies and low private wealth but increased over time through population growth.
+463
+Slaves
+Slave states allow to replace workforce by slaves, leading to lower production costs and higher available workforce in general. Slaves are only used in non-complex production facilities, mostly in agricultural production.
+464
+Tax Revenues
+Shows the yearly corporate tax revenues. Tax revenues are derived from the company profit and the used corporate tax rate. If the related policies are researched you may increase the corporate tax rate in the financials panel.
+465
+Prisoners
+Captured soldiers are brought to P.O.W. camps instead of being pardoned. If the number of prisoners exceeds the available capacity you need to upgrade existing or create new camps, otherwise the war support of enemy states will grow over time.
+466
+Available Capital
+If banks are close, companies may receive cheaper funding and increase productivity. This leads to lower upkeep costs. The available capital can be watched in the filter Available Capital.
+467
+Markets Capacity
+Nearby markets increase the transport capacity. This will lead to higher trade revenues and better pre-good supply to your companies.
+468
+Medical Treatment
+Nearby hospitals improve the treatment of wounded. They will heal faster and the mortality rate will be lower. Use the filter Medical Treatment to watch the covered areas.
+470
+Show order of battle
+
+471
+Show unit list
+
+472
+Transfer between two units
+LMB to split the order of battle screen to transfer units between two organizations by dragging and dropping.
+473
+Delete selected unit
+Deletes the selected unit and sends the men home. This option is only available to single units or headquarter units without subordinates. All HQs without units under them will be disbanded automatically when the panel is closed.
+474
+Select state for recruitment
+LMB to select a state where the new unit shall be recruited from. Use the filters on the right to tighten selection.
+475
+Select recruits pool
+Switch between volunteers and drafts. Drafts have lower morale and higher rate of desertion than volunteers.
+476
+Previous uniform type
+
+477
+Next uniform type
+
+478
+Select previous color
+
+479
+Select next color
+
+480
+[Color]
+
+481
+Recruit unit
+
+482
+Cancel recruitment
+
+483
+Recruit a new [VAR91]
+A list will appear, select the state you wish to raise the [VAR91] in. Early armies may only have division levels. Organization Reform project allows creating tactically more flexible armies with corps organization.
+484
+Upgrade Weapon
+Upgrading the weapons of this unit will reduce the weapon stock.
+485
+Cancel Upgrade
+
+486
+LMB to select this weapon
+The old weapons will be moved to storage, with the unit receiving the chosen weapons.
+487
+Previous commanders
+
+488
+Next commanders
+
+489
+Choose new commander
+The selected commander will be promoted to the necessary rank for this unit. The higher the promotion, the less experienced he will be in his new command. It will take time for him to adapt and gain experience.
+490
+Assign commander to selected unit
+The selected commander will be promoted to the necessary rank of this unit. The higher the promotion, the more experience gets lost. Also the commander will lack experience growth.
+491
+Cancel replacement
+
+492
+[Ship Image Fleet Info Panel]
+[Content]
+493
+Manage armies
+Manage unit hierarchies, recruit new armies and units and replace commanders.
+494
+Manage fleets
+Assign or remove ships from fleets or replace commanders.
+495
+Commander information
+Take a look at your available commanders and their abilities.
+496
+Weapons
+Review your weapons in stock and place orders for additional equipment.
+497
+Logistics
+[text]
+498
+Upgrade ship
+[Upgrade Text]
+499
+Show selected fleet only
+
+500
+Show all fleets
+
+501
+Select fleet
+
+502
+Select ship
+
+503
+Order ship to harbor
+
+504
+Attach ship to fleet
+
+505
+Construct new ship
+
+506
+Build current ship
+
+507
+Cancel ship construction
+
+508
+Select ship to construct
+
+509
+Select harbor to raise fleet
+After the fleet is raised you need to assign ships to this fleet. If no ships are allocated, the fleet will be removed from the roster.
+510
+Raise new fleet
+After the fleet is raised you need to assign ships to this fleet. If no ships are allocated, the fleet will be removed from the roster.
+511
+Cancel new fleet
+
+512
+Create new fleet
+New fleets are created near your ports. A list will open to determine the location of the new fleet.
+513
+Delete ship
+Scuttle the currently selected ship.
+514
+Cancel recruitment
+
+515
+Select ship [not moveable]
+
+516
+[Ship Line]
+
+517
+[Ship Line not movable]
+
+519
+No suitable commander selected
+Please choose an active commander to replace with by clicking on a commander image above. Use mouse wheel to scroll the available ranks up and down.
+520
+Auto upgrade weapons
+Automatically upgrades the weapons of all units of the selected group to the best available ones.
+521
+Auto generate units
+Automatically raise the chosen number of units below the chosen group. States with short travel time and short recruiting queues are prefered.
+522
+Size of the unit
+Change the size of the units to be recruited.
+523
+Number of infantry brigades to be auto generated.
+
+524
+Increase number of units for this unit type.
+
+525
+Reduce number of units for this unit type.
+
+526
+Number of cavalry brigades to be auto generated.
+
+527
+Number of artillery batallions to be auto generated.
+
+528
+Number of horse artillery batallions to be auto generated.
+
+529
+Auto generating units not possible
+Units can only be attached to groups, select a group unit first!
+530
+Fort firepower
+The firepower of the fort is derived from the fort level and thus the used artillery, as well as the condition of the fort.
+531
+Fort condition
+
+532
+Infantry fielded
+
+533
+Cavalry fielded
+
+534
+Artillery fielded
+
+535
+Navy Firepower
+The combined strength of all guns on all ships, taking into account combat readiness and penetration.
+536
+Ships active
+
+537
+Guns active
+
+538
+Out of range
+This ship is out of range and unable to engage the enemy fleet.
+539
+Under fire
+This ship is under enemy fire.
+540
+Rammed
+This ship has suffered damage in a ramming action.
+541
+Low ammunition
+This ship is low on ammunition and will not be able to continue the engagement much longer.
+542
+Ammo explosion
+This ship has received a direct hit into its ammunition magazine, which has caused severe damage.
+543
+Under artillery fire
+This unit is under artillery fire, suffering casualties and loss of morale.
+544
+Artillery overran
+This artillery unit was overran by the enemy.
+545
+Low ammunition
+This unit is conserving ammunition and has a reduced rate of fire.
+546
+Routed
+This unit was beaten in combat, and has withdrawn the field.
+547
+In melee
+This unit is currently engaged in close combat.
+548
+Engaged
+This unit is in ranged combat with enemy units, exchanging volleys.
+550
+[not used]
+
+551
+Increase transport ships
+LMB for minor adjustment, RMB for major adjustment
+552
+Decrease transport ship
+LMB for minor adjustment, RMB for major adjustment
+553
+Increase river steamers
+LMB for minor adjustment, RMB for major adjustment
+554
+Decrease river steamers
+LMB for minor adjustment, RMB for major adjustment
+555
+Increase trains
+LMB for minor adjustment, RMB for major adjustment
+556
+Decrease trains
+LMB for minor adjustment, RMB for major adjustment
+557
+Close information
+
+558
+Open information
+
+559
+Previous units supplied
+
+560
+Next units supplied
+
+563
+Shipyard capacity
+
+564
+New independent [VAR90]
+A list will appear, select the state you wish to raise the [VAR90] in. Independent [VAR90] are not attached to any grand army HQ, and only have division levels. Compared to attached [VAR90], they operate more independently with lower order delays, but are tactically less flexible in reinforcing.
+565
+Detach to independent unit
+The selected HQ or unit will be detached to form a new independent unit, that can be operated on the campaign map.
+566
+Upgrade [VAR90] to [VAR91]
+Click to upgrade this independent [VAR90] to an [VAR91], enabling a three level hierarchy structure.
+567
+Deploy garrison
+This will detach the chosen unit to become garrison at the current position. Garrisons can protect routes of supply and block enemy advances, but cannot move. [VAR31]
+568
+Deploying garrison not possible
+No suitable unit selected. 
+569
+Deploying garrison not possible
+The unit can be deployed as garrison as soon as it has reached the main body. 
+570
+Available transport ships
+
+571
+Available river steamers
+
+572
+Available trains
+
+575
+Change initial brigade size
+
+576
+Deploying garrison not possible
+Units that have low readiness, retreat or are embarked may not deploy garrisons.
+577
+Deploying garrison not possible
+The nearby garrison has not enough capacity [VAR31].
+578
+Deploying garrison not possible
+The unit is to big to deploy as garrison. Garrisons are limited to [VAR32] soldiers.
+579
+Deploying garrison not possible
+At least one regular unit needs to remain in the main group body.
+580
+[Supplied Unit Icon]
+[Description]
+581
+Engagement distance
+The range between the engaged fleets. The closer both fleets convene, the more weapon systems can be brought into action. On close distance ships can be rammed.
+582
+Digging in
+The armies are setting up entrenchments and are preparing for a siege. In this phase no combat action happens.
+583
+Night
+During the night no combat actions are carried out. Both sides are redeploying, resupplying and preparing for the next day.
+584
+Combat width
+The number of ships that are able to engage simultaneously from each side, due to space to maneuver and formations used. River engagements offer less room for maneuvering.
+585
+Victory bar
+
+586
+Casualties
+
+587
+Withdrawn
+This ship has withdrawn from the engagement and is heading for the nearest friendly port for repairs.
+588
+Flanking
+This unit has successfully flanked an enemy unit.
+590
+Recruit new infantry unit
+
+591
+Recruit new cavalry unit
+Larger cavalry units may be recruited after appointing cavalry reform project.
+592
+Recruit new artillery unit
+Larger artillery units may be recruited after appointing artillery reform project.
+593
+Recruit new horse artillery unit
+Requires [VAR117] project.
+597
+Perks
+[Autoresolve Perks, Side 0]
+598
+Perks
+[Autoresolve Perks, Side 1]
+600
+Stance
+The stance of the unit determines how it should act when contact with the enemy is made, or the given movement order has been carried out.
+601
+Army orders
+These orders determine how the unit will employ its forces during its operations.
+602
+Construction
+Order the army to build a fort, a supply depot or a telegraph station. Construction will take time, during which the readiness of the unit will drop.
+603
+Movement orders
+Order forced march or stop the unit.
+604
+Manage army
+Opens army management window.
+610
+Defensive
+With a defensive stance, the unit will not engage enemy armies or fortifications without specific orders. When the unit stops due to contact or after reaching its destination, it will start entrenching.
+611
+Offensive
+When on the offensive, the unit will engage any enemies armies or fortifications within its range. The unit will encamp if it has no movement orders, but will not dig in to keep order delays at minimum.
+620
+Scout
+Order the unit to perform scouting to improve intelligence gathering on the enemy and the readiness of the unit. Cavalry is employed to perform scouting and patrolling, and only cavalry organized as cavalry corps will fight in field battles, but it takes some time as the unit is spread out.
+621
+Raid
+Burn down enemy infrastructure and forage all supplies the troopers can carry. When raiding, troops in this unit will skirmish with all enemies within range. Raiding will hit the population hard, and this will have effect in their support, lowering it for both the attacker and the defender, if unable to counter the raiding parties.
+622
+Guard
+Order the unit to perform patrols along its lines of communications and to guard the supply trains against enemy raids. During battles, part of the cavalry is used to stop routed men behind the battle line, which reduces desertion. Guarding cavalry will not fight as units in field battles.
+630
+Fort
+Build a permanent fort for protection against enemy attacks. A fort must be besieged to capture it, it can be garrisoned and upgraded to withstand sieges better. A fort can guard a town or a port against enemy aggression.
+631
+Depot
+Building supply depots allows logistical support to your armies by storing the supplies needed for campaigning. The closer the depot, the shorter the time to resupply. If a supply depot is captured by the enemy, all supplies will be lost.
+632
+Telegraph
+Telegraph stations within reach of one another will allow communication from the administration to the armies, reducing order delays immensely. Telegraph stations can also be captured.
+640
+Forced march
+When ordered, the unit will keep marching without stopping to forage or to rest. This will increase attrition and the strain on the men but will allow faster movement.
+641
+Halt
+Order the unit to stop and cancel any movement orders. After stopping, the unit will encamp or start entrenching, depending on stance.
+642
+If readiness is high enough leave the safety of the entrenchments to attack, in an attempt to carry the enemy works in an open field battle.
+Order the commander to assault and attempt to carry the enemy works. The battle result will be automatically calculated.
+643
+You are not commanding any unit of this engagement.
+Fort sieges cannot be played manually.
+644
+Our troops are already assaulting the enemy siege works!
+There is already an assault ongoing, the battle cannot be played manually anymore.
+645
+Readiness is too low to order assaults on the enemy siege works!
+The enemy is assaulting our siege works!
+646
+Slip away
+The defending garrison may slip away from this engagement unnoticed to regroup away from enemy range.
+647
+Retreat
+Order the units to fall back from the entrenchments and to regroup away from enemy range.
+648
+Order the units to fall back from the entrenchments to regroup away from enemy range. The surrounded garrison, counting [VAR51] will surrender.
+This land battle is already ongoing and cannot be played manually anymore.
+649
+The armies are already engaged in close combat.
+
+650
+Stance
+The instructions for the fleet commander to determine how he should act when in contact with enemies.
+651
+Fleet orders
+Give the fleet an independent task that it will continue with, without any other direct orders from you.
+652
+Movement
+Order the fleet to drop anchor or to return to port for resupply and repairs.
+653
+Manage fleet
+Opens the fleet management window.
+660
+Defensive
+With a defensive stance, the fleet will not initiate combat, but will hold beyond enemy range. It will not sail out of port to intercept enemy fleets and it will not reinforce other fleets that are in combat and within reach.
+661
+Offensive
+When ordered to take an offensive stance, the fleet will engage any enemies within range, and reinforce other fleets in combat if they can be reached.
+662
+Steam ship
+Sailing ship
+663
+Sail & Steam
+Sea & Rivers
+664
+Rivers
+Sea
+665
+Colossal
+Small
+666
+Medium
+Large
+667
+Very Large
+None
+668
+Timber
+Cotton
+669
+Iron
+
+670
+Blockade
+The fleet will patrol the coast, intercepting any enemy merchant ships going to or from their ports. All ports within the fleet's command range are affected.
+671
+Patrol
+When a route is ordered, whether a single destination or chain of waypoints, the fleet will patrol the route continuously, engaging any enemy fleets and reinforcing friendly ones. Patrolling fleets will move slower, but have their command range increased, allowing interception from longer distance.
+672
+Raid
+The fleet operates opportunistically against smaller detachments of ships within enemy blockading fleets. The fleet will automatically engage any blockading fleets within its command radius and after the raid it will disengage and return to original position.
+680
+Stop
+The fleet will drop anchor immediately and cancel any ongoing movement orders.
+681
+Return to port
+The fleet will return to nearest safe port at once. At port the fleet will resupply and repair faster, as ships do not need to travel from station to port.
+690
+Low Morale!
+This unit has a low average morale, attached units may break soon in battle, either through combat action or exhaustion. The low morale may have been caused by lost battles, low fighting spirit, fighting on enemy soil or bad supply.
+700
+Assault
+[If readiness is high enough leave the safety of the entrenchments to attack, in an attempt to carry the enemy works in an open field battle.]
+701
+Autoresolve Assault 
+[Order the commander to assault and attempt to carry the enemy works. The battle result will be automatically calculated.]
+702
+Retreat
+[Hardcoded tooltip]
+703
+empty
+
+704
+Chosen pre-war policies
+These policies have been chosen at the start of the scenario by this faction.
+705
+Estimated position of this unit, based on scouts, newspaper reports and local gossip. The higher the intellgence in this area, the more frequent and more accurate the reports.
+The last estimated position of this unit on [VAR30], based on scouts, newspaper reports and local gossip. The higher the intellgence in this area, the more frequent and more accurate the reports.
+710
+[ObjectiveDescription]
+[ObjectiveDescriptionfull]
+720
+[Appoint Project]
+[Appoint Project]
+730
+Lower order volume
+
+731
+Increase order volume
+
+732
+Market Pricing
+[Market Pricing Weapon Order]
+733
+[Order Weapons]
+
+734
+Delivery
+[Weapons Delivery Info]
+735
+[Weapons ordered]
+
+750
+Show goods flow
+LMB to show the flow of this resource on the campaign map.
+751
+[Company/IIP Button]
+[Company/IIP Info]
+752
+[Company/IIP Name]
+[Company/IIP Info]
+753
+[Company Size]
+[Company Size Info]
+754
+[Company/IIP Button, Ring]
+[Company/IIP Info]
+755
+[Company/IIP Button, Ring Backgr]
+[Company/IIP Info]
+756
+[CitySize]
+[CitySize Description]
+757
+Upgrade
+[Upgrade Info]
+758
+Capital
+This is the capital city of this nation.
+759
+[Blocked/Raided]
+
+760
+[Coins Text]
+[City Wealth info]
+761
+[Coins Text]
+[City Wealth info]
+762
+[Coins Text]
+[City Wealth info]
+763
+[Coins Text]
+[City Wealth info]
+764
+[Coins Text]
+[City Wealth info]
+765
+[Coins Text]
+[City Wealth info]
+766
+[Coins Text]
+[City Wealth info]
+767
+[Coins Text]
+[City Wealth info]
+768
+[Coins Text]
+[City Wealth info]
+769
+[Coins Text]
+[City Wealth info]
+770
+This town is currently being captured.
+Larger forces will take less time to secure and garrison the town.
+771
+[Company Alert Info]
+
+772
+[Trade Header Info]
+
+773
+[Arrow Info]
+
+774
+[Export Info]
+
+775
+Goods on stock
+
+776
+[Blockade Level]
+
+777
+[Market Influences]
+
+778
+Parole prisoners
+All prisoners of this camp are paroled and sent home, though it cannot be ruled out that some of them reenlist.
+779
+Abandon
+Click to burn down the depot. Parts of the stored goods are sold or utilized.
+780
+Current economic cycle
+The graph shows the overall production of goods of each nation in $ mn. 
+781
+The debt of the nation
+Total amount of debt outstanding. Debt is automatically issued through bonds or loans. The higher the debt load is, the worse the nation's rating will be.
+782
+The interest rate for debt service
+The worse the rating is, the more interest needs to be paid.
+783
+Unemployment rate
+The current unemployment rate of the nation. Unemployment can be reduced by helping corporations to settle. Employment influences private wealth positively.
+784
+Debt rating
+The higher the debt and the lower the budget surplus, the worse the rating will be. Better ratings lead to lower interest rates. If ratings are too low the issuing of debt is not possible any more.
+785
+Public wealth
+The average income per capita. Low unemployment rates and high levels of consumer goods, support high personal incomes and therefore high income tax revenues.
+786
+The nation's treasury
+Shows the currently available cash of the nation. If cash runs negative the treasury will automatically issue debt. If cash runs negative the armies and fleets cannot be supplied and paid any more, morale will drop rapidly.
+787
+[Transport capacity Info]
+
+788
+Storage target
+Click to change the goal for storage level to red (empty), yellow (medium), green (full), automatic. Supplies are continuously accumulated or disposed until the set level is reached.
+789
+[Bank Influences]
+
+790
+Tariff revenues
+Tariffs are charged for imported goods increasing their cost. This may lead to lower corporate profits and higher inflation. Estimated per year.
+791
+Sales tax revenues
+Sales tax is charged for all goods transactions and leads to lower trading capacity and goods flow. Estimated per year.
+792
+Income tax revenues
+Income tax is charged on personal incomes. Revenues are high if the public wealth is high, but this tax reduces public support and wealth over time. Estimated per year.
+793
+Corporate tax revenues
+This tax is calculated out of the company profits. High corporate tax rates reduce the attractiveness of corporate agglomeration and expansion, as well as the private income of entrepreneurs. Estimated per year.
+794
+Income of land sales
+This revenue is generated by the government through the sale of land to newly founded companies or for upgrades to existing companies. Estimated per year.
+795
+Total revenues
+The sum of all fiscal income, estimated for the next year. The scale of the calculation changes continually and depends on your policy decisions. Estimated per year.
+800
+Administration costs
+Costs for governing the country will be higher if more sources of revenues and subsidies are used. The lower the state support, the more expensive the implementation of policies will be. Estimated per year.
+801
+Subsidy payments per year
+Subsidies are used to develop the nation in a certain direction. Depending on the chosen policies individual subsidies can be allocated.
+802
+Interest payments per year
+Interest payments are calculated from the total outstanding debt and the interest rate the nation needs to pay.
+803
+Army upkeep estimated per year
+Soldier's pay, provisioning and forage accumulate to make up the army upkeep cost. If soldiers cannot be paid or supplied, their morale will drop tremendously.
+804
+Navy upkeep estimated per year
+The pay and provisioning for sailors, the maintenance of ships, as well as ammunition and coal purchases.
+805
+Recruitment cost estimated per year
+These costs arise when new units are raised and existing units are refitted. The costs depend on the prices of weapons, uniforms and bounties.
+806
+Total expenses estimated per year
+The total expenses are an estimate as the scale of the calculation changes continually and depends on your policy decisions.
+807
+Total surplus estimated per year
+Revenues less expenses are permanently added to your current treasury balance.
+808
+Cost of supply goods for depots
+Cost of supply delivered from supply depots. Supply depots are purchasing goods on the market to fill up their stock and enable better supply to your armies. The stated expenses are a per annum estimate that are derived from the purchases of the last weeks.
+809
+Construction costs
+Expenses resulting of construction and upgrade of public buildings, military installations and extraordinary costs for acquiring private companies.
+820
+Policies
+Allows choosing up to 5 further policies by diverting up to 1 million dollars of government funds annually to policy making.
+821
+Diplomacy
+Increase funding of your diplomats abroad. At 1 million dollars, chance of intervention will increase/decrease by approx. 50% per year depending on campaign chapter, and import & export prices are improved by 50%.
+822
+Industry
+Benefits for heavy industry, boosting productivity and profitability by up to 50% at 1 million dollars, encouraging expansion and establishment of new industries.
+823
+Agriculture
+Benefits for farms and plantations, boosting productivity and profitability by up to 50% at 1 million dollars, encouraging expansion and establishment of new farms or plantations.
+824
+Transportation
+Reduction of transports upkeep costs, increased trade flows, increased infrastructure construction and repair. At 1 million dollars cost of transports is halved, transport capacity per IIP is increased by 50% and infrastructure construction speed, including railroads, is doubled.
+825
+Trade War
+Increased efficiency of blockades or blockade running. At 1 million dollars blockading or blockade running efficiency will double.
+826
+Recruitment
+Increased availability of volunteers and drafts. At 1 million dollars the number of available volunteers will double in 2 years.
+827
+Civil Order
+Loss of state support due to raiding, drafting, combat losses reduced, intelligence gathering improved. At 1 million dollars support hits are halved and intelligence gathering increased by 50%.
+840
+European intervention
+Policies and subsidies can influence the relations with European nations. If the intervention levels become high enough they may intervene.
+841
+[Land Battles]
+[Land Battles]
+842
+[Sieges]
+[Sieges]
+843
+[Naval Engagements]
+[Naval Engagements]
+844
+[Naval Bombardments]
+[Naval Bombardments]
+845
+[Blockades]
+[Blockades]
+846
+[Raiding]
+[Raiding]
+847
+[Union invasion]
+[Union invasion]
+848
+[CSA invasion]
+[CSA invasion]
+849
+[Supply Alert]
+[Supply Alert]
+850
+[Prisoners Alert]
+[Prisoners Alert]
+858
+LMB to activate/deactivate criteria
+
+859
+LMB to activate/deactivate criteria
+
+860
+Show campaign units
+
+861
+Show campaign fleets
+
+862
+Show map filters
+
+865
+No production efficiency
+
+866
+Low production efficiency
+
+867
+Average production efficiency
+
+868
+Advanced production efficiency
+
+869
+High production efficiency
+
+870
+Expert production efficiency
+
+875
+Production Value ttm
+The volume of products produced over the last 12 months.
+876
+Production Efficiency
+Goods production becomes increasingly efficient if the same goods are produced for a longer time or through certain production technologies.
+877
+Available Workforce
+Workforce is needed to reach a high production utilization. Population growth leads to higher available workforce while the founding of new companies or recruitment lowers it.
+878
+Company Profits ttm
+The earned profits of the company trailing 12 months. The more demand for there is for the products of the company and the better the infrastructure of this company, the higher the profits. Higher efficiency and high workforce increase profits.
+879
+Corporate Tax
+The tax this company currently contributes to the treasury. High profits and high corporate tax rates lead to higher corporate tax revenues. Tax rates can be adjusted in the finances tab.
+880
+[Production List / Production Panel]
+
+881
+[Pre Goods List / Trade Panel]
+
+885
+Average Price
+The average price of the selected product across the nation.
+886
+Demand
+The demand in pcs per annum for the selected product across the nation.
+887
+Production
+The production volume in pcs per annum for the selected product across the nation.
+888
+Quantity afloat
+The amount of pcs of the selected product that is currently floating in markets and stored in supply depots.
+889
+Production
+The current production volume for the selected product across the nation, extrapolated to annual volume.\nHarvesting season for this resource:\n[VAR18]
+890
+Federal Buildings
+Federal buildings are funded by the current budget as long as the rating of the nation is appropriate.
+891
+Company Applications
+Private companies can be attracted if enough subsidies in the relevant branch were spent. Extraordinary subsidies allow immediate construction of private companies.
+892
+Railroads
+Railroads increase transport capacity in nearby areas tremendously which increases trade and tax revenues. Construction requires all railroad knots to be occupied.
+895
+[Available Construction]
+[Available Construction]
+896
+[Building Name]
+[Building Name]
+897
+[Construct Building]
+[Construct Building]
+898
+Estimated Costs
+Cost are arising gradually during construction. Depending on availability and prices of material the costs may vary.
+899
+Show garrisons
+
+900
+[Policy]
+[Policy Description]
+901
+Auto Construct Building
+Let the AI search for a suitable construction site.
+902
+Low Priority
+This building has a low priority for your economy and is not immediately required.
+903
+Medium Priority
+This building is requested by your economy, though there may be more important constructions that need to be prioritized.
+904
+High Priority
+This building is highly requested by your economy and should be constructed as soon as possible. 
+910
+Show higher hierarchies
+
+911
+Show lower hierarchies
+
+920
+Increase number of civilian ships
+
+921
+Reduce number of civilian ships
+
+922
+Increase number of warships
+
+923
+Reduce number of warships
+
+924
+Increase number of ironclads
+
+925
+Reduce number of ironclads
+
+926
+Auto generate chosen ship types
+
+927
+Increase number of ships to construct
+
+928
+Reduce number of ships to construct
+
+929
+Auto generation not possible
+The selected number of ships cannot be added to the chosen fleet as the commander's ship limit would be exceeded. Reduce the number of ships to auto-generate!
+940
+Reinforce by volunteers only
+Click to allow reinforcement by drafts only for the stated unit and all subordinates.
+941
+Reinforce by draftees only
+Click to allow reinforcement by volunteers and drafts for the stated unit and all subordinates.
+942
+Reinforce by volunteers and draftees
+Click to allow reinforcement by volunteers only for the stated unit and all subordinates.
+943
+Low replacement priority
+Set the replacement priority for this and all subordinate units. It affects the number of fresh recruits this unit will receive from its home state over time to replace losses.
+944
+Medium replacement priority
+Set the replacement priority for this and all subordinate units. It affects the number of fresh recruits this unit will receive from its home state over time to replace losses.
+945
+High replacement priority
+Set the replacement priority for this and all subordinate units. It affects the number of fresh recruits this unit will receive from its home state over time to replace losses.
+946
+Replenish Unit
+Send this unit to a furlough in its home state to recuperate and recruit. During this time the unit will not be available for battles, but it will receive reinforcements faster.\n\nTotal recruits needed: [VAR70]\nTotal recruits available: [VAR71]
+947
+Recolor Uniform
+
+948
+Reforming not possible
+Reforming is not possible if the unit is in garrison, has full strength, is being transferred or home state has no recruits left.\n\nTotal recruits needed: [VAR70]\nTotal recruits available: [VAR71]
+949
+Currently replenishing
+This unit was sent home to recuperate and recruit. The unit is not available for battles but receives reinforcements faster. ETA: [VAR70] days
+950
+Select Portrait
+
+951
+Browse
+
+952
+[Experience]
+
+953
+Professional
+
+954
+Volunteer
+
+955
+Adjust state of origin
+
+956
+Adjust birth date
+
+957
+Enter commander name
+
+958
+Click to adjust value
+
+959
+Create new commander
+Add the new commander to the database.
+960
+Delete selected commander
+The commander data file will be removed, the used portrait will still be available.
+961
+Overwrite selected commander
+The selected commander will be replaced by the newly created one.
+962
+Next Question
+
+963
+Previous Question
+
+964
+Skip Questionnaire
+All questions will be answered by random.
+965
+Restart Questionnaire
+
+966
+Sign up
+Finish commander creation and start scenario
+973
+DLC Content
+Whiskey & Lemons
+999
+test
+test
+1800
+Total cumulative
+Battle casualties
+1801
+Commander appointments
+National morale
+1802
+State occupation
+Drafting
+1803
+Raids
+Objective: Invade the Confederacy
+1804
+Objective: State Secession
+Policy: Agriculture
+1805
+Policy: Bank Act
+Policy: Confiscation
+1806
+Policy: Revenue Act
+Policy: Emancipation Act
+1807
+Policy: Militia Act
+Policy: Militia Act not triggered
+1808
+Policy: Kansas a free State
+Policy: Go West 
+1809
+Policy: Support Abolitionism
+Policy: Bread Basket
+1810
+Policy: Impressment
+Policy: Nationalize Trade
+1811
+Policy: Slavery Restriction
+Policy: CSCT
+1812
+Policy: Emancipation Act
+Policy: The Old Dominion
+1813
+Policy: Kansas a Slave State
+Policy: Slavery to the West
+1814
+Policy: Apostles of Disunion
+Policy: Filibustering
+1815
+Policy: King Cotton
+Policy: Alliance with the Natives
+1816
+Medical treatment of wounded
+Condition of enemy POW camps
+1817
+Project: Propaganda
+Project: Counter-propaganda
+1818
+Project: Occupation-administration
+Project: suppress population
+1819
+Commander
+Incident: a just cause
+1820
+Incident: escalation
+Objective: West Virginia
+1821
+[SupportDescr]
+
+1822
+[SupportDescr]
+
+1823
+[SupportDescr]
+
+1824
+[SupportDescr]
+
+1825
+[SupportDescr]
+
+1826
+[SupportDescr]
+
+1827
+[SupportDescr]
+
+1828
+[SupportDescr]
+
+1829
+[SupportDescr]
+
+1830
+[SupportDescr]
+
+1831
+Not in production
+obsolete
+1832
+This battle is too large to play it manually!
+
+1833
+Recruiting not possible
+The project [VAR117] is required to recruit horse artillery units.
