@@ -1,6 +1,6 @@
 125
 0
-Austrian Rifles
+オーストリア製小銃
 0;1;
 
 5
@@ -11,14 +11,14 @@ UI/Weapons/Rifles
 17
 UI/ProjectImages
 0_s
-Austria is willing to export its service small arms in large numbers. The import deal consists of cheap, older Augustin muskets that can be converted to rifles, which are now available in numbers after the Central European revolution and independence wars in late 1840s.  Austria can also offer its newer Lorenz rifled muskets.
-Augustin Muskets and Lorenz Rifles import deals.
+オーストリアは制式小火器を大量に輸出する用意がある。この輸入契約には、1840年代末の中央ヨーロッパでの革命・独立戦争の後に大量に出回るようになった、安価で旧式のアウグスティン・マスケット銃（ライフル化改造可能）が含まれる。オーストリアはより新しいローレンツ施条マスケット銃も提供可能である。
+アウグスティン・マスケット銃とローレンツ・ライフル銃の輸入契約。
 01-01-1862
 
 001;002;
 
 1
-British Rifles
+イギリス製小銃
 0;1;
 
 5
@@ -29,14 +29,14 @@ UI/Weapons/Rifles
 15
 UI/ProjectImages
 1_s
-Make a deal with the British to import their latest service small arms. The deal consists of the reliable Enfield Rifle Muskets for infantry, the very accurate Enfield Musketoons for cavalry, as well as the Whitworth Rifle, which offers excellent long-range accuracy, and can be considered the world's first proper sniper rifle.
-Enfield Rifles, Musketoons, Whitworth Rifles import deals.
+イギリスと交渉し、最新の制式小火器を輸入する。この契約には、歩兵用の信頼性の高いエンフィールド・ライフルマスケット銃、騎兵用の高精度なエンフィールド・マスケトゥーン、そして卓越した長距離命中精度を誇り世界初の本格的な狙撃銃とも言えるウィットワース・ライフルが含まれる。
+エンフィールド・ライフル、マスケトゥーン、ウィットワース・ライフルの輸入契約。
 01-01-1862
 01-01-1862
 001;002;
 
 2
-British Artillery
+イギリス製砲兵
 0;1;
 
 5
@@ -47,14 +47,14 @@ UI/Weapons/Cannons
 7
 UI/ProjectImages
 2_s
-Make a deal with the British to import their latest rifled artillery types. The British weapons in general are known for their high accuracy. The deal consists of 12-pounder Blakely Rifles, 6- and 12-pounder breech-loading, fast and accurate Whitworth Rifles, as well as a rapid-firing, breech-loading 3-inch Armstrong Rifle.
-6- and 12-pounder Whitworth Rifles, 12-pounder Blakely Rifle and 3-inch Armstrong Rifle import deals.
+イギリスと交渉し、最新の施条砲を輸入する。イギリス製兵器は総じて高い命中精度で知られる。この契約には12ポンド・ブレイクリーライフル砲、迅速で正確な6ポンドおよび12ポンド後装式ウィットワース・ライフル砲、そして速射可能な後装式の3インチ・アームストロングライフル砲が含まれる。
+6ポンドおよび12ポンド・ウィットワースライフル砲、12ポンド・ブレイクリーライフル砲、3インチ・アームストロングライフル砲の輸入契約。
 
 01-01-1863
 001;002;
 
 3
-French Weapons
+フランス製兵器
 1;
 144;
 5
@@ -65,14 +65,14 @@ UI/Weapons/Rifles
 46
 UI/ProjectImages
 3_s
-With the Confederacy having provided military assistance to France in its invasion of Mexico, the French are now willing to strike an export deal of their weapons for the use of the Confederacy. The French Minie Rifle is a good all-around service rifle, while Canon Obusier de 12 is the gun-howitzer, known as the 12-pounder "Napoleon" in America. This import deal will come in handy, especially if the Confederate weapons industry continues to struggle to produce the needed number of guns.
-Minie Rifles and 12-pounder gun-howitzers import deals.
+南軍がフランスによるメキシコ侵攻を軍事支援したことを受け、フランスは南軍向けに兵器の輸出契約を結ぶ用意がある。フランス製ミニエー・ライフルは優れた汎用制式小銃であり、キャノン・オビュジエ・ド・12は、アメリカでは12ポンド「ナポレオン」砲として知られる砲榴弾砲である。南軍の兵器産業が必要な数の火砲を生産するのに苦戦し続けるなか、この輸入契約は大いに役立つだろう。
+ミニエー・ライフルと12ポンド砲榴弾砲の輸入契約。
 
 
 001;002;
 
 4
-Prussian Weapons
+プロイセン製兵器
 0;1;
 
 5
@@ -83,14 +83,14 @@ UI/Weapons/Rifles
 47
 UI/ProjectImages
 4_s
-Make a deal with the Prussians to import their advanced weapons, considered the best in Europe by many. The Dreyse Needle Gun is a new kind of breech-loading rifle, the first one to use bolt action to open and close the chamber. Krupp's C/61 6-pounder field guns are rapid-firing breech-loaders. Both weapons offer high manufacturing standards and long-range accuracy.
-Dreyse Needle guns and 6-pounder Krupp Rifles import deals.
+プロイセンと交渉し、多くの者からヨーロッパ最高と評される先進兵器を輸入する。ドライゼ・ニードルガンは新種の後装式ライフル銃で、薬室の開閉にボルトアクションを用いた世界初の銃である。クルップ製C/61 6ポンド野砲は速射可能な後装砲である。両兵器とも高い製造水準と長距離命中精度を誇る。
+ドライゼ・ニードルガンと6ポンド・クルップライフル砲の輸入契約。
 
 
 001;002;
 
 5
-Hall's Carbines
+ホール・カービン銃
 0;
 
 0
@@ -101,14 +101,14 @@ UI/Weapons/Rifles
 86
 UI/ProjectImages
 5_s
-"Hall's Carbines" are considered obsolete surplus weapons of no use. A private arms dealer has negotiated a deal with the head of the U.S. Ordnance Bureau to purchase these weapons with a very cheap price, and to sell them to another dealer, who would modernize them after loaning the required money from private investors and bankers, and then sell them with a much higher price back to the Government for military use, making a few inverstors and arms dealers rather rich in the process.\nNothing suspicious about that.
-Hall Rifles and Hall Carbines bought to equip 1 brigade each.
+「ホール・カービン銃」は無用の旧式余剰兵器と見なされている。ある民間武器商人が米国兵器局長と交渉し、これらの兵器を非常に安価に買い取り、別の業者に転売する契約をまとめた。その業者は民間投資家や銀行家から資金を借り入れて銃を近代化改修した後、はるかに高い価格で政府に軍用として売り戻し、その過程で一部の投資家と武器商人はかなりの利益を得ることになる。\n特に怪しいことは何もない。
+ホール・ライフル銃とホール・カービン銃を購入し、各1個旅団分を装備。
 01-09-1861
 
 001;002;
 
 6
-Confederate Rifles
+南軍製小銃
 1;
 
 4
@@ -119,14 +119,14 @@ UI/Weapons/Rifles
 21
 UI/ProjectImages
 6_s
-Finance Confederate weapons production, providing captured machinery, to produce domestic versions of the U.S. service rifles, mainly copies of the Springfield model 1855. The produced weapons, Fayetteville Rifle-Muskets and Richmond Rifles, are of sufficient quality to arm the Confederate infantry, and the shorter Richmond Carbine is also suited for mounted troops.
-Fayetteville Rifle-Muskets, Richmond Rifles and Carbines in production.
+鹵獲した機械設備を用い、米軍制式小銃、主にスプリングフィールドM1855の模造品を生産するため南軍の兵器生産に資金を投じる。生産される兵器、フェイエットビル・ライフルマスケット銃とリッチモンド・ライフル銃は南軍歩兵を武装させるのに十分な品質であり、より短いリッチモンド・カービン銃は騎馬兵にも適している。
+フェイエットビル・ライフルマスケット銃、リッチモンド・ライフル銃とカービン銃の生産。
 
 01-01-1862
 001;002;
 
 7
-Cast Artillery
+鋳造砲
 0;1;
 
 4
@@ -137,14 +137,14 @@ UI/Weapons/Cannons
 1
 UI/ProjectImages
 7_s
-Finance the weapon industry to mass produce simple cast artillery weapons, that do not require sophisticated metallurgy and machinery. Cast bronze weapons that can be produced are the M1857 12-pounder "Napoleon," based on the French modele 1853 Canon Obusier de 12, or "Canon de l'Empereur," and the James Rifle, which can also be produced by adding rifling to old M1841 6-pounder brass guns.
-12-pounder Napoleon Guns and 14-pounder James Rifles in production.
+高度な冶金技術や機械設備を必要としない単純な鋳造砲の量産に、兵器産業への資金提供を行う。生産可能な鋳造青銅製兵器は、フランスのモデル1853キャノン・オビュジエ・ド・12（通称「皇帝の砲」）を基にしたM1857 12ポンド「ナポレオン」砲、および旧式のM1841 6ポンド真鍮砲に施条を加えて生産できるジェームズ・ライフル砲である。
+12ポンド・ナポレオン砲と14ポンド・ジェームズライフル砲の生産。
 01-08-1861
 01-01-1862
 001;002;
 
 8
-Rifled Artillery
+施条砲
 0;1;
 
 4
@@ -155,14 +155,14 @@ UI/Weapons/Cannons
 4
 UI/ProjectImages
 8_s
-Finance the weapons industry to allow production of more advanced rifled artillery. These weapon types, 3-inch Ordnance Rifle and 6-pounder Wiard Rifle, are made from wrought iron, which requires more advanced machinery, resulting in more durable and accurate guns when compared to cast artillery. To mass produce these weapons, a good level of national industrialization is required.
-3-inch Ordnance Rifles and 6-pounder Wiard Rifles in production.
+より高度な施条砲の生産を可能にするため、兵器産業に資金を投じる。この兵器種、3インチ・オードナンスライフル砲と6ポンド・ウィアードライフル砲は錬鉄製で、より高度な機械設備を必要とするが、鋳造砲に比べ耐久性と命中精度に優れる砲となる。これらの兵器を量産するには、一定水準以上の国家工業化が必要である。
+3インチ・オードナンスライフル砲と6ポンド・ウィアードライフル砲の生産。
 01-01-1862
 
 001;002;
 
 9
-Parrott Rifles
+パロット・ライフル砲
 0;1;
 
 4
@@ -173,14 +173,14 @@ UI/Weapons/Cannons
 3
 UI/ProjectImages
 9_s
-Finance the weapon industry to allow production of modern Parrott Rifles. The Parrott Rifle was invented by Captain Robert P. Parrott. First of these weapons was created in 1860 and the weapon type was patented in 1861. The Parrott is manufactured with a combination of cast and wrought iron, making it accurate, but a bit unreliable. The field armies can utilize 10-, 20- and 30-pounder versions of the gun.
-10-, 20- and 30-pounder Parrott Rifles in production.
+近代的なパロット・ライフル砲の生産を可能にするため、兵器産業に資金を投じる。パロット・ライフル砲はロバート・P・パロット大尉により発明された。最初の同兵器は1860年に製作され、1861年に特許を取得した。パロット砲は鋳鉄と錬鉄を組み合わせて製造されており、命中精度は高いがやや信頼性に欠ける。野戦軍は10ポンド、20ポンド、30ポンドの各型を運用できる。
+10ポンド、20ポンド、30ポンド・パロットライフル砲の生産。
 01-08-1861
 
 001;002;
 
 10
-Machineguns
+機関銃
 0;
 
 4
@@ -191,14 +191,14 @@ UI/Weapons/Cannons
 37
 UI/ProjectImages
 10_s
-Finance a one-time purchase of novel rapid-fire weapons.\nThe Gatling gun is designed by Dr. Richard J. Gatling. The gun is operated by a hand-crank mechanism, with six barrels revolving around a central shaft. Each barrel fires once per revolution at about the same position. This allows an unusually high rate-of-fire.\nThe Coffee Mill Gun, or Agar gun, after the inventor Wilson Agar, too, uses a hand crank, feeding rounds into the weapon from a hopper, and firing them one by one.\nWhile both weapons fire like "an army in six feet square", the weapons are condemned by the Ordnance Department for using too much ammunition to be practical on the battlefield. For that reason, the weapons will not be financed into mass production.
-Gatling and Coffee Mill Guns bought to equip 8 batteries of 4 guns each.
+画期的な速射兵器の一括購入に資金を投じる。\nガトリング砲はリチャード・J・ガトリング博士により設計された。この砲は手回しクランク機構で操作され、中心軸の周りを6本の砲身が回転する。各砲身は1回転につき同じ位置で1回発射する。これにより異例の高い発射速度が実現される。\nコーヒーミルガン、別名アガー砲は、発明者ウィルソン・アガーにちなむが、こちらも手回しクランクを用い、ホッパーから弾薬を供給して一発ずつ発射する。\n両兵器とも「幅6フィートの中に軍隊がいるような」発射速度を誇るが、実戦で消耗する弾薬量が多すぎて実用的でないとして兵器局から酷評されている。そのため、これらの兵器は量産化への資金提供は行われない。
+ガトリング砲とコーヒーミルガンを購入し、4門編成の砲兵中隊8個分を装備。
 
 
 001;002;
 
 11
-Confederate Guns
+南軍製火砲
 1;
 
 4
@@ -209,14 +209,14 @@ UI/Weapons/Cannons
 12
 UI/ProjectImages
 11_s
-Finance the Confederate weapon industry to produce southern artillery.\nThe 1-pounder Williams Gun is designed by Captain D.R. Williams, of Covington, Kentucky. It's a breech-loading, rapid-fire cannon that is operated by a hand-crank, firing up to 40 rounds a minute.\nThe 12-pounder Napoleon smoothbore is much liked by the southern gunners. Due to brass shortage, cast iron can be used to produce a cheaper, but less durable and reliable, version of the weapon.\nAs the 1-pdr Williams Gun is of peculiar design, only a one-time purchase of less than 50 pieces is made, and the weapon will not enter mass production.
-12-pounder Iron Napoleons in production. 1-pounder Williams Guns bought to equip 12 batteries of 4 guns.
+南軍の火砲を生産するため、南軍の兵器産業に資金を投じる。\n1ポンド・ウィリアムズ砲は、ケンタッキー州コビントンのD・R・ウィリアムズ大尉により設計された。手回しクランクで操作される後装式速射砲で、毎分最大40発を発射できる。\n12ポンド・ナポレオン滑腔砲は南軍の砲手に大いに好まれている。真鍮不足のため、より安価だが耐久性と信頼性に劣る鋳鉄製の型も生産可能である。\n1ポンド・ウィリアムズ砲は特殊な設計のため、50門未満の一括購入にとどまり、量産化はされない。
+12ポンド・アイアン・ナポレオン砲の生産。1ポンド・ウィリアムズ砲を購入し、4門編成の砲兵中隊12個分を装備。
 
 01-01-1863
 001;002;
 
 12
-Rebore Muskets
+改造マスケット銃
 0;1;
 
 4
@@ -227,14 +227,14 @@ UI/Weapons/Rifles
 81
 UI/ProjectImages
 12_s
-In America in 1860, there's no lack of weapons. But many of the weapons are already old and obsolete, including a hodgepodge of smoothbore muskets, aging hunting weapons, and the like. A quick option to acquire a number of rifles to arm the volunteers is to modify the existing smoothbores into rifled muskets. The modified, rebored muskets are cheap to produce, but of questionable quality. But they are still better than nothing.
-Rebored Muskets in production.
+1860年のアメリカでは兵器が不足しているわけではない。だが多くの兵器はすでに旧式化しており、雑多な滑腔マスケット銃や老朽化した猟銃なども含まれる。義勇兵を武装させるための小銃を迅速に確保する方法の一つは、既存の滑腔銃を施条マスケット銃へ改造することである。改造されたこの再ボーリング・マスケット銃は安価に生産できるが、品質には疑問が残る。それでも何も持たないよりはましである。
+再ボーリング・マスケット銃の生産。
 01-01-1862
 
 001;002;
 
 13
-Legacy Rifles
+旧型ライフル銃
 0;1;
 
 4
@@ -245,14 +245,14 @@ UI/Weapons/Rifles
 18
 UI/ProjectImages
 13_s
-Finance the reintroduction of legacy rifles back into mass production.\nEarlier rifle models, such as the M1841 Mississippi Rifle, and the Hawken, or "Plains Rifle," have already ceased production in favor of the more modern and standard service small-arms made by Springfield Armory. While these weapon types are considered obsolete, they are still effective and accurate weapons in hands of skilled soldiers.
-Mississippi Rifles and Plains Rifles in production.
+旧型ライフル銃を再び量産へ復帰させるため資金を投じる。\nM1841ミシシッピ・ライフル銃や、通称「プレーンズ・ライフル」であるホーケン銃などの初期型ライフル銃は、より近代的で標準化されたスプリングフィールド工廠製の制式小火器に取って代わられ、すでに生産が終了している。これらの兵器は旧式と見なされているが、熟練兵の手にあれば依然として有効かつ正確な兵器である。
+ミシシッピ・ライフル銃とプレーンズ・ライフル銃の生産。
 
 
 001;002;
 
 14
-Cavalry Carbines
+騎兵カービン銃
 0;1;
 
 4
@@ -263,14 +263,14 @@ UI/Weapons/Rifles
 32
 UI/ProjectImages
 14_s
-Finance mass production of rapid-firing, short-range cavalry carbines of different types. All of these weapons have been in production already in the 1850s, but as their use and hence demand has remained low, the number of these weapons has remained limited.
-Colt Revolving Rifles, Frank Wesson, Burnside, Smith Carbines in production.
+様々な種類の速射・近距離用騎兵カービン銃の量産に資金を投じる。これらの兵器はいずれもすでに1850年代から生産されていたが、需要が低いままであったため生産数は限られていた。
+コルト回転式ライフル、フランク・ウェッソン、バーンサイド、スミス・カービン銃の生産。
 01-01-1862
 01-01-1863
 001;002;
 
 15
-Medium Range Carbines
+中距離カービン銃
 0;1;
 
 4
@@ -281,14 +281,14 @@ UI/Weapons/Rifles
 28
 UI/ProjectImages
 15_s
-Finance mass production of rapid-firing, medium range carbines, that can be used to arm infantry and cavalry units alike. While the range cannot match that of modern rifle-muskets, the rate of fire is higher, allowing inflicting heavy casualties in a short period of time, while in close combat. The rate of fire also means that units will burn through their ammunition more rapidly, which can could result in logistical problems on the field.
-Joslyn Rifled Carbines, Maynard, Merrill Carbines in production.
+歩兵にも騎兵にも装備可能な、速射式の中距離カービン銃の量産に資金を投じる。射程はライフルマスケット銃には及ばないものの、発射速度が高く、近接戦闘において短時間で大きな損害を与えることができる。ただし発射速度が高い分、弾薬の消耗も速く、戦場での兵站上の問題を招く可能性がある。
+ジョスリン・ライフルドカービン、メイナード、メリル・カービン銃の生産。
 
 
 001;002;
 
 16
-Sharps Rifles
+シャープス・ライフル銃
 0;1;
 
 4
@@ -299,14 +299,14 @@ UI/Weapons/Rifles
 24
 UI/ProjectImages
 16_s
-Finance mass production of breech-loading Sharps Rifles and Carbines. Designed by Christian Sharps in 1848, these very accurate weapons saw use during the Bleeding Kansas crisis of 1855-1859. The Sharps Carbine, in particular, is preferred by many cavalry troopers, and it has the potential of becoming the standard cavalry carbine for the U.S. Army. But arming infantry units with such rapid-firing weapons has been rejected as impractical due to ammo consumption and hence logistical challenges.
-Sharps Rifles and Carbines in production.
+後装式のシャープス・ライフル銃およびカービン銃の量産に資金を投じる。1848年にクリスチャン・シャープスにより設計されたこの高精度兵器は、1855年から1859年の「流血のカンザス」危機の際にも使用された。特にシャープス・カービン銃は多くの騎兵に好まれており、米陸軍の標準騎兵カービン銃となる可能性を秘めている。ただしこのような速射兵器を歩兵に装備させることは、弾薬消費と兵站上の問題から非現実的として却下されている。
+シャープス・ライフル銃とカービン銃の生産。
 01-01-1863
 
 001;002;
 
 17
-Repeating Rifles
+連発ライフル銃
 0;1;
 
 4
@@ -317,14 +317,14 @@ UI/Weapons/Rifles
 34
 UI/ProjectImages
 17_s
-Finance the introduction and mass production of very rapid-firing lever-action repeating rifles in the military. These weapons, Henry and Spencer Rifles, have been designed as recently as 1860. Their main advantage, the rapid rate of fire, is also the reason generals have their suspicions about these weapons. As the soldiers can consume their load of ammunition very rapidly, there are worries that the men would simply burn through the ammunition and then fall back, or some other similar folly.
-Henry Rifles and Spencer Repeating Rifles and Carbines in production.
+軍への非常に高速な連発式レバーアクション・ライフル銃の導入と量産に資金を投じる。ヘンリー・ライフルとスペンサー・ライフルは、1860年というごく最近設計された兵器である。その最大の利点である高い発射速度は、同時に将軍たちがこれらの兵器に懸念を抱く理由でもある。兵士が非常に速く弾薬を消費できるため、兵士が単に弾薬を使い果たして後退してしまう、あるいは同様の失態を犯すのではないかという懸念がある。
+ヘンリー・ライフル、スペンサー連発ライフルとカービン銃の生産。
 
 
 001;002;
 
 18
-Springfield Rifles
+スプリングフィールド・ライフル銃
 1;
 177;
 4
@@ -335,14 +335,14 @@ UI/Weapons/Rifles
 14
 UI/ProjectImages
 18_s
-Finance mass production of Springfield Rifle-Muskets in the south.\nDue to the numerous arms agents deployed before and during the secession of the southern states, Confederate armories are filled with the most recent U.S. service rifle, the Minie ball firing Springfield Rifle-Musket, along with the machinery to begin mass production of this weapon type in Confederate iron works.
-Springfield Rifle-Muskets in production.
+南部でスプリングフィールド・ライフルマスケット銃を量産するため資金を投じる。\n南部諸州の分離独立の前後に多数の武器仲介業者が展開したことで、南軍の兵器庫には最新の米軍制式小銃であるミニエー弾使用のスプリングフィールド・ライフルマスケット銃が大量に蓄積されており、南軍の製鉄所でこの兵器型の量産を開始するための機械設備も揃っている。
+スプリングフィールド・ライフルマスケット銃の生産。
 
 01-08-1861
 001;
 
 19
-Springfield Rifles
+スプリングフィールド・ライフル銃
 0;
 
 4
@@ -353,8 +353,8 @@ UI/Weapons/Rifles
 14
 UI/ProjectImages
 18_s
-Finance mass production of Springfield Armory's modified and cheaper to produce Springfield Rifle-Muskets.\nBefore the war, some 75,000 Springfield rifles of Model 1855 were produced for the regular army. When the secession crisis started, many armories were left in Confederate hands.\nThe urgent need for large numbers of weapons saw Springfield Armory simplify the Model 1855 by the removal of the Maynard tape primer and a few other minor alterations.
-Springfield Rifle-Muskets in production.
+スプリングフィールド工廠による、改良され安価に生産できるスプリングフィールド・ライフルマスケット銃の量産に資金を投じる。\n開戦前、正規軍向けにモデル1855型スプリングフィールド・ライフルが約75,000丁生産されていた。分離独立の危機が始まると、多くの兵器庫が南軍の手に落ちた。\n大量の兵器を緊急に必要としたことから、スプリングフィールド工廠はメイナード式雷管装置の廃止など、いくつかの小規模な改良によりモデル1855を簡略化した。
+スプリングフィールド・ライフルマスケット銃の生産。
 01-06-1861
 
 001;002;
@@ -540,7 +540,7 @@ Placeholder
 001;
 
 30
-Ironclad Monitors
+装甲モニター艦
 0;
 
 4
@@ -551,14 +551,14 @@ UI/ShipImages
 19
 UI/ProjectImages
 30_s
-Finance John Ericson's Monitor ironclad warship design. Ericson's ship has a cylindrical gun turret mounted amidships above the low-freeboard upper hull, giving it an unusual look, sometimes leading it to be described as a "cheesebox on a raft." The vessel and especially its turret are heavily armored, and able to withstand heavy fire.\nConstruction of these ship types requires advanced (level 3) shipyards.
-Ironclad Monitors and River Monitors available.
+ジョン・エリクソンのモニター型装甲軍艦の設計に資金を投じる。エリクソンの艦は、低乾舷の上部船体の中央に円筒形の砲塔を搭載しており、独特の外見から「筏の上のチーズ箱」と評されることもある。艦体、特に砲塔は重装甲が施され、激しい砲撃にも耐えうる。\nこの艦種の建造には高度な（レベル3）造船所が必要である。
+装甲モニター艦と河用モニター艦が利用可能に。
 01-08-1861
 
 001;002;
 
 31
-Ironclad Gunboats
+装甲砲艦
 0;
 
 4
@@ -569,14 +569,14 @@ UI/ShipImages
 25
 UI/ProjectImages
 31_s
-Finance construction of heavily armed and armored ironclad gunboats. These vessels can be operated along major navigable rivers to engage enemy fortifications, which could easily obliterate the common wooden or lightly armored gunboats. The ironclad gunboats can also navigate open seas, making them versatile in naval operations.\nThe designs are quite simple, allowing construction even in mid-level (2) shipyards.
-Ironclad Gunboats and Ironclad River Gunboats available.
+重武装・重装甲の装甲砲艦の建造に資金を投じる。この艦は主要な航行可能河川に沿って運用でき、通常の木造砲艦や軽装甲砲艦を容易に撃破しうる敵の防御陣地に対抗できる。装甲砲艦は外洋航行も可能で、海軍作戦において汎用性が高い。\n設計は比較的単純なため、中規模（レベル2）の造船所でも建造可能である。
+装甲砲艦と装甲河用砲艦が利用可能に。
 01-01-1862
 
 001;002;
 
 32
-Rebuilt Ironclads
+改造装甲艦
 0;
 
 4
@@ -587,14 +587,14 @@ UI/ShipImages
 08
 UI/ProjectImages
 32_s
-Finance warship designers and shipyards to allow construction of ironclad warship types, upgraded from traditional wooden sloops and frigates. With heavy armor plating, the Broadside Ironclads and Ironclad Frigates can withstand enemy fire much better than traditional wooden warships. Being more traditional in design, the ships have gun decks and no turrets, which requires more maneuvering during naval engagements.\nConstruction of these ship types requires advanced (level 3) shipyards.
-Broadside Ironclads and Ironclad Frigates available.
+従来の木造スループ艦やフリゲート艦を改造した装甲軍艦の建造を可能にするため、軍艦設計者と造船所に資金を投じる。重装甲板を備えた舷側式装甲艦と装甲フリゲートは、従来の木造軍艦よりもはるかに敵砲火に耐えうる。より伝統的な設計であるため、これらの艦には砲甲板があり砲塔はなく、海戦時にはより多くの操艦が必要となる。\nこの艦種の建造には高度な（レベル3）造船所が必要である。
+舷側式装甲艦と装甲フリゲートが利用可能に。
 01-01-1862
 
 001;002;
 
 33
-Rebuilt Ironclads
+改造装甲艦
 1;
 
 4
@@ -605,14 +605,14 @@ UI/ShipImages
 14
 UI/ProjectImages
 33_s
-Finance lieutenant John M. Brooke's ironclad warship design, upgrading a wooden steam frigate into a Casemate Ironclad Ram. A casemate is built atop of a new, iron-plated main deck, with a v-shaped bulwark added to the ship's bow, attaching the casemate. The casemate is built of oak and pine in several layers, topped with iron plating and angled to deflect enemy shells. While the ship is difficult to maneuver and suffers from propulsion issues, it should be able to successfully engage and ram wooden warships, withstanding enemy fire.\nConstruction of these ship types requires advanced (level 3) shipyards.
-Casemate Ironclad Rams available.
+ジョン・M・ブルック中尉による装甲軍艦設計に資金を投じ、木造蒸気フリゲートをケースメート式装甲衝角艦へ改造する。新たに鉄板張りされた主甲板の上にケースメートを構築し、艦首にはV字型の防壁を追加してケースメートに接続する。ケースメートはオーク材と松材を何層にも重ねて造られ、その上に鉄板を張り、敵弾を逸らすため傾斜が付けられている。この艦は操艦が難しく推進系統にも問題を抱えるが、木造軍艦と交戦し体当たり攻撃を成功させ、敵砲火に耐えることができるはずである。\nこの艦種の建造には高度な（レベル3）造船所が必要である。
+ケースメート式装甲衝角艦が利用可能に。
 
 01-06-1861
 001;002;
 
 34
-Ironclad Gunboats
+装甲砲艦
 1;
 
 4
@@ -623,14 +623,14 @@ UI/ShipImages
 28
 UI/ProjectImages
 34_s
-Finance ship designers and shipyards to allow construction of small Ironclad Gunboat Rams, that can be operated along the coasts and major navigable rivers. While the ship is small and lightly armed, the Ironclad Gunboat Ram's iron-plated and sloped casemates can withstand enemy fire, while the ship moves close to engage and ram the enemy ships. This makes it especially deadly against wooden warships.\nConstruction of these ship types requires mid-level (2) shipyards.
-Ironclad Gunboat Rams available.
+沿岸部や主要な航行可能河川で運用できる、小型の装甲衝角砲艦の建造を可能にするため、艦船設計者と造船所に資金を投じる。この艦は小型で軽武装だが、装甲衝角砲艦の鉄板張りで傾斜したケースメートは敵砲火に耐えることができ、艦は敵艦に接近して体当たり攻撃を行う。これは特に木造軍艦に対して非常に有効である。\nこの艦種の建造には中規模（レベル2）の造船所が必要である。
+装甲衝角砲艦が利用可能に。
 
 01-01-1862
 001;002;
 
 35
-Modern Warships
+近代軍艦
 0;1;
 
 4
@@ -641,14 +641,14 @@ UI/ShipImages
 16
 UI/ProjectImages
 35_s
-Finance ship designers and shipyards to allow construction of the most modern and deadly ironclad warship types, able to navigate the oceans. These ship types, the Ocean-going Casemate Ironclad and Ironclad Warship, utilize the latest innovations in American naval technology, making them more than a match for any foreign ships seen so far.\nConstruction of these ship types requires very advanced (level 4) ship yards.
-Ocean-going Casemate Ironclads and Ironclad Warships available.
+外洋航行が可能な、最も近代的で強力な装甲軍艦の建造を可能にするため、艦船設計者と造船所に資金を投じる。外洋ケースメート式装甲艦と装甲軍艦のこれらの艦種は、アメリカ海軍技術における最新の革新を取り入れており、これまでに見られたいかなる外国艦にも引けを取らない。\nこの艦種の建造には非常に高度な（レベル4）造船所が必要である。
+外洋ケースメート式装甲艦と装甲軍艦が利用可能に。
 
 
 001;002;
 
 36
-Confederate Gunboats
+南軍製砲艦
 1;
 
 4
@@ -659,14 +659,14 @@ UI/ShipImages
 24
 UI/ProjectImages
 36_s
-Finance ship designers and shipyards to allow construction of simple warships, that can be quickly constructed at low cost, and can be operated both on open seas and along major navigable rivers. When resources and heavy industry are scarce, some ingenuity is needed. One example is the use of cotton bales to "uparmor" Confederate ships to withstand enemy fire, allowing closing in and ramming the enemy.\nConstruction of Confederate Gunboats and Cottonclad Rams requires only simple (level 1) shipyards.
-Gunboats and Cottonclad Rams available.
+低コストで迅速に建造でき、外洋でも主要な航行可能河川でも運用可能な、単純な軍艦の建造を可能にするため、艦船設計者と造船所に資金を投じる。資源と重工業が乏しい場合、多少の工夫が必要となる。一例として、綿花梱包を用いて南軍艦を「装甲強化」し、敵砲火に耐えつつ接近して体当たり攻撃を行えるようにする方法がある。\n南軍製砲艦と綿甲衝角艦の建造には、単純な（レベル1）造船所のみで足りる。
+砲艦と綿甲衝角艦が利用可能に。
 
 01-01-1862
 001;002;
 
 37
-Armored Gunboats
+軽装甲砲艦
 0;1;
 
 4
@@ -677,14 +677,14 @@ UI/ShipImages
 23
 UI/ProjectImages
 37_s
-Finance ship designers and shipyards to allow construction of lightly armored river gunboats. These gunboats, usually paddle-steamers, are fitted with a heavy wooden plank armor, or light iron plating, which makes them less vulnerable to enemy small arms fire. The gunboat types, called Timberclads and Tinclads, are also fitted with 8-inch cannon for increased firepower.\nSimple (level 1) shipyards are sufficient to construct these ship types.
-Timberclad and Tinclad Gunboats available.
+軽装甲の河用砲艦の建造を可能にするため、艦船設計者と造船所に資金を投じる。通常は外輪蒸気船であるこれらの砲艦には、重厚な木製板の装甲、あるいは薄い鉄板が施され、敵の小火器の射撃に対する脆弱性が低減される。木甲砲艦・薄鉄甲砲艦と呼ばれるこの砲艦型には、火力増強のため8インチ砲も搭載される。\nこの艦種の建造には単純な（レベル1）造船所で十分である。
+木甲砲艦と薄鉄甲砲艦が利用可能に。
 01-08-1861
 01-01-1862
 001;002;
 
 38
-British Warships
+イギリス製軍艦
 0;1;
 
 5
@@ -695,14 +695,14 @@ UI/ShipImages
 17
 UI/ProjectImages
 38_s
-Make a deal with the British to import their modern Ironclad Turret Ships. As the ships are constructed in Great Britain, any issues with lack of domestic shipyard capacity can be avoided.
-Ironclad Turret Ship import deal.
+イギリスと交渉し、近代的な砲塔式装甲艦を輸入する。この艦は英国内で建造されるため、国内造船所の能力不足に関する問題は回避できる。
+砲塔式装甲艦の輸入契約。
 
 01-01-1864
 001;002;
 
 39
-French Warships
+フランス製軍艦
 0;1;
 
 5
@@ -713,14 +713,14 @@ UI/ShipImages
 18
 UI/ProjectImages
 39_s
-Make a deal with the French to import their modern ocean-going Ironclad Rams. As the ships are constructed in France, any issues with lack of domestic shipyard capacity can be avoided.
-Ocean-going Ironclad Ram import deal.
+フランスと交渉し、近代的な外洋型装甲衝角艦を輸入する。この艦はフランス国内で建造されるため、国内造船所の能力不足に関する問題は回避できる。
+外洋型装甲衝角艦の輸入契約。
 
 01-01-1864
 001;002;
 
 40
-Gloire Class
+グロワール級
 1;
 144;
 5
@@ -731,14 +731,14 @@ UI/ShipImages
 30
 UI/ProjectImages
 40_s
-Following the Confederate support of the French invasion of Mexico, the French are willing to further increase their military support of the Confederacy for a reasonable price. If so requested, the French will allow the construction and purchase of their navy's most powerful ship type, the Gloire-class ironclad ship of the line. The ships would be constructed in French shipyards.
-Gloire-class ironclad import deal.
+南軍によるフランスのメキシコ侵攻支援を受け、フランスは相応の対価と引き換えに南軍への軍事支援をさらに強化する用意がある。要請があれば、フランスは自国海軍最強の艦種であるグロワール級装甲戦列艦の建造と購入を認める。艦はフランス国内の造船所で建造される。
+グロワール級装甲艦の輸入契約。
 
 
 001;
 
 41
-Warrior Class
+ウォーリア級
 0;1;
 
 5
@@ -749,8 +749,8 @@ UI/ShipImages
 36
 UI/ProjectImages
 41_s
-Negotiate a deal with the British to allow construction and import of their most powerful ship type, the over 9,000 ton Warrior-class ironclad, armed with 40 heavy guns. The British are not willing to settle for a cheap deal, but if the required sum is provided, they would construct the ordered ships in British shipyards, which means any lack of domestic shipyard capacity can be avoided.
-Warrior Class warships import deal.
+イギリスと交渉し、9,000トンを超える最強の艦種、40門の重砲を搭載したウォーリア級装甲艦の建造と輸入を認めさせる。イギリス側は安価な取引には応じないが、必要な金額が支払われれば、注文された艦をイギリス国内の造船所で建造してくれるため、国内造船所の能力不足の問題も回避できる。
+ウォーリア級軍艦の輸入契約。
 
 
 001;
@@ -1584,7 +1584,7 @@ Placeholder
 
 
 88
-Command Reform
+指揮改革
 0;1;
 013;113;
 4
@@ -1595,14 +1595,14 @@ UI/ProjectImages
 90
 UI/ProjectImages
 90_s
-Finance a military organization and leadership reform, that will allow multiple armies and independent corps to be grouped under sufficiently experienced commanders into Army Groups. This way of organizing highest field command will improve unity of command, and will result in improved coordination of operations, management and supplies.
-Army Group organization allowed. 
+軍事組織および指揮系統の改革に資金を投じ、複数の軍と独立軍団を、十分な経験を持つ指揮官の下で軍集団としてまとめられるようにする。この最高野戦指揮の組織化により指揮の統一性が向上し、作戦・管理・補給の連携が改善される。
+軍集団編成が可能に。
 01-01-1864
 
 001;
 01;
 89
-Organization Reform
+編制改革
 0;1;
 
 4
@@ -1613,14 +1613,14 @@ UI/ProjectImages
 90
 UI/ProjectImages
 90_s
-Finance a major military organization reform, that will introduce the corps system to our armies, and will more rigidly standardize rank requirements for all command levels.\nThe corps organization will allow more flexible command of much larger armies, with each corps being able to operate independently, thanks to having its own organic logistical support and headquarters. With the new efficiency in management and staff work within the newly organized armies, general consumption of military supplies is also reduced, making supplying the armies easier and less costly.\nArmies of multiple corps will allow much improved command and control in the field.\nAll existing armies will be reorganized into corps and can be attached to an army HQ, or remain independent.
-Corps organization allowed. Supply consumption by military units
+大規模な軍事組織改革に資金を投じ、軍団制度を全軍に導入し、あらゆる指揮階級の階級要件をより厳格に標準化する。\n軍団編制により、各軍団が独自の兵站支援と司令部を持つことで独立して行動できるようになり、より大規模な軍のより柔軟な指揮が可能になる。新たに編制された軍における管理・幕僚業務の効率化により、軍需品の全体消費量も削減され、軍への補給がより容易かつ低コストになる。\n複数軍団からなる軍は、戦場での指揮統制を大幅に改善する。\n既存の全ての軍は軍団に再編制され、軍司令部に所属するか独立部隊として残ることができる。
+軍団編制が可能に。軍事部隊による補給消費
 01-03-1862
 01-03-1862
 002;
 
 90
-Organization Reform
+編制改革
 0;1;
 
 4
@@ -1631,14 +1631,14 @@ UI/ProjectImages
 90
 UI/ProjectImages
 90_s
-Finance a major military organization reform, that will introduce the corps system to our armies, and will more rigidly standardize rank requirements for all command levels.\nThe corps organization will allow more flexible command of much larger armies, with each corps being able to operate independently, thanks to having its own organic logistical support and headquarters. With the new efficiency in management and staff work within the newly organized armies, general consumption of military supplies is also reduced, making supplying the armies easier and less costly.\nArmies of multiple corps will allow much improved command and control in the field, as well as offer important corps commander positions to ambitious generals.\nAll existing armies will be reorganized into corps and can be attached to an army HQ, or remain independent.
-Corps organization allowed. Supply consumption by military units
+大規模な軍事組織改革に資金を投じ、軍団制度を全軍に導入し、あらゆる指揮階級の階級要件をより厳格に標準化する。\n軍団編制により、各軍団が独自の兵站支援と司令部を持つことで独立して行動できるようになり、より大規模な軍のより柔軟な指揮が可能になる。新たに編制された軍における管理・幕僚業務の効率化により、軍需品の全体消費量も削減され、軍への補給がより容易かつ低コストになる。\n複数軍団からなる軍は、戦場での指揮統制を大幅に改善するとともに、野心的な将軍たちに重要な軍団司令官の地位を提供する。\n既存の全ての軍は軍団に再編制され、軍司令部に所属するか独立部隊として残ることができる。
+軍団編制が可能に。軍事部隊による補給消費
 01-03-1862
 01-03-1862
 001;
 
 91
-Propaganda
+プロパガンダ
 0;1;
 
 0
@@ -1649,14 +1649,14 @@ UI/ProjectImages
 91
 UI/ProjectImages
 91_s
-Finance national communication that is primarily used to influence and persuade an audience to further the nation's agenda, which may not be objective and may be selectively presenting facts to encourage a particular synthesis or perception, or using loaded language to produce an emotional rather than a rational response to the information that is being presented. Some say propaganda, but we'll call it patriotic reporting of the facts, our loyal citizens being the target audience.\nEach level of this project will further increase support in loyal states.
-Support in loyal states
+国民の意識に影響を与え、国家の方針を後押しするために説得を行う国内広報活動に資金を投じる。これは客観的とは限らず、特定の解釈や認識を促すために事実を選択的に提示したり、提示される情報に対して理性的というより感情的な反応を引き起こすために扇動的な言葉を用いたりすることもある。プロパガンダと呼ぶ者もいるだろうが、我々はこれを愛国的な事実報道と呼ぶ。忠実な国民こそが標的となる対象である。\nこのプロジェクトの各レベルは、忠誠州における支持をさらに高める。
+忠誠州における支持
 
 
 001;002;
 
 92
-Counter-propaganda
+対抗プロパガンダ
 0;1;
 
 0
@@ -1667,14 +1667,14 @@ UI/ProjectImages
 92
 UI/ProjectImages
 92_s
-Finance national communication that is primarily used to discredit any opposing views of the nation's agenda, and further a perception of those disagreeing with the official narrative as evil and even unholy people. This kind of fact reporting, countering enemy propaganda, is aimed at opposition within our nation, and will eventually make the citizens question any views that are not amplified by the nation's propaganda machine, making the passive, decreasing support to the enemy's cause.\nEach level of this project will further reduce enemy support in loyal states.
-Enemy support in loyal states
+国家の方針に反対する見解を信用失墜させ、公式の主張に異議を唱える者たちを邪悪であり不敬な存在とさえ認識させるために用いられる国内広報活動に資金を投じる。この種の事実報道は敵のプロパガンダに対抗するもので、国内の反対勢力を標的とし、最終的には国民に、国家のプロパガンダ機構によって増幅されないあらゆる見解を疑わせるようになり、敵の大義への支持を受動的に減少させる。\nこのプロジェクトの各レベルは、忠誠州における敵支持をさらに低下させる。
+忠誠州における敵支持
 
 
 001;002;
 
 93
-Occupation Administration
+占領統治
 0;1;
 
 0
@@ -1685,14 +1685,14 @@ UI/ProjectImages
 93
 UI/ProjectImages
 93_s
-Finance more effective occupation administration in conquered states and territories. While the local population may not be happy with the new administration, appointing the right people in right places, and using the right tools, will allow more leeway for the nation's military effort in conquered states.\nEach level of this project will further increase support of our nation in conquered states and territories.
-Support in enemy states occupied by our nation's armies
+征服した州や準州における占領統治の効率化に資金を投じる。地元住民は新たな統治に不満を抱くかもしれないが、適材適所の人材配置と適切な手段の活用により、征服地における国家の軍事努力にさらなる余地が生まれる。\nこのプロジェクトの各レベルは、我が軍が占領する征服州や準州における我が国への支持をさらに高める。
+我が国の軍が占領する敵州における支持
 
 
 001;
 
 94
-Suppress Population
+住民弾圧
 0;1;
 
 0
@@ -1703,14 +1703,14 @@ UI/ProjectImages
 94
 UI/ProjectImages
 94_s
-Finance measures to suppress any hostile population in conquered states and territories, reducing active opposition of the nation's war effort. This will reduce enemy support in conquered states that have not changed sides.\nEach level of this project will further reduce enemy support in conquered states and territories.
-Enemy support in enemy states occupied by our nation's armies
+征服した州や準州における敵対的な住民を弾圧し、国家の戦争努力への積極的な抵抗を減らすための施策に資金を投じる。これにより、まだ寝返っていない征服州における敵への支持が低下する。\nこのプロジェクトの各レベルは、征服した州や準州における敵支持をさらに低下させる。
+我が国の軍が占領する敵州における敵支持
 
 
 001;
 
 95
-Administration Reform
+行政改革
 0;1;
 
 0
@@ -1721,14 +1721,14 @@ UI/ProjectImages
 95
 UI/ProjectImages
 95_s
-Finance political reforms that will allow more efficient policy making in the long run. Whether this means structural changes in the political system, or simply using money in a way that makes individuals reach a consensus faster, does not matter. The end result, which is faster processing of political decisions, counts.\nEach level of this project will further shorten the time required to activate new policies and acts.
-Policy activation time
+長期的により効率的な政策立案を可能にする政治改革に資金を投じる。それが政治制度の構造的変化を意味するにせよ、単に人々がより早く合意に達するような資金の使い方をするだけにせよ、それは重要ではない。重要なのは、政治的決定の処理が迅速化されるという結果である。\nこのプロジェクトの各レベルは、新たな政策や法令を発動するのに必要な時間をさらに短縮する。
+政策発動時間
 
 
 001;002;
 
 96
-Subsidize Banks
+銀行への助成
 0;1;
 023;123;
 1
@@ -1739,14 +1739,14 @@ UI/ProjectImages
 96
 UI/ProjectImages
 96_s
-Subsidize national banks to increase their efficiency. National banks can further increase the available capital in the region, increasing private wealth and lowering construction costs of companies, as the banks can operate with decreased risk.\nEach level of this project will further increase efficiency of national banks.
-National banks efficiency
+国立銀行に助成金を出し、その効率を高める。国立銀行はリスクを低減して運営できるため、地域で利用可能な資本をさらに増やし、民間の富を増加させ、企業の建設コストを引き下げることができる。\nこのプロジェクトの各レベルは、国立銀行の効率をさらに高める。
+国立銀行の効率
 
 
 001;002;
 
 97
-Improve Credit Rating
+信用格付け改善
 0;1;
 
 1
@@ -1757,14 +1757,14 @@ UI/ProjectImages
 97
 UI/ProjectImages
 97_s
-Finance economic reforms that will directly influence the nation's credit rating. A credit rating is an evaluation of the credit risk of a prospective debtor, predicting their ability to pay back the debt, and an implicit forecast of the likelihood of the debtor defaulting. When the credit rating is high, cheaper loans are offered and the interest rate remains manageable.\nEach level of this project will further increase the national credit rating with one step.
-National credit rating
+国家の信用格付けに直接影響を与える経済改革に資金を投じる。信用格付けとは、将来の債務者の信用リスクを評価し、その債務返済能力を予測し、債務不履行の可能性を暗に予測するものである。信用格付けが高いほど、より安価な融資が提供され、金利も抑えられる。\nこのプロジェクトの各レベルは、国家の信用格付けをさらに1段階引き上げる。
+国家の信用格付け
 
 
 001;002;
 
 98
-Market Reform
+市場改革
 0;1;
 
 1
@@ -1775,14 +1775,14 @@ UI/ProjectImages
 98
 UI/ProjectImages
 98_s
-Finance improvement of the nation's domestic markets to boost the economy in the long term. This will increase the efficiency of all Market buildings, which will stimulate local economy.\nEach level of this project will further increase efficiency of the nation's markets.
-Markets' efficiency
+長期的に経済を押し上げるため、国内市場の改善に資金を投じる。これにより全ての市場施設の効率が向上し、地域経済が活性化する。\nこのプロジェクトの各レベルは、国内市場の効率をさらに高める。
+市場の効率
 
 
 001;002;
 
 99
-Infrastructure Reform
+インフラ改革
 0;1;
 
 3
@@ -1793,14 +1793,14 @@ UI/ProjectImages
 99
 UI/ProjectImages
 99_s
-Finance improvement of the nation's infrastructure to allow faster movement of goods. Infrastructure improvements, such as macadamizing roads or building new corduroy roads, construction of modern bridges or improving the canal network, are expensive projects, but will also greatly benefit the nation's war effort. When the infrastructure can support more traffic, it means larger armies can also be more successfully supplied.\nEach level of this project will further increase transport capacity of all the nation's Important Infrastructure Points (IIPs).
-Transport capacity of all IIPs owned by our nation
+物資のより迅速な輸送を可能にするため、国家のインフラ整備に資金を投じる。道路のマカダム舗装化や新たな丸太道の建設、近代的な橋の建設、運河網の改善といったインフラ整備は費用のかかる事業だが、国家の戦争努力にも大いに貢献する。インフラがより多くの交通量に対応できるようになれば、より大規模な軍もより円滑に補給できるようになる。\nこのプロジェクトの各レベルは、我が国が保有する全ての重要インフラ拠点（IIP）の輸送能力をさらに高める。
+我が国が保有する全IIPの輸送能力
 
 
 001;002;
 
 100
-Logistics Reforms
+兵站改革
 0;1;
 
 4
@@ -1811,14 +1811,14 @@ UI/ProjectImages
 100
 UI/ProjectImages
 100_s
-Finance logistics reforms in the nation's military. With improved laws, organization, coordination and training, the nation's logistical capacity can be better utilized. This reduces costs of troop movement using sea, river and rail transportation, as well as costs of supplies.\nEach level of this project will further reduce transportation upkeep and supply costs.
-Upkeep cost of military transports (sea, river, rail)/Cost of supplies
+国家軍の兵站改革に資金を投じる。法制度、組織、調整、訓練の改善により、国家の兵站能力をより有効に活用できるようになる。これにより海路・河川・鉄道輸送による部隊移動のコストおよび補給コストが削減される。\nこのプロジェクトの各レベルは、輸送維持費と補給コストをさらに削減する。
+軍事輸送(海路・河川・鉄道)の維持費/補給コスト
 
 
 001;002;
 
 101
-Military Railroad
+軍用鉄道
 0;1;
 
 4
@@ -1829,14 +1829,14 @@ UI/ProjectImages
 101
 UI/ProjectImages
 101_s
-Finance establishing a separate agency, run not only by the military, but also experienced railroad men from the private sector, to operate any rail lines seized by the government. As railroads have become a significant factor in transporting troops and supplies, this agency will coordinate this new capability for our nation's military, instead of individual field commanders with little to no experience in such massive logistical efforts. Once the military railroad organization is formed, troop movements speed along railroads is greatly increased.
-Railroad movement speed of armies
+軍だけでなく、民間出身の経験豊富な鉄道関係者も運営に参加する独立機関を設立し、政府が接収した全ての鉄道路線を運営できるようにするため資金を投じる。鉄道が部隊と物資の輸送における重要な要素となった今、この機関はこの新たな能力を、そのような大規模な兵站業務の経験がほとんどない個々の野戦指揮官に代わって、国家軍のために統括する。軍用鉄道機構が設立されると、鉄道沿いの部隊移動速度が大幅に向上する。
+軍の鉄道移動速度
 01-01-1864
 
 001;002;
 
 102
-Weapon Production
+兵器生産
 0;1;
 
 3
@@ -1847,14 +1847,14 @@ UI/ProjectImages
 102
 UI/ProjectImages
 102_s
-Subsidize domestic weapons production. This will make production of weapons more profitable to manufacturers, boosting production volume.\nEach level of this project will further increase weapon production efficiency.
-Weapon production efficiency 
+国内の兵器生産に助成金を出す。これにより製造業者にとって兵器生産がより利益の出るものとなり、生産量が押し上げられる。\nこのプロジェクトの各レベルは、兵器生産の効率をさらに高める。
+兵器生産効率
 
 
 001;002;
 
 103
-Send Envoys
+外交使節派遣
 0;1;
 
 5
@@ -1865,14 +1865,14 @@ UI/ProjectImages
 103
 UI/ProjectImages
 103_s
-Finance diplomatic envoys who will be sent to Europe to advance our nation's cause abroad, increasing foreign support, and positively influencing any decisions to intervene in the conflict.\nEach level of this project will further improve relations with the European great powers.
-Relations with European nations
+外国での我が国の大義を推進するため、ヨーロッパへ派遣する外交使節に資金を投じ、対外的な支持を高め、紛争への介入に関するあらゆる決定に好影響を与える。\nこのプロジェクトの各レベルは、ヨーロッパ列強との関係をさらに改善する。
+ヨーロッパ諸国との関係
 
 
 001;
 
 104
-Subsidize Industry
+産業への助成
 0;1;
 
 3
@@ -1883,14 +1883,14 @@ UI/ProjectImages
 104
 UI/ProjectImages
 104_s
-Subsidize the nation's heavy industry, increasing profits for the private companies and making their business more lucrative. This will boost production and encourage further expansion.\nEach level of this project will further increase industrial productivity.
-Industrial productivity
+国家の重工業に助成金を出し、民間企業の利益を増やし、その事業をより有利なものにする。これにより生産が押し上げられ、さらなる拡張が促進される。\nこのプロジェクトの各レベルは、工業生産性をさらに高める。
+工業生産性
 
 
 001;002;
 
 105
-Subsidize Agriculture
+農業への助成
 0;1;
 
 2
@@ -1901,14 +1901,14 @@ UI/ProjectImages
 105
 UI/ProjectImages
 105_s
-Subsidize the nation's agriculture, increasing profits for the farmers and making their business more lucrative. This will boost output of the farms and encourage further expansion.\nEach level of this project will further increase agricultural productivity.
-Agricultural productivity
+国家の農業に助成金を出し、農家の利益を増やし、その事業をより有利なものにする。これにより農場の生産量が押し上げられ、さらなる拡張が促進される。\nこのプロジェクトの各レベルは、農業生産性をさらに高める。
+農業生産性
 
 
 001;002;
 
 106
-Trade Warfare
+通商破壊戦
 0;1;
 
 4
@@ -1919,14 +1919,14 @@ UI/ProjectImages
 106
 UI/ProjectImages
 106_s
-Finance the nation's trade warfare effort. This allows the military, along with private contractors, to make arrangements that allow waging a more effective trade war against the enemy.\nEach level of this project further increases effectiveness of blockades and blockade running by the nation's navy.
-Blockading and blockade running efficiency
+国家の通商破壊戦への取り組みに資金を投じる。これにより軍は民間業者と共に、敵に対するより効果的な通商戦を仕掛けるための取り決めを結ぶことができるようになる。\nこのプロジェクトの各レベルは、国家海軍による封鎖および封鎖突破の効果をさらに高める。
+封鎖および封鎖突破の効率
 
 
 001;002;
 
 107
-Civil Order
+治安維持
 0;1;
 
 4
@@ -1937,14 +1937,14 @@ UI/ProjectImages
 107
 UI/ProjectImages
 107_s
-Finance the internal security effort of the nation. The citizens will react to news from the front lines, as well as decisions made by the government. When support for the war effort starts to waver, negative effects like riots, looting and draft dodging will increase among the common people. When the police and military are ready to step in and suppress any unwanted behavior, this is less likely to happen in the first place.\nEach level of this project further decreases negative impact on support from military actions.
-Support hits from casualties and raiding
+国家の国内治安維持活動に資金を投じる。国民は前線からの知らせや政府の決定に反応する。戦争努力への支持が揺らぎ始めると、暴動、略奪、徴兵忌避といった悪影響が民衆の間で増加する。警察と軍が望ましくない行動を抑え込む準備ができていれば、そもそもそうした事態が起こりにくくなる。\nこのプロジェクトの各レベルは、死傷者や略奪による支持への悪影響をさらに軽減する。
+死傷者や略奪による支持への打撃
 
 
 001;002;
 
 108
-Recruit Agents
+諜報員採用
 0;1;
 
 4
@@ -1955,14 +1955,14 @@ UI/ProjectImages
 108
 UI/ProjectImages
 108_s
-Finance recruitment of agents to spy on the enemy and to report their troop movements, increasing intelligence gathering. With improved intelligence gathering, delays in receiving information about enemy troop movements are reduced and the accuracy of the information received is improved.\nEach level of this project further improves intelligence gathering.
-Intelligence gathering efficiency
+敵を偵察しその部隊の動きを報告させるための諜報員の採用に資金を投じ、情報収集能力を高める。情報収集能力が向上することで、敵部隊の動きに関する情報を受け取るまでの遅延が減少し、受け取る情報の精度も向上する。\nこのプロジェクトの各レベルは、情報収集能力をさらに高める。
+諜報収集効率
 
 
 001;002;
 
 109
-Recruitment Offices
+徴兵事務所
 0;1;
 
 4
@@ -1973,14 +1973,14 @@ UI/ProjectImages
 109
 UI/ProjectImages
 109_s
-Finance the establishment and management of recruitment offices across the nation. With local and effective recruiters managing the nation's recruitment effort, more volunteers are likely to offer their services for the nation's cause.\nEach level of this project further increases number of available volunteers.
-Number of available volunteers
+全国各地の徴兵事務所の設立と運営に資金を投じる。地元に精通した有能な徴兵担当者が国家の徴兵活動を管理することで、より多くの志願兵が国家の大義のために名乗り出るようになる。\nこのプロジェクトの各レベルは、利用可能な志願兵の数をさらに増やす。
+利用可能な志願兵の数
 
 
 001;002;
 
 110
-Cavalry Reform
+騎兵改革
 0;1;
 
 4
@@ -1991,14 +1991,14 @@ UI/ProjectImages
 110
 UI/ProjectImages
 110_s
-Cavalry regiments are traditionally used by the army commanders for scouting, as messengers to relay orders, or to perform guard duties in the rear, in small detachments. Progressive cavalry officers are against this kind of dispersed use, and in favor of more independent cavalry use. This requires reforming organization, introducing cavalry brigades. Brigaded, the cavalry could support the army commander's operations more effectively, and even be able to stand their ground against infantry, if needed.\nThis project updates all existing cavalry units to brigades, and allows recruitment of cavalry brigades with up to 2500 troopers.
-Cavalry Brigades available.
+騎兵連隊は伝統的に、軍司令官により偵察、命令伝達の伝令、あるいは後方での小部隊による警備任務に用いられてきた。進歩的な騎兵将校たちはこのような分散的な運用に反対し、より独立した騎兵運用を支持している。これには編制改革、すなわち騎兵旅団の導入が必要である。旅団編成にすれば、騎兵は軍司令官の作戦をより効果的に支援でき、必要とあらば歩兵に対しても持ちこたえることができるようになる。\nこのプロジェクトは既存の全ての騎兵部隊を旅団に更新し、最大2,500騎の騎兵旅団の徴募を可能にする。
+騎兵旅団が利用可能に。
 01-01-1862
 01-08-1861
 001;
 
 111
-Cavalry Reform II
+騎兵改革II
 0;1;
 
 4
@@ -2009,14 +2009,14 @@ UI/ProjectImages
 110
 UI/ProjectImages
 111_s
-Normally in an artillery battery, the gunners are moving on foot. This reduces their mobility to that of infantry. To be able to support the fast-moving cavalry, an artillery battery needs better mobility. This is achieved by adding sufficient number of horses for all the gunners to be able to ride. Only lighter artillery pieces are available for the horse-artillery batteries.\nThis project allows recruitment of horse-artillery unit type.
-Horse-Artillery available.
+通常、砲兵中隊の砲手は徒歩で移動する。これにより機動力は歩兵並みに制限される。機動力の高い騎兵を支援できるようにするには、砲兵中隊にもより優れた機動力が必要である。これは全ての砲手が騎乗できるよう十分な数の馬を配備することで実現される。騎馬砲兵中隊には、より軽量な火砲のみが配備可能である。\nこのプロジェクトは騎馬砲兵ユニット種別の徴募を可能にする。
+騎馬砲兵が利用可能に。
 01-08-1862
 01-01-1862
 001;
 
 112
-Artillery Reform
+砲兵改革
 0;1;
 
 4
@@ -2027,14 +2027,14 @@ UI/ProjectImages
 111
 UI/ProjectImages
 112_s
-Traditionally artillery batteries are distributed within an army, and attached to infantry brigades, or even regiments. The infantry commander is then in command of the attached gunners, usually detaching a few guns' sections to operate in different parts of their line of battle. This limits the tactical use of artillery in battle. Organizing multiple batteries into battalions (or even brigades) allows an artillery commander, a specialist in the use of his guns, to manage his batteries to better support his commander.\nThis project updates all existing artillery units to battalions, and allows recruitment of artillery battalions with up to 16 guns.
-Artillery Battalions available.
+伝統的に砲兵中隊は軍内に分散配置され、歩兵旅団、あるいは連隊にすら配属される。歩兵指揮官がそれら配属された砲手を指揮することになり、多くの場合は数個の砲兵小隊を戦線の異なる場所に分派する。これにより戦闘における砲兵の戦術的運用が制限される。複数の砲兵中隊を大隊（あるいは旅団）へと編成することで、自らの火砲運用を専門とする砲兵指揮官が、担当指揮官をより良く支援できるよう自らの中隊を管理できるようになる。\nこのプロジェクトは既存の全ての砲兵部隊を大隊へ更新し、最大16門の砲兵大隊の徴募を可能にする。
+砲兵大隊が利用可能に。
 01-01-1862
 01-01-1862
 001;
 
 113
-Farm Mechanization
+農業機械化
 0;1;
 
 2
@@ -2045,14 +2045,14 @@ UI/ProjectImages
 113
 UI/ProjectImages
 113_s
-Subsidize farming by financing large scale mechanization of agriculture. This mechanization includes the introduction of innovations such as horse-drawn reapers, and raking, binding and threshing machines. With machines taking the place of humans in many areas, output is greatly increased, while at the same time freeing previously required workforce to join the volunteer armies.\nEach level of this project further increases farm output and available volunteers.
-Crops production/Number of volunteers
+大規模な農業機械化に資金を投じ、農業を助成する。この機械化には、馬引き式の刈取機、また掻き寄せ・結束・脱穀機などの革新技術の導入が含まれる。多くの分野で機械が人手に取って代わることで生産量は大幅に増加し、同時にそれまで必要とされていた労働力を義勇軍への参加に振り向けることができる。\nこのプロジェクトの各レベルは、農場の産出量と利用可能な志願兵の数をさらに増やす。
+農作物生産量/志願兵の数
 
 
 001;002;
 
 114
-Plantation Mechanization
+プランテーション機械化
 1;
 
 2
@@ -2063,14 +2063,14 @@ UI/ProjectImages
 114
 UI/ProjectImages
 114_s
-Subsidize cotton production by financing mechanization of plantations. While slave labor is cheap, boosting production can be achieved with the use of modern machines.\nEach level of this project further increases cotton production.
-Cotton production
+プランテーションの機械化に資金を投じ、綿花生産を助成する。奴隷労働は安価だが、近代的な機械の導入により生産量をさらに押し上げることができる。\nこのプロジェクトの各レベルは、綿花生産量をさらに増やす。
+綿花生産量
 
 
 001;002;
 
 115
-Supply Reform
+補給改革
 0;1;
 
 4
@@ -2081,14 +2081,14 @@ UI/ProjectImages
 115
 UI/ProjectImages
 115_s
-As the armies grow, so does the need for military supplies. Current logistical system is designed to support only small armies. The depots, their personnel and commanding officers cannot manage larger supply volumes without reforming the whole logistical system.\nThis project allows upgrading existing supply depots to levels 2-3, greatly increasing the efficiency of the depots, allowing them to support more and larger armies.
-Upgrading supply depots allowed.
+軍が拡大するにつれ、軍需品の需要も増大する。現在の兵站システムは小規模な軍のみを支援するよう設計されている。補給廠、その要員、指揮官は、兵站システム全体を改革しない限りより大規模な補給量を管理できない。\nこのプロジェクトは既存の補給廠をレベル2〜3へ改修することを可能にし、補給廠の効率を大幅に向上させ、より多くの、より大規模な軍を支援できるようにする。
+補給廠の改修が可能に。
 01-01-1862
 01-01-1863
 001;002;
 
 116
-Cotton is King
+綿花は王なり
 1;
 
 2
@@ -2099,14 +2099,14 @@ UI/ProjectImages
 116
 UI/ProjectImages
 116_s
-Implement a policy of using cotton as a tool to maintain good relations with the European great powers. The very large European textile industry needs a steady flow of southern cotton. So much so, it is believed, that Europe will support an independent Confederate States of America in order to protect the supply of cotton.\nEach level of this project further improves relations with the European nations.
-European relations
+ヨーロッパ列強との良好な関係を維持する手段として綿花を利用する方針を実施する。ヨーロッパの巨大な繊維産業には、南部産綿花の安定供給が必要である。それゆえ、ヨーロッパは綿花の供給を守るため独立した南軍連合を支持するだろうと考えられている。\nこのプロジェクトの各レベルは、ヨーロッパ諸国との関係をさらに改善する。
+ヨーロッパとの関係
 
 
 001;002;
 
 117
-Corn is King
+穀物は王なり
 0;
 
 2
@@ -2117,14 +2117,14 @@ UI/ProjectImages
 117
 UI/ProjectImages
 117_s
-Finance the logistical effort of selling crops to Europe, increasing relations with the European powers. Western Europe has suffered continuous crop failures, and the Northern farmers provide nearly half of England's grain imports. As British ships carry grain home to England, they can return with exported war material for the United States - a very beneficial trading arrangement. It seems that King Corn is more powerful than King Cotton.\nEach level of this project further improves relations with the European nations.
-European relations
+ヨーロッパへの農作物販売の兵站活動に資金を投じ、ヨーロッパ列強との関係を改善する。西ヨーロッパは度重なる不作に見舞われており、北部の農家はイングランドの穀物輸入のほぼ半分を供給している。イギリスの船が穀物を本国へ運ぶ際、帰路に米国向けの輸出戦争物資を積んで戻ることができる――非常に有益な貿易取り決めである。どうやら穀物王は綿花王よりも強力なようだ。\nこのプロジェクトの各レベルは、ヨーロッパ諸国との関係をさらに改善する。
+ヨーロッパとの関係
 
 
 001;002;
 
 118
-Training Manuals
+訓練教範
 0;1;
 
 4
@@ -2135,14 +2135,14 @@ UI/ProjectImages
 118
 UI/ProjectImages
 118_s
-Warfare and tactics are constantly evolving. To improve training of the large volunteer armies, new and up to date drill and training manuals need to be written, printed and distributed to the officers.\nEach level of this project further increases the effectiveness of training, meaning the troops' training level increases faster when they are encamped.
-Speed of training progress
+戦争と戦術は常に進化し続けている。大規模な義勇軍の訓練を改善するため、新しく最新の教練・訓練教範を執筆・印刷し、将校たちに配布する必要がある。\nこのプロジェクトの各レベルは、訓練の効果をさらに高める。すなわち、駐屯中の部隊の訓練レベルの上昇がより速くなる。
+訓練進行速度
 
 
 001;002;
 
 119
-Railroad Construction
+鉄道建設
 0;1;
 
 0
@@ -2153,14 +2153,14 @@ UI/ProjectImages
 119
 UI/ProjectImages
 119_s
-Construction of new railroads requires a lot of resources and labor. Finance the railroad engineers and increase immigration of cheap manpower for labor, especially from China and Ireland.\nEach level of this project further increases the speed of constructing new railroad lines.
-Railroad construction speed
+新規鉄道の建設には多くの資源と労働力が必要である。鉄道技師に資金を投じ、特に中国とアイルランドからの安価な労働力の移民を増加させる。\nこのプロジェクトの各レベルは、新規鉄道路線の建設速度をさらに高める。
+鉄道建設速度
 
 
 001;
 
 120
-Improvised Shipyards
+即席造船所
 1;
 
 2
@@ -2171,14 +2171,14 @@ UI/ProjectImages
 120
 UI/ProjectImages
 120_s
-Finance resourceful southern ship builders and local plantation owners to allow construction of small Ironclad Gunboat Rams in primitive, improvised shipyards. These shipyards are situated along shallow waterways, which are unreachable by Union gunboats. This allows construction of the gunboats without the need for dedicated shipyard facilities, and free shipyards capacity.
-Ironclad Gunboat Rams constructed without reserving shipyard capacity.
+才覚ある南部の造船業者や地元のプランテーション所有者に資金を投じ、原始的で即席の造船所での小型装甲衝角砲艦の建造を可能にする。これらの造船所は北軍砲艦の到達できない浅瀬の水路沿いに位置している。これにより専用の造船施設を必要とせずに砲艦を建造でき、造船所の余力を空けることができる。
+造船所の能力を消費せずに装甲衝角砲艦を建造。
 
 01-01-1864
 001;002;
 
 121
-Trade Deals
+貿易協定
 0;1;
 
 5
@@ -2189,14 +2189,14 @@ UI/ProjectImages
 121
 UI/ProjectImages
 121_s
-Finance the nation's diplomats to negotiate more lucrative trade deals with foreign nations. The trade deals will allow better prices when importing and exporting goods, giving a boost to the nation's economy.\nEach level of this project further increases the profits from foreign trade deals.
-More lucrative trade deals
+国家の外交官に資金を投じ、外国とのより有利な貿易協定を交渉させる。この貿易協定により、物資の輸出入時により良い価格が得られ、国家経済が押し上げられる。\nこのプロジェクトの各レベルは、対外貿易協定による利益をさらに増やす。
+より有利な貿易協定
 
 
 001;002;
 
 122
-Military Education
+軍事教育
 0;1;
 
 4
@@ -2207,14 +2207,14 @@ UI/ProjectImages
 122
 UI/ProjectImages
 122_s
-Finance the nation's military education by constructing a new military academy in one of the loyal states. A military academy improves commander attributes of all officers from the state and prepares them for wartime command.\nEach level of this project allows one more military academy to be constructed.
-Number of available military academies
+忠誠州の一つに新たな陸軍士官学校を建設し、国家の軍事教育に資金を投じる。陸軍士官学校は、その州出身の全将校の指揮官適性を向上させ、戦時指揮への備えを整える。\nこのプロジェクトの各レベルは、建設可能な陸軍士官学校をさらに1校増やす。
+利用可能な陸軍士官学校の数
 
 
 001;002;
 
 123
-Horse Artillery
+騎馬砲兵
 0;1;
 
 4
@@ -2225,14 +2225,14 @@ UI/ProjectImages
 111
 UI/ProjectImages
 110_s
-Normally in an artillery battery, the gunners are moving on foot. This reduces their mobility to that of infantry. To be able to support the fast-moving cavalry, an artillery battery needs better mobility. This is achieved by adding sufficient number of horses for all the gunners to be able to ride. Only lighter artillery pieces are available for the horse-artillery batteries.\nThis project allows recruitment of horse-artillery unit type.
-Horse-Artillery available.
+通常、砲兵中隊の砲手は徒歩で移動する。これにより機動力は歩兵並みに制限される。機動力の高い騎兵を支援できるようにするには、砲兵中隊にもより優れた機動力が必要である。これは全ての砲手が騎乗できるよう十分な数の馬を配備することで実現される。騎馬砲兵中隊には、より軽量な火砲のみが配備可能である。\nこのプロジェクトは騎馬砲兵ユニット種別の徴募を可能にする。
+騎馬砲兵が利用可能に。
 01-08-1862
 01-01-1862
 002;
 
 124
-6-gun Batteries
+6門編成砲兵中隊
 0;1;
 
 4
@@ -2243,8 +2243,8 @@ UI/ProjectImages
 112
 UI/ProjectImages
 112_s
-Traditionally, American artillery batteries were comprised of four artillery pieces, two sections of two guns. During the Mexican War this usually was two cannons and two howitzers. To increase the firepower of field artillery batteries, introduce a new organization with six pieces and three sections. This is particularly useful when number of available guns is not severely limited. To simplify training and logistics, all guns in a battery are of same caliber.
-6-gun Artillery Batteries available.
+伝統的に、アメリカの砲兵中隊は4門の火砲、すなわち2門ずつ2個小隊で編成されていた。米墨戦争の際は通常、大砲2門と榴弾砲2門であった。野戦砲兵中隊の火力を増強するため、6門・3個小隊からなる新たな編制を導入する。これは利用可能な火砲数が著しく制限されていない場合に特に有効である。訓練と兵站を簡素化するため、中隊内の全ての火砲は同一口径とする。
+6門編成の砲兵中隊が利用可能に。
 01-06-1861
 
 002;
