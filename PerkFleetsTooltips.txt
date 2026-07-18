@@ -1,0 +1,135 @@
+﻿Perk amount
+11
+Tooltip Headline (1st lines), Description (2nd lines), Short Info about effect for autoresolved battles (3rd lines) -> use "-" to not show anything, starting with Level 0, 1, 2;
+0/1
+Torpedoes I
+Spar torpedoes are bombs placed at the end of a long pole, which is attached to a boat. The torpedo is placed on enemy hull by ramming, and then detonated. This allows smaller ships to take on larger ones. Ramming efficiency +25%. Level up by ramming during naval battles.
+Ramming efficiency +25%. 
+0/2
+Torpedoes II
+Using torpedoes has proven effective, especially against the ironclads that are virtually invulnerable to cannon fire, but weak below the waterline. Ramming efficiency +50%. Level up by ramming during naval battles.
+Ramming efficiency +50%.
+0/3
+Torpedoes III
+With multiple types of torpedoes used, from spar torpedoes under the waterline to towed torpedoes, ramming warfare with even smaller ships or boats has become deadly. Ramming efficiency doubled. This is an elite ram fleet.
+Ramming efficiency doubled.
+1/1
+Mortar Boats I
+Mortar boats and towed river barges allow blue and brown-water navies to engage enemy fortifications using the high-trajectory mortar. Bombardment efficiency +5%. Level up by bombarding.
+Bombardment efficiency +5%.
+1/2
+Mortar Boats II
+With more sophisticated boats and firing techniques used, many of the mortar rounds fired from the boats or barges actually manage to land inside the enemy fort! Bombardment efficiency +10%. Level up by bombarding.
+Bombardment efficiency +10%.
+1/3
+Mortar Boats III
+While the mortar boats lack accuracy, now, with sufficient numbers available, they do provide proper support, especially when support cannot be provided from land. Bombardment efficiency +25%. This is an elite fort attack fleet.
+Bombardment efficiency +25%.
+2/1
+Supply Colliers I
+To allow vessels to operate longer without the need to return to port for supplies, barges and colliers of supplies can be towed by the fleet. This allows longer engagements, but makes the fleet slower. Movement speed -30%, supply consumption -15%. Level up by bombarding and blockading.
+-
+2/2
+Supply Colliers II
+With experience, the sailors make good use of the supply barges or colliers, allowing the fleet to remain on station for a considerably longer time than before. Movement speed -20%, supply consumption -30%. Level up by bombarding and blockading. 
+-
+2/3
+Supply Colliers III
+With proper equipment and tactics employed, the fleet can carry double the number of supplies, but with little effect to its traveling speed. Especially useful for blockades. Movement speed -10%, supply consumption -50%. This fleet has superior supply stores.
+-
+3/1
+Balloon Barge I
+A coal barge fitted with gas-generating apparatus and modified into a balloon barge. The first ever aircraft carriers allow the spying of enemy defenses using a hot air balloon. Intelligence gathering +25%, fort bombardment efficiency +5%. Level up by bombarding.
+Intelligence gathering +25%, fort bombardment efficiency +5%.
+3/2
+Balloon Barge II
+With experience, hydrogen gas generators and different kinds of balls for different weather conditions, the hot air balloon is faster to put up and take down. Intelligence gathering +35%, fort bombardment efficiency +10%. Level up by bombarding.
+Intelligence gathering +35%, fort bombardment efficiency +10%.
+3/3
+Balloon Barge III
+With telegraph equipment and flag signals, the aeronauts are able to direct the fire of the ships against enemy targets, converting the balloon into the artillery forward observer of its time. Intelligence gathering +50%, fort bombardment efficiency +15%. This fleet has elite aeronauts.
+Intelligence gathering +50%, fort bombardment efficiency +15%.
+4/1
+Limelights I
+Chemical lamps using superheated balls of lime, or calcium oxide create a glow, known from lighthouses and theaters, but now also adapted for combat, allowing the illumination of enemy targets for night time bombardment. Combat efficiency in the dark +25%. Level up by bombarding.
+Combat efficiency in the dark +25%.
+4/2
+Limelights II
+Illuminating targets for the gunners is one use for the calcium lights, but the lights can also be used to blind enemy gunners, decreasing counter-battery fire accuracy. Combat efficiency in the dark +50%. Level up by bombarding.
+Combat efficiency in the dark +50%.
+4/3
+Limelights III
+With effective use of the powerful calcium light, enemy movement at night is as easy to detect as during daylight. Combat efficiency in the dark doubled. This is an elite night fighting fleet.
+Combat efficiency in the dark doubled.
+5/1
+Blockading Squadron I
+Blockade service may be dull, but being a safer job than that in the infantry for a soldier, there's never lack of volunteers in a blockading squadron. Blockading efficiency +10%. Level up by blockading.
+-
+5/2
+Blockading Squadron II
+Even more volunteers flock to blockade service after captured ships and their cargoes are auctioned and the earnings split among the sailors. Blockading efficiency +25%. Level up by blockading.
+-
+5/3
+Blockading Squadron III
+Having learned all the tricks of the blockade runners, not many can escape capture when heading out to sea past this fleet's blockade. Blockading efficiency +50%. This is an elite blockading fleet.
+-
+6/1
+Sea Raiders I
+Sea raiding, or sometimes privateering, targets merchant shipping, capturing them as prizes, it also hits marine insurance rates. Allows blockading trade nodes, import prices +10%. Level up by blockading trade nodes. 
+-
+6/2
+Sea Raiders II
+Effective tactics and sponsorship allow more lucrative raiding by this fleet, and enemy marine insurance rates soar. Allows blockading trade nodes, import prices +25%. Level up by blockading trade nodes.
+-
+6/3
+Sea Raiders III
+Famous sea raiders strike fear into hearts of the merchant sailors, and men willing to take the risk are harder to find. Allows blockading trade nodes, import prices +50%. This is an elite corsair fleet.
+-
+7/1
+Amphibious Attack I
+New tactics and marines allow this fleet to attack and capture enemy fortifications for the army to hold. This requires good coordination between the services. Allows the fleet to capture forts. Level up by attacking forts.
+Allows the fleet to capture forts.
+7/2
+Amphibious Attack II
+This fleet is known for reducing forts and ports in daring amphibious attacks, even in torpedo infested waters, thanks to good intelligence and ferocious marines. Allows the fleet to capture forts, capture probability +10%. Level up by attacking forts.
+Allows the fleet to capture forts, capture probability +10%.
+7/3
+Amphibious Attack III
+With success comes fame. This fleet and the attached marines have raided and captured enemy fortifications and earned a reputation as an amphibious shock force, always faithful. Allows the fleet to capture forts, capture probability +50%. This fleet has elite marines. 
+Allows the fleet to capture forts, capture probability +50%.
+8/1
+Blockade Busters I
+Guarding against a blockade and supporting blockade runners with attacks helps to keep the trade lifelines open. Fighting efficiency against blockading fleets +10%, blockade efficiency within ports in this fleet's radius -10%. Level up by attacking blockading fleets.
+Fighting efficiency against blockading fleets +10%.
+8/2
+Blockade Busters II
+Keeping the blockading fleet concerned about quick attacks from the cover of coastal batteries helps more commerce slip past the blockade. Fighting efficiency against blockading fleets +20%, blockade efficiency within ports in this fleet's radius -20%.  Level up by attacking blockading fleets.
+Fighting efficiency against blockading fleets +20%.
+8/3
+Blockade Busters III
+Having perfected raiding tactics against a blockading squadron, this fleet is a true thorn in the side of the enemy navy, allowing blockade runners make a run for it. Fighting efficiency against blockading fleets +30%, blockade efficiency within ports in this fleet's radius -30%.  This is an elite blockade busting fleet.
+Fighting efficiency against blockading fleets +30%.
+9/1
+Battery Runner I
+A surprise attack, moving past enemy batteries in a tight formation, firing rapidly. This "running the batteries" can be effective especially along rivers, to open a new front. Fighting efficiency vs. forts +25%. Level up by attacking forts with ironclads on the move.
+Fighting efficiency vs. forts +25%.
+9/2
+Battery Runner II
+Making use of the night's darkness to run the enemy batteries are tactics used by this fleet to bypass and disable enemy defenses. Fighting efficiency vs. forts +50%. Level up by attacking forts with ironclads on the move.
+Fighting efficiency vs. forts +50%.
+9/3
+Battery Runner III
+This fleet has perfected the tactics of running enemy batteries, using surprise, furious vigor, the cover of darkness and even flooding. Fighting efficiency vs. forts doubled. This is an elite ironclad fleet.
+Fighting efficiency vs. forts doubled.
+10/1
+Port Defender I
+This fleet uses floating batteries and torpedoes to protect its home port against attacking enemy fleets. Fighting efficiency when within port radius +25%. Level up by fighting naval battles.
+Fighting efficiency when within port radius +25%.
+10/2
+Port Defender II
+Combining the fleet's mobility, firepower from coastal defenses, floating batteries and torpedoes, makes the removal of this fleet protecting the port very difficult. Fighting efficiency when within port radius +50%. Level up by fighting naval battles.
+Fighting efficiency when within port radius +50%.
+10/3
+Port Defender III
+This fleet uses all means possible to keep its port open and has perfected the tactics and coordination between land and water-based assets into an explosive maze for the attacker. Fighting efficiency when within port radius doubled. This is an elite defensive fleet.
+Fighting efficiency when within port radius doubled.
