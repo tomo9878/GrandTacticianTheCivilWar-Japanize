@@ -1,6 +1,6 @@
 87
 0
-6-pounder Field Gun
+6ポンド野砲
 7
 2
 1841
@@ -53,7 +53,7 @@ The smoothbore cast bronze gun was the workhorse of the Mexican War. Of simple c
 True
 43
 1
-12-pounder Napoleon
+12ポンド・ナポレオン砲
 7
 2
 1857
@@ -106,7 +106,7 @@ Reliable and effective smoothbore cast bronze gun of French origin, imported or 
 True
 43
 2
-12-pounder Iron Napoleon
+12ポンド・アイアン・ナポレオン砲
 7
 2
 1864
@@ -159,7 +159,7 @@ A poor quality, but cheaper to produce, cast iron version of the brass 12-pdr Na
 True
 43
 3
-10-pounder Parrott Rifle
+10ポンド・パロットライフル砲
 9
 2
 1861
@@ -212,7 +212,7 @@ Manufactured with combination of cast and wrought iron, the Parrott rifle is acc
 True
 43
 4
-3-inch Ordnance Rifle
+3インチ・オードナンスライフル砲
 9
 2
 1855
@@ -265,7 +265,7 @@ A wrought iron rifled gun that is durable, reliable and very accurate.
 True
 43
 5
-14-pounder James Rifle
+14ポンド・ジェームズライフル砲
 9
 2
 1841
@@ -318,7 +318,7 @@ A 3.8-inch cast bronze rifle. First types 1 are converted M1841 6-pdr smoothbore
 True
 43
 6
-20-pounder Parrott Rifle
+20ポンド・パロットライフル砲
 9
 2
 1861
@@ -371,7 +371,7 @@ The heavier Parrott rifle is very accurate, but both the weapon and the long ran
 True
 43
 7
-12-pounder Whitworth Rifle
+12ポンド・ウィットワースライフル砲
 10
 2
 1855
@@ -424,7 +424,7 @@ Exceptionally accurate breech-loading rifle constructed in Britain. Very well su
 True
 43
 8
-12-pounder Blakely Rifle
+12ポンド・ブレイクリーライフル砲
 9
 2
 1861
@@ -477,7 +477,7 @@ A British muzzle-loading iron rifle, with many variations available for export t
 True
 43
 9
-6-pounder Wiard Rifle
+6ポンド・ウィアードライフル砲
 9
 2
 1861
@@ -530,7 +530,7 @@ A muzzle-loading rifle cast in puddled wrought iron and mounted on an innovative
 True
 43
 10
-12-pounder Field Gun
+12ポンド野砲
 7
 2
 1841
@@ -583,7 +583,7 @@ Old, heavy and obsolete smoothbore cast bronze gun. A few remained available aft
 True
 43
 11
-6-pounder Whitworth Rifle
+6ポンド・ウィットワースライフル砲
 10
 2
 1855
@@ -636,7 +636,7 @@ Exceptionally accurate light breech-loading rifle constructed in Britain. Very w
 True
 43
 12
-1-pounder Williams Gun
+1ポンド・ウィリアムズ砲
 8
 2
 1861
@@ -689,7 +689,7 @@ A breech-loading, rapid-firing small calibre gun, fired using a hand-crank.
 False
 48
 13
-3-inch Armstrong Rifle
+3インチ・アームストロングライフル砲
 10
 2
 1859
@@ -742,7 +742,7 @@ A British breech-loading rifle manufactured from wrought iron since 1855. Accura
 True
 43
 14
-Springfield Rifle-Musket
+スプリングフィールド・ライフルマスケット銃
 2
 0
 1855
@@ -795,7 +795,7 @@ The American Minie-type muzzle-loading rifle-musket, with good accuracy, range a
 True
 42
 15
-Enfield Rifle-Musket
+エンフィールド・ライフルマスケット銃
 2
 0
 1853
@@ -848,7 +848,7 @@ A Minie-type muzzle-loading rifled musket produced in Britain since 1853. Robust
 True
 42
 16
-Enfield Musketoon
+エンフィールド・マスケトゥーン
 6
 1
 1861
@@ -901,7 +901,7 @@ A short barrel version of the P53 Enfield rifle-musket. Easier to carry and relo
 True
 42
 17
-Lorenz Rifle
+ローレンツライフル銃
 2
 0
 1854
@@ -954,7 +954,7 @@ An Austrian muzzle-loading rifle-musket available for import. Reliable and accur
 True
 42
 18
-Mississippi Rifle
+ミシシッピライフル銃
 2
 0
 1840
@@ -1007,7 +1007,7 @@ The first standard U.S. military rifle to use percussion lock. Changed to .58 ca
 True
 42
 19
-Springfield Musket
+スプリングフィールド・マスケット銃
 1
 0
 1812
@@ -1060,7 +1060,7 @@ The standard American smoothbore percussion lock musket, originally produced by 
 True
 42
 20
-Springfield Musketoon
+スプリングフィールド・マスケトゥーン
 5
 1
 1847
@@ -1113,7 +1113,7 @@ Shortened version of the Springfield smoothbore percussion lock musket, designed
 True
 42
 21
-Fayetteville Rifle-Musket
+フェイエットビル・ライフルマスケット銃
 2
 0
 1862
@@ -1166,7 +1166,7 @@ A copy of the U.S. model 1855 rifle-musket produced in the Confederacy. Similar 
 True
 42
 22
-Richmond Rifle
+リッチモンドライフル銃
 2
 0
 1861
@@ -1219,7 +1219,7 @@ A Confederate version of the Springfield rifle-musket with Maynard primer and pa
 True
 42
 23
-Whitworth Rifle
+ウィットワースライフル銃
 2
 0
 1857
@@ -1272,7 +1272,7 @@ A British muzzle-loading rifle-musket with exceptionally good long-range accurac
 True
 42
 24
-Sharps Rifle
+シャープスライフル銃
 3
 0
 1848
@@ -1325,7 +1325,7 @@ A large-bore falling block rifle with an unusual pellet primer feed. Very accura
 True
 42
 25
-Sharps Carbine
+シャープスカービン銃
 3
 1
 1848
@@ -1378,7 +1378,7 @@ The shorter and lighter version of the Sharps rifle, popular among both sides' c
 True
 42
 26
-Frank Wesson Carbine
+フランク・ウェッソンカービン銃
 3
 1
 1859
@@ -1431,7 +1431,7 @@ The first breech-loading rifle to fire metallic cartridges. Fairly accurate and 
 True
 42
 27
-Colt Revolving Rifle
+コルト回転式ライフル銃
 4
 1
 1855
@@ -1484,7 +1484,7 @@ A rapid-firing rifle similar to revolver-type pistols. After the cylinder is fir
 True
 42
 28
-Joslyn Rifled Carbine
+ジョスリン・ライフルドカービン銃
 3
 1
 1855
@@ -1537,7 +1537,7 @@ A rapid-firing breech-loading carbine chambered for .56 rimfire cartridge. Consi
 True
 42
 29
-Model 1817 Rifle
+M1817ライフル銃
 2
 0
 1817
@@ -1590,7 +1590,7 @@ Originally a flintlock muzzle-loading rifle-musket, a number have been converted
 True
 42
 30
-Maynard Carbine
+メイナードカービン銃
 3
 1
 1859
@@ -1643,7 +1643,7 @@ A lever-action breech-loading rifled carbine. Accurate, rapid-firing and easy to
 True
 42
 31
-Merrill Carbine
+メリルカービン銃
 3
 1
 1858
@@ -1696,7 +1696,7 @@ A tilting-block action percussion breech-loading rifled carbine firing Minie bal
 True
 42
 32
-Burnside Carbine
+バーンサイドカービン銃
 3
 1
 1858
@@ -1749,7 +1749,7 @@ A breech-loading carbine with a special brass cartridge. Easy and safe to use, w
 True
 42
 33
-Smith Carbine
+スミスカービン銃
 3
 1
 1857
@@ -1802,7 +1802,7 @@ A breech-loading rifled carbine that breaks apart for loading and uses rubber ca
 True
 42
 34
-Henry Rifle
+ヘンリーライフル銃
 4
 01
 1860
@@ -1855,7 +1855,7 @@ A lever-action rifle with tubular magazine for 16 rounds. Extremely rapid rate o
 True
 42
 35
-Spencer Repeating Rifle
+スペンサー連発ライフル銃
 4
 01
 1860
@@ -1908,7 +1908,7 @@ World's first military metallic cartridge repeating rifle, designed in 1860 by C
 True
 42
 36
-Hall Rifle
+ホールライフル銃
 3
 0
 1820
@@ -1961,7 +1961,7 @@ The old model 1819 hybrid of breech and muzzle-loading rifle, with a number modi
 True
 42
 37
-Gatling Gun
+ガトリング砲
 14
 2
 1862
@@ -2014,7 +2014,7 @@ A rapid-firing multiple-barrel firearm invented by R.J.Gatling, firing from a ma
 False
 47
 38
-Coffee Mill Gun
+コーヒーミルガン
 14
 2
 1861
@@ -2067,7 +2067,7 @@ A single-barrel hand-crank machinegun with rate of fire of 120 rounds a minute. 
 False
 46
 39
-30-pounder Parrott Rifle
+30ポンド・パロットライフル砲
 9
 2
 1861
@@ -2120,7 +2120,7 @@ The largest calibre Parrott rifle for field use. Unreliable, heavy, but accurate
 True
 43
 40
-12-pounder Howitzer
+12ポンド榴弾砲
 8
 2
 1838
@@ -2173,7 +2173,7 @@ The cast brass light and mountain howitzers fire shells in a high trajectory. Ef
 True
 43
 41
-24-pounder Howitzer
+24ポンド榴弾砲
 8
 2
 1841
@@ -2226,7 +2226,7 @@ The cast brass heavy field howitzers fire shells in a high trajectory. Effective
 True
 43
 42
-Mixed Muskets
+混成マスケット銃
 1
 0
 1800
@@ -2279,7 +2279,7 @@ A collection of old and obsolete smoothbore muskets, including flintlocks, widel
 True
 42
 43
-Mixed Cavalry Weapons
+混成騎兵武器
 1
 1
 1800
@@ -2332,7 +2332,7 @@ Anything a volunteer brings with him, from muzzle-loading carbines to shotguns. 
 True
 42
 44
-Spencer Carbine
+スペンサーカービン銃
 4
 1
 1860
@@ -2385,7 +2385,7 @@ The shorter and lighter version of the world's first military metallic cartridge
 True
 42
 45
-Plains Rifle
+プレーンズライフル銃
 2
 0
 1823
@@ -2438,7 +2438,7 @@ The Hawken or plains rifle is accurate double-trigger, muzzle-loading rifle with
 True
 42
 46
-Minie P1851 Rifle
+ミニエーP1851ライフル銃
 2
 0
 1851
@@ -2491,7 +2491,7 @@ French model 1851 rapid-firing, muzzle-loading rifle-musket, designed after the 
 True
 42
 47
-Dreyse Needle Gun
+ドライゼ・ニードルガン
 3
 0
 1841
@@ -2544,7 +2544,7 @@ The Prussian model 1841 breech-loading and world's first bolt-action rifle is ac
 True
 42
 48
-13-inch Navy Mortar
+13インチ海軍臼砲
 13
 4
 1860
@@ -2597,7 +2597,7 @@ false
 True
 43
 49
-12-pounder Navy Howitzer
+12ポンド海軍榴弾砲
 13
 4
 1850
@@ -2650,7 +2650,7 @@ false
 True
 43
 50
-24-pounder Navy Howitzer
+24ポンド海軍榴弾砲
 13
 4
 1850
@@ -2703,7 +2703,7 @@ false
 True
 43
 51
-8-inch Navy Cannon
+8インチ海軍カノン砲
 13
 4
 1855
@@ -2756,7 +2756,7 @@ false
 True
 43
 52
-9-inch Navy Cannon
+9インチ海軍カノン砲
 13
 4
 1855
@@ -2809,7 +2809,7 @@ false
 True
 43
 53
-10-inch Navy Cannon
+10インチ海軍カノン砲
 13
 4
 1855
@@ -2862,7 +2862,7 @@ false
 True
 43
 54
-11-inch Navy Cannon
+11インチ海軍カノン砲
 13
 4
 1855
@@ -2915,7 +2915,7 @@ false
 True
 43
 55
-15-inch Navy Cannon
+15インチ海軍カノン砲
 13
 4
 1855
@@ -2968,7 +2968,7 @@ false
 True
 43
 56
-32-pounder Navy Cannon
+32ポンド海軍カノン砲
 13
 4
 1850
@@ -3021,7 +3021,7 @@ false
 True
 43
 57
-68-pounder Navy Cannon
+68ポンド海軍カノン砲
 13
 4
 1850
@@ -3074,7 +3074,7 @@ false
 True
 43
 58
-20-pounder Navy Rifle
+20ポンド海軍ライフル砲
 13
 4
 1850
@@ -3127,7 +3127,7 @@ false
 True
 43
 59
-30-pounder Navy Rifle
+30ポンド海軍ライフル砲
 13
 4
 1850
@@ -3180,7 +3180,7 @@ false
 True
 43
 60
-32-pounder Navy Rifle
+32ポンド海軍ライフル砲
 13
 4
 1850
@@ -3233,7 +3233,7 @@ false
 True
 43
 61
-42-pounder Navy Rifle
+42ポンド海軍ライフル砲
 13
 4
 1850
@@ -3286,7 +3286,7 @@ false
 True
 43
 62
-50-pounder Navy Rifle
+50ポンド海軍ライフル砲
 13
 4
 1850
@@ -3339,7 +3339,7 @@ false
 True
 43
 63
-80-pounder Navy Rifle
+80ポンド海軍ライフル砲
 13
 4
 1850
@@ -3392,7 +3392,7 @@ false
 True
 43
 64
-100-pounder Navy Rifle
+100ポンド海軍ライフル砲
 13
 4
 1850
@@ -3445,7 +3445,7 @@ false
 True
 43
 65
-150-pounder Navy Rifle
+150ポンド海軍ライフル砲
 13
 4
 1850
@@ -3498,7 +3498,7 @@ false
 True
 43
 66
-48-pounder Rifle
+48ポンドライフル砲
 11
 3
 1850
@@ -3551,7 +3551,7 @@ false
 True
 43
 67
-64-pounder Rifle
+64ポンドライフル砲
 11
 3
 1850
@@ -3604,7 +3604,7 @@ false
 True
 43
 68
-84-pounder Rifle
+84ポンドライフル砲
 11
 3
 1850
@@ -3657,7 +3657,7 @@ false
 True
 43
 69
-4,5-inch Rifle
+4.5インチライフル砲
 11
 3
 1850
@@ -3710,7 +3710,7 @@ false
 True
 43
 70
-30-pounder Rifle
+30ポンドライフル砲
 11
 3
 1850
@@ -3763,7 +3763,7 @@ false
 True
 43
 71
-100-pounder Rifle
+100ポンドライフル砲
 11
 3
 1850
@@ -3816,7 +3816,7 @@ false
 True
 43
 72
-8-inch Mortar
+8インチ臼砲
 12
 3
 1850
@@ -3869,7 +3869,7 @@ false
 True
 43
 73
-10-inch Mortar
+10インチ臼砲
 12
 3
 1850
@@ -3922,7 +3922,7 @@ false
 True
 43
 74
-13-inch Mortar
+13インチ臼砲
 12
 3
 1850
@@ -3975,7 +3975,7 @@ false
 True
 43
 75
-24-pdr Howitzer
+24ポンド榴弾砲
 11
 3
 1850
@@ -4028,7 +4028,7 @@ false
 True
 43
 76
-8-inch Cannon
+8インチカノン砲
 11
 3
 1855
@@ -4081,7 +4081,7 @@ false
 True
 43
 77
-10-inch Cannon
+10インチカノン砲
 11
 3
 1855
@@ -4134,7 +4134,7 @@ false
 True
 43
 78
-11-inch Cannon
+11インチカノン砲
 11
 3
 1855
@@ -4187,7 +4187,7 @@ false
 True
 43
 79
-32-pounder Cannon
+32ポンドカノン砲
 11
 3
 1850
@@ -4240,7 +4240,7 @@ false
 True
 43
 80
-42-pounder Rifle
+42ポンドライフル砲
 11
 3
 1850
@@ -4293,7 +4293,7 @@ false
 True
 43
 81
-Rebored Muskets
+再ボーリング・マスケット銃
 2
 0
 1850
@@ -4346,7 +4346,7 @@ Smoothbore muskets of all types, converted to rifles for increased range and acc
 True
 42
 82
-6,5-inch Navy Cannon
+6.5インチ海軍カノン砲
 13
 4
 1858
@@ -4399,7 +4399,7 @@ false
 True
 43
 83
-Augustin Rifle-Musket
+アウグスティン・ライフルマスケット銃
 1
 0
 1842
@@ -4452,7 +4452,7 @@ Austrian model 1842 Augustin tube-lock smoothbore musket, later rifled, sighted,
 True
 42
 84
-6-pounder Krupp Rifle
+6ポンド・クルップライフル砲
 10
 2
 1859
@@ -4505,7 +4505,7 @@ The Prussian 6-Pfunder-Feldkanone C/61 is a breech-loading rifled gun and the wo
 True
 43
 85
-Richmond Carbine
+リッチモンドカービン銃
 6
 1
 1862
@@ -4558,7 +4558,7 @@ A shorter Confederate carbine version of the Springfield rifle-musket with Mayna
 True
 42
 86
-Hall Carbine
+ホールカービン銃
 3
 1
 1843
