@@ -1,126 +1,126 @@
 0
-Move at time
-Order the unit to move out at a given time.
+指定時刻に移動
+指定した時刻に部隊を出発させるよう命令する。
 1
-Forced March
-When ordered, the unit will keep marching without stopping to forage or to rest. This will increase attrition and the strain on the men, but will allow faster movement. This option is only available if readiness is green.
+強行軍
+命令されると、部隊は糧秣調達や休息のために止まることなく行軍を続ける。これにより損耗と兵の負担は増加するが、より速い移動が可能になる。このオプションは即応度が緑の場合のみ選択できる。
 2
-Retreat!
-Break contact and retreat from the enemy. If morale is low the men may rout.
+撤退！
+敵との接触を断ち撤退する。士気が低い場合、兵は敗走する可能性がある。
 3
-Rail movement
-Allow the commander to use railroad transportation to plan the quickest route. Railroad transport capacity is required.
+鉄道移動
+指揮官が鉄道輸送を利用して最速ルートを計画できるようにする。鉄道輸送能力が必要。
 4
-Sea movement
-Allow the commander to use transport ships to plan the quickest route. Sea transport capacity is required.
+海上移動
+指揮官が輸送船を利用して最速ルートを計画できるようにする。海上輸送能力が必要。
 5
-River movement
-Allow the commander to utilize river flotilla when planning the quickest route. River transport capacity is required.
+河川移動
+指揮官が最速ルートを計画する際に河川船隊を利用できるようにする。河川輸送能力が必要。
 6
-Issue orders
+命令を発行
 
 7
-Cancel orders
+命令を取消
 
 8
-Change date
-Click to modify the date when the order should be carried out.
+日付変更
+命令を実行する日付を変更するにはクリック。
 9
-Left
-Coordinate with the target unit positioning on its left side.
+左
+対象部隊の左側に位置して連携する。
 10
-Front
-Coordinate with the target unit positioning in front of it.
+前方
+対象部隊の前方に位置して連携する。
 11
-Reserve
-Coordinate with the target unit positioning as reserve.
+予備
+対象部隊の予備として位置し連携する。
 12
-Right
-Coordinate with the target unit positioning on its right side.
+右
+対象部隊の右側に位置して連携する。
 13
-Movement Options
+移動オプション
 
 14
-All ships in fleet disabled!
+艦隊内の全艦が機能停止！
 
 16
-[Battle monument]
-[Here a historical battle has taken place]
+[戦跡記念碑]
+[かつてここで歴史的な戦闘が行われた]
 17
-Newspaper
-Extra, extra! News from the front lines is reviewed carefully by the citizenship and the nature of the news has an impact in their support for the War Effort. 
+新聞
+号外だ、号外！前線からの知らせは国民によって注意深く読まれ、その内容は戦争努力への支持に影響を与える。
 18
-Close Panel
-LMB to close this panel.
+パネルを閉じる
+左クリックでこのパネルを閉じる。
 19
-Select
+選択
 
 25
-[VAR68] days
-no vessels
+[VAR68]日
+船舶なし
 30
-Continue last game
+前回のゲームを続ける
 
 31
 キャンペーン開始
 
 32
-Start Historical Battle
+史実戦闘を開始
 
 33
-Field Book
+フィールドブック
 
 34
-Game Options
+ゲームオプション
 
 35
-Credits
+クレジット
 
 36
-Quit
+終了
 
 37
-Click to select
+クリックして選択
 
 39
-Autosave
+オートセーブ
 
 40
-Select Scenario
+シナリオ選択
 
 41
-Select Side
+陣営選択
 
 42
-Increase Difficulty
+難易度を上げる
 
 43
-Reduce Difficulty
+難易度を下げる
 
 44
-AI Bonus
-This side will receive the stated amount of additional morale and experience for its commanders and units.
+AIボーナス
+この陣営は、指揮官と部隊に記載された量の追加士気と経験値を得る。
 45
-Increase Difficulty
+難易度を上げる
 
 46
-Reduce Difficulty
+難易度を下げる
 
 49
-Start Tutorial
-Play a brief tutorial explaining the main functionalities of campaigns and battles.
+チュートリアル開始
+キャンペーンと戦闘の主要な機能を説明する簡単なチュートリアルをプレイする。
 50
-Transport Ships (Sea)
+輸送船（海上）
 
 51
-Transport Ships (River)
+輸送船（河川）
 
 52
-Trains
+列車
 
 53
-Fielded Manpower
-Shows the combined strength of all branches of arms of the army.
+動員兵力
+陸軍の全兵科を合わせた総兵力を表示する。
 54
 [National Morale]
 [National Morale Info]
@@ -131,256 +131,256 @@ Shows the combined strength of all branches of arms of the army.
 [Wharf Capacity]
 [Wharf Capacity Info]
 60
-[Power Bar]
-The victory bar represents the relation of national morale of each faction. It is influenced by defeats in battles, sieges and naval engagements, as well as policies.
+[勢力バー]
+この勝敗バーは、各陣営の国家士気の相対関係を表す。戦闘・攻城戦・海戦での敗北や政策によって変動する。
 61
-Battle Ongoing
+戦闘進行中
 
 65
-[Availability]
-[Approximate number of units that can be equipped with this weapon. The higher the standardization of the weapon, the more units can be equipped. Older weapons are normally available in large quantities. To improve standardization, improve factory capacities or arrange trade agreements with European nations.]
+[入手可能数]
+[この兵器を装備できるおおよその部隊数。兵器の標準化率が高いほど、より多くの部隊に装備できる。旧式の兵器は通常大量に入手可能である。標準化率を改善するには、工場の生産能力を向上させるか、ヨーロッパ諸国との貿易協定を結ぶ。]
 66
 [Standardization Description]
 [Standardization Description]
 70
-Battle time
-When darkness falls, the armies will stand down and prepare for the next day.
+戦闘時間
+日が暮れると、両軍は戦闘を中止し翌日に備える。
 71
-Retreat time
-Your army is preparing to retreat. This timer shows when the retreat will commence.
+撤退時間
+自軍は撤退の準備をしている。このタイマーは撤退開始までの時間を示す。
 72
-Pause
+一時停止
 
 73
-Play
+再生
 
 74
-Accelerate time
+時間を早める
 
 75
-Accelerate time
+時間を早める
 
 76
-Accelerate time
+時間を早める
 
 79
-Maximize
-Expand the panel for more information.
+最大化
+パネルを拡大してより詳しい情報を表示する。
 80
-OOB: up
-Move up one command level to this commander's superior officer's HQ. (Hotkey: up)
+編成: 上へ
+この指揮官の上官の司令部へ、指揮階層を1段階上へ移動する。（ホットキー：上）
 81
-Previous Unit
-Move to previous unit under the same commander. (Hotkey: left)
+前の部隊
+同じ指揮官配下の前の部隊へ移動する。（ホットキー：左）
 82
-Next Unit
-Move to next unit under the same commander. (Hotkey: right)
+次の部隊
+同じ指揮官配下の次の部隊へ移動する。（ホットキー：右）
 83
-OOB: down
-Move down one command level to this commander's subordinates. (Hotkey: down)
+編成: 下へ
+この指揮官の部下へ、指揮階層を1段階下へ移動する。（ホットキー：下）
 86
-Minimize
-Hide the detailed information.
+最小化
+詳細情報を非表示にする。
 87
-Main weapon
+主兵装
 {weapon name, class, material if arty, caliber (inch), range, weight (tube if arty), weight factor (if arty), weapon length (if rifle), reload speed, accuracy}
 89
-Melee weapon
-Armed with variety of knives, Equipped with bayonet, Equipped with sword bayonet, Armed with sabers and revolvers, Armed with artillery short swords, Armed with light sabers 
+近接武器
+様々なナイフで武装, 銃剣を装備, サーベル銃剣を装備, サーベルとリボルバーで武装, 砲兵用ショートソードで武装, 軽サーベルで武装 
 90
-Change weapon
-LMB to upgrade the assigned weapon for this unit.
+武器変更
+左クリックでこの部隊の装備兵器をアップグレードする。
 94
-Field Book
-Shows a quick guide about the game functionality.
+フィールドブック
+ゲームの機能に関する簡易ガイドを表示する。
 95
-Hide Tools
-Closes the list of tools.
+ツールを隠す
+ツールのリストを閉じる。
 96
-Show Tools
-Activate or deactivate information shown on the map using the map information tools.
+ツールを表示
+マップ情報ツールを使い、地図上に表示される情報のオン/オフを切り替える。
 98
-Quick map overview
-Zoom out to political map. Click again to return to normal view.
+地図クイック概観
+政治地図へズームアウトする。再度クリックすると通常表示に戻る。
 97
-Map information settings
-Filter the information you wish to see on the map.
+地図情報設定
+地図上に表示したい情報を絞り込む。
 99
-Menu
-Adjust game options or return to main menu.
+メニュー
+ゲームオプションを調整するか、メインメニューへ戻る。
 100
-Command and control
-Show command, combat range, links, command lines.
+指揮統制
+指揮範囲・戦闘範囲・連携・指揮系統線を表示する。
 101
-Movement arrows
-Show all or only selected unit's movement arrows.
+移動矢印
+全ての、あるいは選択中の部隊のみの移動矢印を表示する。
 102
-Telegraph lines
-Show all telegraph connections to your units.
+電信線
+自軍部隊への全ての電信接続を表示する。
 103
-Military icons
-Show icons for army and navy units and fort garrisons.
+軍事アイコン
+陸軍・海軍部隊および砦の守備隊のアイコンを表示する。
 104
-Map icons
-Show icons for buildings and infrastructure when pointing with mouse cursor, show cities.
+地図アイコン
+マウスカーソルを合わせた際に建物やインフラのアイコンを表示し、都市を表示する。
 105
-Map borders
-Show state borders on campaign map.
+地図の境界線
+キャンペーン地図に州境を表示する。
 106
-Map text
-Show map text on campaign map.
+地図テキスト
+キャンペーン地図に地名等の文字を表示する。
 107
-Show supply lines
-Show flow of supply on campaign map. Selecting a unit shows its supply lines. Selecting a building and clicking on any of the goods icons shows their flow.
+補給線を表示
+キャンペーン地図上に補給の流れを表示する。部隊を選択するとその補給線が表示される。建物を選択し物資アイコンをクリックするとその流れが表示される。
 108
-Dispatch log
-Click to open up the log of all military dispatches received.
+戦報ログ
+クリックすると、受信した全ての軍事急報のログが開く。
 109
-Hide Message Log
+メッセージログを隠す
 
 110
-Expand Railroads
-Order the expansion of the selected railroad line. Building progress is shown on this icon.
+鉄道拡張
+選択した鉄道路線の拡張を命令する。建設の進捗はこのアイコンに表示される。
 111
-Unread Telegrams
+未読電報
 
 112
-Number of Telegrams in the Log
+ログ内の電報数
 
 113
-Show Message Log
+メッセージログを表示
 
 114
-Dispatch
+急報
 
 115
-Show top panel
+上部パネルを表示
 
 116
-Hide top panel
+上部パネルを隠す
 
 120
-Show battle monuments
-Show the locations of land and naval battles on the map, containing information about the outcome and casualties.
+戦跡記念碑を表示
+地図上に陸戦・海戦の発生地点を表示し、結果や死傷者数の情報を含む。
 123
 [Add Unit to OOB]
 
 125
-Greenhorns
-The men are not accustomed to the hardships of battle, they are fragile and not dependable under fire and stress of combat. Good leadership and drilling can help, but only up to a point.
+新米兵
+この兵たちは戦闘の過酷さに慣れておらず、脆弱で、砲火や戦闘のストレスの中では頼りにならない。優れた指揮と訓練は助けにはなるが、限界がある。
 126
-Inexperienced
-The men have seen battle, but are still learning the ropes. More dependable than greenhorns, they still need strong leadership and proper drilling to hold their own under fire.
+未熟練兵
+この兵たちは戦闘を経験しているが、まだ勝手を学んでいる最中である。新米兵より頼りになるが、砲火の中で自らの力を発揮するには、なお強い指揮と適切な訓練を必要とする。
 127
-Battle experienced
-The men know battle and can be depended on to carry out most combat missions. Under heavy stress, they still need the encouragement of a good commander.
+実戦経験兵
+この兵たちは戦闘を熟知しており、ほとんどの戦闘任務を遂行できる頼もしさがある。強い重圧の下では、なお良き指揮官の激励を必要とする。
 128
-Veteran unit
-The men are battle hardened and dependable and can be relied on even under heavy fire, most of the time.
+古参部隊
+この兵たちは実戦で鍛え上げられ頼りになり、たいていの場合、激しい砲火の中でも当てにできる。
 129
-Elite unit
-These men are at home in the maelstrom of battle. But they know a suicide mission when they see one and may rely on their survival instincts under heavy fire, especially under weak leadership.
+精鋭部隊
+この兵たちは戦闘の激動の中に身を置くことに慣れている。しかし決死の任務も見分けており、激しい砲火の下、特に指揮が弱い場合には自らの生存本能に頼ることもある。
 130
-Crack unit
-These men have seen it all and are very effective soldiers inspiring those around them. Tough, close knit, they have tendency to avoid situations leading to high casualties. Well managed, under strong leadership, they are unbeatable!
+精強部隊
+この兵たちはあらゆる戦いを経験しており、周囲を鼓舞する非常に有能な兵士たちである。頑健で結束が固く、死傷者が多く出る状況を避ける傾向がある。優れた管理と強い指揮の下では、彼らは無敵である！
 131
-Land's Men
-The sailors are raw recruits, with little or no experience at sea, making them fragile and unreliable.
+陸の男たち
+この水兵たちは海上経験がほとんど、あるいは全くない未熟な新兵であり、脆弱で頼りにならない。
 132
-Inexperienced
-The sailors may have overcome seasickness, but in combat they still need strong leadership in order to perform.
+未熟練水兵
+この水兵たちは船酔いを克服しているかもしれないが、戦闘で力を発揮するにはなお強い指揮を必要とする。
 133
-Battle Experienced
-The sailors are accustomed to life at sea and know battle and can be depended on to perform well in engagements.
+実戦経験水兵
+この水兵たちは海上生活に慣れ、戦闘を熟知しており、交戦時に良い働きをすることが期待できる。
 134
-Veterans
-Battle hardened and dependable, these veteran sailors can be relied on to carry the day.
+古参水兵
+実戦で鍛え上げられ頼りになるこの古参水兵たちは、勝利をもたらすことが期待できる。
 135
-Elite Sailors
-Performing their duties to the highest standards, the sailors have seen it all and will not let their commanders down.
+精鋭水兵
+最高水準の任務遂行を見せるこの水兵たちはあらゆる経験を積んでおり、指揮官を失望させることはない。
 136
-Sea Dogs
-Even if their ships are made of wood these sailors are made of iron.
+海の古狼
+彼らの艦が木造であっても、この水兵たちは鉄でできている。
 137
-Greenhorn
-This officer has seen little or no combat during his lifetime, or has very little experience in his current assignment, and cannot be counted on to successfully lead his men in the thick of battle.
+新米
+この将校はこれまでほとんど、あるいは全く実戦を経験しておらず、現在の任務における経験も乏しいため、激戦の最中に部下をうまく率いることは期待できない。
 138
-Inexperienced
-This officer has seen some combat, but is still too inexperienced in his current assignment to effectively lead his men in battle.
+未熟
+この将校はいくらかの実戦を経験しているが、現在の任務においてはまだ経験不足であり、戦闘で部下を効果的に率いることはできない。
 139
-Battle experienced
-This officer has enough experience to lead his men reliably in most combat situations in his current assignment.
+実戦経験者
+この将校は、現在の任務におけるほとんどの戦闘状況で部下を確実に率いるのに十分な経験を持つ。
 140
-Veteran officer
-This officer has seen many battles, is comfortable in his current assignment, and can be counted on to do his duty well, even when in command of greener troops.
+古参将校
+この将校は数多くの戦闘を経験しており、現在の任務にも慣れているため、経験の浅い部隊を指揮する場合でも職務を確実に果たすことが期待できる。
 141
-Highly experienced
-This officer is at home in the thick of the battle and knows exactly what is expected from him.
+熟練
+この将校は激戦の最中にあっても平然としており、自分に何が求められているかを正確に理解している。
 142
-Old hand
-This officer has seen it all and knows how to utilize all his knowledge and personal attributes to the fullest, to fulfill his tasks.
+百戦錬磨
+この将校はあらゆる戦いを経験しており、自らの知識と資質を最大限に活用して任務を遂行する術を心得ている。
 150
-Switch AI Behavior
+AI行動を切り替え
 
 151
-Switch AI Behavior
+AI行動を切り替え
 
 152
-Switch AI Behavior
+AI行動を切り替え
 
 153
-Switch AI Behavior
+AI行動を切り替え
 
 154
 [AI Options]
 
 155
-Start Battle
+戦闘開始
 
 156
-Close
+閉じる
 
 157
-Start Campaign
+キャンペーン開始
 
 158
-Load Game
+ゲームを読み込む
 
 159
-Continue Game
+ゲームを続ける
 
 160
-Quit to Main Menu
+メインメニューへ戻る
 
 169
-Save Game
+ゲームを保存
 
 170
-Order Delay active
-This unit is awaiting orders. Shorter distance to its commander and well established telegraph networks reduce the order delay. Low readiness increases the delay tremendously.
+命令遅延発生中
+この部隊は命令を待機している。指揮官までの距離が近く、電信網が整備されているほど命令遅延は短くなる。即応度が低いと遅延は大幅に増加する。
 176
 [Add Unit to OOB/Background]
 
 177
-Blockade effects
-This fleet is blockading [VAR22] IIPs with an average efficency of [VAR23]%. The speed of the fleet contributes by [VAR24]% to the overall blockade strength and the combat value by [VAR25]%. The commander cunning increases the blockade efficiency by [VAR26]%.
+封鎖効果
+この艦隊は[VAR22]箇所のIIPを平均効率[VAR23]%で封鎖している。艦隊の速度は封鎖力全体に[VAR24]%、戦闘力は[VAR25]%寄与している。指揮官の狡知は封鎖効率を[VAR26]%向上させる。
 178
-Unit status
+部隊状態
 
 179
-Ships in fleet
-This commander may command a maximum of [VAR19] ships. Administration skills increase the number of ships commanded by [VAR21].\n\nBasic ship limitations per rank:\n[VAR20]
+艦隊内の艦船数
+この指揮官は最大[VAR19]隻の艦船を指揮できる。管理能力は指揮可能な艦船数を[VAR21]増加させる。\n\n階級ごとの基本艦船制限：\n[VAR20]
 180
 [Guns]
 [Guns description]
 181
-Disabled
+機能停止
 [Info Disabled]
 182
-Log Entry
-LMB to open the message, use mouse wheel to scroll through the messages.
+ログ項目
+左クリックでメッセージを開く。マウスホイールでメッセージをスクロールする。
 183
-Unit Status
+部隊状態
 [Unit Status]
 184
 [Morale]
@@ -389,68 +389,68 @@ Unit Status
 [Firepower]
 [Firepower Description]
 186
-Clear input
+入力をクリア
 
 187
-Remove all read dispatches
+既読の急報を全て削除
 
 188
-Mark all dispatches as read
+全ての急報を既読にする
 
 189
-Search by name
+名前で検索
 
 190
-Quit Campaign
+キャンペーンを終了
 
 191
-Inspect Campaign
-Inspect the campaign map and detailed statistics. The game will not continue.
+キャンペーンを検分
+キャンペーン地図と詳細な統計情報を確認する。ゲームは進行しない。
 192
 [Number Men]
 [Number Men descr]
 194
-In range
-This unit is within command range of the army commander and will reinforce any battles within that range.
+範囲内
+この部隊は軍司令官の指揮範囲内にあり、その範囲内で起きる戦闘に増援する。
 195
-Telegraph
-This unit is connected to the War Department via telegraph. This reduces order delays.
+電信
+この部隊は電信で陸軍省と接続されている。これにより命令遅延が短縮される。
 196
-Encamped
-The camp allows resting, drilling, foraging and shelter from the weather.
+野営中
+野営地では休息、訓練、糧秣調達、悪天候からの避難が可能。
 197
-Low food
-Provisions are regulated and the condition of the men is deteriorating.
+食料不足
+食料が制限されており、兵の状態が悪化している。
 198
-Low ammunition
-Ammunition is running low!
+弾薬不足
+弾薬が残り少ない！
 199
-Condition alert
-The condition of the men is poor, increased sickness and desertion are slowing the unit down.
+状態警告
+兵の状態が悪く、疾病や脱走の増加により部隊の動きが鈍っている。
 200
-Condition alert
-The condition of the horses is poor, decreasing speed of cavalry and artillery.
+状態警告
+馬の状態が悪く、騎兵や砲兵の速度が低下している。
 201
-Condition alert
-The condition of the artillery in this unit is alarmingly low, reducing its effectiveness.
+状態警告
+この部隊の火砲の状態が危険なほど悪く、有効性が低下している。
 202
-Attrition
-The unit is suffering from high sickness and desertion, lowering morale and speed.
+損耗
+この部隊は疾病と脱走に苦しんでおり、士気と速度が低下している。
 203
-High officer casualties
-High casualties among the officers in this unit cause demoralization and loss of discipline among the men.
+将校の死傷者多数
+この部隊の将校に多数の死傷者が出たことで、兵の間で士気低下と規律の乱れが生じている。
 204
-Weather
-The unit is suffring from hostile weather, increasing attrition and lowering morale.
+天候
+この部隊は悪天候に苦しんでおり、損耗が増加し士気が低下している。
 205
-Raided
-Enemy raiders are targeting this unit, causing casualties and slowing down movement.
+襲撃被害
+敵の襲撃部隊がこの部隊を標的にしており、死傷者を出し移動を遅らせている。
 206
-Unhappy
-Many soldiers in this unit are unhappy with their leaderhip and many are deserting. Veterans are happier with commanders that have high fame and leadership. It's advised you inspect the officer corps of this unit and make required changes.
+不満
+この部隊の多くの兵士が指揮に不満を抱いており、多数が脱走している。古参兵は高い名声と統率力を持つ指揮官の下でより満足する。この部隊の将校団を確認し、必要な変更を行うことを推奨する。
 207
-Medical Treatment
-This unit is close to a hospital, wounded soldiers recover fast and the mortality rate is lower.
+医療処置
+この部隊は病院の近くにおり、負傷兵の回復が早く、死亡率も低い。
 215
 [Branch]
 
@@ -464,14 +464,14 @@ This unit is close to a hospital, wounded soldiers recover fast and the mortalit
 [VAR34]
 (Army Group)\n[VAR35]\n\nAttached units:\n[VAR36]
 224
-Assign to army group
-Combine independent corps or armies to army groups to increase efficiency. New army groups can only be created if at least one [VAR33] is available. 
+軍集団に配属
+独立した軍団や軍を軍集団にまとめることで効率が向上する。新しい軍集団は、少なくとも1つの[VAR33]が利用可能な場合のみ編成できる。
 225
 [Supplies]
 [Supplies Info]
 226
-New Army Group
-days
+新規軍集団
+日
 227
 [VAR34]
 (Army Group)\n[VAR35]\n\nAttached units:\n[VAR36]\n\n[SYM3] Remove unit
@@ -479,110 +479,110 @@ days
 [VAR37]
 [VAR38]\n\n[SYM2] Zoom to attached unit
 229
-Order Delays
-Commander's initiative reduces order delay durations for all attached units.
+命令遅延
+指揮官の積極性は、所属する全部隊の命令遅延時間を短縮する。
 230
-Morale Recovery
-Commander's leadership improves morale recovery for all attached units.
+士気回復
+指揮官の統率力は、所属する全部隊の士気回復を改善する。
 231
-Readiness Recovery
-Commander's administration improves readiness recovery for all attached units.
+即応度回復
+指揮官の管理能力は、所属する全部隊の即応度回復を改善する。
 232
-Reinforcement Times
-Commander's cunning reduces reinforcement times for all attached units.
+増援時間
+指揮官の狡知は、所属する全部隊の増援到着時間を短縮する。
 233
-Coordination Time
-When assigning units to army groups the commanders will take time to operate within the new structures, while bonus is applied gradually. High experience, administration skills and good relations reduce this coordination time.
+連携時間
+部隊を軍集団に配属すると、指揮官が新しい編制の中で活動するのに時間がかかり、ボーナスは段階的に適用される。高い経験値、管理能力、良好な関係はこの連携時間を短縮する。
 234
 [VAR39]
 [VAR40]
 235
-Replace Commander
-Army Group commanders need to have at least the rank of [VAR33] and a minimum experience of [VAR41]. The higher the experience grows, the more units can be commanded.
+指揮官交代
+軍集団指揮官は最低でも[VAR33]の階級と[VAR41]の経験値が必要。経験値が高いほど、より多くの部隊を指揮できる。
 236
-Replacing Commander not available
-There are no suitable army group commanders left. Army Group commanders need to have at least the rank of [VAR33] and a minimum experience of [VAR41]. 
+指揮官交代不可
+適任の軍集団指揮官が残っていない。軍集団指揮官は最低でも[VAR33]の階級と[VAR41]の経験値が必要。
 237
-Units attached:[VAR42]
-Unit is outside of command range, no bonus is applied.
+所属部隊：[VAR42]
+部隊は指揮範囲外にあり、ボーナスは適用されない。
 238
-Army Group Range
-Subordinated units within range of this army group receive a bonus on order delays, morale recovery, readiness recovery and reinforcement times.
+軍集団の範囲
+この軍集団の範囲内にある麾下部隊は、命令遅延・士気回復・即応度回復・増援時間にボーナスを受ける。
 239
-Part of [VAR45]
-([VAR46])\nCoordination: [VAR44]\n\n[VAR43]
+[VAR45]の一部
+（[VAR46]）\n連携度：[VAR44]\n\n[VAR43]
 240
-Replacing Commander not available
-You cannot replace yourself. Ask for a different command instead!
+指揮官交代不可
+自分自身と交代することはできない。別の指揮官を指定すること！
 241
-Replacing Commander not possible
-The low experience of this commander prevents appointment of this command. Try to pick a higher experienced commander or remove units.
+指揮官交代不可
+この指揮官は経験値が低いため、この指揮の任命ができない。より経験豊富な指揮官を選ぶか、部隊を減らすこと。
 242
-Under Fire
-The fleet is under effective fire from an enemy fortification.
+砲撃下
+艦隊は敵防御施設からの有効射撃を受けている。
 243
-Repairing
-The ships are being repaired, which lowers combat readiness considerably.
+修理中
+艦船は修理中であり、戦闘即応度が大幅に低下している。
 244
-Resupplying
-The fleet is resupplying, which means lowered combat readiness.
+補給中
+艦隊は補給中であり、戦闘即応度が低下している。
 245
-Low Ammunition
-The sailors know that every shot has to count and are nervous engaging the enemy.
+弾薬不足
+水兵たちは一発一発を無駄にできないと分かっており、交戦に神経質になっている。
 246
-Low Supplies
-Supplies are running low and are being regulated. Half rations of maggot infested bread does not improve the fighting spirits onboard the vessels.
+物資不足
+物資が残り少なく制限されている。ウジの湧いたパンの半分の配給は、艦上の闘志を高めるものではない。
 247
-Commander Casualty
-The commander was recently lost and the men are shaken.
+指揮官死傷
+指揮官を最近失い、兵たちは動揺している。
 248
-Bad Weather
-Seasickness may not be lethal but getting washed away in the waves is. The sailors are losing heart in this horrid weather.
+悪天候
+船酔いは命取りにはならないが、波にさらわれれば話は別だ。水兵たちはこのひどい天候に気力を失いつつある。
 249
-Supported
-Another friendly fleet is within range. This improves morale among the sailors.
+支援あり
+別の友軍艦隊が近くにいる。これにより水兵の士気が向上する。
 250
-Pursued
-The fleet is retreating under fire and men are panicking.
+追撃中
+艦隊は砲火を受けながら撤退しており、兵はパニックに陥っている。
 251
-Enemy Ironclads
-As shots harmlessly bounce off the enemy armor the sailors could easily lose heart. 
+敵装甲艦
+砲弾が敵の装甲に無害に跳ね返るのを見て、水兵たちは容易に気力を失いかねない。
 252
-Clad in Iron
-Having ironclads in the fleet improves confidence and morale. 
+鉄の艦
+艦隊に装甲艦がいることは自信と士気を向上させる。
 253
-Untried
-Most of the men have not yet tasted combat and may be nervous and unstable.
+未経験
+ほとんどの兵はまだ戦闘を経験しておらず、神経質で不安定になりがちである。
 270
-National Morale
-Represents the citizens' willingness to fight. It is influenced by policies and objectives, and is reduced when losing battles or towns are occupied. Recapturing lost towns retrieves the morale loss. If national morale drops too low the campaign is lost.
+国家士気
+国民の戦意を表す。政策と目標の影響を受け、戦闘に敗北したり都市を占領されたりすると低下する。失った都市を奪還すると士気の低下は回復する。国家士気が低くなりすぎるとキャンペーンに敗北する。
 271
-Average State Support
-This is the average support of the states of each faction. Support can be influenced through policies and objectives. Support of the home states will drop if their brigades suffer high casualties.
+平均州支持率
+各陣営の州の平均支持率。支持率は政策や目標によって影響を受ける。本国州の支持率は、その州出身の旅団が多くの死傷者を出すと低下する。
 272
-Average Army Morale
-The average morale of all units in the army. To obtain a detailed information what causes negative effects on morale, check the status symbols on the unit panel.
+平均軍士気
+軍の全部隊の平均士気。士気に悪影響を及ぼす原因の詳細を知るには、部隊パネルの状態記号を確認すること。
 273
-Number of States & Territories
-The number of states and territories that are considered loyal towards each faction, having a minimum of 65% support. A state cannot be loyal towards both sides, but can be considered contested. 
+州・準州の数
+支持率65%以上を持ち、各陣営に忠誠を誓っていると見なされる州・準州の数。ある州が両陣営に同時に忠誠を誓うことはできないが、係争中と見なされることはある。
 274
-Army Size
-The size of all land units of each faction, also counting units being recruited.
+陸軍規模
+各陣営の全陸上部隊の規模。徴募中の部隊も含む。
 275
-Navy Size
-The tonnage strength of the navy of each faction.
+海軍規模
+各陣営の海軍の総トン数。
 276
-Military Experience
-The experience of the whole military of each side. Each battle, no matter if won or lost, adds to military experience, as the soldiers and commanders alike learn how to fight and train in this new kind of war. With military experience, more entrenchments can be constructed and new commanders have better initial experience values.
+軍事経験
+各陣営の軍全体の経験値。勝敗に関わらず全ての戦闘が軍事経験に加算され、兵士も指揮官も等しくこの新しい戦争の戦い方と訓練法を学ぶ。軍事経験が高いほどより多くの塹壕を構築でき、新規指揮官の初期経験値も向上する。
 277
-Battles Won
-The number of battles won by each faction.
+勝利数
+各陣営が勝利した戦闘の数。
 278
-Casualties
-The number of battle casualties of each faction, not taking into account attrition.
+死傷者数
+各陣営の戦闘による死傷者数。損耗によるものは含まない。
 279
-Intervention
-The influence on European nations. The relation determines the probability of intervention for each side. On the top bar you will have more detailed information about the propability of intervention by each European nation. You will need a major victory on the battlefield and 100% probability of intervention to provoke Europe to intervene.
+介入
+ヨーロッパ諸国への影響力。この関係値が各陣営への介入確率を決定する。上部バーには各ヨーロッパ諸国の介入確率についてより詳しい情報が表示される。ヨーロッパを介入させるには、戦場での大勝利と介入確率100%が必要。
 280
 [Trade Warfare]
 [Description Trade Warfare]
@@ -590,82 +590,82 @@ The influence on European nations. The relation determines the probability of in
 [Weapons Industry]
 [Weapons Industry Description]
 282
-An order for this weapon is already being executed!
-This weapon is not being produced or imported.
+この兵器の注文は既に実行中！
+この兵器は生産も輸入もされていない。
 283
-Order Weapons
-You may not place weapon orders in career mode!
+兵器を発注
+キャリアモードでは兵器の発注はできない！
 284
-available
+利用可能
 
 290
 [Ship Image Autoresolve Panel]
 
 291
-Load Game
+ゲームを読み込む
 
 292
-Historical Battle
+史実戦闘
 
 293
-Campaign Battle
+キャンペーン戦闘
 
 294
-Load Game
+ゲームを読み込む
 
 295
-Save Game
+ゲームを保存
 
 296
-Delete Game
+ゲームを削除
 
 297
-Quit Options Panel and accept changes
+オプションを閉じて変更を適用
 
 298
-Quit Options Panel and restore old settings
+オプションを閉じて元の設定に戻す
 
 300
-Ammunition
+弾薬
 [Supply State]
 301
-Artillery ammunition [deactivated]
+砲兵弾薬［無効］
 [Supply State]
 302
-Provisions
+糧食
 [Supply State]
 303
-Forage
+飼料
 [Supply State]
 304
-Ammunition
+弾薬
 [Supply State Fleet]
 305
-Provisions
+糧食
 [Supply State Fleet]
 306
-Coal
+石炭
 [Supply State Fleet]
 307
-No Coal
+石炭切れ
 [Supply State Fleet]
 308
 [Ship in Fleet Name & Description]
 [Data]
 309
-Next
-Click to select next ship in current fleet.
+次へ
+現在の艦隊の次の艦を選択するにはクリック。
 310
-Previous
-Click to select previous ship in current fleet.
+前へ
+現在の艦隊の前の艦を選択するにはクリック。
 311
-Previous Fleet
-Move to previous fleet of your alliance.
+前の艦隊
+自陣営の前の艦隊へ移動する。
 312
-Next Fleet
-Move to next fleet of your alliance.
+次の艦隊
+自陣営の次の艦隊へ移動する。
 313
-Connected Supply Depots
+接続中の補給廠
 [Supply Depots Info]
 320
 [Reserved for Perks]
@@ -728,91 +728,91 @@ Connected Supply Depots
 [Reserved for Perks]
 [Tooltips are taken from separate file]
 350
-Elite Battle Flag
-To honor this unit you may choose an elite battle flag as soon as all of the perk slots have been assigned.
+精鋭戦旗
+全てのパークスロットが割り当てられ次第、この部隊を称える精鋭戦旗を選ぶことができる。
 351
 [Elite Battle Flag Selection Panel]
 [Elite Battle Flag Description]
 352
-Previous flag
+前の戦旗
 
 353
-Next flag
+次の戦旗
 
 354
-Cancel flag assignment
+戦旗割当を取消
 
 355
-Assign elite battle flag
+精鋭戦旗を割り当て
 
 360
-Hide panel
+パネルを隠す
 
 361
-Show panel
+パネルを表示
 
 362
-Show last economy report
-Economy reports are published at the end of month.
+前回の経済報告を表示
+経済報告は月末に発行される。
 363
-Show last intelligence report
-Intelligence reports are published at the end of month.
+前回の諜報報告を表示
+諜報報告は月末に発行される。
 370
-Strategy
-View the campaign objectives, military balance and official records of the War.
+戦略
+キャンペーン目標、軍事バランス、戦争の公式記録を閲覧する。
 371
-Military
-Manage your armies, fleets, officer corps and order weapons.
+軍事
+自軍・艦隊・将校団を管理し、兵器を発注する。
 372
-Finances
-Shows information about revenues, expenses, debt and subsidies.
+財政
+歳入・歳出・債務・助成金の情報を表示する。
 373
-Buildings & Production
-View information about government buildings and the production companies that keep the wheels of economy rolling.
+建物と生産
+経済を回す政府施設と生産企業の情報を閲覧する。
 374
-Policies
-Influence the priorities of political decision making.
+政策
+政治的意思決定の優先順位に影響を与える。
 375
-Goods & Trade
-View trade statistics within your nation, including import and export.
+物資と貿易
+輸出入を含む、自国内の貿易統計を閲覧する。
 376
-Projects
-Finance private and public projects by subsidies.
+プロジェクト
+助成金により民間・公共のプロジェクトに資金を投じる。
 377
-Projects can be appointed!
+プロジェクトを任命可能！
 
 379
-No policy research selected!
-Further policies are available for research.
+研究中の政策なし！
+さらなる政策が研究可能。
 380
-LMB to activate/deactivate criteria
+左クリックで条件のオン/オフ切替
 
 381
-LMB to activate/deactivate criteria
+左クリックで条件のオン/オフ切替
 
 382
-Previous Unit
+前の部隊
 
 383
-Next Unit
+次の部隊
 
 384
-Promote Commander
+指揮官を昇進
 [Promote Commander]
 385
-Replace Commander
-Order another officer to take command. The replaced commanders' fame may suffer in the eyes of the citizens, especially if he has been removed from a high position.
+指揮官交代
+別の将校に指揮を執らせる。交代させられた指揮官の名声は、特に高い地位から解任された場合、国民の目に低下して映る可能性がある。
 390
-Show commanding unit info
-(brigade level only)
+指揮部隊情報を表示
+（旅団レベルのみ）
 391
-Show ship information
+艦船情報を表示
 
 392
-Show commander information
+指揮官情報を表示
 
 393
-Show unit history
+部隊履歴を表示
 
 394
 [Rank]
@@ -821,67 +821,67 @@ Show unit history
 [Branch]
 
 396
-Veteran
-This officer saw combat before the civil war fighting in Mexico during the war of 1846-1848. Even if war has changed since, he knows what to expect when the shells start bursting.
+退役軍人
+この将校は南北戦争前、1846年から1848年の戦争でメキシコで戦闘を経験している。戦争の様相は変化したとはいえ、砲弾が炸裂し始めた時に何が起こるかを心得ている。
 397
-Fame
-Everyone knows his name and deeds. Knowing he is there fighting for the nation, raises spirits high. Even foreign newspapers love to write about him and this fame makes the enemy nervous when facing him and his troops!
+名声
+誰もがその名と功績を知っている。彼が国のために戦っていると知るだけで士気は大いに高まる。外国の新聞ですら好んで彼のことを書き立て、この名声は彼とその部隊に対峙する敵を不安にさせる！
 398
-Defamed
-Having failed the nation or been demoted from command, leaving this officer in command will do more harm than good for the morale of the people. His men will question his abilities and he is considered a laughing stock in the enemy camps. If conducting heroic deeds the commander may get rid of this stain. His bad performance should also be forgotten as time goes by, if he does not repeat such mistakes before then.
+汚名
+国家を裏切ったか指揮官の座を解任されたこの将校を指揮下に留めておくことは、国民の士気にとって益より害の方が大きい。部下は彼の能力に疑問を抱き、敵陣営では物笑いの種にされている。英雄的な行動を成し遂げれば、この将校はこの汚名をそそぐことができるかもしれない。同じ過ちを繰り返さなければ、時と共に彼の悪い評判も忘れ去られるはずだ。
 399
-West Point Graduate
-This officer has completed formal military studies in a military academy, making him a professional in the art of war and suitable to quickly adapt to higher command.
+陸軍士官学校卒業生
+この将校は陸軍士官学校で正規の軍事教育を修了しており、用兵の専門家として、より上位の指揮にも迅速に適応できる。
 400
-Politically assigned
-This officer has acquired his rank thanks to his political status. Commanding troops increases support in his home state, but he is apt to feuds. If removed from command, it will hurt the support in his state.
+政治的任命
+この将校はその政治的地位のおかげで階級を得た。部隊を指揮することは本国州における支持を高めるが、確執を起こしやすい。指揮から解任されれば、その州の支持は損なわれる。
 401
-Volunteer
-Volunteered for duty and was appointed or elected to command. While lacking a formal military education, volunteers tend to be quick to adapt to this new kind of modern warfare and they tend to avoid personal conflicts, unlike professional or politically appointed officers.
+義勇兵出身
+自ら志願して従軍し、指揮官として任命または選出された。正規の軍事教育こそ欠いているが、義勇兵出身の将校はこの新しい近代戦争に素早く適応する傾向があり、職業将校や政治任命の将校とは異なり、個人的な対立を避ける傾向がある。
 409
-Accept
+承諾
 
 410
-Cancel
+取消
 
 411
-Play battle
-Prepare for battle! Take personal command of your troops in an open field battle. 
+戦闘をプレイ
+戦闘準備！野戦において自ら部隊を指揮する。
 412
-Autoresolve
-Order your generals to engage the enemy. The battle result will be automatically calculated. Participating units will be engaged and cannot be given orders for the duration of the battle.
+自動解決
+麾下の将軍に敵との交戦を命じる。戦闘結果は自動的に計算される。参加部隊は交戦状態となり、戦闘中は命令を出すことができない。
 413
-Deploy to defend
-The enemy is not offering a battle, if you don t attack. Order your unit to deploy to defend and to hold the enemy at bay. 
+防御配置
+こちらが攻撃しない限り、敵は戦闘を仕掛けてこない。部隊に防御配置を命じ、敵を食い止める。
 414
-Withdraw
-Try to slip away from the attacking enemy without offering battle. If successful, the unit will break contact and withdraw in orderly fashion, with the rear guard ordered to skirmish with the enemy. If this fails the enemy could force a battle or the withdrawal could turn into a rout. 
+離脱
+戦闘を交えずに攻撃してくる敵から抜け出そうとする。成功すれば、部隊は敵との接触を絶ち、後衛に小競り合いを命じつつ整然と撤退する。失敗すれば敵に戦闘を強いられるか、撤退が敗走に転じる恐れがある。
 415
-Retreat
-Order the unit to retreat. The unit will break contact with the enemy and morale will suffer.
+撤退
+部隊に撤退を命じる。部隊は敵との接触を断つが、士気は低下する。
 416
-Go to Location
-Click to visit the battle location and to check the opposing armies.
+現地へ移動
+戦闘地点へ移動し、敵軍を確認するにはクリック。
 417
-Go to Location
-Click to scroll to the related location of this dispatch.
+現地へ移動
+この急報に関連する地点へスクロールするにはクリック。
 418
-Deploy to defend not possible
-Deploying to defend is only possible if all opponents are using defensive stance.
+防御配置不可
+防御配置は、敵側全てが防御姿勢を取っている場合のみ可能。
 420
-Next tutorial step
+次のチュートリアル手順
 
 421
-Return to previous tutorial step
+前のチュートリアル手順に戻る
 
 422
-Jump to location
+地点へジャンプ
 
 423
-Skip lesson
+レッスンをスキップ
 
 440
-Avatars
+アバター
 
 450
 [Fame attribute]
@@ -899,169 +899,169 @@ Avatars
 [Cunning attribute]
 
 460
-Upkeep
-Shows the maintainance and wage costs per year. For government buildings these costs are visible in the construction section of the financial report, private companies are operating on their own.
+維持費
+年間の維持・賃金コストを表示する。政府施設についてはこのコストが財務報告の建設セクションに表示され、民間企業は独自に運営される。
 461
-Transport Capacity
-The transport capacity shows the ability to handle goods flows through this IIP (important infrastructure point). The higher the transport capacity, the more sales tax revenues are generated through higher trade and companies are increasingly supplied by pre-goods. Markets nearby increase the logistical capacity. 
+輸送能力
+輸送能力は、このIIP（重要インフラ拠点）を通じた物資の流れを処理する能力を示す。輸送能力が高いほど、貿易量増加により多くの売上税収が生まれ、企業への前段階物資の供給も増える。近隣の市場は兵站能力を高める。
 462
-Available Workforce
-The lower the available workforce in this area, the lower the effectiveness of this building. Workforce is reduced by recruitment, other nearby companies and low private wealth but increased over time through population growth.
+利用可能労働力
+この地域で利用可能な労働力が少ないほど、この建物の効率は低下する。労働力は徴募・近隣の他企業・低い民間の富によって減少するが、時間とともに人口増加によって増加する。
 463
-Slaves
-Slave states allow to replace workforce by slaves, leading to lower production costs and higher available workforce in general. Slaves are only used in non-complex production facilities, mostly in agricultural production.
+奴隷
+奴隷州では労働力を奴隷で代替でき、生産コストの低下と全体的な利用可能労働力の増加につながる。奴隷は複雑でない生産施設、主に農業生産にのみ使用される。
 464
-Tax Revenues
-Shows the yearly corporate tax revenues. Tax revenues are derived from the company profit and the used corporate tax rate. If the related policies are researched you may increase the corporate tax rate in the financials panel.
+税収
+年間の法人税収を表示する。税収は企業利益と適用される法人税率から算出される。関連する政策が研究済みであれば、財務パネルで法人税率を引き上げられる。
 465
-Prisoners
-Captured soldiers are brought to P.O.W. camps instead of being pardoned. If the number of prisoners exceeds the available capacity you need to upgrade existing or create new camps, otherwise the war support of enemy states will grow over time.
+捕虜
+捕らえた兵士は釈放されず捕虜収容所に送られる。捕虜数が収容能力を超える場合、既存の収容所を改修するか新設する必要がある。さもなければ敵州の戦争支持が時間とともに高まる。
 466
-Available Capital
-If banks are close, companies may receive cheaper funding and increase productivity. This leads to lower upkeep costs. The available capital can be watched in the filter Available Capital.
+利用可能資本
+銀行が近くにあれば、企業はより安価な資金調達を受けられ生産性が向上する。これにより維持費が低下する。利用可能資本はフィルター「利用可能資本」で確認できる。
 467
-Markets Capacity
-Nearby markets increase the transport capacity. This will lead to higher trade revenues and better pre-good supply to your companies.
+市場能力
+近隣の市場は輸送能力を高める。これにより貿易収入が増加し、自国企業への前段階物資の供給も改善する。
 468
-Medical Treatment
-Nearby hospitals improve the treatment of wounded. They will heal faster and the mortality rate will be lower. Use the filter Medical Treatment to watch the covered areas.
+医療処置
+近隣の病院は負傷者の治療を改善する。回復が早まり、死亡率も低下する。フィルター「医療処置」でカバーされる地域を確認できる。
 470
-Show order of battle
+編成表を表示
 
 471
-Show unit list
+部隊リストを表示
 
 472
-Transfer between two units
-LMB to split the order of battle screen to transfer units between two organizations by dragging and dropping.
+2部隊間で移動
+左クリックで編成表画面を分割し、ドラッグ＆ドロップで2つの編成間の部隊移動を行う。
 473
-Delete selected unit
-Deletes the selected unit and sends the men home. This option is only available to single units or headquarter units without subordinates. All HQs without units under them will be disbanded automatically when the panel is closed.
+選択部隊を削除
+選択した部隊を削除し、兵を帰還させる。このオプションは単独部隊、または麾下部隊のいない司令部部隊にのみ使用できる。麾下に部隊がない全ての司令部は、パネルを閉じると自動的に解散する。
 474
-Select state for recruitment
-LMB to select a state where the new unit shall be recruited from. Use the filters on the right to tighten selection.
+徴募州を選択
+左クリックで新しい部隊を徴募する州を選択する。右側のフィルターで選択を絞り込める。
 475
-Select recruits pool
-Switch between volunteers and drafts. Drafts have lower morale and higher rate of desertion than volunteers.
+徴募兵プールを選択
+志願兵と徴集兵を切り替える。徴集兵は志願兵より士気が低く脱走率が高い。
 476
-Previous uniform type
+前の軍服種別
 
 477
-Next uniform type
+次の軍服種別
 
 478
-Select previous color
+前の色を選択
 
 479
-Select next color
+次の色を選択
 
 480
 [Color]
 
 481
-Recruit unit
+部隊を徴募
 
 482
-Cancel recruitment
+徴募を取消
 
 483
-Recruit a new [VAR91]
-A list will appear, select the state you wish to raise the [VAR91] in. Early armies may only have division levels. Organization Reform project allows creating tactically more flexible armies with corps organization.
+新規[VAR91]を徴募
+リストが表示されるので、[VAR91]を編成したい州を選択する。序盤の軍は師団レベルまでしか編成できない場合がある。編制改革プロジェクトにより、軍団編制のより戦術的に柔軟な軍を編成できるようになる。
 484
-Upgrade Weapon
-Upgrading the weapons of this unit will reduce the weapon stock.
+武器アップグレード
+この部隊の武器をアップグレードすると、武器在庫が減少する。
 485
-Cancel Upgrade
+アップグレード取消
 
 486
-LMB to select this weapon
-The old weapons will be moved to storage, with the unit receiving the chosen weapons.
+左クリックでこの武器を選択
+旧武器は倉庫に移され、部隊は選択した武器を受け取る。
 487
-Previous commanders
+前の指揮官
 
 488
-Next commanders
+次の指揮官
 
 489
-Choose new commander
-The selected commander will be promoted to the necessary rank for this unit. The higher the promotion, the less experienced he will be in his new command. It will take time for him to adapt and gain experience.
+新指揮官を選択
+選択した指揮官はこの部隊に必要な階級に昇進する。昇進幅が大きいほど、新しい指揮における経験は少なくなる。適応し経験を積むには時間がかかる。
 490
-Assign commander to selected unit
-The selected commander will be promoted to the necessary rank of this unit. The higher the promotion, the more experience gets lost. Also the commander will lack experience growth.
+選択部隊に指揮官を割当
+選択した指揮官はこの部隊に必要な階級に昇進する。昇進幅が大きいほど失われる経験値も多くなる。また指揮官の経験値成長も鈍る。
 491
-Cancel replacement
+交代を取消
 
 492
 [Ship Image Fleet Info Panel]
 [Content]
 493
-Manage armies
-Manage unit hierarchies, recruit new armies and units and replace commanders.
+軍を管理
+部隊階層を管理し、新たな軍・部隊を徴募し、指揮官を交代する。
 494
-Manage fleets
-Assign or remove ships from fleets or replace commanders.
+艦隊を管理
+艦隊への艦の配属・除去、指揮官の交代を行う。
 495
-Commander information
-Take a look at your available commanders and their abilities.
+指揮官情報
+利用可能な指揮官とその能力を確認する。
 496
-Weapons
-Review your weapons in stock and place orders for additional equipment.
+兵器
+在庫兵器を確認し、追加装備を発注する。
 497
-Logistics
+兵站
 [text]
 498
-Upgrade ship
+艦をアップグレード
 [Upgrade Text]
 499
-Show selected fleet only
+選択艦隊のみ表示
 
 500
-Show all fleets
+全艦隊を表示
 
 501
-Select fleet
+艦隊を選択
 
 502
-Select ship
+艦を選択
 
 503
-Order ship to harbor
+艦に入港を命令
 
 504
-Attach ship to fleet
+艦を艦隊に配属
 
 505
-Construct new ship
+新造艦を建造
 
 506
-Build current ship
+選択艦を建造
 
 507
-Cancel ship construction
+艦の建造を取消
 
 508
-Select ship to construct
+建造する艦種を選択
 
 509
-Select harbor to raise fleet
-After the fleet is raised you need to assign ships to this fleet. If no ships are allocated, the fleet will be removed from the roster.
+艦隊編成地の港を選択
+艦隊編成後、この艦隊に艦を配属する必要がある。艦が配属されない場合、艦隊は名簿から除去される。
 510
-Raise new fleet
-After the fleet is raised you need to assign ships to this fleet. If no ships are allocated, the fleet will be removed from the roster.
+新艦隊を編成
+艦隊編成後、この艦隊に艦を配属する必要がある。艦が配属されない場合、艦隊は名簿から除去される。
 511
-Cancel new fleet
+新艦隊編成を取消
 
 512
-Create new fleet
-New fleets are created near your ports. A list will open to determine the location of the new fleet.
+新艦隊を作成
+新しい艦隊は自国の港の近くに作られる。新艦隊の場所を決定するリストが開く。
 513
-Delete ship
-Scuttle the currently selected ship.
+艦を削除
+現在選択中の艦を自沈させる。
 514
-Cancel recruitment
+徴募を取消
 
 515
-Select ship [not moveable]
+艦を選択［移動不可］
 
 516
 [Ship Line]
@@ -1070,365 +1070,365 @@ Select ship [not moveable]
 [Ship Line not movable]
 
 519
-No suitable commander selected
-Please choose an active commander to replace with by clicking on a commander image above. Use mouse wheel to scroll the available ranks up and down.
+適任の指揮官が未選択
+上部の指揮官画像をクリックして交代先の現役指揮官を選んでください。マウスホイールで利用可能な階級を上下にスクロールできます。
 520
-Auto upgrade weapons
-Automatically upgrades the weapons of all units of the selected group to the best available ones.
+武器を自動アップグレード
+選択したグループの全部隊の武器を、利用可能な最良のものへ自動的にアップグレードする。
 521
-Auto generate units
-Automatically raise the chosen number of units below the chosen group. States with short travel time and short recruiting queues are prefered.
+部隊を自動生成
+選択したグループの下に、指定した数の部隊を自動的に編成する。移動時間が短く徴募待機列の短い州が優先される。
 522
-Size of the unit
-Change the size of the units to be recruited.
+部隊の規模
+徴募する部隊の規模を変更する。
 523
-Number of infantry brigades to be auto generated.
+自動生成する歩兵旅団数。
 
 524
-Increase number of units for this unit type.
+このユニット種別の数を増やす。
 
 525
-Reduce number of units for this unit type.
+このユニット種別の数を減らす。
 
 526
-Number of cavalry brigades to be auto generated.
+自動生成する騎兵旅団数。
 
 527
-Number of artillery batallions to be auto generated.
+自動生成する砲兵大隊数。
 
 528
-Number of horse artillery batallions to be auto generated.
+自動生成する騎馬砲兵大隊数。
 
 529
-Auto generating units not possible
-Units can only be attached to groups, select a group unit first!
+部隊自動生成不可
+部隊はグループにのみ配属できる。先にグループ部隊を選択すること！
 530
-Fort firepower
-The firepower of the fort is derived from the fort level and thus the used artillery, as well as the condition of the fort.
+砦の火力
+砦の火力は、砦のレベル（すなわち使用される火砲）と砦の状態から算出される。
 531
-Fort condition
+砦の状態
 
 532
-Infantry fielded
+展開歩兵数
 
 533
-Cavalry fielded
+展開騎兵数
 
 534
-Artillery fielded
+展開砲兵数
 
 535
-Navy Firepower
-The combined strength of all guns on all ships, taking into account combat readiness and penetration.
+海軍火力
+全艦の全火砲の合計戦力。戦闘即応度と貫通力を考慮する。
 536
-Ships active
+稼働艦数
 
 537
-Guns active
+稼働砲数
 
 538
-Out of range
-This ship is out of range and unable to engage the enemy fleet.
+射程外
+この艦は射程外にあり、敵艦隊と交戦できない。
 539
-Under fire
-This ship is under enemy fire.
+被弾中
+この艦は敵の砲火を受けている。
 540
-Rammed
-This ship has suffered damage in a ramming action.
+衝突被害
+この艦は体当たり攻撃で損害を受けた。
 541
-Low ammunition
-This ship is low on ammunition and will not be able to continue the engagement much longer.
+弾薬不足
+この艦は弾薬が残り少なく、長くは交戦を続けられない。
 542
-Ammo explosion
-This ship has received a direct hit into its ammunition magazine, which has caused severe damage.
+弾薬庫誘爆
+この艦は弾薬庫に直撃弾を受け、深刻な損害を負った。
 543
-Under artillery fire
-This unit is under artillery fire, suffering casualties and loss of morale.
+砲撃下
+この部隊は砲撃を受けており、死傷者と士気低下が生じている。
 544
-Artillery overran
-This artillery unit was overran by the enemy.
+砲兵制圧
+この砲兵部隊は敵に制圧された。
 545
-Low ammunition
-This unit is conserving ammunition and has a reduced rate of fire.
+弾薬不足
+この部隊は弾薬を節約しており、発射速度が低下している。
 546
-Routed
-This unit was beaten in combat, and has withdrawn the field.
+敗走
+この部隊は戦闘に敗れ、戦場から退いた。
 547
-In melee
-This unit is currently engaged in close combat.
+白兵戦中
+この部隊は現在近接戦闘中である。
 548
-Engaged
-This unit is in ranged combat with enemy units, exchanging volleys.
+交戦中
+この部隊は敵部隊と射撃戦を交わしている。
 550
 [not used]
 
 551
-Increase transport ships
-LMB for minor adjustment, RMB for major adjustment
+輸送船を増やす
+左クリックで小刻み調整、右クリックで大幅調整
 552
-Decrease transport ship
-LMB for minor adjustment, RMB for major adjustment
+輸送船を減らす
+左クリックで小刻み調整、右クリックで大幅調整
 553
-Increase river steamers
-LMB for minor adjustment, RMB for major adjustment
+河用蒸気船を増やす
+左クリックで小刻み調整、右クリックで大幅調整
 554
-Decrease river steamers
-LMB for minor adjustment, RMB for major adjustment
+河用蒸気船を減らす
+左クリックで小刻み調整、右クリックで大幅調整
 555
-Increase trains
-LMB for minor adjustment, RMB for major adjustment
+列車を増やす
+左クリックで小刻み調整、右クリックで大幅調整
 556
-Decrease trains
-LMB for minor adjustment, RMB for major adjustment
+列車を減らす
+左クリックで小刻み調整、右クリックで大幅調整
 557
-Close information
+情報を閉じる
 
 558
-Open information
+情報を開く
 
 559
-Previous units supplied
+前の被補給部隊
 
 560
-Next units supplied
+次の被補給部隊
 
 563
-Shipyard capacity
+造船所能力
 
 564
-New independent [VAR90]
-A list will appear, select the state you wish to raise the [VAR90] in. Independent [VAR90] are not attached to any grand army HQ, and only have division levels. Compared to attached [VAR90], they operate more independently with lower order delays, but are tactically less flexible in reinforcing.
+新規独立[VAR90]
+リストが表示されるので、[VAR90]を編成したい州を選択する。独立[VAR90]はいかなる大軍司令部にも属さず、師団レベルのみを持つ。所属[VAR90]と比べ、より独立して行動でき命令遅延が少ないが、増援における戦術的柔軟性は劣る。
 565
-Detach to independent unit
-The selected HQ or unit will be detached to form a new independent unit, that can be operated on the campaign map.
+独立部隊として分離
+選択した司令部または部隊は分離され、キャンペーン地図上で運用可能な新しい独立部隊を編成する。
 566
-Upgrade [VAR90] to [VAR91]
-Click to upgrade this independent [VAR90] to an [VAR91], enabling a three level hierarchy structure.
+[VAR90]を[VAR91]へ昇格
+この独立[VAR90]を[VAR91]へ昇格させ、3階層構造を可能にするにはクリック。
 567
-Deploy garrison
-This will detach the chosen unit to become garrison at the current position. Garrisons can protect routes of supply and block enemy advances, but cannot move. [VAR31]
+守備隊配置
+選択した部隊を分離し、現在地の守備隊とする。守備隊は補給路の防衛や敵の進軍阻止ができるが、移動はできない。[VAR31]
 568
-Deploying garrison not possible
-No suitable unit selected. 
+守備隊配置不可
+適切な部隊が選択されていない。
 569
-Deploying garrison not possible
-The unit can be deployed as garrison as soon as it has reached the main body. 
+守備隊配置不可
+この部隊は本隊に到達次第、守備隊として配置できる。
 570
-Available transport ships
+利用可能な輸送船
 
 571
-Available river steamers
+利用可能な河用蒸気船
 
 572
-Available trains
+利用可能な列車
 
 575
-Change initial brigade size
+初期旅団規模を変更
 
 576
-Deploying garrison not possible
-Units that have low readiness, retreat or are embarked may not deploy garrisons.
+守備隊配置不可
+即応度が低い、撤退中、または乗船中の部隊は守備隊として配置できない。
 577
-Deploying garrison not possible
-The nearby garrison has not enough capacity [VAR31].
+守備隊配置不可
+付近の守備隊には十分な収容力がない[VAR31]。
 578
-Deploying garrison not possible
-The unit is to big to deploy as garrison. Garrisons are limited to [VAR32] soldiers.
+守備隊配置不可
+この部隊は大きすぎて守備隊として配置できない。守備隊は[VAR32]名までに制限される。
 579
-Deploying garrison not possible
-At least one regular unit needs to remain in the main group body.
+守備隊配置不可
+本隊には最低1個の通常部隊が残っている必要がある。
 580
 [Supplied Unit Icon]
 [Description]
 581
-Engagement distance
-The range between the engaged fleets. The closer both fleets convene, the more weapon systems can be brought into action. On close distance ships can be rammed.
+交戦距離
+交戦中の艦隊間の距離。両艦隊が近づくほど、より多くの兵装を投入できる。近距離では体当たり攻撃が可能。
 582
-Digging in
-The armies are setting up entrenchments and are preparing for a siege. In this phase no combat action happens.
+塹壕構築中
+両軍は塹壕を構築し攻城戦の準備をしている。この段階では戦闘行動は発生しない。
 583
-Night
-During the night no combat actions are carried out. Both sides are redeploying, resupplying and preparing for the next day.
+夜間
+夜間は戦闘行動が行われない。両軍は再配置・補給を行い翌日に備える。
 584
-Combat width
-The number of ships that are able to engage simultaneously from each side, due to space to maneuver and formations used. River engagements offer less room for maneuvering.
+戦闘幅
+機動空間と使用陣形により、各陣営が同時に交戦できる艦数。河川での交戦は機動の余地が少ない。
 585
-Victory bar
+勝敗バー
 
 586
-Casualties
+死傷者数
 
 587
-Withdrawn
-This ship has withdrawn from the engagement and is heading for the nearest friendly port for repairs.
+離脱
+この艦は交戦から離脱し、修理のため最寄りの友軍港へ向かっている。
 588
-Flanking
-This unit has successfully flanked an enemy unit.
+側面攻撃成功
+この部隊は敵部隊への側面攻撃に成功した。
 590
-Recruit new infantry unit
+新規歩兵部隊を徴募
 
 591
-Recruit new cavalry unit
-Larger cavalry units may be recruited after appointing cavalry reform project.
+新規騎兵部隊を徴募
+騎兵改革プロジェクトを任命すると、より大規模な騎兵部隊を徴募できるようになる。
 592
-Recruit new artillery unit
-Larger artillery units may be recruited after appointing artillery reform project.
+新規砲兵部隊を徴募
+砲兵改革プロジェクトを任命すると、より大規模な砲兵部隊を徴募できるようになる。
 593
-Recruit new horse artillery unit
-Requires [VAR117] project.
+新規騎馬砲兵部隊を徴募
+[VAR117]プロジェクトが必要。
 597
-Perks
+従者
 [Autoresolve Perks, Side 0]
 598
-Perks
+従者
 [Autoresolve Perks, Side 1]
 600
-Stance
-The stance of the unit determines how it should act when contact with the enemy is made, or the given movement order has been carried out.
+姿勢
+部隊の姿勢は、敵と接触した際、あるいは与えられた移動命令を完了した際にどう行動すべきかを決定する。
 601
-Army orders
-These orders determine how the unit will employ its forces during its operations.
+軍命令
+これらの命令は、作戦中に部隊がどのように戦力を運用するかを決定する。
 602
-Construction
-Order the army to build a fort, a supply depot or a telegraph station. Construction will take time, during which the readiness of the unit will drop.
+建設
+軍に砦、補給廠、電信局の建設を命じる。建設には時間がかかり、その間部隊の即応度は低下する。
 603
-Movement orders
-Order forced march or stop the unit.
+移動命令
+強行軍または停止を命じる。
 604
-Manage army
-Opens army management window.
+軍を管理
+軍管理ウィンドウを開く。
 610
-Defensive
-With a defensive stance, the unit will not engage enemy armies or fortifications without specific orders. When the unit stops due to contact or after reaching its destination, it will start entrenching.
+防御
+防御姿勢では、部隊は特定の命令なしに敵軍や防御施設に交戦しない。接触や目的地到達により停止すると、塹壕の構築を開始する。
 611
-Offensive
-When on the offensive, the unit will engage any enemies armies or fortifications within its range. The unit will encamp if it has no movement orders, but will not dig in to keep order delays at minimum.
+攻撃
+攻撃姿勢では、部隊は射程内の敵軍や防御施設に交戦する。移動命令がない場合は野営するが、命令遅延を最小に保つため塹壕は構築しない。
 620
-Scout
-Order the unit to perform scouting to improve intelligence gathering on the enemy and the readiness of the unit. Cavalry is employed to perform scouting and patrolling, and only cavalry organized as cavalry corps will fight in field battles, but it takes some time as the unit is spread out.
+偵察
+部隊に偵察を命じ、敵情報の収集と部隊の即応度を向上させる。騎兵が偵察・哨戒任務に用いられ、騎兵軍団として編成された騎兵のみが野戦に参加できるが、部隊が展開するためやや時間がかかる。
 621
-Raid
-Burn down enemy infrastructure and forage all supplies the troopers can carry. When raiding, troops in this unit will skirmish with all enemies within range. Raiding will hit the population hard, and this will have effect in their support, lowering it for both the attacker and the defender, if unable to counter the raiding parties.
+襲撃
+敵のインフラを焼き払い、運べる限りの物資を徴発する。襲撃中、この部隊の兵は射程内の全ての敵と小競り合いを行う。襲撃は住民に大きな打撃を与え、襲撃部隊に対抗できない場合、攻撃側・防御側双方の支持を低下させる。
 622
-Guard
-Order the unit to perform patrols along its lines of communications and to guard the supply trains against enemy raids. During battles, part of the cavalry is used to stop routed men behind the battle line, which reduces desertion. Guarding cavalry will not fight as units in field battles.
+警護
+部隊に連絡線沿いの哨戒と輸送隊の敵襲撃からの防衛を命じる。戦闘中、騎兵の一部は戦線後方で敗走兵を食い止めるのに使われ、脱走を減らす。警護中の騎兵は野戦部隊として戦闘に参加しない。
 630
-Fort
-Build a permanent fort for protection against enemy attacks. A fort must be besieged to capture it, it can be garrisoned and upgraded to withstand sieges better. A fort can guard a town or a port against enemy aggression.
+砦
+敵の攻撃から守るための恒久的な砦を建設する。砦を陥落させるには攻城戦が必要で、守備隊を配置し攻城戦への抵抗力を高めるため改修することができる。砦は町や港を敵の侵攻から守ることができる。
 631
-Depot
-Building supply depots allows logistical support to your armies by storing the supplies needed for campaigning. The closer the depot, the shorter the time to resupply. If a supply depot is captured by the enemy, all supplies will be lost.
+補給廠
+補給廠を建設することで、作戦に必要な物資を貯蔵し軍への兵站支援が可能になる。補給廠が近いほど再補給にかかる時間は短くなる。補給廠が敵に占領されると、全ての物資が失われる。
 632
-Telegraph
-Telegraph stations within reach of one another will allow communication from the administration to the armies, reducing order delays immensely. Telegraph stations can also be captured.
+電信
+互いに到達範囲内にある電信局は、統括部から軍への通信を可能にし、命令遅延を大幅に短縮する。電信局は占領されることもある。
 640
-Forced march
-When ordered, the unit will keep marching without stopping to forage or to rest. This will increase attrition and the strain on the men but will allow faster movement.
+強行軍
+命令されると、部隊は糧秣調達や休息のために止まることなく行軍を続ける。これにより損耗と兵の負担は増加するが、より速い移動が可能になる。
 641
-Halt
-Order the unit to stop and cancel any movement orders. After stopping, the unit will encamp or start entrenching, depending on stance.
+停止
+部隊に停止と全ての移動命令の取消を命じる。停止後、部隊は姿勢に応じて野営するか塹壕構築を開始する。
 642
-If readiness is high enough leave the safety of the entrenchments to attack, in an attempt to carry the enemy works in an open field battle.
-Order the commander to assault and attempt to carry the enemy works. The battle result will be automatically calculated.
+即応度が十分高ければ塹壕の安全を離れて攻撃し、野戦により敵陣地の奪取を試みる。
+指揮官に突撃を命じ、敵陣地の奪取を試みる。戦闘結果は自動的に計算される。
 643
-You are not commanding any unit of this engagement.
-Fort sieges cannot be played manually.
+この交戦のいかなる部隊も指揮していない。
+砦の攻城戦は手動でプレイできない。
 644
-Our troops are already assaulting the enemy siege works!
-There is already an assault ongoing, the battle cannot be played manually anymore.
+自軍は既に敵の攻城陣地に突撃中！
+既に突撃が進行中であり、この戦闘はもう手動でプレイできない。
 645
-Readiness is too low to order assaults on the enemy siege works!
-The enemy is assaulting our siege works!
+即応度が低すぎて敵攻城陣地への突撃を命令できない！
+敵が自軍の攻城陣地に突撃している！
 646
-Slip away
-The defending garrison may slip away from this engagement unnoticed to regroup away from enemy range.
+離脱
+防御中の守備隊は、気づかれることなくこの交戦から離脱し、敵の射程外で再編成することができる。
 647
-Retreat
-Order the units to fall back from the entrenchments and to regroup away from enemy range.
+撤退
+部隊に塹壕からの後退と敵射程外での再編成を命じる。
 648
-Order the units to fall back from the entrenchments to regroup away from enemy range. The surrounded garrison, counting [VAR51] will surrender.
-This land battle is already ongoing and cannot be played manually anymore.
+部隊に塹壕からの後退と敵射程外での再編成を命じる。包囲された守備隊（[VAR51]名）は降伏する。
+この陸戦は既に進行中であり、もう手動でプレイできない。
 649
-The armies are already engaged in close combat.
+両軍は既に近接戦闘に入っている。
 
 650
-Stance
-The instructions for the fleet commander to determine how he should act when in contact with enemies.
+姿勢
+敵と接触した際にどう行動すべきかを決定する、艦隊指揮官への指示。
 651
-Fleet orders
-Give the fleet an independent task that it will continue with, without any other direct orders from you.
+艦隊命令
+艦隊に、以後直接の命令なしに継続する独立任務を与える。
 652
-Movement
-Order the fleet to drop anchor or to return to port for resupply and repairs.
+移動
+艦隊に投錨、または補給・修理のための帰港を命じる。
 653
-Manage fleet
-Opens the fleet management window.
+艦隊を管理
+艦隊管理ウィンドウを開く。
 660
-Defensive
-With a defensive stance, the fleet will not initiate combat, but will hold beyond enemy range. It will not sail out of port to intercept enemy fleets and it will not reinforce other fleets that are in combat and within reach.
+防御
+防御姿勢では、艦隊は戦闘を開始せず敵の射程外に留まる。敵艦隊を迎撃するために港を出ることも、到達範囲内で交戦中の他艦隊を増援することもしない。
 661
-Offensive
-When ordered to take an offensive stance, the fleet will engage any enemies within range, and reinforce other fleets in combat if they can be reached.
+攻撃
+攻撃姿勢を命じられると、艦隊は射程内の敵と交戦し、到達可能であれば交戦中の他艦隊を増援する。
 662
-Steam ship
-Sailing ship
+蒸気船
+帆船
 663
-Sail & Steam
-Sea & Rivers
+帆走・汽走
+海洋・河川
 664
-Rivers
-Sea
+河川
+海洋
 665
-Colossal
-Small
+超大型
+小型
 666
-Medium
-Large
+中型
+大型
 667
-Very Large
-None
+特大型
+なし
 668
-Timber
-Cotton
+木材
+綿花
 669
-Iron
+鉄
 
 670
-Blockade
-The fleet will patrol the coast, intercepting any enemy merchant ships going to or from their ports. All ports within the fleet's command range are affected.
+封鎖
+艦隊は沿岸を哨戒し、港へ出入りする敵商船を全て拿捕する。艦隊の指揮範囲内にある全ての港が対象となる。
 671
-Patrol
-When a route is ordered, whether a single destination or chain of waypoints, the fleet will patrol the route continuously, engaging any enemy fleets and reinforcing friendly ones. Patrolling fleets will move slower, but have their command range increased, allowing interception from longer distance.
+哨戒
+単一目的地であれ経由地の連なりであれ、ルートが命じられると、艦隊はそのルートを継続的に哨戒し、敵艦隊と交戦し友軍艦隊を増援する。哨戒中の艦隊は移動が遅くなるが、指揮範囲が拡大し、より遠距離からの迎撃が可能になる。
 672
-Raid
-The fleet operates opportunistically against smaller detachments of ships within enemy blockading fleets. The fleet will automatically engage any blockading fleets within its command radius and after the raid it will disengage and return to original position.
+襲撃
+艦隊は、敵の封鎖艦隊のうち小規模な分遣隊に対して日和見的に行動する。指揮半径内の封鎖艦隊があれば自動的に交戦し、襲撃後は離脱して元の位置に戻る。
 680
-Stop
-The fleet will drop anchor immediately and cancel any ongoing movement orders.
+停止
+艦隊は直ちに投錨し、進行中の全ての移動命令を取り消す。
 681
-Return to port
-The fleet will return to nearest safe port at once. At port the fleet will resupply and repair faster, as ships do not need to travel from station to port.
+帰港
+艦隊は直ちに最寄りの安全な港へ帰還する。港では、艦が基地と港の間を移動する必要がないため、補給と修理がより早く行われる。
 690
-Low Morale!
-This unit has a low average morale, attached units may break soon in battle, either through combat action or exhaustion. The low morale may have been caused by lost battles, low fighting spirit, fighting on enemy soil or bad supply.
+士気低下！
+この部隊は平均士気が低く、麾下部隊は戦闘行動や疲労によりまもなく崩れる可能性がある。士気の低下は、敗戦、闘志の低さ、敵地での戦闘、劣悪な補給などが原因である可能性がある。
 700
-Assault
+突撃
 [If readiness is high enough leave the safety of the entrenchments to attack, in an attempt to carry the enemy works in an open field battle.]
 701
-Autoresolve Assault 
+自動解決突撃 
 [Order the commander to assault and attempt to carry the enemy works. The battle result will be automatically calculated.]
 702
-Retreat
+撤退
 [Hardcoded tooltip]
 703
 empty
 
 704
-Chosen pre-war policies
-These policies have been chosen at the start of the scenario by this faction.
+選択済み開戦前政策
+これらの政策は、このシナリオ開始時にこの陣営によって選択された。
 705
-Estimated position of this unit, based on scouts, newspaper reports and local gossip. The higher the intellgence in this area, the more frequent and more accurate the reports.
-The last estimated position of this unit on [VAR30], based on scouts, newspaper reports and local gossip. The higher the intellgence in this area, the more frequent and more accurate the reports.
+偵察・新聞報道・地元の噂に基づく、この部隊の推定位置。この地域の諜報能力が高いほど、報告はより頻繁かつ正確になる。
+[VAR30]時点でのこの部隊の最終推定位置。偵察・新聞報道・地元の噂に基づく。この地域の諜報能力が高いほど、報告はより頻繁かつ正確になる。
 710
 [ObjectiveDescription]
 [ObjectiveDescriptionfull]
@@ -1436,26 +1436,26 @@ The last estimated position of this unit on [VAR30], based on scouts, newspaper 
 [Appoint Project]
 [Appoint Project]
 730
-Lower order volume
+発注量を減らす
 
 731
-Increase order volume
+発注量を増やす
 
 732
-Market Pricing
+市場価格
 [Market Pricing Weapon Order]
 733
 [Order Weapons]
 
 734
-Delivery
+納品
 [Weapons Delivery Info]
 735
 [Weapons ordered]
 
 750
-Show goods flow
-LMB to show the flow of this resource on the campaign map.
+物資の流れを表示
+左クリックでこの資源のキャンペーン地図上の流れを表示する。
 751
 [Company/IIP Button]
 [Company/IIP Info]
@@ -1475,11 +1475,11 @@ LMB to show the flow of this resource on the campaign map.
 [CitySize]
 [CitySize Description]
 757
-Upgrade
+改修
 [Upgrade Info]
 758
-Capital
-This is the capital city of this nation.
+首都
+この国の首都である。
 759
 [Blocked/Raided]
 
@@ -1514,8 +1514,8 @@ This is the capital city of this nation.
 [Coins Text]
 [City Wealth info]
 770
-This town is currently being captured.
-Larger forces will take less time to secure and garrison the town.
+この町は現在占領中である。
+より大規模な部隊であれば、町の確保と守備隊配置にかかる時間は短くなる。
 771
 [Company Alert Info]
 
@@ -1529,7 +1529,7 @@ Larger forces will take less time to secure and garrison the town.
 [Export Info]
 
 775
-Goods on stock
+在庫物資
 
 776
 [Blockade Level]
@@ -1538,116 +1538,116 @@ Goods on stock
 [Market Influences]
 
 778
-Parole prisoners
-All prisoners of this camp are paroled and sent home, though it cannot be ruled out that some of them reenlist.
+捕虜を仮釈放
+この収容所の全捕虜が仮釈放され帰郷する。ただし一部が再入隊する可能性は否定できない。
 779
-Abandon
-Click to burn down the depot. Parts of the stored goods are sold or utilized.
+放棄
+クリックで補給廠を焼却する。貯蔵物資の一部は売却または利用される。
 780
-Current economic cycle
-The graph shows the overall production of goods of each nation in $ mn. 
+現在の経済サイクル
+このグラフは各国の物資の総生産量を百万ドル単位で示す。
 781
-The debt of the nation
-Total amount of debt outstanding. Debt is automatically issued through bonds or loans. The higher the debt load is, the worse the nation's rating will be.
+国家債務
+現在未償還の債務総額。債務は債券や借入により自動的に発行される。債務負担が大きいほど国家の格付けは悪化する。
 782
-The interest rate for debt service
-The worse the rating is, the more interest needs to be paid.
+債務返済金利
+格付けが悪いほど、支払うべき金利は高くなる。
 783
-Unemployment rate
-The current unemployment rate of the nation. Unemployment can be reduced by helping corporations to settle. Employment influences private wealth positively.
+失業率
+現在の国家失業率。企業の定着を支援することで失業を減らせる。雇用は民間の富に好影響を与える。
 784
-Debt rating
-The higher the debt and the lower the budget surplus, the worse the rating will be. Better ratings lead to lower interest rates. If ratings are too low the issuing of debt is not possible any more.
+債務格付け
+債務が多く財政黒字が少ないほど、格付けは悪化する。格付けが良いほど金利は低くなる。格付けが低すぎると債務の発行ができなくなる。
 785
-Public wealth
-The average income per capita. Low unemployment rates and high levels of consumer goods, support high personal incomes and therefore high income tax revenues.
+国民の富
+一人当たりの平均所得。低い失業率と高水準の消費財は高い個人所得を支え、それにより高い所得税収をもたらす。
 786
-The nation's treasury
-Shows the currently available cash of the nation. If cash runs negative the treasury will automatically issue debt. If cash runs negative the armies and fleets cannot be supplied and paid any more, morale will drop rapidly.
+国庫
+国家が現在利用可能な現金を示す。現金がマイナスになると国庫は自動的に債務を発行する。現金がマイナスのままだと軍と艦隊への補給・給与が滞り、士気が急速に低下する。
 787
 [Transport capacity Info]
 
 788
-Storage target
-Click to change the goal for storage level to red (empty), yellow (medium), green (full), automatic. Supplies are continuously accumulated or disposed until the set level is reached.
+貯蔵目標
+貯蔵レベルの目標を赤（空）・黄（中）・緑（満）・自動に変更するにはクリック。設定したレベルに達するまで物資は継続的に蓄積または処分される。
 789
 [Bank Influences]
 
 790
-Tariff revenues
-Tariffs are charged for imported goods increasing their cost. This may lead to lower corporate profits and higher inflation. Estimated per year.
+関税収入
+関税は輸入品に課され、そのコストを増加させる。これは企業利益の低下とインフレ上昇を招く可能性がある。年間推定値。
 791
-Sales tax revenues
-Sales tax is charged for all goods transactions and leads to lower trading capacity and goods flow. Estimated per year.
+売上税収入
+売上税は全ての物資取引に課され、取引能力と物資の流れを低下させる。年間推定値。
 792
-Income tax revenues
-Income tax is charged on personal incomes. Revenues are high if the public wealth is high, but this tax reduces public support and wealth over time. Estimated per year.
+所得税収入
+所得税は個人所得に課される。国民の富が高いほど税収は多くなるが、この税は時間とともに国民の支持と富を低下させる。年間推定値。
 793
-Corporate tax revenues
-This tax is calculated out of the company profits. High corporate tax rates reduce the attractiveness of corporate agglomeration and expansion, as well as the private income of entrepreneurs. Estimated per year.
+法人税収入
+この税は企業利益から算出される。高い法人税率は企業の集積と拡大の魅力を下げ、企業家の個人所得も減らす。年間推定値。
 794
-Income of land sales
-This revenue is generated by the government through the sale of land to newly founded companies or for upgrades to existing companies. Estimated per year.
+土地売却収入
+この収入は、新設企業への土地売却や既存企業の改修用地売却を通じて政府が得るものである。年間推定値。
 795
-Total revenues
-The sum of all fiscal income, estimated for the next year. The scale of the calculation changes continually and depends on your policy decisions. Estimated per year.
+総歳入
+翌年に見込まれる全財政収入の合計。この計算の規模は常に変動し、政策決定に左右される。
 800
-Administration costs
-Costs for governing the country will be higher if more sources of revenues and subsidies are used. The lower the state support, the more expensive the implementation of policies will be. Estimated per year.
+行政コスト
+利用する歳入源・助成金が多いほど、国家運営のコストは高くなる。州支持が低いほど政策実施のコストは高くなる。年間推定値。
 801
-Subsidy payments per year
-Subsidies are used to develop the nation in a certain direction. Depending on the chosen policies individual subsidies can be allocated.
+年間助成金支出
+助成金は国家を特定の方向へ発展させるために使われる。選択した政策に応じて個別の助成金を割り当てられる。
 802
-Interest payments per year
-Interest payments are calculated from the total outstanding debt and the interest rate the nation needs to pay.
+年間利払い
+利払いは、未償還債務総額と国家が支払うべき金利から算出される。
 803
-Army upkeep estimated per year
-Soldier's pay, provisioning and forage accumulate to make up the army upkeep cost. If soldiers cannot be paid or supplied, their morale will drop tremendously.
+陸軍年間維持費（推定）
+兵の給与・糧食・飼料の合計が陸軍維持費を構成する。兵に給与や補給が行き届かない場合、士気は大幅に低下する。
 804
-Navy upkeep estimated per year
-The pay and provisioning for sailors, the maintenance of ships, as well as ammunition and coal purchases.
+海軍年間維持費（推定）
+水兵の給与・糧食、艦船の整備、および弾薬・石炭の購入費。
 805
-Recruitment cost estimated per year
-These costs arise when new units are raised and existing units are refitted. The costs depend on the prices of weapons, uniforms and bounties.
+年間徴募費（推定）
+これらのコストは新規部隊の編成や既存部隊の再装備の際に発生する。コストは武器・軍服・奨励金の価格に依存する。
 806
-Total expenses estimated per year
-The total expenses are an estimate as the scale of the calculation changes continually and depends on your policy decisions.
+年間総支出（推定）
+総支出はあくまで推定値であり、計算の規模は常に変動し政策決定に左右される。
 807
-Total surplus estimated per year
-Revenues less expenses are permanently added to your current treasury balance.
+年間総黒字（推定）
+歳入から歳出を引いた額が、恒久的に現在の国庫残高に加算される。
 808
-Cost of supply goods for depots
-Cost of supply delivered from supply depots. Supply depots are purchasing goods on the market to fill up their stock and enable better supply to your armies. The stated expenses are a per annum estimate that are derived from the purchases of the last weeks.
+補給廠向け物資コスト
+補給廠から供給される物資のコスト。補給廠は市場で物資を購入して在庫を補充し、軍へのより良い補給を可能にする。記載の支出は過去数週間の購入実績から算出した年間推定値。
 809
-Construction costs
-Expenses resulting of construction and upgrade of public buildings, military installations and extraordinary costs for acquiring private companies.
+建設コスト
+公共施設・軍事施設の建設・改修、および民間企業取得のための特別費用から生じる支出。
 820
-Policies
-Allows choosing up to 5 further policies by diverting up to 1 million dollars of government funds annually to policy making.
+政策
+年間最大100万ドルの政府資金を政策立案に振り向けることで、さらに最大5つの政策を選択できるようになる。
 821
-Diplomacy
-Increase funding of your diplomats abroad. At 1 million dollars, chance of intervention will increase/decrease by approx. 50% per year depending on campaign chapter, and import & export prices are improved by 50%.
+外交
+海外の外交官への資金供給を増やす。100万ドル投入時、キャンペーンの章に応じて介入確率が年間約50%増減し、輸出入価格が50%改善する。
 822
-Industry
-Benefits for heavy industry, boosting productivity and profitability by up to 50% at 1 million dollars, encouraging expansion and establishment of new industries.
+工業
+重工業への恩恵。100万ドル投入時、生産性と収益性が最大50%向上し、新規産業の拡張と設立を促進する。
 823
-Agriculture
-Benefits for farms and plantations, boosting productivity and profitability by up to 50% at 1 million dollars, encouraging expansion and establishment of new farms or plantations.
+農業
+農場とプランテーションへの恩恵。100万ドル投入時、生産性と収益性が最大50%向上し、新規農場・プランテーションの拡張と設立を促進する。
 824
-Transportation
-Reduction of transports upkeep costs, increased trade flows, increased infrastructure construction and repair. At 1 million dollars cost of transports is halved, transport capacity per IIP is increased by 50% and infrastructure construction speed, including railroads, is doubled.
+輸送
+輸送維持費の削減、貿易量の増加、インフラの建設・修復の促進。100万ドル投入時、輸送コストが半減し、IIPあたりの輸送能力が50%向上、鉄道を含むインフラ建設速度が2倍になる。
 825
-Trade War
-Increased efficiency of blockades or blockade running. At 1 million dollars blockading or blockade running efficiency will double.
+通商戦争
+封鎖または封鎖突破の効率向上。100万ドル投入時、封鎖・封鎖突破の効率が2倍になる。
 826
-Recruitment
-Increased availability of volunteers and drafts. At 1 million dollars the number of available volunteers will double in 2 years.
+徴募
+志願兵・徴集兵の利用可能性向上。100万ドル投入時、利用可能な志願兵数は2年で2倍になる。
 827
-Civil Order
-Loss of state support due to raiding, drafting, combat losses reduced, intelligence gathering improved. At 1 million dollars support hits are halved and intelligence gathering increased by 50%.
+治安
+襲撃・徴兵・戦闘損失による州支持の低下を軽減し、諜報収集を改善する。100万ドル投入時、支持への打撃が半減し諜報収集が50%向上する。
 840
-European intervention
-Policies and subsidies can influence the relations with European nations. If the intervention levels become high enough they may intervene.
+ヨーロッパの介入
+政策と助成金はヨーロッパ諸国との関係に影響を与える。介入レベルが十分高くなると、彼らは介入してくる可能性がある。
 841
 [Land Battles]
 [Land Battles]
@@ -1679,53 +1679,53 @@ Policies and subsidies can influence the relations with European nations. If the
 [Prisoners Alert]
 [Prisoners Alert]
 858
-LMB to activate/deactivate criteria
+左クリックで条件のオン/オフ切替
 
 859
-LMB to activate/deactivate criteria
+左クリックで条件のオン/オフ切替
 
 860
-Show campaign units
+キャンペーン部隊を表示
 
 861
-Show campaign fleets
+キャンペーン艦隊を表示
 
 862
-Show map filters
+地図フィルターを表示
 
 865
-No production efficiency
+生産効率なし
 
 866
-Low production efficiency
+生産効率低
 
 867
-Average production efficiency
+生産効率並
 
 868
-Advanced production efficiency
+生産効率高度
 
 869
-High production efficiency
+生産効率高
 
 870
-Expert production efficiency
+生産効率熟練
 
 875
-Production Value ttm
-The volume of products produced over the last 12 months.
+直近12か月生産額
+直近12か月間に生産された製品の量。
 876
-Production Efficiency
-Goods production becomes increasingly efficient if the same goods are produced for a longer time or through certain production technologies.
+生産効率
+同じ物資を長期間、あるいは特定の生産技術で生産するほど、物資生産はより効率的になる。
 877
-Available Workforce
-Workforce is needed to reach a high production utilization. Population growth leads to higher available workforce while the founding of new companies or recruitment lowers it.
+利用可能労働力
+高い生産稼働率を達成するには労働力が必要である。人口増加は利用可能労働力を増やす一方、新規企業の設立や徴募はそれを減らす。
 878
-Company Profits ttm
-The earned profits of the company trailing 12 months. The more demand for there is for the products of the company and the better the infrastructure of this company, the higher the profits. Higher efficiency and high workforce increase profits.
+直近12か月企業利益
+直近12か月間の企業の獲得利益。企業の製品への需要が高く、この企業のインフラが優れているほど利益は高くなる。効率と労働力が高いほど利益は増加する。
 879
-Corporate Tax
-The tax this company currently contributes to the treasury. High profits and high corporate tax rates lead to higher corporate tax revenues. Tax rates can be adjusted in the finances tab.
+法人税
+この企業が現在国庫に納めている税額。高い利益と高い法人税率は法人税収を増加させる。税率は財務タブで調整できる。
 880
 [Production List / Production Panel]
 
@@ -1733,29 +1733,29 @@ The tax this company currently contributes to the treasury. High profits and hig
 [Pre Goods List / Trade Panel]
 
 885
-Average Price
-The average price of the selected product across the nation.
+平均価格
+選択した製品の全国平均価格。
 886
-Demand
-The demand in pcs per annum for the selected product across the nation.
+需要
+選択した製品の全国年間需要量（個数）。
 887
-Production
-The production volume in pcs per annum for the selected product across the nation.
+生産量
+選択した製品の全国年間生産量（個数）。
 888
-Quantity afloat
-The amount of pcs of the selected product that is currently floating in markets and stored in supply depots.
+流通在庫量
+選択した製品のうち、現在市場に流通し補給廠に貯蔵されている数量。
 889
-Production
-The current production volume for the selected product across the nation, extrapolated to annual volume.\nHarvesting season for this resource:\n[VAR18]
+生産量
+選択した製品の全国現在生産量を年間換算した値。\nこの資源の収穫期：\n[VAR18]
 890
-Federal Buildings
-Federal buildings are funded by the current budget as long as the rating of the nation is appropriate.
+連邦施設
+連邦施設は、国家の格付けが適切である限り現行予算から資金提供される。
 891
-Company Applications
-Private companies can be attracted if enough subsidies in the relevant branch were spent. Extraordinary subsidies allow immediate construction of private companies.
+企業誘致申請
+関連分野に十分な助成金が投じられれば民間企業を誘致できる。特別助成金により民間企業の即時建設が可能になる。
 892
-Railroads
-Railroads increase transport capacity in nearby areas tremendously which increases trade and tax revenues. Construction requires all railroad knots to be occupied.
+鉄道
+鉄道は周辺地域の輸送能力を大幅に向上させ、貿易と税収を増加させる。建設には全ての鉄道結節点の占有が必要。
 895
 [Available Construction]
 [Available Construction]
@@ -1766,145 +1766,145 @@ Railroads increase transport capacity in nearby areas tremendously which increas
 [Construct Building]
 [Construct Building]
 898
-Estimated Costs
-Cost are arising gradually during construction. Depending on availability and prices of material the costs may vary.
+推定コスト
+コストは建設中に段階的に発生する。資材の入手可能性と価格により変動する場合がある。
 899
-Show garrisons
+守備隊を表示
 
 900
 [Policy]
 [Policy Description]
 901
-Auto Construct Building
-Let the AI search for a suitable construction site.
+建物を自動建設
+AIに適切な建設地を探させる。
 902
-Low Priority
-This building has a low priority for your economy and is not immediately required.
+低優先度
+この建物は経済にとって優先度が低く、直ちに必要とはされていない。
 903
-Medium Priority
-This building is requested by your economy, though there may be more important constructions that need to be prioritized.
+中優先度
+この建物は経済から要請されているが、他により優先すべき建設がある可能性がある。
 904
-High Priority
-This building is highly requested by your economy and should be constructed as soon as possible. 
+高優先度
+この建物は経済から強く要請されており、できるだけ早く建設すべきである。
 910
-Show higher hierarchies
+上位階層を表示
 
 911
-Show lower hierarchies
+下位階層を表示
 
 920
-Increase number of civilian ships
+民間船の数を増やす
 
 921
-Reduce number of civilian ships
+民間船の数を減らす
 
 922
-Increase number of warships
+軍艦の数を増やす
 
 923
-Reduce number of warships
+軍艦の数を減らす
 
 924
-Increase number of ironclads
+装甲艦の数を増やす
 
 925
-Reduce number of ironclads
+装甲艦の数を減らす
 
 926
-Auto generate chosen ship types
+選択艦種を自動生成
 
 927
-Increase number of ships to construct
+建造する艦数を増やす
 
 928
-Reduce number of ships to construct
+建造する艦数を減らす
 
 929
-Auto generation not possible
-The selected number of ships cannot be added to the chosen fleet as the commander's ship limit would be exceeded. Reduce the number of ships to auto-generate!
+自動生成不可
+選択した艦数を追加すると指揮官の艦船上限を超えるため、選択艦隊に追加できない。自動生成する艦数を減らすこと！
 940
-Reinforce by volunteers only
-Click to allow reinforcement by drafts only for the stated unit and all subordinates.
+志願兵のみで増援
+この部隊と全麾下部隊について、徴集兵のみでの増援を許可するにはクリック。
 941
-Reinforce by draftees only
-Click to allow reinforcement by volunteers and drafts for the stated unit and all subordinates.
+徴集兵のみで増援
+この部隊と全麾下部隊について、志願兵と徴集兵両方での増援を許可するにはクリック。
 942
-Reinforce by volunteers and draftees
-Click to allow reinforcement by volunteers only for the stated unit and all subordinates.
+志願兵・徴集兵両方で増援
+この部隊と全麾下部隊について、志願兵のみでの増援を許可するにはクリック。
 943
-Low replacement priority
-Set the replacement priority for this and all subordinate units. It affects the number of fresh recruits this unit will receive from its home state over time to replace losses.
+補充優先度：低
+この部隊と全ての麾下部隊の補充優先度を設定する。これは、損失を補うためにこの部隊が本国州から時間とともに受け取る新兵の数に影響する。
 944
-Medium replacement priority
-Set the replacement priority for this and all subordinate units. It affects the number of fresh recruits this unit will receive from its home state over time to replace losses.
+補充優先度：中
+この部隊と全ての麾下部隊の補充優先度を設定する。これは、損失を補うためにこの部隊が本国州から時間とともに受け取る新兵の数に影響する。
 945
-High replacement priority
-Set the replacement priority for this and all subordinate units. It affects the number of fresh recruits this unit will receive from its home state over time to replace losses.
+補充優先度：高
+この部隊と全ての麾下部隊の補充優先度を設定する。これは、損失を補うためにこの部隊が本国州から時間とともに受け取る新兵の数に影響する。
 946
-Replenish Unit
-Send this unit to a furlough in its home state to recuperate and recruit. During this time the unit will not be available for battles, but it will receive reinforcements faster.\n\nTotal recruits needed: [VAR70]\nTotal recruits available: [VAR71]
+部隊を補充
+この部隊を本国州へ休暇に送り、回復と徴募を行わせる。この間、部隊は戦闘に参加できないが、より早く増援を受け取る。\n\n必要な新兵総数：[VAR70]\n利用可能な新兵総数：[VAR71]
 947
-Recolor Uniform
+軍服の色を変更
 
 948
-Reforming not possible
-Reforming is not possible if the unit is in garrison, has full strength, is being transferred or home state has no recruits left.\n\nTotal recruits needed: [VAR70]\nTotal recruits available: [VAR71]
+再編成不可
+部隊が守備隊にいる、満数である、輸送中である、または本国州に新兵が残っていない場合、再編成はできない。\n\n必要な新兵総数：[VAR70]\n利用可能な新兵総数：[VAR71]
 949
-Currently replenishing
-This unit was sent home to recuperate and recruit. The unit is not available for battles but receives reinforcements faster. ETA: [VAR70] days
+補充中
+この部隊は回復と徴募のため本国へ送られた。戦闘には参加できないが、より早く増援を受け取る。到着予定：[VAR70]日
 950
-Select Portrait
+肖像を選択
 
 951
-Browse
+参照
 
 952
 [Experience]
 
 953
-Professional
+職業軍人
 
 954
-Volunteer
+義勇兵
 
 955
-Adjust state of origin
+出身州を調整
 
 956
-Adjust birth date
+生年月日を調整
 
 957
-Enter commander name
+指揮官名を入力
 
 958
-Click to adjust value
+クリックして値を調整
 
 959
-Create new commander
-Add the new commander to the database.
+新規指揮官を作成
+新しい指揮官をデータベースに追加する。
 960
-Delete selected commander
-The commander data file will be removed, the used portrait will still be available.
+選択指揮官を削除
+指揮官データファイルは削除されるが、使用していた肖像は引き続き利用可能。
 961
-Overwrite selected commander
-The selected commander will be replaced by the newly created one.
+選択指揮官を上書き
+選択した指揮官は新規作成した指揮官に置き換えられる。
 962
-Next Question
+次の質問
 
 963
-Previous Question
+前の質問
 
 964
-Skip Questionnaire
-All questions will be answered by random.
+アンケートをスキップ
+全ての質問はランダムに回答される。
 965
-Restart Questionnaire
+アンケートをやり直す
 
 966
-Sign up
-Finish commander creation and start scenario
+登録
+指揮官作成を完了しシナリオを開始する
 973
-DLC Content
+DLCコンテンツ
 Whiskey & Lemons
 999
 test
@@ -2003,11 +2003,11 @@ Objective: West Virginia
 [SupportDescr]
 
 1831
-Not in production
-obsolete
+生産中止
+旧式
 1832
-This battle is too large to play it manually!
+この戦闘は規模が大きすぎて手動プレイできない！
 
 1833
-Recruiting not possible
-The project [VAR117] is required to recruit horse artillery units.
+徴募不可
+騎馬砲兵部隊を徴募するには[VAR117]プロジェクトが必要。
