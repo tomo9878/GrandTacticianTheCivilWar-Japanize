@@ -55,7 +55,7 @@ true
 0
 29
 false
-Served as tactics instructor at West Point, and served as a staff officer to higher-ranking officers, including Mexican War.
+陸軍士官学校で戦術教官を務め、米墨戦争を含め上級将校の幕僚将校としても従軍した。
 0
 0
 -1
@@ -253,7 +253,7 @@ false
 0
 29
 true
-Ohioan politician, member of Ohio House of Representatives 1841-1843, U.S. State Minister to Brazil 1851-1853.
+オハイオ州の政治家。1841年から1843年までオハイオ州議会下院議員を務め、1851年から1853年まで駐ブラジル公使を務めた。
 0
 0
 -1
@@ -319,7 +319,7 @@ true
 0
 29
 false
-Saw action in Florida in the Second Seminole War.\nMissed the Mexican War, while performing administrative duties in captured territory of California.\nResigned captaincy in the Army in 1853 to become bank manager.
+第二次セミノール戦争でフロリダに従軍した。\nメキシコ戦争には参加せず、カリフォルニアの占領地で行政任務に従事していた。\n1853年に大尉の地位を辞し、銀行の支配人となった。
 0
 0
 -1
@@ -583,7 +583,7 @@ true
 0
 32
 false
-Missed most of the action in Mexican War.\nWounded by an arrow in his neck in 1849 in a skirmish against Apaches in New Mexico.\nResigned his commission in 1853 and was appointed commander of Rhode Island state militia, and devoted his time in manufacturing the famous Burnside carbine.
+米墨戦争ではほとんど実戦を経験しなかった。\n1849年、ニューメキシコでのアパッチ族との小競り合いで首に矢を受け負傷した。\n1853年に軍を辞し、ロードアイランド州民兵隊の司令官に任命され、その後は有名なバーンサイド・カービン銃の製造に力を注いだ。
 0
 0
 -1
@@ -1045,7 +1045,7 @@ false
 0
 27
 false
-Born in Worms, Germany, Blenker became an officer in an Uhlan regiment.\nFought in the German Revolution and was forced to flee, emigrating to U.S.
+ドイツのヴォルムスに生まれ、槍騎兵連隊の将校となった。\nドイツ革命で戦い、亡命を余儀なくされて米国へ移住した。
 0
 0
 -1
@@ -1309,7 +1309,7 @@ false
 0
 33
 true
-Member of the U.S. House of Representatives from South Carolina 1857-1860.
+1857年から1860年まで、サウスカロライナ州選出の連邦下院議員を務めた。
 0
 0
 -1
@@ -1837,7 +1837,7 @@ false
 0
 33
 true
-Member of South Carolina House of Representatives 1852-1858 and South Carolina Senate.
+1852年から1858年までサウスカロライナ州議会下院議員、その後同州上院議員を務めた。
 0
 0
 -1
@@ -2233,7 +2233,7 @@ false
 0
 38
 false
-V.M.I. graduate from 1856, assistant professor of Latin and tactics, V.M.I. 1856-1857.
+1856年バージニア軍事大学校卒業。1856年から1857年まで同校でラテン語と戦術の助教を務めた。
 0
 0
 -1
@@ -5071,7 +5071,7 @@ false
 1
 15
 true
-By 1860, colonel in the 21st "Parish East Feliciana" Regiment of Louisiana Militia.
+1860年までにルイジアナ州民兵第21「イースト・フェリシアナ郡」連隊の大佐となった。
 0
 0
 -1
@@ -9625,7 +9625,7 @@ false
 0
 27
 false
-Joined the New York State Artillery, becoming eventually a major general in the militia, commanding 1st Division for nearly three decades. Lead militia in the Flour Riot of 1837, Astor Palace Riot in 1849 and Minicipal Police Riots in 1857.
+ニューヨーク州砲兵隊に入り、最終的には民兵少将となり、30年近くにわたり第1師団を指揮した。1837年の小麦粉暴動、1849年のアスター・プレイス暴動、1857年の市警察暴動で民兵を指揮した。
 0
 0
 -1
@@ -9823,7 +9823,7 @@ false
 0
 22
 true
-From Baden, Germany. Led revolutionary forces in 1848 uprising. Fled to USA and became hugely popular with German immigrants. Very active politically.
+ドイツ・バーデン出身。1848年の蜂起で革命軍を率いた。米国へ亡命し、ドイツ系移民の間で絶大な人気を得た。政治的にも非常に活発であった。
 0
 0
 -1
@@ -9889,7 +9889,7 @@ false
 0
 27
 false
-From Hungary. He was an officer in Hungary but joined revolution and had to flee after it was put down. Cited for bravery and well-connected but not political.
+ハンガリー出身。ハンガリーで将校であったが革命に参加し、鎮圧後は亡命を余儀なくされた。勇敢さを称えられ人脈も広いが、政治には関わっていない。
 0
 0
 -1
@@ -9955,7 +9955,7 @@ false
 0
 29
 false
-Son of a very well connected Republican, but not political himself.
+人脈の広い共和党員を父に持つが、本人は政治には関わっていない。
 0
 0
 -1
@@ -10087,7 +10087,7 @@ false
 0
 31
 false
-Fled Germany after 1848. Mexican War Veteran.
+1848年革命後にドイツから亡命。米墨戦争の退役軍人。
 0
 0
 -1
@@ -10153,7 +10153,7 @@ false
 0
 40
 true
-Fled Germany after 1848. Politically active.
+1848年革命後にドイツから亡命。政治的に活発。
 0
 0
 -1
@@ -10219,7 +10219,7 @@ false
 0
 31
 false
-Fled Germany after 1848.
+1848年革命後にドイツから亡命した。
 0
 0
 -1
@@ -10285,7 +10285,7 @@ false
 0
 27
 false
-Fled Germany after 1848.
+1848年革命後にドイツから亡命した。
 0
 0
 -1
@@ -10417,7 +10417,7 @@ true
 1
 27
 false
-Badly wounded decorated Mexican War veteran. Described as an alcoholic and broken man due to the wound.
+米墨戦争で重傷を負い勲章を受けた退役軍人。負傷が原因でアルコール依存症となり、心身ともに衰弱した人物と評されている。
 0
 0
 -1
@@ -13123,7 +13123,7 @@ false
 0
 27
 false
-Born in Spain to Italian parents, Edward became one of the leading dance instructors in U.S.
+イタリア系の両親のもとスペインで生まれ、米国屈指のダンス教師となった。
 0
 0
 -1
@@ -13255,7 +13255,7 @@ true
 0
 8
 false
-Originally a dragoon, a veteran of the Mexican War, and served in Utah War and multiple fort garrison duties in the frontiers.
+元は竜騎兵であり、米墨戦争の退役軍人。ユタ戦争にも従軍し、辺境の各砦で駐屯任務に就いた。
 0
 0
 -1
@@ -14839,7 +14839,7 @@ false
 0
 28
 true
-Took part in the Seminole Wars in Florida, 1844.\nElected Democrat in Congress 1855-1861.\nChallenged a senator to a duel in 1859, but was arrested.
+1844年、フロリダのセミノール戦争に従軍した。\n1855年から1861年まで民主党所属の連邦議会議員に選出された。\n1859年に上院議員に決闘を申し込んだが逮捕された。
 0
 0
 -1
@@ -16423,7 +16423,7 @@ true
 0
 27
 false
-Served in the Utah War and fought in the Battle of Colorado River in 1859 during the Mohave War.
+ユタ戦争に従軍し、1859年のモハーヴェ戦争ではコロラド川の戦いで戦った。
 0
 0
 -1
@@ -18931,7 +18931,7 @@ true
 0
 18
 false
-Graduated first in this class in West Point and served in engineering roles.\nTaught engineering at West Point, and resigned in 1849 to teach engineering at Harvard.
+陸軍士官学校を首席で卒業し、工兵職に従事した。\n士官学校で工学を教えた後、1849年に退役してハーバード大学で工学を教えた。
 0
 0
 -1
@@ -30811,7 +30811,7 @@ true
 0
 17
 false
-A veteran of Second Seminole War and Mexican War,\nCo-author of Instructions for Field Artillery manual of 1860.
+第二次セミノール戦争と米墨戦争の退役軍人。\n1860年発行の野戦砲兵教範『Instructions for Field Artillery』の共著者。
 0
 0
 -1
@@ -31273,7 +31273,7 @@ false
 0
 9
 true
-Elected Republican in Congress 1857-1861.
+1857年から1861年まで共和党所属の連邦議会議員に選出された。
 0
 0
 -1
@@ -41965,7 +41965,7 @@ false
 0
 27
 false
-Originally a French aristocrat, lawyer, poet and a novelist.
+元はフランスの貴族で、弁護士、詩人、そして小説家でもあった。
 0
 0
 -1
@@ -54571,7 +54571,7 @@ false
 0
 29
 false
-Born in Harston England, he emigrated to U.S. in 1833 and worked as a publisher, treasurer and in the New York State Militia.
+イングランドのハーストンに生まれ、1833年に米国へ移住し、出版業者、会計係を務め、ニューヨーク州民兵にも所属した。
 0
 0
 -1
@@ -56683,7 +56683,7 @@ true
 0
 31
 false
-A career soldier, and a mathematical genious.\nServed in the Second Seminole War in Florida.\nServed in the Pacific Northwest before the Civil War.
+生涯を通じた軍人であり、数学の天才でもあった。\nフロリダの第二次セミノール戦争に従軍。\n南北戦争前は太平洋岸北西部に駐屯していた。
 0
 0
 -1
@@ -63613,7 +63613,7 @@ true
 0
 20
 false
-Fought in the Mexican War, in battles of Monterrey, Veracruz and Cerro Gordo, achieving a brevet promotion to captain.
+米墨戦争のモンテレー、ベラクルス、セロ・ゴルドの各戦闘に従軍し、大尉への名誉昇進を果たした。
 0
 0
 -1
@@ -63679,7 +63679,7 @@ false
 0
 27
 false
-Brevetted captain during Mexican War for gallant conduct.\nForced to resign from West Point in 1838 for alcohol use, after 3 years of studies.
+米墨戦争での勇敢な行動により大尉に名誉昇進した。\n1838年、3年間の在学の後、飲酒を理由に陸軍士官学校を退学させられた。
 0
 0
 -1
@@ -64141,7 +64141,7 @@ false
 0
 26
 false
-Served in the U.S. Navy 1827-1831 as Midshipman and aboard USS Fairchild. Served in the Mexican War as captain in the 10th U.S. Infantry under Zachary Taylor. After the War joined California Gold Rush, mining for three years in California, before returning to New Jersey, where he engaged in manufacturing of iron.
+1827年から1831年まで海軍士官候補生として、また米艦フェアチャイルド号に乗艦して海軍に勤務した。米墨戦争では第10米国歩兵連隊大尉としてザカリー・テイラーの指揮下で従軍した。戦後はカリフォルニア・ゴールドラッシュに参加し、3年間カリフォルニアで採掘に従事した後、ニュージャージーに戻り製鉄業に携わった。
 0
 0
 -1
@@ -64207,7 +64207,7 @@ false
 0
 27
 false
-Born in Northern Ireland, moved to U.S. and fought in the Mexican War as a captain of 3rd U.S. Dragoons. Was wounded in action and brevetted to major.
+北アイルランドに生まれ、米国へ移住し、米墨戦争では第3米国竜騎兵連隊大尉として従軍した。戦闘で負傷し、少佐に名誉昇進した。
 0
 0
 -1
@@ -64273,7 +64273,7 @@ true
 0
 38
 false
-A veteran of Mexican war, serving in the 1st U.S. Dragoons in battles of San Pasqual and Rio San Gabriel.\nParticipated in the massacre of Pomo population in northern California.\nFought in the western frontier against the Apache, including the defeat in Cieneguilla.
+米墨戦争の退役軍人で、第1米国竜騎兵連隊に所属し、サンパスクアルおよびリオ・サンガブリエルの戦闘に従軍した。\n北カリフォルニアでのポモ族虐殺に加担した。\n西部辺境ではアパッチ族と戦い、シエネギージャでの敗北も経験した。
 0
 0
 -1
@@ -64933,7 +64933,7 @@ true
 0
 38
 false
-Fought with distinction in the Mexican War, receiving brevet promotion to Lieutenant Colonel.\nOne of General Scott's favourites. Nicknamed Prince John due to his theatrical manners.
+米墨戦争で目覚ましい活躍を見せ、中佐に名誉昇進した。\nスコット将軍のお気に入りの一人であった。芝居がかった立ち居振る舞いから「プリンス・ジョン」の異名を持つ。
 0
 0
 -1
@@ -67969,7 +67969,7 @@ false
 0
 31
 false
-Began naval service at age of 10 on USS John Adams.\nServed in Mexican Navy, including fighting against Spanish Navy until 1828.\nServed in Mexican War in attack on fort at Vera Cruz.
+10歳で米艦ジョン・アダムズ号に乗艦し海軍勤務を始めた。\nメキシコ海軍に勤務し、1828年までスペイン海軍との戦闘にも参加した。\n米墨戦争ではベラクルス要塞への攻撃に従軍した。
 0
 0
 -1
@@ -70345,7 +70345,7 @@ false
 0
 0
 false
-Born Carl E. E. Sjodahl in Finland under Russian rule.\n An accomplished seafarer and merchant.
+ロシア統治下のフィンランドで、カール・E・E・ショーダールとして生まれた。\n熟練の船乗りであり商人でもあった。
 0
 0
 -1
@@ -70675,7 +70675,7 @@ false
 0
 8
 false
-A veteran of War of 1812.\n Fought in the Second Barbary War.\n Fought in Mexican War in Mosquito Division, taking part in attacks on Vera Cruz, San Juan d'Ulloa and Tuxpan, wounded in action.
+米英戦争の退役軍人。\n第二次バーバリ戦争にも従軍。\n米墨戦争ではモスキート艦隊に所属し、ベラクルス、サン・フアン・デ・ウルーア、トゥスパンへの攻撃に参加し、戦闘で負傷した。
 0
 0
 -1
@@ -71203,7 +71203,7 @@ true
 0
 14
 false
-Fought in the Black Hawk War as colonel of Illinois volunteer.\nServed in the 2nd Seminole War on the staff of Winfield Scott.\nFought and wounded in Mexican War.\nAuthor of Instructions for Field Artillery, Horse and Foot from 1839.
+ブラックホーク戦争ではイリノイ州義勇兵の大佐として戦った。\n第二次セミノール戦争ではウィンフィールド・スコットの幕僚として従軍。\n米墨戦争でも戦い、負傷した。\n1839年発行の教範『Instructions for Field Artillery, Horse and Foot』の著者。
 0
 0
 -1
@@ -71269,7 +71269,7 @@ false
 0
 20
 true
-Elected to the Minnesota State Senate in 1859.\nEditor of Minnesota Union newspaper before enlisting in the Union Army.
+1859年にミネソタ州上院議員に選出された。\n北軍入隊前はミネソタ・ユニオン紙の編集者を務めていた。
 0
 0
 -1
@@ -71335,7 +71335,7 @@ false
 0
 46
 false
-Born in Ireland, immigrated to U.S. in 1798.\nServed as an aid to commodore Barney in War of 1812.\nPaymaster in the Army from 1822 to 1847.\nCommanded Regiment of Voltiguers and Foot Riflemen during the Mexican War, with gallantry.\nDeputy Paymaster-General since late 1851.
+アイルランドに生まれ、1798年に米国へ移住した。\n米英戦争ではバーニー代将の副官を務めた。\n1822年から1847年まで陸軍の主計官を務めた。\n米墨戦争ではヴォルティジュール・銃兵連隊を勇敢に指揮した。\n1851年末より主計副総監を務めている。
 0
 0
 -1
@@ -71467,7 +71467,7 @@ false
 0
 46
 false
-Originally Asboth Sandor, born in Hungary.\nA civil engineer, Asboth became a freedom-fighter in 1848, reaching rank of Lt.Col. and fought in the revolutionary movement.\nAfter the revolution failed, Asboth moved to United States in 1851.
+元はアショート・シャーンドルという名でハンガリーに生まれた。\n土木技師であったが、1848年に自由の戦士となり中佐にまで昇進し、革命運動で戦った。\n革命の失敗後、1851年に米国へ移住した。
 0
 0
 -1
@@ -71599,7 +71599,7 @@ false
 0
 29
 false
-Studied civil engineering in University of Illinois, an engineer and a lumberman.
+イリノイ大学で土木工学を学び、技師および材木商として働いた。
 0
 0
 -1
@@ -71665,7 +71665,7 @@ false
 0
 9
 true
-Born in London, Baker moved to United States becoming a politician and a lawyer.\n He served in U.S. House of Representatives from Illinois and later as a senator from Oregon.\nServed as a colonel in the Mexican War gaining reputation in the Battle of Cerro Gordo, leading a brigade to capture enemy guns.
+ロンドンに生まれ、米国へ移り政治家・弁護士となった。\nイリノイ州選出の連邦下院議員を務め、後にオレゴン州選出の上院議員となった。\n米墨戦争では大佐として、セロ・ゴルドの戦いで旅団を率いて敵の砲を奪取し名声を得た。
 0
 0
 -1
@@ -71731,7 +71731,7 @@ false
 0
 46
 false
-A mechanic, later a San Francisco vigilante, Baker moved to D.C. in 1861 to become a spy in Union service.
+元は機械工で、後にサンフランシスコの自警団員となった。1861年にワシントンD.C.へ移り、北軍のスパイとなった。
 0
 0
 -1
@@ -71797,7 +71797,7 @@ false
 0
 18
 true
-A member of U.S. House of Representatives from Massachusetts 1853-1857.\nA speaker of the House in 1856-1857.\nGovernor of Massachusetts 1858-1861 and a leading Republican politician.
+1853年から1857年までマサチューセッツ州選出の連邦下院議員を務めた。\n1856年から1857年まで下院議長を務めた。\n1858年から1861年までマサチューセッツ州知事を務め、共和党の有力政治家であった。
 0
 0
 -1
@@ -71863,7 +71863,7 @@ true
 0
 18
 false
-A career military engineer, constructing defenses prior to the Civil War.\nConstructed defenses at captured Mexican port of Tampico, and surveyed the Mexican War battlefields.\nSuperintendent of U.S. Military Academy 1855-1856.
+生涯を通じた工兵将校で、南北戦争前は防御陣地の構築に従事した。\n占領したメキシコの港タンピコで防御施設を建設し、米墨戦争の戦場測量も行った。\n1855年から1856年まで陸軍士官学校長を務めた。
 0
 0
 -1
@@ -71929,7 +71929,7 @@ false
 0
 31
 false
-A physician with long service in the military, including the 2nd Seminole War and the Mexican War.
+軍医として長く軍務に就き、第二次セミノール戦争と米墨戦争にも従軍した。
 0
 0
 -1
@@ -71995,7 +71995,7 @@ true
 0
 27
 false
-Fought in the Mexican War, Seminole War, and the Kansas-Missouri Border Wars.\nCo-author of Instruction for Field Artillery, 1860.
+米墨戦争、セミノール戦争、カンザス・ミズーリ国境紛争で戦った。\n1860年発行の教範『Instruction for Field Artillery』の共著者。
 0
 0
 -1
@@ -72193,7 +72193,7 @@ false
 0
 27
 true
-Albany city attorney and a New York State Assemblyman.
+オールバニ市の法務官であり、ニューヨーク州議会議員を務めた。
 0
 0
 -1
@@ -72523,7 +72523,7 @@ false
 0
 13
 false
-A physician and an abolitionist, born in Maine.\nMoved to Kansas in 1856 and became involved in Bleeding Kansas -conflict, including working with Jim Lane and John Brown.
+メイン州生まれの医師であり奴隷制廃止論者。\n1856年にカンザスへ移住し、ジム・レーンやジョン・ブラウンらと共に「流血のカンザス」紛争に関わった。
 0
 0
 -1
@@ -72589,7 +72589,7 @@ false
 0
 31
 false
-Born in Bremen, Germany. Served in the Mexican War with General Worth.\nTook part in the Crimean War in French staff, actions including storming of Sevastapol.
+ドイツのブレーメンに生まれた。米墨戦争ではワース将軍の下で従軍した。\nクリミア戦争ではフランス軍幕僚として参加し、セヴァストポリ強襲にも加わった。
 0
 0
 -1
@@ -72655,7 +72655,7 @@ false
 0
 27
 false
-A railroad businessman and president of the Board of Police Commissioners since 1857.
+鉄道実業家であり、1857年より警察委員会委員長を務めた。
 0
 0
 -1
@@ -72721,7 +72721,7 @@ false
 0
 13
 false
-Before moving to Kansas in 1858, Bowen was a member of Iowa House of Representatives.
+1858年にカンザスへ移住する前は、アイオワ州議会下院議員を務めていた。
 0
 0
 -1
@@ -72787,7 +72787,7 @@ false
 0
 27
 true
-A lawyer and a Democrat politician.
+弁護士であり、民主党の政治家。
 0
 0
 -1
@@ -72919,7 +72919,7 @@ true
 0
 38
 false
-Graduated 40th out of 46 cadets.\n Served in the Black Hawk War in 1831.\nLeft the army to practice law in 1832, returned to army in 1847 and sercved as the Army Paymaster.\nSaw later service in the Pay Department prior to Civil War.
+士官候補生46名中40位で卒業した。\n1831年のブラックホーク戦争に従軍。\n1832年に軍を離れ弁護士となったが、1847年に軍へ復帰し陸軍主計官を務めた。\n南北戦争前は主計部門で勤務を続けた。
 0
 0
 -1
@@ -72985,7 +72985,7 @@ false
 0
 18
 true
-A member of Massachusetts House of Representatives in 1856 and Police Justice of Pittsfield in 1857.
+1856年にマサチューセッツ州議会下院議員、1857年にピッツフィールド市警察判事を務めた。
 0
 0
 -1
@@ -73117,7 +73117,7 @@ false
 0
 19
 true
-Harvard graduee who became state senator for Michigan and enlisted to fight in the Mexican War.\nPostmaster of Detroit.
+ハーバード大学卒業後、ミシガン州上院議員となり、米墨戦争にも従軍した。\nデトロイトの郵便局長を務めた。
 0
 0
 -1
@@ -73249,7 +73249,7 @@ true
 0
 9
 false
-Resigned from the army after eight years in the artillery to become a civil engineer.\nHalf-brother of John Buford.
+砲兵として8年間勤務した後、軍を辞して土木技師となった。\nジョン・ビュフォードの異母兄弟。
 0
 0
 -1
@@ -73381,7 +73381,7 @@ false
 0
 16
 false
-Formed and lead a militia company as its captain in the Aroostook War against the British.
+対英アルーストゥック戦争において、民兵中隊を編成し大尉としてこれを率いた。
 0
 0
 -1
@@ -73447,7 +73447,7 @@ false
 0
 12
 true
-Iowa State Senate Democrat before the Civil War.
+南北戦争前はアイオワ州上院議員(民主党)を務めた。
 0
 0
 -1
@@ -73513,7 +73513,7 @@ false
 0
 18
 true
-A Democrat and member of Massachusetts State Senate prior to Civil War.\nMilitary background includes service in militia with election to brigadier general, and appointment to Board of Visitors of West Point by then Secretary of War Jefferson Davis.
+南北戦争前はマサチューセッツ州上院議員(民主党)を務めた。\n軍歴としては民兵で准将に選出された経験があり、当時の陸軍長官ジェファーソン・デイヴィスにより陸軍士官学校監事会の一員に任命された。
 0
 0
 -1
@@ -73579,7 +73579,7 @@ false
 0
 11
 false
-A doctor and a member of Indiana House of Representatives.
+医師であり、インディアナ州議会下院議員を務めた。
 0
 0
 -1
@@ -73645,7 +73645,7 @@ false
 0
 34
 true
-Took part in the Second Seminole War in 1836 and fought in the Mexican War in battles of Monterrey, Veracruz and Cerro Gordo.\nU.S. House of Representatives from Tennessee from 1837 to 1843, Governor of Tennessee 1851-1853 in the Whig Party. Later aligned with American Party. Opposer of secession.
+1836年の第二次セミノール戦争に参加し、米墨戦争ではモンテレー、ベラクルス、セロ・ゴルドの各戦闘で戦った。\n1837年から1843年までテネシー州選出の連邦下院議員を務め、1851年から1853年までホイッグ党所属のテネシー州知事を務めた。後にアメリカ党に転じた。分離独立には反対の立場であった。
 0
 0
 -1
@@ -73711,7 +73711,7 @@ true
 0
 14
 false
-A veteran of Second Seminole War, Mexican War, Utah War and Navajo War of 1860, winning brevet promotions to lieutenant colonel.
+第二次セミノール戦争、米墨戦争、ユタ戦争、1860年のナバホ戦争の退役軍人で、中佐への名誉昇進を果たした。
 0
 0
 -1
@@ -73777,7 +73777,7 @@ true
 0
 3
 false
-A dragoon officer with experience from Aroostook War, Mexican War and Bitter Springs Expedition.
+竜騎兵将校として、アルーストゥック戦争、米墨戦争、ビター・スプリングス遠征を経験した。
 0
 0
 -1
@@ -73843,7 +73843,7 @@ true
 0
 27
 false
-Saw action in the Indian Wars, Border War and Utah War.
+インディアン戦争、国境紛争、ユタ戦争で実戦を経験した。
 0
 0
 -1
@@ -73909,7 +73909,7 @@ false
 0
 4
 true
-A lawyer, a professor of natural science and active anti-slavery Whig, who helped in organizing the Republican Party in 1854.\nIn Ohio, served as Judge Advocate General in 1857 and Adjutant-General from 1858.
+弁護士であり自然科学の教授、そして奴隷制反対の立場を取る活発なホイッグ党員として1854年の共和党結成に尽力した。\nオハイオ州では1857年に軍法務総監、1858年より副官長を務めた。
 0
 0
 -1
@@ -73975,7 +73975,7 @@ false
 0
 34
 false
-Enlisted in the U.S. Navy in 1840.\nNaval Academy graduee from class of 1846.\nSaw action aboard USS Ohio during the battle of Veracruz.\nAssistant professor in mathematics in the USNA 1850-1853.\nDetached from the navy at the outbreak of the Civil War.
+1840年に海軍に入隊。\n1846年に海軍兵学校を卒業。\nベラクルスの戦いでは米艦オハイオ号に乗艦して従軍した。\n1850年から1853年まで海軍兵学校で数学の助教を務めた。\n南北戦争勃発時に海軍から派遣された。
 0
 0
 -1
@@ -74041,7 +74041,7 @@ true
 0
 12
 false
-Fought in the Seminole War from 1855.
+1855年からセミノール戦争で戦った。
 0
 0
 -1
@@ -74107,7 +74107,7 @@ false
 0
 19
 false
-A doctor and a lawyer, active in Michigan state militia.
+医師であり弁護士で、ミシガン州民兵で活動した。
 0
 0
 -1
@@ -74371,7 +74371,7 @@ false
 0
 47
 false
-A methodist minister and an abolitionist originally from Ohio, Chivington moved to Colorado Territory in 1860 as a missionary.
+元々オハイオ出身のメソジスト派牧師であり奴隷制廃止論者。1860年に宣教師としてコロラド準州へ移った。
 0
 0
 -1
@@ -74437,7 +74437,7 @@ false
 0
 37
 false
-Originally a journalist, Churchill fought in the War of 1812 and later in Mexican War.\nAppointed Inspector General of the Regular Army in 1841.
+元々はジャーナリストであったが、米英戦争、後に米墨戦争で戦った。\n1841年に正規軍監察総監に任命された。
 0
 0
 -1
@@ -74635,7 +74635,7 @@ false
 0
 9
 true
-Lawyer and mayor of Springfield, Illinois since 1855.
+弁護士であり、1855年よりイリノイ州スプリングフィールド市長を務めた。
 0
 0
 -1
@@ -74701,7 +74701,7 @@ false
 0
 17
 true
-U.S. House of Representatives member 1839-1843, Attorney General of Pennsylvania 1848 and U.S. Senator from Pennsylvania 1849-1855.
+1839年から1843年まで連邦下院議員、1848年にペンシルベニア州司法長官、1849年から1855年までペンシルベニア州選出の連邦上院議員を務めた。
 0
 0
 -1
@@ -74899,7 +74899,7 @@ false
 0
 27
 false
-Irish born militia officer, recruiting the Irish to Union cause.
+アイルランド生まれの民兵将校で、アイルランド系移民を北軍に勧誘した。
 0
 0
 -1
@@ -75031,7 +75031,7 @@ false
 0
 29
 true
-Originally a Whig, Cox helped to organize the Republican Party in Ohio in 1855 and became an Ohio State Senator in 1859.
+元はホイッグ党員であったが、1855年にオハイオ州での共和党結成に尽力し、1859年にオハイオ州上院議員となった。
 0
 0
 -1
@@ -75097,7 +75097,7 @@ false
 0
 22
 true
-U.S. House of Representatives member from Missouri 1857-1861.
+1857年から1861年までミズーリ州選出の連邦下院議員を務めた。
 0
 0
 -1
@@ -75295,7 +75295,7 @@ true
 0
 27
 false
-Engineer career officer who introduced a new type of bridge pontoon, used in the Mexican War.\nTeacher in West Point, and acting superintendent during 1853.
+生涯を通じた工兵将校で、米墨戦争で使用された新型の舟橋を考案した。\n陸軍士官学校で教官を務め、1853年には校長代理も務めた。
 0
 0
 -1
@@ -75427,7 +75427,7 @@ false
 0
 12
 true
-A civil engineer and Republican politician, one of the first to be elected in the U.S. House from the party.
+土木技師であり共和党の政治家。同党から連邦下院に選出された最初期の議員の一人。
 0
 0
 -1
@@ -75691,7 +75691,7 @@ false
 0
 13
 true
-A political activist in Kansas. Took part in the Wakarusa War in 1855 on the side of the free-state forces.\nSpeaker of Kansas House of Representatives and mayor of Lawrence, Kansas in 1860.
+カンザスの政治活動家。1855年のワカルサ戦争では自由州派として参加した。\n1860年にはカンザス州議会下院議長、およびカンザス州ローレンス市長を務めた。
 0
 0
 -1
@@ -75757,7 +75757,7 @@ true
 0
 27
 false
-Ranking first in the class of 1818 in the Military Academy.\nFrom the 1820s to 1861, he was Superintending Engineer of the fortifications in Mississippi, Ohio, Delaware, New York and was Superintendent of the US Military Academy.
+1818年の陸軍士官学校卒業クラスを首席で卒業した。\n1820年代から1861年にかけて、ミシシッピ、オハイオ、デラウェア、ニューヨークの要塞の主任工兵を務め、陸軍士官学校長も務めた。
 0
 0
 -1
@@ -75823,7 +75823,7 @@ false
 0
 9
 true
-Served in Illinois Hoise of Representatives 1842-1844 and was an Illinois State Senator 1846-1848.
+1842年から1844年までイリノイ州議会下院議員、1846年から1848年までイリノイ州上院議員を務めた。
 0
 0
 -1
@@ -75889,7 +75889,7 @@ false
 0
 22
 false
-Brevetted captain during Mexican War for gallant conduct.
+米墨戦争での勇敢な行動により大尉に名誉昇進した。
 0
 0
 -1
@@ -75955,7 +75955,7 @@ false
 0
 13
 true
-Served in Mexican War as a captain.\nAppointed Secretary of State of California in 1852.\nServed in U.S. Congress 1855-1857.
+米墨戦争では大尉として従軍した。\n1852年にカリフォルニア州務長官に任命された。\n1855年から1857年まで連邦議会議員を務めた。
 0
 0
 -1
@@ -76153,7 +76153,7 @@ false
 0
 27
 true
-Joined the U.S. Army in 1813 and served untill 1828, resigning a captain.\nServed in U.S. Senate as a Democrat 1845-1849.
+1813年に陸軍に入隊し、1828年に大尉として退役するまで勤務した。\n1845年から1849年まで連邦上院議員(民主党)を務めた。
 0
 0
 -1
@@ -76351,7 +76351,7 @@ false
 0
 16
 true
-Prohibition advocate and political activist in Whig, Free Soil and Republican parties.
+禁酒運動の提唱者であり、ホイッグ党、自由土地党、共和党で政治活動を行った。
 0
 0
 -1
@@ -76483,7 +76483,7 @@ false
 0
 32
 false
-Born in Paris, France, Duffie fought in the Crimean War as a non-commissioned officer, rising to rank of sub-lieutenant in 1859.\nMoved to U.S. before his resignation was accepted, and was charged of desertion.
+フランスのパリに生まれ、下士官としてクリミア戦争で戦い、1859年に少尉に昇進した。\n除隊が認められる前に米国へ渡ったため、脱走の罪に問われた。
 0
 0
 -1
@@ -76681,7 +76681,7 @@ false
 0
 18
 false
-Admitted to West Point in 1849, resigned in 1853 to work in manufacturing.
+1849年に陸軍士官学校に入学し、1853年に退学して製造業に従事した。
 0
 0
 -1
@@ -76747,7 +76747,7 @@ false
 0
 12
 true
-Served as member of Indiana House of Representatives 1845-1846 and Indiana Senate in 1852-1854.
+1845年から1846年までインディアナ州議会下院議員、1852年から1854年までインディアナ州上院議員を務めた。
 0
 0
 -1
@@ -76945,7 +76945,7 @@ false
 0
 12
 false
-Entered U.S. Military Academy in 1841, but left in 1844 to study medicine.\nServed in Mexican War as 2nd Lieutenant and fell ill, continuing in the military as quartermaster.
+1841年に陸軍士官学校へ入学したが、1844年に医学を学ぶため退学した。\n米墨戦争では少尉として従軍したが病に倒れ、その後は輜重将校として軍務を続けた。
 0
 0
 -1
@@ -77011,7 +77011,7 @@ true
 0
 17
 false
-A graduate of West Point and a civil engineer, Emory is a superb mapmaker.\nFought in the Mexican War and surveyed the newly acquired lands.
+陸軍士官学校卒業生であり土木技師で、優れた地図製作者でもある。\n米墨戦争で従軍し、新たに獲得した領土の測量を行った。
 0
 0
 -1
@@ -77209,7 +77209,7 @@ false
 0
 29
 false
-Educated at West Point, he failed an engineering exam and was forced to resign.
+陸軍士官学校で教育を受けたが、工学の試験に落第し退学を余儀なくされた。
 0
 0
 -1
@@ -77407,7 +77407,7 @@ false
 0
 4
 true
-Served in the Connecticut Senate, as a State's Attorney 1856-1859 and after becoming Republican, in the U.S. Congress, speaking against slavery.\nCommissioned lieutenant colonel of Connecticut Militia in 1847.
+コネチカット州上院議員、1856年から1859年まで州検事を務め、共和党員となった後は連邦議会議員として奴隷制に反対する演説を行った。\n1847年にコネチカット州民兵の中佐に任命された。
 0
 0
 -1
@@ -77671,7 +77671,7 @@ true
 0
 25
 false
-Served in Mexican War as an engineer in battles of Vera Cruz, Cerro Gordo, Contreras, Churubusco and Molino del Rey.
+米墨戦争では工兵として、ベラクルス、セロ・ゴルド、コントレラス、チュルブスコ、モリノ・デル・レイの各戦闘に従軍した。
 0
 0
 -1
@@ -77737,7 +77737,7 @@ false
 0
 8
 true
-An explorer, veteran of Mexican War and Indian Wars, and the first presidential candidate of the Republican party.
+探検家であり、米墨戦争およびインディアン戦争の退役軍人。共和党最初の大統領候補者。
 0
 0
 -1
@@ -77803,7 +77803,7 @@ false
 0
 7
 false
-Entered U.S. Navy in 1823, commanded schooner Ariel and sloop Falmouth.
+1823年に海軍に入隊し、スクーナー船アリエル号とスループ船ファルマス号を指揮した。
 0
 0
 -1
@@ -77869,7 +77869,7 @@ true
 0
 4
 false
-One of the five founders of the Naval Academy in Annapolis. Writer of A Manual of Naval Tactics.
+アナポリス海軍兵学校の5人の創設者の一人。『A Manual of Naval Tactics』の著者。
 0
 0
 -1
@@ -77935,7 +77935,7 @@ false
 0
 27
 false
-The grandson of Declaration of Independence Signer Thomas McKean.\nServed in the U.S. Navy since 14. Served in the War of 1812, the West Indies and the Mexican War.
+独立宣言署名者トーマス・マッキーンの孫にあたる。\n14歳より海軍に勤務。米英戦争、西インド諸島、米墨戦争に従軍した。
 0
 0
 -1
@@ -78001,7 +78001,7 @@ false
 0
 31
 false
-Served on sloop Vincennes on her circumnavigation and later in Mediterranean, Brazil, Pacific and Africa Squadrons.
+スループ船ヴィンセンズ号の世界周航に乗艦し、その後は地中海、ブラジル、太平洋、アフリカの各艦隊で勤務した。
 0
 0
 -1
@@ -78067,7 +78067,7 @@ true
 0
 33
 false
-Served in the War of 1812, the Second Berbery War and the Mexican War.
+米英戦争、第二次バーバリ戦争、米墨戦争に従軍した。
 0
 0
 -1
@@ -78199,7 +78199,7 @@ true
 0
 9
 false
-Graduated 4th in class of 1834 in West Point. Left the army to work in railroad business. Active in Indiana state militia.
+1834年の陸軍士官学校卒業クラスを4位で卒業。軍を離れて鉄道業に従事した。インディアナ州民兵でも活動した。
 0
 0
 -1
@@ -78331,7 +78331,7 @@ false
 0
 38
 true
-Served in the U.S. Navy from 1831 to 1839.\nLawyer and founder of Richmond Mechanics' Institute and officer in the Virginia Historical Society.
+1831年から1839年まで海軍に勤務した。\n弁護士であり、リッチモンド機械工学院の設立者、バージニア歴史協会の役員も務めた。
 0
 0
 -1
@@ -78397,7 +78397,7 @@ false
 0
 29
 true
-Ohio Senate member and Ohio militia active.
+オハイオ州上院議員であり、オハイオ州民兵で活動した。
 0
 0
 -1
@@ -78529,7 +78529,7 @@ true
 0
 38
 false
-A career soldier, served numerous times in the Frontier and took part in the Mexican War, serving with merit.
+生涯を通じた軍人で、辺境勤務を幾度も経験し、米墨戦争にも功績を残して従軍した。
 0
 0
 -1
@@ -78595,7 +78595,7 @@ false
 0
 35
 false
-A Texas army and militia soldier and a Texas Ranger, fought in the Texas Revolution and Mexican War.
+テキサス軍・民兵の兵士であり、テキサス・レンジャーでもあった。テキサス独立戦争と米墨戦争で戦った。
 0
 0
 -1
@@ -78661,7 +78661,7 @@ true
 0
 2
 false
-Graduated last in his class in West Point. Served in the Western Frontier.
+陸軍士官学校の卒業クラスを最下位で卒業。西部辺境で勤務した。
 0
 0
 -1
@@ -78793,7 +78793,7 @@ false
 0
 22
 true
-A Democrat politician, served in Missouri State House and 29th U.S. Congress.\nTook part in the Missouri Mormon War.\nServed in the Mexican War as a Brigadier General and became a local hero in Missouri.\nServed as Governor of Missouri 1853-1857.
+民主党の政治家で、ミズーリ州議会下院と第29回連邦議会に議席を持った。\nミズーリ・モルモン戦争に参加。\n米墨戦争では准将として従軍し、ミズーリ州の地元の英雄となった。\n1853年から1857年までミズーリ州知事を務めた。
 0
 0
 -1
@@ -78859,7 +78859,7 @@ false
 0
 22
 true
-A Democrat, later Know-Nothing politician in Missouri, serving in the State Senate and receiving a seat in the U.S. Congress.
+元は民主党員で、後にミズーリ州のノウナッシング党政治家となった。州上院議員を務め、連邦議会にも議席を得た。
 0
 0
 -1
@@ -78991,7 +78991,7 @@ false
 0
 22
 true
-Served as a captain of volunteer company in the Mexican War.\nServed in Missouri General Assembly and was a notable pro-slavery advocate.
+米墨戦争では義勇兵中隊の大尉として従軍した。\nミズーリ州議会議員を務め、著名な奴隷制擁護論者であった。
 0
 0
 -1
@@ -79057,7 +79057,7 @@ false
 0
 22
 true
-Served as a captain of volunteer company in the Mexican War.\nServed as a U.S. District Attorney and a Missouri State Senator.
+米墨戦争では義勇兵中隊の大尉として従軍した。\n連邦地方検事およびミズーリ州上院議員を務めた。
 0
 0
 -1
@@ -79123,7 +79123,7 @@ false
 0
 22
 true
-A lawyer, a businessman, a banker and a member of the Missouri Legistlature.
+弁護士、実業家、銀行家であり、ミズーリ州議会議員も務めた。
 0
 0
 -1
@@ -79255,7 +79255,7 @@ false
 0
 22
 true
-Attended the U.S. Military Academy at West Point, but did not graduate.\nServed as a captain of artillery in the Mexican War.\nU.S. House of Representatives member 1851-1853.
+陸軍士官学校に在籍したが卒業には至らなかった。\n米墨戦争では砲兵大尉として従軍した。\n1851年から1853年まで連邦下院議員を務めた。
 0
 0
 -1
@@ -79321,7 +79321,7 @@ true
 0
 22
 false
-Served in the Mexican War with notable valor.\nParticipated in the Bloody Island Massacre in 1850.
+米墨戦争では顕著な勇猛さをもって従軍した。\n1850年のブラッディ・アイランド虐殺に加担した。
 0
 0
 -1
@@ -79387,7 +79387,7 @@ true
 0
 31
 false
-Fought the Seminole Indians in Florida 1849-1850.
+1849年から1850年、フロリダでセミノール族と戦った。
 0
 0
 -1
@@ -79453,7 +79453,7 @@ false
 0
 15
 false
-Originally baptized Laurenzo, later called Laurent, having his name mis-spelled in official records made the old salt of the U.S.Navy Lawrence.\nDuring U.S. Navy sercive, took part in actions against Atlantic Slave Trade and the War of 1812. Commanded the Brazil Squadron during Mexican War.\nThe most senior U.S.Navy officer to side with Confederacy.
+元は「ロレンツォ」の名で洗礼を受け、後に「ローラン」と呼ばれたが、公式記録での綴りの誤りにより、この老練な海軍軍人は「ローレンス」の名で知られるようになった。\n海軍勤務中は大西洋奴隷貿易への対処作戦や米英戦争に参加した。米墨戦争ではブラジル艦隊を指揮した。\n南軍側についた海軍将校の中で最も先任であった。
 0
 0
 -1
@@ -79585,7 +79585,7 @@ false
 0
 35
 false
-A mariner since 13, Smith commanded mail steamships and allegedly served in the Texas Navy in the Republic of Texas.
+13歳から船乗りとして活動し、郵便蒸気船を指揮した。テキサス共和国海軍に勤務していたとも伝えられる。
 0
 0
 -1
@@ -79651,7 +79651,7 @@ false
 0
 7
 false
-Entered U.S. Navy at age of 14 and served in War of 1812, the Second Barbary War and Mexican War.
+14歳で海軍に入隊し、米英戦争、第二次バーバリ戦争、米墨戦争に従軍した。
 0
 0
 -1
@@ -79717,7 +79717,7 @@ true
 0
 14
 false
-Fought in Mexican War, receiving brevet promotions for his actions in Battles of Cerro Gordo and Contreras.\nResigned his commission in 1854 to become a civil engineer in New York City.
+米墨戦争に従軍し、セロ・ゴルドおよびコントレラスの戦闘での活躍により名誉昇進した。\n1854年に軍を辞し、ニューヨーク市で土木技師となった。
 0
 0
 -1
@@ -79783,7 +79783,7 @@ true
 0
 28
 false
-Served in the Seminole Wars being wounded in action multiple times.\nTook part in the Mexican War, in defence of Fort Brown and in recruiting duty, organizing recruits to General Scott's campaign.\nFought in Indian Wars in the Pacific coast.
+セミノール戦争に従軍し、複数回にわたり戦闘で負傷した。\n米墨戦争ではブラウン砦の防衛や新兵募集任務に従事し、スコット将軍の作戦向けの新兵編成を行った。\n太平洋岸のインディアン戦争でも戦った。
 0
 0
 -1
@@ -79849,7 +79849,7 @@ false
 0
 38
 false
-Graduate if Virginia Military Institute, and teacher of French and military science there.
+バージニア軍事大学校卒業生であり、同校でフランス語と軍事学を教えた。
 0
 0
 -1
@@ -79915,7 +79915,7 @@ false
 0
 0
 true
-The first native born governor of Alabama, serving 1853-1857.
+アラバマ州生まれとして初の同州知事で、1853年から1857年まで在任した。
 0
 0
 -1
@@ -79981,7 +79981,7 @@ false
 0
 38
 false
-A graduate from Virginia Military Institute in 1850.
+1850年バージニア軍事大学校卒業生。
 0
 0
 -1
@@ -80047,7 +80047,7 @@ false
 0
 34
 true
-Helped recruit volunteers from Tennessee to serve in Mexican War, and served in the War.\nWorked for the Bank of Tennessee, and received a political patronage position as the postmaster of Nashville.
+テネシー州からの米墨戦争従軍義勇兵の募集に尽力し、自身も従軍した。\nテネシー銀行に勤務し、政治的な情実によりナッシュビル郵便局長の職を得た。
 0
 0
 -1
@@ -80113,7 +80113,7 @@ false
 0
 38
 false
-Graduated from Virginia Military Institute in 1844.
+1844年バージニア軍事大学校卒業。
 0
 0
 -1
@@ -80245,7 +80245,7 @@ true
 0
 21
 false
-Served in the Mexican War, where saw action at Battles of Monterrey, Vera Cruz, Cerro Gordo, Mexico City, Contreras and Churubusco, receiving brevet promotions to major.\nFought the indians in Florida and Indian Territory between 1849-1859.\nHas a reputation of being a true womanizer.
+米墨戦争に従軍し、モンテレー、ベラクルス、セロ・ゴルド、メキシコシティ、コントレラス、チュルブスコの各戦闘で戦い、少佐に名誉昇進した。\n1849年から1859年にかけてフロリダおよびインディアン準州でインディアンと戦った。\n根っからの女たらしとして知られている。
 0
 0
 -1
@@ -80311,7 +80311,7 @@ true
 0
 15
 false
-A graduate from West Point, assigned to construct Fort Livingston in Louisiana, before resigning commission in 1846 to run a plantation.\nLater a state militia officer, Louisiana state legislator and chief engineer of the state.
+陸軍士官学校卒業生で、ルイジアナのフォート・リビングストン建設に従事した後、1846年に軍を辞しプランテーションを経営した。\n後に州民兵将校、ルイジアナ州議会議員、州の主任技師を務めた。
 0
 0
 -1
@@ -80443,7 +80443,7 @@ false
 0
 2
 false
-An author, poet, orator, jurist, and a veteran of Mexican War, where he served in Arkansas Mounted Volunteers and fought an inconclusive duel with his commanding officer.
+著述家、詩人、演説家、法律家であり、米墨戦争の退役軍人。アーカンソー騎馬義勇兵として従軍し、上官と決着のつかない決闘を行った。
 0
 0
 -1
@@ -80509,7 +80509,7 @@ true
 0
 22
 false
-Served in the Mexican War, being awarded a brevet promotion to captain after the Battle of Monterrey.
+米墨戦争に従軍し、モンテレーの戦いの後に大尉へ名誉昇進した。
 0
 0
 -1
@@ -80773,7 +80773,7 @@ false
 0
 22
 false
-Born in Prussia, attended the Berlin Military Academy and served in the Prussian Army, before forced to immigrate to U.S. after finding himself on the losing side of 1848 Revolutions.
+プロイセンに生まれ、ベルリン陸軍士官学校に学びプロイセン軍に勤務したが、1848年革命で敗れた側に立ったため米国への移住を余儀なくされた。
 0
 0
 -1
@@ -80839,7 +80839,7 @@ false
 0
 22
 false
-Born in Germany, graduated from Hesse-Darmstadt Military Academy in 1848 and immigrated to the U.S. after serving in the Prussian Army.
+ドイツに生まれ、1848年にヘッセン=ダルムシュタット陸軍士官学校を卒業し、プロイセン軍勤務の後に米国へ移住した。
 0
 0
 -1
@@ -81037,7 +81037,7 @@ true
 0
 27
 false
-A decorated hero of the Mexican War, who served as aide-de-camp to General Scott.\nAuthor of A History of Our National Flag.\nResigned from the Army in 1855.
+米墨戦争の勲章を受けた英雄で、スコット将軍の副官を務めた。\n『A History of Our National Flag』の著者。\n1855年に軍を辞した。
 0
 0
 -1
@@ -81103,7 +81103,7 @@ true
 0
 9
 false
-A West Point graduate, served in the Seminole Wars and resigned his commission in 1840.\nAuthor of a training manual for militia.
+陸軍士官学校卒業生で、セミノール戦争に従軍し、1840年に軍を辞した。\n民兵向け訓練教範の著者。
 0
 0
 -1
@@ -81433,7 +81433,7 @@ false
 0
 12
 false
-Originally named, and knighted Sir Miklos Perczel de Bonyhad, a Hungarian landowner, and one of the officers in charge of the Hungarian Revolution of 1848.
+元の名はミクローシュ・ペルツェル・デ・ボニヤードといい、ハンガリーの地主で叙任も受けた。1848年のハンガリー革命を指揮した将校の一人。
 0
 0
 -1
@@ -81499,7 +81499,7 @@ false
 0
 11
 true
-A lawyer, a country auditor and an Indiana State Senator.
+弁護士であり、郡の監査官、インディアナ州上院議員も務めた。
 0
 0
 -1
@@ -81565,7 +81565,7 @@ false
 0
 11
 true
-A professor of anatomy and a Democrat politician in Congress and Senate.
+解剖学の教授であり、連邦議会下院・上院で活動した民主党の政治家。
 0
 0
 -1
@@ -81829,7 +81829,7 @@ true
 0
 34
 false
-After gradiating from West Point, served in the occupation of Texas 1845-46, Mexican War, Seminole wars in Florida and the Utah War in 1858.
+陸軍士官学校卒業後、1845年から1846年のテキサス占領、米墨戦争、フロリダのセミノール戦争、1858年のユタ戦争に従軍した。
 0
 0
 -1
@@ -82093,7 +82093,7 @@ true
 0
 40
 false
-Fought in the Mexican War receiving brevet promotion to captain and being wounded.\nResigned from the Army in 1853 to become a farmer and a miller.
+米墨戦争に従軍し負傷、大尉に名誉昇進した。\n1853年に軍を辞し、農業と製粉業を営んだ。
 0
 0
 -1
@@ -82159,7 +82159,7 @@ false
 0
 3
 true
-U.S. senator, who represented Illinois and Minnesota between 1849 and 1859.\nVeteran of the Mexican War and Seminole Wars.\nIn 1842 challenged Abraham Lincoln to a duel, but before fighting they made peace and became friends.
+1849年から1859年にかけてイリノイ州およびミネソタ州選出の連邦上院議員を務めた。\n米墨戦争およびセミノール戦争の退役軍人。\n1842年にはエイブラハム・リンカーンに決闘を申し込んだが、決闘前に和解し友人となった。
 0
 0
 -1
@@ -82225,7 +82225,7 @@ false
 0
 27
 false
-A veteran of War of 1812 and Mexican War. One of the four general officers in the U.S. Army prior to Civil War.\nA hero of Battle of Buena Vista, and well known master organizer. Despite his age, still fit for field duty.
+米英戦争および米墨戦争の退役軍人。南北戦争前の陸軍において4人しかいなかった将官の一人。\nブエナビスタの戦いの英雄であり、卓越した組織者として知られる。高齢ながらいまだ野戦任務に耐えうる。
 0
 0
 -1
@@ -82291,7 +82291,7 @@ false
 0
 20
 true
-A veteran of Mexican War, where he was severely wounded.\nPracticed law and politics in Illinois and Minnesota as a Democrat.
+米墨戦争の退役軍人で、重傷を負った。\nイリノイ州およびミネソタ州で民主党員として法律実務と政治活動に従事した。
 0
 0
 -1
@@ -82357,7 +82357,7 @@ false
 0
 26
 false
-A veteran of Mexican War, and an old school disciplinarian.
+米墨戦争の退役軍人で、旧式の規律を重んじる人物。
 0
 0
 -1
@@ -82621,7 +82621,7 @@ false
 0
 26
 false
-A German immigrant, who served in the 1848 Revolution as an aide to Franz Sigel.
+ドイツ系移民で、1848年革命ではフランツ・ジーゲルの副官として従軍した。
 0
 0
 -1
@@ -82753,7 +82753,7 @@ false
 0
 27
 false
-A French immigrant and officer from Saint-Cyr military academy.\nServed in Europe in February Revolution of 1848, June Days Uprising, expeditions in Algeria and the Crimean War.\nNicknamed "Captain Tin Can" from hoarding rations at the expense of his troops.\nResigned from the French Army in 1858.
+フランス系移民で、サン=シール陸軍士官学校出身の将校。\nヨーロッパでは1848年の二月革命、六月蜂起、アルジェリア遠征、クリミア戦争に従軍した。\n部下の食料を犠牲にして糧食を溜め込んだことから「缶詰大尉」と渾名された。\n1858年にフランス軍を退役した。
 0
 0
 -1
@@ -82951,7 +82951,7 @@ false
 0
 27
 false
-A German immigrant, graduated from military school of Karlsruhe and served in the Grand Duke's army, and under Franz Sigel in the Revolutions of 1848.
+ドイツ系移民で、カールスルーエの陸軍学校を卒業し大公の軍に勤務、1848年革命ではフランツ・ジーゲルの下で従軍した。
 0
 0
 -1
@@ -83017,7 +83017,7 @@ true
 0
 4
 false
-Graduated 2nd from West Point class of 1822.\nServed with merit in the Mexican War, receiving brevet promotions to colonel.\nInspector General of the U.S. army from 1853.
+1822年の陸軍士官学校卒業クラスを2位で卒業。\n米墨戦争では功績を残し、大佐に名誉昇進した。\n1853年より陸軍監察総監を務めた。
 0
 0
 -1
@@ -83149,7 +83149,7 @@ true
 0
 27
 false
-One of the few Northern officers to fight for the South, Lovell is a veteran of the Mexican War, where he fought with distinction, earning brevet appointment to captain.\nResigned from the army in 1854 to become a businessman in New York City.
+南軍のために戦った数少ない北部出身将校の一人。米墨戦争の退役軍人で、目覚ましい活躍により大尉に名誉昇進した。\n1854年に軍を辞し、ニューヨーク市で実業家となった。
 0
 0
 -1
@@ -83215,7 +83215,7 @@ true
 0
 15
 false
-Born in Pennsylvania, and graduate from West Point class of 1849, Duncan resigned from the army in 1855 and entered private life in Louisiana.
+ペンシルベニアに生まれ、1849年陸軍士官学校卒業クラスの卒業生。1855年に軍を辞し、ルイジアナで市民生活を送った。
 0
 0
 -1
@@ -83281,7 +83281,7 @@ true
 0
 38
 false
-After initial service on the Maine frontier, Jones was an assistant professor in West Point, and later Judge Advocate of the Army in Washington, D.C.
+メイン州辺境での初期勤務の後、陸軍士官学校で助教を務め、後にワシントンD.C.で陸軍法務官を務めた。
 0
 0
 -1
@@ -83347,7 +83347,7 @@ true
 0
 27
 false
-A veteran of the Black Hawk War, Seminole Wars and the Mexican War, where he fought with distinction.
+ブラックホーク戦争、セミノール戦争、米墨戦争の退役軍人で、米墨戦争では目覚ましい活躍を見せた。
 0
 0
 -1
@@ -84865,7 +84865,7 @@ true
 0
 0
 false
-Nicknamed "Grimes".
+「グライムズ」の渾名を持つ。
 0
 0
 -1
@@ -84997,7 +84997,7 @@ false
 0
 26
 false
-An Englishman by descent, with military sercive in Sardinia, under Garibaldi and in Military Order of Savoy.
+英国系で、サルデーニャ、ガリバルディ配下、サヴォイア軍事勲位団での軍務経験を持つ。
 0
 0
 -1
@@ -87109,7 +87109,7 @@ true
 0
 38
 false
-A veteran of the United States Army, having served in the Second Seminole War and Mexican War.\nServed briefly as the acting U.S. Secretary of War in 1857.
+米陸軍の退役軍人で、第二次セミノール戦争と米墨戦争に従軍した。\n1857年には短期間、陸軍長官代理を務めた。
 0
 0
 -1
@@ -88363,7 +88363,7 @@ false
 0
 2
 true
-Postmaster of Little Rock from 1857 to 1861, appointed by President Buchanan.
+1857年から1861年まで、ブキャナン大統領により任命されリトルロック郵便局長を務めた。
 0
 0
 -1
@@ -88891,7 +88891,7 @@ false
 0
 31
 false
-Member of the Washington Grays militia unit.
+民兵部隊ワシントン・グレイズの一員。
 0
 0
 -1
@@ -89023,7 +89023,7 @@ false
 0
 27
 false
-Served as a private in Company K, the 1st New York in Mexican War, but did not see combat. Was promoted to sergeant.\nServed as a militia drillmaster in New York.
+米墨戦争では第1ニューヨーク連隊K中隊の一兵卒として従軍したが実戦は経験しなかった。軍曹に昇進した。\nニューヨークで民兵の教練係を務めた。
 0
 0
 -1
@@ -89287,7 +89287,7 @@ false
 0
 31
 false
-Enlisted as a third sergeant in the 2nd Regiment Kentucky Volunteer Infantry to fight in the Mexican War. Was promoted to 1st sergeant, but demoted to private, before being seriously wounded. Returned to the War as a lieutenant in the 11th U.S. Infantry Regiment and served under Winfield Scott.
+米墨戦争に従軍するため第2ケンタッキー義勇歩兵連隊の三等軍曹として入隊した。一等軍曹に昇進したが、後に一兵卒に降格され、重傷を負った。第11米国歩兵連隊の中尉として戦線に復帰し、ウィンフィールド・スコットの下で従軍した。
 0
 0
 -1
@@ -89353,7 +89353,7 @@ true
 0
 16
 false
-Turned back from West Point for being too short, he spent years hanging from trees to meet the height requirement, which he did in 1831.
+身長不足を理由に陸軍士官学校から一度は入学を拒まれたが、身長基準を満たすため木にぶら下がる訓練を何年も続け、1831年についに基準を満たした。
 0
 0
 -1
@@ -89815,7 +89815,7 @@ false
 0
 28
 true
-A Democratic representative in NC house of commons, U.S. District Attorney, Consul to Paris, and candidate for the governorship of Nort Carolina in 1858.
+ノースカロライナ州議会下院の民主党議員、連邦地方検事、駐パリ領事を務め、1858年にはノースカロライナ州知事選挙に立候補した。
 0
 0
 -1
@@ -91597,7 +91597,7 @@ true
 0
 29
 false
-Graduated first in class of 43 from West Point in 1849. Appointed to engineers, constructed forts at Hampton Roads, VA, and was instructor of Practical Military Engineering in the Academy.
+1849年、陸軍士官学校の43名の卒業クラスを首席で卒業した。工兵科に配属され、バージニア州ハンプトン・ローズの要塞建設に従事し、士官学校では実地軍事工学の教官も務めた。
 0
 0
 -1
@@ -91729,7 +91729,7 @@ true
 0
 18
 false
-Graduated first in class of 51, and served as assistant professor of engineering at West Point. Resigned from service in 1855 to pursue civil engineering career.
+51名の卒業クラスを首席で卒業し、陸軍士官学校で工学の助教を務めた。1855年に軍を辞し、土木技師としての道を歩んだ。
 0
 0
 -1
@@ -91861,7 +91861,7 @@ false
 0
 33
 true
-A Democratic representative from SC in the U.S. House of Representatives, where he, a noteable Fire-Eater and supporter of slavery, was involved in caning of Senator Sumner and a brawl with Congressman Grow.
+サウスカロライナ州選出の連邦下院議員(民主党)。著名な急進分離派(ファイア・イーター)であり奴隷制支持者で、サムナー上院議員への杖打ち事件やグロウ下院議員との乱闘に関与した。
 0
 0
 -1
@@ -92257,7 +92257,7 @@ false
 0
 40
 true
-Republican Congressman, who served three terms, 34th-36th U.S. Congresses representing Wisconsin.
+共和党所属の連邦議会議員で、ウィスコンシン州選出として第34回から第36回連邦議会まで3期務めた。
 0
 0
 -1
@@ -92521,7 +92521,7 @@ true
 0
 31
 false
-A veteran of Seminole Wars, Aroostook War and Mexican War. Brevetted major during the Mexican War, where he served among other roles as a staff officer in same division staff as Ulysses S. Grant.\nAfter Mexican War served in garrison duties with 4th U.S. Artillery.
+セミノール戦争、アルーストゥック戦争、米墨戦争の退役軍人。米墨戦争では少佐に名誉昇進し、ユリシーズ・S・グラントと同じ師団の幕僚将校を務めるなどした。\n米墨戦争後は第4米国砲兵連隊で駐屯任務に就いた。
 0
 0
 -1
@@ -93379,7 +93379,7 @@ true
 0
 32
 false
-Served in the Florida War against Seminoles 1836-38 and the Cherokee Nation in 1838, and again until 1842. Distinguished himself in the Mexican War in the Battle of Buena Vista.\nServed on frontier duty and commanded expedition to Yellow Medicine, Minnesota in 1857, and was involved in quelling the Kansas Border Disturbances in 1857-58.
+1836年から1838年、対セミノール族のフロリダ戦争、および1838年のチェロキー・ネイションに対する作戦、さらに1842年までの作戦に従軍した。米墨戦争ではブエナビスタの戦いで武功を挙げた。\n辺境勤務に従事し、1857年にはミネソタ州イエロー・メディシンへの遠征を指揮、1857年から1858年にかけてはカンザス国境紛争の鎮圧にも関わった。
 0
 0
 -1
@@ -94303,7 +94303,7 @@ true
 0
 0
 false
-Born in Maine, Leadbetter was a career U.S. Army artillerist and engineer until 1857, when he resigned and settled in Alabama.
+メイン州に生まれ、1857年に退役するまで生涯を通じて米陸軍の砲兵・工兵将校を務め、その後アラバマに定住した。
 0
 0
 -1
@@ -94369,7 +94369,7 @@ true
 0
 38
 false
-A career U.S. Army officer, served in the Mexican War as the Army's assistant Quartermaster. He was dismissed from the Army in 1855 when he was holding multiple quartermaster positions and engaged in theft of government funds.\nHis rank of captain was restored in 1858 with the help of his political connections.
+生涯を通じた米陸軍将校で、米墨戦争では陸軍の副輜重長として従軍した。1855年、複数の輜重職を兼務していた際に政府資金の横領に関与し軍を免職となった。\n1858年、政治的なコネクションの助けにより大尉の階級を回復した。
 0
 0
 -1
@@ -94435,7 +94435,7 @@ true
 0
 38
 false
-Entered West Point at the age of 15. Served in frontier posts in New Mexico and Texas, and fought against Comanche Indians. Has a quarrelsome nature.
+15歳で陸軍士官学校に入学した。ニューメキシコおよびテキサスの辺境の駐屯地に勤務し、コマンチ族と戦った。喧嘩っ早い性格で知られる。
 0
 0
 -1
@@ -94501,7 +94501,7 @@ false
 0
 34
 false
-An active member of the Whig Party and initially opposed to secession. Was elected Nashville city attorney in 1858.
+活発なホイッグ党員で、当初は分離独立に反対していた。1858年にナッシュビル市法務官に選出された。
 0
 0
 -1
@@ -94567,7 +94567,7 @@ false
 0
 29
 true
-Took part in the fight for independence in Texas, serving under Sam Houston as a captain. Entered West Point in 1841, but dropped out due to poor grades. Served under Winfield Scott in the Mexican War and was brevetted brigadier general for gallantry.\nAppointed by President Buchanan as the U.S. Consul to Marseilles in 1856 and later became the Minister to Portugal.
+テキサス独立戦争に参加し、サム・ヒューストンの下で大尉として従軍した。1841年に陸軍士官学校へ入学したが、成績不振により中退した。米墨戦争ではウィンフィールド・スコットの下で従軍し、勇敢さにより准将に名誉昇進した。\n1856年、ブキャナン大統領により駐マルセイユ領事に任命され、後に駐ポルトガル公使となった。
 0
 0
 -1
@@ -94633,7 +94633,7 @@ false
 0
 34
 false
-A Tennessee Unionist, though opposing the abolition of slavery.
+テネシー州の連邦支持者(ユニオニスト)であったが、奴隷制廃止には反対していた。
 0
 0
 -1
@@ -94699,7 +94699,7 @@ false
 0
 29
 false
-Born in Corfu, Greece, Decourcy holds title Premier Baron of Ireland, 31st Baron Kingsale. Fought in thr Crimean War with Britain.
+ギリシャのコルフ島に生まれ、アイルランド筆頭男爵にして第31代キングセール男爵の称号を持つ。英国軍としてクリミア戦争で戦った。
 0
 0
 -1
@@ -94897,7 +94897,7 @@ true
 0
 8
 false
-Attended West Point in 1824, was expelled for participating in the Eggnog Riot in 1826, but was permitted to graduate in 1828. Resigned in April 1835 after sercing as an aide to Maj. Gen. Winfield Scott.
+1824年に陸軍士官学校に入学し、1826年のエッグノッグ暴動への参加により退学処分となったが、1828年の卒業を許可された。ウィンフィールド・スコット少将の副官を務めた後、1835年4月に軍を辞した。
 0
 0
 -1
@@ -94963,7 +94963,7 @@ false
 0
 7
 true
-Originally an Irishman, Finegan moved to Florida in 1830s. A prominent businessman and involved in local politics.
+元はアイルランド人で、1830年代にフロリダへ移住した。著名な実業家であり、地元政治にも関わった。
 0
 0
 -1
@@ -95425,7 +95425,7 @@ false
 0
 13
 false
-A Jayhawker during the Bleeding Kansas era.
+「流血のカンザス」時代のジェイホーカー(自由州派ゲリラ)の一人。
 0
 0
 -1
@@ -95887,7 +95887,7 @@ false
 0
 27
 true
-Member of New York State Senate 1858-1861 and a delegate to the 1860 Democratic National Convention.
+1858年から1861年までニューヨーク州上院議員を務め、1860年の民主党全国大会代議員も務めた。
 0
 0
 -1
@@ -96019,7 +96019,7 @@ false
 0
 12
 true
-Attorney General of Iowa on behalf of the Republican Party.
+共和党所属のアイオワ州司法長官。
 0
 0
 -1
@@ -96151,7 +96151,7 @@ false
 0
 22
 false
-Took part in the Bleeding Kansas struggle and led a company of Border Ruffians.
+「流血のカンザス」抗争に参加し、ボーダー・ラフィアンズの一隊を率いた。
 0
 0
 -1
@@ -96217,7 +96217,7 @@ true
 0
 15
 false
-A veteran of the Mexican War, where he won two brevet promotions for bravery. Served in the Utah War with 10th U.S. Infantry.
+米墨戦争の退役軍人で、勇敢さにより2度の名誉昇進を果たした。ユタ戦争では第10米国歩兵連隊で従軍した。
 0
 0
 -1
@@ -96283,7 +96283,7 @@ true
 0
 15
 false
-A civil engineer soon after graduating from West Point. Served as a brigadier general of Louisiana State Militia from 1850 to 1861.
+陸軍士官学校卒業後まもなく土木技師となった。1850年から1861年までルイジアナ州民兵の准将を務めた。
 0
 0
 -1
@@ -96349,7 +96349,7 @@ true
 0
 15
 false
-A veteran of Seminole Wars, Mexican War and Utah War. Was part of the forces trying to control the Bleeding Kansas fighting. Invented the Sibley tent and stove.
+セミノール戦争、米墨戦争、ユタ戦争の退役軍人。「流血のカンザス」抗争の鎮圧部隊にも参加した。シブレー・テントおよびシブレー・ストーブの発明者。
 0
 0
 -1
@@ -96415,7 +96415,7 @@ false
 0
 35
 false
-Took part in the Texas Revolution in Sam Houston's Army and the Mexican War leading a company of Texas Rangers.
+テキサス独立戦争ではサム・ヒューストンの軍に参加し、米墨戦争ではテキサス・レンジャーの一隊を率いた。
 0
 0
 -1
@@ -96745,7 +96745,7 @@ false
 0
 35
 false
-A veteran of the Mexican War, where he entered as a private and rose to the rank of major.
+米墨戦争の退役軍人で、一兵卒として従軍し少佐まで昇進した。
 0
 0
 -1
@@ -96811,7 +96811,7 @@ true
 0
 14
 false
-A veteran of the Mexican War, where he won brevet promotion to 1st lieutenant. Taught tactics at West Point. Took part in the Utah expedition in 1857-58 and Bleeding Kansas.
+米墨戦争の退役軍人で、中尉に名誉昇進した。陸軍士官学校で戦術を教えた。1857年から1858年のユタ遠征と「流血のカンザス」にも参加した。
 0
 0
 -1
@@ -96877,7 +96877,7 @@ true
 0
 35
 false
-Fought against the Apaches with 2nd U.S. Dragoons and was recommended the brevet rank of 1st lieutenant by U.S. Secretary of War Jefferson Davis.
+第2米国竜騎兵連隊でアパッチ族と戦い、陸軍長官ジェファーソン・デイヴィスの推薦により中尉への名誉昇進を果たした。
 0
 0
 -1
@@ -96943,7 +96943,7 @@ false
 0
 35
 true
-A surveyor, who fought in Texas against the natives during the 1830-40s, including the Battle of Plum Creek against the Comanches.\nLater became politically active, serving in the House of Representatives in 1853 and Senate in 1855, before appointed U.S. marshal in Texas by President Buchanan.
+測量士であり、1830年代から40年代にかけてテキサスで先住民と戦い、コマンチ族との戦いであるプラム・クリークの戦いにも参加した。\n後に政治活動を行い、1853年に州議会下院、1855年に州上院に議席を得た後、ブキャナン大統領によりテキサス州連邦保安官に任命された。
 0
 0
 -1
@@ -97009,7 +97009,7 @@ true
 0
 35
 false
-A veteran of the Mexican War, where he won brevet promotions to captain and served as assistant adjutant general of the cavalry brigade.\nTook part in expeditions against the indians, including the Apache, Sioux, Kiowa and Comanche.
+米墨戦争の退役軍人で、大尉に名誉昇進し、騎兵旅団の副官長を務めた。\nアパッチ、スー、カイオワ、コマンチ族などに対するインディアン遠征にも参加した。
 0
 0
 -1
@@ -97075,7 +97075,7 @@ false
 0
 10
 false
-The leader of Cherokee Nation. Before the forced relocation of natives from Georgia via the Trail of Tears, he was among native leaders who signed the Treaty of New Echota and joined the Cherokee in the Indian Territory.
+チェロキー・ネイションの指導者。ジョージアからの「涙の道」による強制移住の前、ニューエコタ条約に署名した先住民指導者の一人であり、インディアン準州のチェロキー族に加わった。
 0
 0
 -1
@@ -97273,7 +97273,7 @@ false
 1
 7
 false
-A volunteer veteran of the Mexican War, where he served as a lieutenant. After the war he joined U.S. Army as a captain of 1st U.S. Cavalry.
+米墨戦争の義勇兵退役軍人で、中尉として従軍した。戦後は第1米国騎兵連隊の大尉として正規軍に入った。
 0
 0
 -1
@@ -97339,7 +97339,7 @@ false
 0
 33
 false
-A volunteer veteran of the Mexican War. After the war he joined U.S. Army as a captain of 10th U.S. Infantry.
+米墨戦争の義勇兵退役軍人。戦後は第10米国歩兵連隊の大尉として正規軍に入った。
 0
 0
 -1
@@ -97405,7 +97405,7 @@ true
 0
 27
 false
-Served in the Utah War and fought in the Battle of Colorado River in 1859 during the Mohave War.
+ユタ戦争に従軍し、1859年のモハーヴェ戦争ではコロラド川の戦いで戦った。
 0
 0
 -1
@@ -97669,7 +97669,7 @@ false
 0
 27
 false
-Originally from Birmingham, England, Allcock emigrated to the U.S. in 1845, where he invented a porous plaster for the relief of pain.
+元はイングランドのバーミンガム出身で、1845年に米国へ移住し、鎮痛用の多孔質膏薬を発明した。
 0
 0
 -1
@@ -97735,7 +97735,7 @@ false
 0
 38
 false
-A civil engineer and railroadman.
+土木技師であり鉄道関係者。
 0
 0
 -1
@@ -97933,7 +97933,7 @@ false
 0
 13
 false
-Founder of Elwood Free Oress and a justice of the Kansas Supreme Court.
+エルウッド・フリー・プレス紙の創刊者であり、カンザス州最高裁判所判事。
 0
 0
 -1
@@ -97999,7 +97999,7 @@ false
 0
 11
 false
-Volunteer in the Mexican War, serving as a lieutenant and a captain in the 2nd Ohio Volunteer Infantry.
+米墨戦争では義勇兵として、第2オハイオ義勇歩兵連隊の中尉、後に大尉として従軍した。
 0
 0
 -1
@@ -98065,7 +98065,7 @@ false
 0
 9
 false
-Served as a volunteer militiaman in the Black Hawk War 1831-1832 and as a captain the Mexican War.
+1831年から1832年のブラックホーク戦争に義勇民兵として従軍し、米墨戦争では大尉として従軍した。
 0
 0
 -1
@@ -98131,7 +98131,7 @@ false
 0
 14
 false
-A veteran of the Mexican War, where he served with the 1st Kentucky Cavalry, as a private and later an orderly sergeant. Was wounded in the Battle of Buena Vista.
+米墨戦争の退役軍人で、第1ケンタッキー騎兵連隊に一兵卒として、後に伝令軍曹として従軍した。ブエナビスタの戦いで負傷した。
 0
 0
 -1
@@ -98197,7 +98197,7 @@ false
 0
 29
 true
-Educated in a military school. Appointed by President Pierce as the special agent in the Post Office Department at Washington, D.C., and later U.S. Marshal for the Southern District of Ohio and deputy clerk of Hamilton County.
+陸軍学校で教育を受けた。ピアース大統領によりワシントンD.C.の郵便省特別代理人に任命され、後にオハイオ州南部地区連邦保安官、ハミルトン郡副書記官を務めた。
 0
 0
 -1
@@ -98263,7 +98263,7 @@ false
 0
 12
 false
-Originally named Karl, Matthies was born in Prussia, where he served in the Prussian Army during the Revolutions of 1848 in the German States.\nEmigrated to the U.S. in 1849 and became a liquor merchant in Iowa.
+元の名はカールといい、プロイセンに生まれ、1848年のドイツ諸邦革命ではプロイセン軍に勤務した。\n1849年に米国へ移住し、アイオワ州で酒類商人となった。
 0
 0
 -1
@@ -98329,7 +98329,7 @@ false
 0
 9
 false
-An Irishman, who emigrated to U.S. via Nova Scotia to escape the Irish potato famine in the 1840s.\nJoined the miltia artillery called Chicago Artillery.
+アイルランド人で、1840年代のアイルランド・ジャガイモ飢饉を逃れ、ノバスコシア経由で米国へ移住した。\nシカゴ・アーティラリーと呼ばれる民兵砲兵隊に加わった。
 0
 0
 -1
@@ -98395,7 +98395,7 @@ false
 0
 9
 false
-Originally from Georgia, Hicks served in the army during the Black Hawk War and the Mexican War.
+元はジョージア出身で、ブラックホーク戦争と米墨戦争で軍に従軍した。
 0
 0
 -1
@@ -98461,7 +98461,7 @@ false
 0
 29
 true
-A member of Ohio State house of representatives 1853-1854, and a Democrat congressman 1857-1859.
+1853年から1854年までオハイオ州議会下院議員、1857年から1859年まで民主党所属の連邦議会議員を務めた。
 0
 0
 -1
@@ -98527,7 +98527,7 @@ false
 0
 9
 false
-A veteran of the Black Hawk War and the Mexican War, where he served as a captain in the 4th Illinois Volunteer Regiment.
+ブラックホーク戦争と米墨戦争の退役軍人で、米墨戦争では第4イリノイ義勇連隊の大尉として従軍した。
 0
 0
 -1
@@ -98593,7 +98593,7 @@ false
 0
 9
 false
-Born in the Kingdom of Bavaria, Engelmann emigrated to the U.S. in 1831. He fought in the Mexican War as a 2nd lieutenant in the 2nd Regiment of Illinois Volunteers, and was wounded during the Battle of Buena Vista.
+バイエルン王国に生まれ、1831年に米国へ移住した。米墨戦争では第2イリノイ義勇連隊の少尉として従軍し、ブエナビスタの戦いで負傷した。
 0
 0
 -1
@@ -98659,7 +98659,7 @@ false
 0
 29
 false
-Superintendent of schools at Zanesville, Ohio, and a friend of George B. McClellan.
+オハイオ州ザンズビルの学校監督官であり、ジョージ・B・マクレランの友人。
 0
 0
 -1
@@ -98725,7 +98725,7 @@ false
 0
 22
 false
-Originally from Virginia, Stevenson served as a company commander in the 1st Missouri Mounted Volunteers during Kearny's invasion of the New Mexico Territory in the Mexican War.\nA member of Missouri state legistlature and a strong supported of the Union.
+元はバージニア出身で、米墨戦争でのカーニーによるニューメキシコ準州侵攻の際、第1ミズーリ騎馬義勇連隊の中隊長を務めた。\nミズーリ州議会議員であり、連邦の熱心な支持者であった。
 0
 0
 -1
@@ -98791,7 +98791,7 @@ false
 0
 9
 false
-Originally named Carl Johan Moeller, a son of a Swedish nobleman. A sergeant in the Royal Swedish Artillery. Emigrated to U.S. in 1852, and was one of the founders of the Svea Society.
+元の名はカール・ヨハン・メラーといい、スウェーデン貴族の息子。スウェーデン王立砲兵隊の軍曹であった。1852年に米国へ移住し、スヴェア協会の設立者の一人となった。
 0
 0
 -1
@@ -98857,7 +98857,7 @@ false
 0
 9
 false
-The "boy surveyor" of LaSalle County, IL and a railroadman.
+イリノイ州ラサール郡の「少年測量士」であり、鉄道関係者でもあった。
 0
 0
 -1
@@ -98989,7 +98989,7 @@ false
 0
 20
 true
-A Republican in the Minnesota House of Representatives in 1859 and Minnesota State Senate in 1861.
+1859年にミネソタ州議会下院、1861年にミネソタ州上院に議席を持った共和党員。
 0
 0
 -1
@@ -99121,7 +99121,7 @@ false
 0
 22
 false
-Mississippi bridge builder.
+ミシシッピの橋梁建設業者。
 0
 0
 -1
@@ -99187,7 +99187,7 @@ false
 0
 9
 false
-"The most promising layer in Illinois." -Abraham Lincoln.
+「イリノイで最も将来有望な弁護士」――エイブラハム・リンカーン
 0
 0
 -1
@@ -99319,7 +99319,7 @@ false
 0
 22
 false
-A lawyer from Warrensburg, Missouri.
+ミズーリ州ウォレンズバーグ出身の弁護士。
 0
 0
 -1
@@ -99385,7 +99385,7 @@ true
 0
 14
 false
-Graduated near the bottom of his class from West Point, was commissioned in the 1st U.S. Dragoons, but resigned three months later to become a railroad engineer.
+陸軍士官学校の卒業クラスをほぼ最下位で卒業し、第1米国竜騎兵連隊に任官したが、3か月後に軍を辞し鉄道技師となった。
 0
 0
 -1
@@ -99451,7 +99451,7 @@ true
 0
 14
 false
-Professional soldier with many frontier duties, he fought gallantly in the Battle of Buena Vista, earning a brevet promotion to captain.\nTook part in the Santa Fe Trail expedition. Resigned his commission when serving in the Army's Cavalry school in Pennsylvania.
+職業軍人として辺境勤務を数多く経験し、ブエナビスタの戦いで勇敢に戦い大尉に名誉昇進した。\nサンタフェ・トレイル遠征にも参加した。ペンシルベニアの陸軍騎兵学校勤務中に軍を辞した。
 0
 0
 -1
@@ -99517,7 +99517,7 @@ true
 0
 14
 false
-Fought in the Seminole War. Resigned commission in 1855 to become a professor at Shelby College in Kentucky.
+セミノール戦争で戦った。1855年に軍を辞し、ケンタッキー州のシェルビー・カレッジの教授となった。
 0
 0
 -1
@@ -99583,7 +99583,7 @@ false
 0
 21
 false
-A bookstore owner and member of local militia in Columbus, Mississippi.
+ミシシッピ州コロンバスの書店経営者であり、地元民兵の一員。
 0
 0
 -1
@@ -99649,7 +99649,7 @@ false
 0
 34
 false
-Volunteered to fight in the Mexican War, was elected captain, but his unit saw no action. Sheriff of Monroe County from 1856.
+米墨戦争に義勇兵として志願し大尉に選出されたが、部隊は実戦を経験しなかった。1856年よりモンロー郡保安官を務めた。
 0
 0
 -1
@@ -99715,7 +99715,7 @@ false
 0
 15
 false
-Served in the U.S. Navy from 1836 to 1854, reaching the rank of lieutenant, before resigning to become a steam ship agent.
+1836年から1854年まで海軍に勤務し中尉の階級に達した後、退役して蒸気船代理業者となった。
 0
 0
 -1
@@ -99781,7 +99781,7 @@ true
 0
 31
 false
-Commandant of Cadets in West Point 1838-1843. Fought in the Mexican War receiving brevet promotions from major through colonel. Commanded the Red River Expedition in 1856 into Minnesota and served under A.S. Johnston Utah. Commanded Department of Utah 1860-1861.
+1838年から1843年まで陸軍士官学校生徒隊長を務めた。米墨戦争に従軍し、少佐から大佐まで名誉昇進した。1856年にはミネソタへのレッドリバー遠征を指揮し、ユタではA・S・ジョンストンの下で従軍した。1860年から1861年までユタ管区を指揮した。
 0
 0
 -1
@@ -99847,7 +99847,7 @@ true
 1
 7
 false
-Senior officer of U.S. engineers on the Gulf Coast since 1838, constructing forts using rented slave labor, making him the largest renter of slaves in the area. Supervised construction of fort, for example Barrancas and Taylor in Florida. Resigned from the U.S. Army in 1856.
+1838年よりメキシコ湾岸の米国工兵隊先任将校を務め、賃借した奴隷労働力を用いて要塞を建設し、その地域最大の奴隷賃借者となった。フロリダのバランカス砦やテイラー砦などの建設を監督した。1856年に米陸軍を退役した。
 0
 0
 -1
@@ -99913,7 +99913,7 @@ true
 0
 33
 false
-Left his college studies to join the Mexican War at the age of 17. Resigned his commission in the U.S. Army after hearing news of the growing hostilities between South Carolina and the federal Government. Volunteered as a captain with the South Carolina Artillery in Charleston.
+17歳の時、大学での学業を離れ米墨戦争に従軍した。サウスカロライナ州と連邦政府との緊張の高まりを聞き、米陸軍を辞した。チャールストンのサウスカロライナ州砲兵隊に大尉として志願した。
 0
 0
 -1
@@ -99979,7 +99979,7 @@ true
 0
 18
 false
-Captain in the 10th U.S. Infantry before the war.
+戦前は第10米国歩兵連隊の大尉であった。
 0
 0
 -1
@@ -100045,7 +100045,7 @@ false
 0
 38
 false
-A graduate of the Virginia Military Institute and a veteran of the Mexican War, where he served as a 1st lieutenant with the 1st Virginia Regiment.
+バージニア軍事大学校卒業生であり米墨戦争の退役軍人で、第1バージニア連隊の中尉として従軍した。
 0
 0
 -1
@@ -100111,7 +100111,7 @@ false
 0
 34
 false
-Joined the U.S. Army in 1818 and served under Andrew Jackson, a hero of the War of 1812, as a 2nd lieutenant in the 1st U.S. Infantry. In June 1834 he beat a female slave to death with a cane, but was acquitted in 1835. Fought in the Indian Wars and the Mexican War, where he commanded the 2nd Dragoons, but was replaced due to bad temper, but continued in the war and was brevetted a brigadier general.
+1818年に陸軍へ入隊し、米英戦争の英雄アンドリュー・ジャクソンの下、第1米国歩兵連隊の少尉として従軍した。1834年6月、杖で女性奴隷を殴打し死亡させたが、1835年に無罪となった。インディアン戦争と米墨戦争で戦い、米墨戦争では第2竜騎兵連隊を指揮したが、気性の荒さから更迭された。それでも戦争には従軍を続け、准将に名誉昇進した。
 0
 0
 -1
@@ -100177,7 +100177,7 @@ false
 0
 16
 true
-Advocate of prohibition and later abolition of slavery, he served as the Mayor of Portland, Maine, on the Whig ticket, 1850-1852 and 1855-1858. His policies lead to Portland Rum Riot in 1855.
+禁酒運動、後に奴隷制廃止運動の提唱者であり、1850年から1852年、および1855年から1858年、ホイッグ党員としてメイン州ポートランド市長を務めた。その政策は1855年のポートランド・ラム暴動を招いた。
 0
 0
 -1
@@ -100639,7 +100639,7 @@ false
 0
 27
 false
-Yale University graduate and a member of the Whig party. A cadidate for the governorship of New York in 1854.
+イェール大学卒業生であり、ホイッグ党員。1854年のニューヨーク州知事選挙候補者。
 0
 0
 -1
@@ -100705,7 +100705,7 @@ false
 0
 9
 false
-A music teacher and a band leader in Jacksonville, Illinois.
+イリノイ州ジャクソンビルの音楽教師であり楽団指揮者。
 0
 0
 -1
@@ -100771,7 +100771,7 @@ false
 0
 14
 false
-Enlisted as a private in the U.S. Army during the Mexican War, and was promoted to 2nd lieutenant. Fought in the Battle of Buena Vista. Was active in militia before the Civil War.
+米墨戦争では米陸軍に一兵卒として入隊し、少尉に昇進した。ブエナビスタの戦いで戦った。南北戦争前は民兵として活動した。
 0
 0
 -1
@@ -100837,7 +100837,7 @@ false
 0
 9
 false
-Born in Northumberland, England. Came to the U.S. in 1851 and worked as a newspaper publisher.
+イングランドのノーサンバーランドに生まれた。1851年に米国へ渡り、新聞発行業に従事した。
 0
 0
 -1
@@ -100903,7 +100903,7 @@ false
 0
 29
 true
-A member of the Ohio House of Representatives.
+オハイオ州議会下院議員。
 0
 0
 -1
@@ -100969,7 +100969,7 @@ true
 0
 27
 false
-Served in the Mexican War, but resigned from the service in 1853 to become a civil engineer. Was appointed the engineer-in-chief of Central Park, NY, in 1856.
+米墨戦争に従軍したが、1853年に軍を辞し土木技師となった。1856年にはニューヨークのセントラルパーク主任技師に任命された。
 0
 0
 -1
@@ -101035,7 +101035,7 @@ false
 0
 28
 true
-A democratic member of the U.S. House of Representatives 1843-1845 and 1847-1858. U.S. senator from North Carolina 1858-1861. Nickname "Prince of Politicians".
+1843年から1845年、および1847年から1858年まで連邦下院議員(民主党)を務めた。1858年から1861年までノースカロライナ州選出の連邦上院議員。渾名は「政治家の王子」。
 0
 0
 -1
@@ -101101,7 +101101,7 @@ true
 1
 28
 false
-A veteran of the Aroostock War, the Mexican War and the Utah War. Brevetted major in Mexico, where he lost his right arm to a grapeshot, earning nickname "Old One Wing."
+アルーストゥック戦争、米墨戦争、ユタ戦争の退役軍人。米墨戦争では葡萄弾により右腕を失いながらも少佐に名誉昇進し、「片翼の老人」の渾名を得た。
 0
 0
 -1
@@ -101233,7 +101233,7 @@ false
 0
 7
 false
-A sailor, lawyer and cotton speculator.
+船乗り、弁護士、そして綿花相場師。
 0
 0
 -1
@@ -101299,7 +101299,7 @@ false
 0
 31
 false
-Enlisted the army in 1833, and served in the 2nd Dragoons and 2nd Cavalry, being promoted to first sergeant.
+1833年に軍へ入隊し、第2竜騎兵連隊と第2騎兵連隊に勤務し、一等軍曹に昇進した。
 0
 0
 -1
@@ -101365,7 +101365,7 @@ false
 0
 19
 false
-Practiced law in Detroit.
+デトロイトで弁護士業を営んだ。
 0
 0
 -1
@@ -101431,7 +101431,7 @@ false
 0
 18
 false
-Adventurer, who went to Europe and offered his sword to Turkish Government at the beginning of the Crimean War. Served in the staff of Omar Pasha, and was presented with a sword by the Foreign Legion.
+冒険家で、クリミア戦争の勃発時にヨーロッパへ渡りトルコ政府に仕官を申し出た。オマル・パシャの幕僚として勤務し、外人部隊から剣を贈られた。
 0
 0
 -1
@@ -101497,7 +101497,7 @@ true
 0
 40
 false
-Expelled from the U.S. Naval Academy for pranks and poor scholarship, but reinstated after pleading to U.S. Secretary of the Navy Gideon Welles.
+悪ふざけと成績不振により海軍兵学校を退学処分となったが、海軍長官ギデオン・ウェルズに嘆願し復学を認められた。
 0
 0
 -1
@@ -101563,7 +101563,7 @@ true
 0
 30
 false
-Appointed to the U.S. Naval Academy in 1858 as the first Oregonian in history.
+1858年、オレゴン州出身者として史上初めて海軍兵学校への入学を認められた。
 0
 0
 -1
@@ -101629,7 +101629,7 @@ false
 0
 0
 false
-Sheriff of Lawrence County, 1846-1852. Steamboat captain on the Tennessee River.
+1846年から1852年までローレンス郡保安官を務めた。テネシー川の蒸気船船長。
 0
 0
 -1
@@ -101695,7 +101695,7 @@ false
 0
 35
 true
-Served in the Mexican War as a lieutenant colonel. Served in the U.S. Congress 1854-1856.
+米墨戦争では中佐として従軍した。1854年から1856年まで連邦議会議員を務めた。
 0
 0
 -1
@@ -101761,7 +101761,7 @@ true
 0
 34
 false
-Studied at the cavalry school at Carlisle Barracks and was assigned to the Regiment of Mounted Rifles. Took part in the Indian Wars in New Mexico.
+カーライル兵営の騎兵学校で学び、騎馬ライフル連隊に配属された。ニューメキシコのインディアン戦争に参加した。
 0
 0
 -1
@@ -101827,7 +101827,7 @@ true
 0
 3
 false
-Fought with distinction in the Mexican War and was commended for bravery twice.\nIn 1854 his company attacked Native Indians, but Judah was too drunk to command, or even ride a horse, and had delirium tremens afterwards. Has a reputation of alcoholism since.
+米墨戦争で目覚ましい活躍を見せ、勇敢さにより2度表彰された。\n1854年、彼の中隊が先住民を攻撃した際、ジューダは泥酔しており指揮どころか馬に乗ることすらできず、その後は振戦せん妄を発症した。以来アルコール依存症との評判が定着している。
 0
 0
 -1
@@ -101893,7 +101893,7 @@ false
 0
 14
 false
-Served in the Mexican War with the 2nd Kentucky Volunteer Infantry. Became a bank director in 1853.
+米墨戦争では第2ケンタッキー義勇歩兵連隊で従軍した。1853年に銀行の頭取となった。
 0
 0
 -1
@@ -101959,7 +101959,7 @@ false
 0
 11
 false
-Served with the 5th Indiana Infantry in the Mexican War. A member of Indiana Legislature.
+米墨戦争では第5インディアナ歩兵連隊で従軍した。インディアナ州議会議員。
 0
 0
 -1
@@ -102025,7 +102025,7 @@ false
 0
 11
 false
-Lawyer from Harvard Law School.
+ハーバード・ロースクール出身の弁護士。
 0
 0
 -1
@@ -102091,7 +102091,7 @@ false
 0
 17
 false
-Fought in the Mexican War, and wrote a book called Memoirs of a Maryland Volunteer about his experience.
+米墨戦争で戦い、その経験を綴った著書『Memoirs of a Maryland Volunteer』を著した。
 0
 0
 -1
@@ -102157,7 +102157,7 @@ false
 0
 9
 false
-2nd lieutenant in the Chicago Shield Guards before the Civil War.
+南北戦争前はシカゴ・シールド・ガーズの少尉であった。
 0
 0
 -1
@@ -102223,7 +102223,7 @@ true
 0
 29
 false
-Fought the Comanche Indians during frontier duty, and took part in expeditions to Utah, California 
+辺境勤務中にコマンチ族と戦い、ユタおよびカリフォルニアへの遠征にも参加した。
 0
 0
 -1
@@ -102421,7 +102421,7 @@ false
 0
 29
 false
-A lawyer, an active Republican and an abolitionist. Something quite presidential about him.
+弁護士であり、活発な共和党員にして奴隷制廃止論者。どこか大統領らしい風格を漂わせている。
 0
 0
 -1
@@ -102553,7 +102553,7 @@ false
 0
 13
 false
-An immigrant from Scotland, a newspaper correspondent, lawyer and founder of Salina, Kansas.
+スコットランドからの移民で、新聞記者、弁護士であり、カンザス州サライナの創設者。
 0
 0
 -1
@@ -102619,7 +102619,7 @@ false
 0
 13
 false
-Land owner, lumber businessman and founder of Elmira, Kansas.
+地主であり材木実業家で、カンザス州エルマイラの創設者。
 0
 0
 -1
@@ -102685,7 +102685,7 @@ false
 0
 29
 false
-Served on gunboats during the Mexican War, giving support to general Scott's army. Served in Mediterranean and Caribbean squadrons.
+米墨戦争では砲艦に乗り組み、スコット将軍の軍を支援した。地中海およびカリブ海の艦隊にも勤務した。
 0
 0
 -1
@@ -102751,7 +102751,7 @@ false
 0
 38
 false
-Joined the U.S. Navy in 1827 and served in the Mexican War onboard Vesuvius, supporting landings at Tuxpan and Tabasco.
+1827年に海軍へ入隊し、米墨戦争では米艦ヴェスヴィアス号に乗り組み、トゥスパンおよびタバスコへの上陸作戦を支援した。
 0
 0
 -1
@@ -102817,7 +102817,7 @@ false
 0
 34
 true
-Graduated from the University of Nashville, becoming friends with future President James K. Polk. Played an important role in Polk's nomination.\nPromoted to brigadier general of volunteers for the Mexican War, where he feuded with Winfield Scott, and wrote to newspaper praising himself under an alias. He was discharged from the Army in 1848, but Polk saved his face.
+ナッシュビル大学を卒業し、後の大統領ジェームズ・K・ポークと友人になった。ポークの指名獲得に重要な役割を果たした。\n米墨戦争では義勇兵准将に昇進したが、ウィンフィールド・スコットと対立し、匿名で自らを称賛する投書を新聞に送った。1848年に軍を免職となったが、ポークの計らいにより体面を保った。
 0
 0
 -1
@@ -103411,7 +103411,7 @@ false
 0
 28
 true
-From the Caribbean, son of a Danish man and a slave, Reed became first an officer in the Danish Army before emigrating to New York where he studied law and made major political connections.
+カリブ海地域出身で、デンマーク人男性と奴隷の女性の間に生まれた。まずデンマーク軍の将校となった後、ニューヨークへ移住して法律を学び、有力な政治的人脈を築いた。
 0
 0
 -1
@@ -104929,7 +104929,7 @@ false
 1
 8
 false
-Born in Marseille, France, Auguste Bonaud became known as a liquor merchant Augustus Bonaud in Savannah, GA.
+フランスのマルセイユに生まれ、ジョージア州サバンナで酒類商人オーガスタス・ボノーとして知られるようになった。
 0
 0
 -1
@@ -104995,7 +104995,7 @@ false
 0
 34
 true
-Fought as a volunteer lieutenant in the Tennessee militia in the 2nd Seminole War in Florida, 1836.\nA three term Whig congressman from Tennessee. A strong supporter of states' rights, but opposed secession.
+1836年、フロリダの第二次セミノール戦争でテネシー州民兵の義勇兵中尉として戦った。\nテネシー州選出のホイッグ党連邦議会議員を3期務めた。州権の強力な支持者であったが、分離独立には反対していた。
 0
 0
 -1
@@ -105061,7 +105061,7 @@ false
 0
 18
 false
-A supporter of abolitionism, and a patriot, but considered having difficulties with authorities.
+奴隷制廃止運動の支持者であり愛国者だが、上官との折り合いに難があると見なされている。
 0
 0
 -1
@@ -105127,7 +105127,7 @@ false
 0
 18
 false
-An Irish immigrant, moved to U.S. in 1844. Joined the regular army in 1851, serving with the 2nd U.S. Cavalry and fighting in the Indian campaigns in Florida and Oregon.
+アイルランド系移民で、1844年に米国へ移住した。1851年に正規軍に入隊し、第2米国騎兵連隊に勤務、フロリダおよびオレゴンでのインディアン作戦で戦った。
 0
 0
 -1
@@ -105457,7 +105457,7 @@ true
 0
 31
 false
-After graduating from West Point in 1859, was an aide to Robert E. Lee in the hanging of John Brown.
+1859年に陸軍士官学校を卒業後、ジョン・ブラウン処刑の際にロバート・E・リーの副官を務めた。
 0
 0
 -1
@@ -105523,7 +105523,7 @@ false
 0
 40
 false
-Served in the Mexican War, rising to the rank of Captain. Farmer and a Colonel of the Wisconsin State Militia.
+米墨戦争に従軍し大尉まで昇進した。農民であり、ウィスコンシン州民兵の大佐。
 0
 0
 -1
@@ -105655,7 +105655,7 @@ false
 0
 25
 true
-A Harvard University graduate, member of New Hampshire House of Representatives 1845-1849, a Republican Congressman 1859-1863 and a strong supporter of Abraham Lincoln.
+ハーバード大学卒業生で、1845年から1849年までニューハンプシャー州議会下院議員、1859年から1863年まで共和党所属の連邦議会議員を務め、エイブラハム・リンカーンの熱心な支持者であった。
 0
 0
 -1
@@ -105787,7 +105787,7 @@ false
 0
 27
 false
-A Baptist Minister from New York.
+ニューヨーク出身のバプテスト派牧師。
 0
 0
 -1
@@ -106117,7 +106117,7 @@ false
 0
 15
 false
-A lawyer and cotton planter.
+弁護士であり綿花プランテーション経営者。
 0
 0
 -1
@@ -106183,7 +106183,7 @@ false
 0
 38
 false
-A lawyer, newspaperman, and a pre-war militia lieutenant of the Wythe Grays. Led his a company of militia during the John Brown affair in 1859.
+弁護士、新聞人であり、戦前はワイス・グレイズの民兵中尉であった。1859年のジョン・ブラウン事件では民兵中隊を率いた。
 0
 0
 -1
@@ -106381,7 +106381,7 @@ false
 0
 38
 false
-Served in the Mexican War as a 2nd Lt. A freemason and an active militia officer of Petersburg militia. Was officer of the day at John Brown's hanging.
+米墨戦争では少尉として従軍した。フリーメイソン会員であり、ピーターズバーグ民兵の活発な将校であった。ジョン・ブラウンの処刑では当番将校を務めた。
 0
 0
 -1
@@ -106447,7 +106447,7 @@ false
 0
 0
 false
-Received education at Virginia Military Institute and attended West Point in 1846, but was dismissed for failing mathematics. Served in the Mexican War as a 1st Lt. of voltiguers.\nMoved to California as a Forty-Niner and practiced law there. Accompanied William Walker and his filibusters as a colonel during Nicaragua Expedition in 1856.
+バージニア軍事大学校で教育を受け、1846年に陸軍士官学校へ入学したが、数学の落第により退学となった。米墨戦争ではヴォルティジュールの中尉として従軍した。\nフォーティナイナーとしてカリフォルニアへ渡り、そこで弁護士業を営んだ。1856年のニカラグア遠征では大佐としてウィリアム・ウォーカーとその私兵団に同行した。
 0
 0
 -1
@@ -106645,7 +106645,7 @@ false
 0
 8
 false
-Served with the U.S. Army in the Seminole Wars in Florida.
+フロリダのセミノール戦争で米陸軍に従軍した。
 0
 0
 -1
@@ -106777,7 +106777,7 @@ false
 1
 8
 false
-Educated in the Georgia Military Institute.
+ジョージア軍事大学校で教育を受けた。
 0
 0
 -1
@@ -106909,7 +106909,7 @@ false
 0
 38
 false
-Educated in the Virginia Military Institute, graduating with first honors in 1857. Was the assistant professor of mathematics at VMI until 1861.
+バージニア軍事大学校で教育を受け、1857年に首席で卒業した。1861年まで同校で数学の助教を務めた。
 0
 0
 -1
@@ -106975,7 +106975,7 @@ false
 0
 38
 true
-Virginia's third Lieutenant Governor in 1857, President of Virginia Senate 1857-1860.
+1857年、バージニア州第3代副知事。1857年から1860年までバージニア州上院議長。
 0
 0
 -1
@@ -107041,7 +107041,7 @@ false
 0
 38
 false
-Commanded the USS Southern Star in the Paraguay Expedition 1858-59.
+1858年から1859年のパラグアイ遠征で米艦サザン・スター号を指揮した。
 0
 0
 -1
@@ -107107,7 +107107,7 @@ true
 0
 15
 false
-Entered the US Navy at the age of 13. In 1840 appointed Sub-lieutenant. Served in the Mexican War after graduating from the Naval Academy.
+13歳で海軍に入隊した。1840年に少尉に任命された。海軍兵学校卒業後、米墨戦争に従軍した。
 0
 0
 -1
@@ -107173,7 +107173,7 @@ false
 0
 31
 false
-Attended naval school in Norfolk, VA. Served on the U.S. Exporing Expedition and was among the first to sight the Antarctic mainland.
+バージニア州ノーフォークの海軍学校に学んだ。米国探検遠征隊に参加し、南極大陸を最初に視認した一人となった。
 0
 0
 -1
@@ -107239,7 +107239,7 @@ false
 0
 35
 false
-Born in Ireland, immigrated to U.S. in 1846 to escape the Great Famine.
+アイルランドに生まれ、大飢饉を逃れるため1846年に米国へ移住した。
 0
 0
 -1
@@ -107305,7 +107305,7 @@ false
 1
 35
 false
-Graduated from the U.S. Naval Acadamy in the late 1840s, before operating a plantation in Fairfield, AL.
+1840年代後半に海軍兵学校を卒業した後、アラバマ州フェアフィールドでプランテーションを経営した。
 0
 0
 -1
@@ -107371,7 +107371,7 @@ false
 0
 35
 false
-Born in France as Xavier Blanchard. Attended the Escole speciale militaire de Saint-Cyr. Immigrated to the U.S. in 1848 after a disagreement with the French Government.
+フランスにグザヴィエ・ブランシャールとして生まれた。サン=シール陸軍特別士官学校に学んだ。フランス政府との対立の後、1848年に米国へ移住した。
 0
 0
 -1
@@ -107437,7 +107437,7 @@ false
 0
 35
 true
-Elected to the Texas House of Representatives in 1861. An ardent supporter of state rights.
+1861年にテキサス州議会下院議員に選出された。州権の熱心な支持者。
 0
 0
 -1
@@ -107503,7 +107503,7 @@ false
 0
 19
 false
-Born in Scotland and immigrated to the U.S. in 1843 to later become a teacher.
+スコットランドに生まれ、1843年に米国へ移住し、後に教師となった。
 0
 0
 -1
@@ -107569,7 +107569,7 @@ false
 1
 35
 false
-The first Texan appointed to West Point, 1846. Deficient in French and mathematics, he resigned. Commissioned into the U.S. Army in 1856 as 2nd Lt.
+1846年、テキサス出身者として初めて陸軍士官学校への入学を認められた。フランス語と数学が不振で退学した。1856年、少尉として米陸軍に任官した。
 0
 0
 -1
@@ -107635,7 +107635,7 @@ false
 0
 7
 true
-Enlisted in the West Point in 1823, but dropped out due to physical challenges. Served in the Second Seminole War as a surgeon with the Florida Mounted Volunteers.\nA Whig, Know Nothing and Democrat politician in Florida since 1845.
+1823年に陸軍士官学校へ入学したが、身体的な問題により中退した。第二次セミノール戦争ではフロリダ騎馬義勇兵の軍医として従軍した。\n1845年よりフロリダでホイッグ党、ノウナッシング党、民主党の政治家として活動した。
 0
 0
 -1
@@ -107701,7 +107701,7 @@ false
 0
 27
 true
-A New York politician, whose career includes being Mayor of Oswego and a member of New York State Assembly.
+ニューヨークの政治家で、オスウィーゴ市長やニューヨーク州議会議員を歴任した。
 0
 0
 -1
@@ -107965,7 +107965,7 @@ true
 0
 27
 false
-Entered the U.S. Navy as a midshipman in 1841. After graduating from Naval Academy, served on an expedition to chart North Pacific. Cape Roe on Tanegashima, Japan, is named for him.
+1841年に海軍士官候補生として海軍に入隊した。海軍兵学校卒業後、北太平洋の海図作成遠征に参加した。日本の種子島にある「ロー岬」は彼にちなんで名付けられている。
 0
 0
 -1
@@ -108031,7 +108031,7 @@ false
 0
 11
 false
-Served in the Mexican War as a sergeant in the 4th Illinois Infantry Regiment and later as a private in the 3rd Battalion of the Louisiana Infantry.
+米墨戦争では第4イリノイ歩兵連隊の軍曹として、後にルイジアナ歩兵第3大隊の一兵卒として従軍した。
 0
 0
 -1
@@ -108097,7 +108097,7 @@ true
 0
 29
 false
-Before the Civil War served as an adjutant to Col. A.S. Johnston and Lt.Col. Robert E. Lee in the 2nd U.S. Cavalry.
+南北戦争前は第2米国騎兵連隊で、A・S・ジョンストン大佐およびロバート・E・リー中佐の副官を務めた。
 0
 0
 -1
@@ -108163,7 +108163,7 @@ true
 0
 27
 false
-During his West Point studies, he was a teaching assistant, but allowed offensive jokes and drawings on the blackboard, and was dismissed. He was allowed back in after U.S. Senator Stephen A. Douglas appealed the decisionto the Secretary of War.
+陸軍士官学校在学中は教育助手を務めたが、黒板への不快な冗談や落書きを許したために退学処分を受けた。連邦上院議員スティーブン・A・ダグラスが陸軍長官に決定の再考を訴えたことにより復学を許された。
 0
 0
 -1
@@ -108295,7 +108295,7 @@ false
 0
 11
 false
-Veteran of the Mexican War, where he served in the First Regiment of Indiana Volunteers.
+米墨戦争の退役軍人で、第1インディアナ義勇連隊で従軍した。
 0
 0
 -1
@@ -108361,7 +108361,7 @@ false
 0
 27
 false
-Has a Ph.D. in History from and taught in Syracuse University. Principal of Fairfield Seminary.
+歴史学の博士号を持ち、シラキュース大学で教鞭を執った。フェアフィールド神学校の校長。
 0
 0
 -1
@@ -108493,7 +108493,7 @@ true
 0
 27
 false
-Brother in law of J.E.B. Stuart.
+J・E・B・スチュアートの義兄弟。
 0
 0
 -1
@@ -108559,7 +108559,7 @@ false
 0
 11
 false
-Served in the Mexican War as a Second Lieutenant in 4th Regiment Indiana Infantry.
+米墨戦争では第4インディアナ歩兵連隊の少尉として従軍した。
 0
 0
 -1
@@ -108889,7 +108889,7 @@ false
 0
 12
 false
-A veteran of the Mexican War, where he fought with the 2nd Kentucky Volunteer Infantry, rising to rank of sergeant.
+米墨戦争の退役軍人で、第2ケンタッキー義勇歩兵連隊で戦い、軍曹まで昇進した。
 0
 0
 -1
@@ -109021,7 +109021,7 @@ false
 0
 11
 false
-Has a habit of taking one too many drinks in a bad company...
+良からぬ仲間と飲み過ぎる癖がある……
 0
 0
 -1
@@ -109087,7 +109087,7 @@ false
 0
 40
 true
-Member of the Wisconsin State Assembly in 1861 as a Republican, and Sheriff of Grant County since 1861.
+1861年、共和党員としてウィスコンシン州議会議員、また同年よりグラント郡保安官を務めた。
 0
 0
 -1
@@ -109219,7 +109219,7 @@ false
 0
 11
 true
-An active campaign speaker for the Republican ticket in 1856, and in 1860 was elected to the Indiana House of Representatives as a Republican in a strong Democratic district.
+1856年には共和党候補の応援演説者として活動し、1860年には民主党の地盤が強い選挙区でありながら共和党員としてインディアナ州議会下院議員に選出された。
 0
 0
 -1
@@ -109285,7 +109285,7 @@ false
 0
 12
 true
-Chairman of the Iowa State Democratic Committee.
+アイオワ州民主党委員会委員長。
 0
 0
 -1
@@ -109351,7 +109351,7 @@ false
 0
 22
 false
-Born in Prussia, and has a military education from the cadet school in Kulm and then the Military Academy in Berlin, Germany. Emigrated to U.S. in 1834, but returned to Prussia to serve one year as a lieutenant.
+プロイセンに生まれ、クルムの幼年学校、続いてドイツ・ベルリンの陸軍士官学校で軍事教育を受けた。1834年に米国へ移住したが、プロイセンに戻り中尉として1年間軍務に就いた。
 0
 0
 -1
@@ -109417,7 +109417,7 @@ false
 0
 39
 false
-A lifelong friend of certain Thomas J. Jackson.
+とある人物、トーマス・J・ジャクソンの生涯の友人。
 0
 0
 -1
@@ -109483,7 +109483,7 @@ false
 0
 11
 true
-Served in the Mexican War as a captain in Company B, 4th Indiana Infantry. Served in the Indiana Senate 1850-52, 1855 and 1857.
+米墨戦争では第4インディアナ歩兵連隊B中隊の大尉として従軍した。1850年から1852年、1855年、1857年にインディアナ州上院議員を務めた。
 0
 0
 -1
@@ -109549,7 +109549,7 @@ false
 0
 40
 false
-Born in Ontario, Canada. Served in the Mexican War in the Third U.S. Artillery.
+カナダのオンタリオに生まれた。米墨戦争では第3米国砲兵連隊で従軍した。
 0
 0
 -1
@@ -109747,7 +109747,7 @@ false
 0
 22
 true
-An Irish immigrant, who became politically active in Missouri Democratic Party and militia organizations. Lieutenant of the Washington Blues militia company, but resigned due to secessionist views within its ranks.
+アイルランド系移民で、ミズーリ州民主党や民兵組織で政治活動に従事した。ワシントン・ブルーズ民兵中隊の中尉であったが、隊内の分離独立派の意向により辞任した。
 0
 0
 -1
@@ -109813,7 +109813,7 @@ false
 0
 9
 true
-Member of Illinois State Legistlature.
+イリノイ州議会議員。
 0
 0
 -1
@@ -110341,7 +110341,7 @@ false
 0
 27
 false
-Born in Scotland and immigrated to the U.S. in 1840. In 1858 joined the 79th Cameron Highlanders regiment of militia.
+スコットランドに生まれ、1840年に米国へ移住した。1858年、民兵の第79キャメロン・ハイランダーズ連隊に加わった。
 0
 0
 -1
@@ -110473,7 +110473,7 @@ false
 0
 11
 true
-A member of the Indiana House of Representatives in 1850, and judge of the Court of Common Pleas 1859-1861.
+1850年にインディアナ州議会下院議員、1859年から1861年まで民事裁判所判事を務めた。
 0
 0
 -1
@@ -111067,7 +111067,7 @@ false
 0
 29
 false
-Fought in the Mexican War as a captain in the 1st Ohio Infantry.
+米墨戦争では第1オハイオ歩兵連隊の大尉として従軍した。
 0
 0
 -1
@@ -111199,7 +111199,7 @@ false
 0
 13
 false
-Considered the most brutal and unscrupulous of the jayhawker during the Bleeding Kansas.
+「流血のカンザス」時代のジェイホーカーの中でも、最も残忍で無節操な人物とされている。
 0
 0
 -1
@@ -111265,7 +111265,7 @@ false
 0
 13
 false
-Served with the 4th U.S. Artillery Regiment in Texas from 1853 to 1856, promoted to the rank of orderly sergeant.
+1853年から1856年までテキサスで第4米国砲兵連隊に勤務し、伝令軍曹に昇進した。
 0
 0
 -1
@@ -111463,7 +111463,7 @@ false
 0
 22
 true
-A member of the Missouri legislature, 1844-45
+1844年から1845年までミズーリ州議会議員を務めた。
 0
 0
 -1
@@ -111595,7 +111595,7 @@ true
 0
 27
 false
-Fought in the Mexican War, in the battles of Cerro Gordo and Chapultepec, where he lost his left arm.
+米墨戦争のセロ・ゴルドおよびチャプルテペックの戦いで戦い、左腕を失った。
 0
 0
 -1
@@ -111661,7 +111661,7 @@ true
 0
 40
 false
-A veteran of the Mexican War, where he received brevet promotion to 1st lieutenant. After the war, he served mostly on frontier duty in New Mexico and Texas.
+米墨戦争の退役軍人で、中尉に名誉昇進した。戦後は主にニューメキシコおよびテキサスの辺境勤務に従事した。
 0
 0
 -1
@@ -112057,7 +112057,7 @@ false
 0
 29
 true
-A member of the Ohio General Assembly. A lawyer in Kansas, fighting against slavery during the Bleeding Kansas. Served in the Wyandotte Constitution convention. Continued to practice law in Colorado Territory.
+オハイオ州議会議員。カンザスで弁護士として「流血のカンザス」時代に奴隷制と戦った。ワイアンドット憲法制定会議にも参加した。コロラド準州でも弁護士業を続けた。
 0
 0
 -1
@@ -112255,7 +112255,7 @@ false
 0
 16
 true
-Actually named "Hincks", but the letter c was deleted when he joined the army.\nServed in the Massachusetts House of Representatives and Boston City Council in 1855.
+本来の姓は「ヒンクス」だが、軍に入る際に「c」の文字が省かれた。\n1855年、マサチューセッツ州議会下院議員およびボストン市議会議員を務めた。
 0
 0
 -1
@@ -112387,7 +112387,7 @@ true
 0
 27
 false
-Commanded the artillery in the Arickaree Expedition. Fought in the Second Seminole War and in the Mexican War.
+アリカリー遠征で砲兵を指揮した。第二次セミノール戦争と米墨戦争でも戦った。
 0
 0
 -1
@@ -112519,7 +112519,7 @@ false
 0
 27
 false
-Railroad and bridge designer since 1845, and assistant to the chief of the U.S. Army Corps of Topographical Engineers.
+1845年より鉄道・橋梁設計技師として活動し、米陸軍地形技術部隊長の補佐も務めた。
 0
 0
 -1
@@ -112585,7 +112585,7 @@ false
 0
 40
 true
-Served in the second Wisconsin Constitutional Convention of 1847, where he helped drafted the present Wisconsin Constitution. He also served in the Wisconsin State Assembly in 1853.
+1847年の第二次ウィスコンシン憲法制定会議に参加し、現行のウィスコンシン州憲法の起草に携わった。1853年にはウィスコンシン州議会議員も務めた。
 0
 0
 -1
@@ -112915,7 +112915,7 @@ false
 0
 35
 false
-Full name: Prince Camille Armand Jules Marie de Polignac. A Frenchman, who served in the Crimean War, and happened to visit the southern U.S. in 1860.
+本名カミーユ・アルマン・ジュール・マリー・ド・ポリニャック公爵。フランス人で、クリミア戦争に従軍し、1860年にたまたま米国南部を訪れていた。
 0
 0
 -1
@@ -112981,7 +112981,7 @@ false
 0
 2
 true
-Elected to two non-consecutive terms in the Arkansas House of Representatives and also served as a circuit court judge.
+アーカンソー州議会下院議員に非連続で2期選出され、巡回裁判所判事も務めた。
 0
 0
 -1
@@ -113047,7 +113047,7 @@ false
 0
 35
 true
-Served in the Texas volunteers during the Mexican War. Member and Speaker of the House of the Texas House of Representatives from 1848.
+米墨戦争ではテキサス義勇兵として従軍した。1848年よりテキサス州議会下院議員、後に議長を務めた。
 0
 0
 -1
@@ -113113,7 +113113,7 @@ false
 0
 35
 false
-At age 19 was the youngest graduate from West Point to be commissioned a brevet second lieutenant of infantry. Resigned from the army in 1853 to study law.
+19歳で陸軍士官学校の卒業生として最年少で名誉少尉に任官した。1853年に軍を辞し、法律を学んだ。
 0
 0
 -1
@@ -113245,7 +113245,7 @@ false
 0
 35
 true
-A member of the Texas secession convention.
+テキサス州分離独立会議の一員。
 0
 0
 -1
@@ -113311,7 +113311,7 @@ false
 0
 2
 true
-Elected to the state of Arkansas House of Representatives for the 1858 59 session.
+1858年から1859年の会期、アーカンソー州議会下院議員に選出された。
 0
 0
 -1
@@ -113377,7 +113377,7 @@ false
 0
 35
 true
-Served in Texas under Albert S. Johnston in 1835-1837, becoming a major. Helped organizing Democratic Party in Texas.
+1835年から1837年、テキサスでアルバート・S・ジョンストンの下で従軍し、少佐となった。テキサスでの民主党結成に尽力した。
 0
 0
 -1
@@ -113443,7 +113443,7 @@ false
 0
 10
 true
-A former governor of the Chocktaw Nation.
+チョクトー・ネイションの前知事。
 0
 0
 -1
@@ -113509,7 +113509,7 @@ true
 0
 35
 false
-Fought in the Mexican War in the 7th Infantry Regiment, receiving a brevet promotion. Resigned from the army in 1849 to practice law.
+米墨戦争では第7歩兵連隊で戦い、名誉昇進した。1849年に軍を辞し、弁護士業に従事した。
 0
 0
 -1
@@ -113575,7 +113575,7 @@ false
 0
 35
 true
-Received nickname "Rip" during his service in the Mexican War with the Texas Mounted Rifles, as he always wrote "Rest in Peace" after each name in his casualty lists. Served in the Texas Senate in 1852.
+米墨戦争でテキサス騎馬ライフル隊に従軍した際、戦死者名簿の各名前の後に必ず「Rest in Peace(安らかに眠れ)」と書いたことから「リップ」の渾名を得た。1852年にテキサス州上院議員を務めた。
 0
 0
 -1
@@ -113839,7 +113839,7 @@ false
 0
 35
 true
-A member of Provisional Confederate Congress from Texas in 1861.
+1861年、テキサス州選出の南軍臨時議会議員。
 0
 0
 -1
@@ -113905,7 +113905,7 @@ true
 0
 21
 false
-During his military service in the Mexican War, he was wounded at the Battles of Monterrey and Buena Vista. He was awarded a congressional award and a sword from the State of New Jersey and became an original member of the Aztec Club of 1847. He rose to the rank of Captain, but resigned his commission in May 1856 to become a planter in Mississippi.
+米墨戦争での軍務中、モンテレーおよびブエナビスタの戦いで負傷した。議会表彰とニュージャージー州からの剣を授与され、1847年設立のアズテック・クラブの原会員となった。大尉まで昇進したが、1856年5月に軍を辞し、ミシシッピでプランテーション経営者となった。
 0
 0
 -1
@@ -113971,7 +113971,7 @@ false
 0
 34
 false
-Humes entered the Virginia Military Institute (VMI) on November 20, 1848, and graduated second in a class of 29 cadets on July 4, 1851, making him a "distinguished graduate."
+1848年11月20日にバージニア軍事大学校(VMI)へ入学し、1851年7月4日、29名の卒業クラスを2位で卒業し「優等卒業生」となった。
 0
 0
 -1
@@ -114103,7 +114103,7 @@ false
 0
 34
 false
-Younger brother of Nathan B. Forrest.
+ネイサン・B・フォレストの弟。
 0
 0
 -1
@@ -114235,7 +114235,7 @@ false
 0
 14
 true
-A member of the Kentucky House of Representatives in 1857 and 1858.
+1857年および1858年、ケンタッキー州議会下院議員を務めた。
 0
 0
 -1
@@ -114301,7 +114301,7 @@ true
 0
 33
 false
-A veteran of the Mexican War. Resigned his commission in 1848. Afterwards active in the South Carolina State Militia, rising to rank of colonel.
+米墨戦争の退役軍人。1848年に軍を辞した。その後サウスカロライナ州民兵で活動し、大佐まで昇進した。
 0
 0
 -1
@@ -114433,7 +114433,7 @@ false
 0
 8
 false
-Graduate of Georgia Military Institute.
+ジョージア軍事大学校卒業生。
 0
 0
 -1
@@ -114499,7 +114499,7 @@ false
 0
 8
 false
-A Georgia lawyer, and a Judge of the City Court of Savannah from 1856 to 1861.
+ジョージアの弁護士であり、1856年から1861年までサバンナ市裁判所判事を務めた。
 0
 0
 -1
@@ -114565,7 +114565,7 @@ false
 0
 8
 true
-United States Charge d'affaires to the Austrian Empire from 1853 to 1854, and as Minister Resident to the Austrian Empire from 1854 to 1858.
+1853年から1854年まで駐オーストリア帝国米国代理公使、1854年から1858年まで駐オーストリア帝国常駐公使を務めた。
 0
 0
 -1
@@ -114631,7 +114631,7 @@ false
 0
 15
 false
-Educated at the Gambier Military Academy, he moved from Ohio to New Orleans in 1858 and was in the business of brokering cotton deals. He enlisted in the Washington Artillery in December 1860.
+ガンビア陸軍士官学校で教育を受け、1858年にオハイオからニューオーリンズへ移り、綿花取引の仲介業を営んだ。1860年12月にワシントン砲兵隊に入隊した。
 0
 0
 -1
@@ -114697,7 +114697,7 @@ false
 0
 28
 false
-Served as a Captain and Brevet Major in the 12th U.S. Infantry in the Mexican War.
+米墨戦争では第12米国歩兵連隊の大尉、名誉少佐として従軍した。
 0
 0
 -1
@@ -114763,7 +114763,7 @@ true
 0
 38
 false
-A veteran of the Mexican War, instructor at West Point from 1847-52 and Mounted Rifles officer. Author of Tactics for Mounted Rifles.
+米墨戦争の退役軍人で、1847年から1852年まで陸軍士官学校教官、また騎馬ライフル隊将校を務めた。『Tactics for Mounted Rifles』の著者。
 0
 0
 -1
@@ -114829,7 +114829,7 @@ false
 0
 14
 false
-During the Mexican American War, served in the 3rd Kentucky Infantry Regiment, at first as a private, and then as a first lieutenant.
+米墨戦争では第3ケンタッキー歩兵連隊に、最初は一兵卒として、後に中尉として従軍した。
 0
 0
 -1
@@ -114895,7 +114895,7 @@ false
 0
 34
 false
-Entered the Virginia Military Institute on July 17, 1848, and graduated 15th in a class of 29 cadets on July 4, 1851.
+1848年7月17日にバージニア軍事大学校へ入学し、1851年7月4日、29名の卒業クラスを15位で卒業した。
 0
 0
 -1
@@ -114961,7 +114961,7 @@ false
 0
 21
 false
-Enlisted as a private in the 2nd Mississippi Volunteers in 1847. Neither he nor his regiment ever saw action in the conflict.\nBeginning in 1853, he became a Southern Baptist preacher, serving primarily around the village of Kossuth, Mississippi.
+1847年、第2ミシシッピ義勇連隊に一兵卒として入隊したが、彼自身も連隊も実戦は経験しなかった。\n1853年より南部バプテスト派の説教師となり、主にミシシッピ州コスース村周辺で活動した。
 0
 0
 -1
@@ -115159,7 +115159,7 @@ false
 0
 14
 true
-Elected as a Whig to the Kentucky House of Representatives in 1850. Re-elected twice, serving until 1855. After the collapse of the Whig Party, became a Democrat.
+1850年、ホイッグ党員としてケンタッキー州議会下院議員に選出された。2度の再選を経て1855年まで務めた。ホイッグ党の崩壊後は民主党員となった。
 0
 0
 -1
@@ -115225,7 +115225,7 @@ false
 0
 7
 true
-Served as captain of mounted volunteers in the Second Seminole War in 1836.\nServed as mayor of Memphis, TN, in 1845. Elected to the Florida Senate in 1850.
+1836年、第二次セミノール戦争で騎馬義勇兵の大尉を務めた。\n1845年にはテネシー州メンフィス市長を務めた。1850年にフロリダ州上院議員に選出された。
 0
 0
 -1
@@ -115621,7 +115621,7 @@ true
 0
 15
 false
-Commissioned a second lieutenant in the 8th U.S. Infantry on July 1, 1841. Fought in Florida during the Seminole Wars until the fall of 1842. Resigned his commission from the U.S. Army in 1842.
+1841年7月1日、第8米国歩兵連隊の少尉に任官した。1842年秋まで、フロリダのセミノール戦争で戦った。1842年に米陸軍を辞した。
 0
 0
 -1
@@ -115687,7 +115687,7 @@ false
 0
 0
 true
-Elected to two terms from Kershaw County as a state legislator in South Carolina, starting November 23, 1846.\nServed in the Palmetto Regiment during the Mexican War, rising to rank of captain.
+1846年11月23日より、サウスカロライナ州カーショウ郡選出の州議会議員を2期務めた。\n米墨戦争ではパルメット連隊で従軍し、大尉まで昇進した。
 0
 0
 -1
@@ -115753,7 +115753,7 @@ false
 0
 34
 false
-An unsuccessful candidate for the United States Congress from Tennessee in 1858. He was a delegate to the Democratic National Convention in both 1856 and 1860. Joined the Freemasons and became a Master Mason in 1856.
+1858年、テネシー州選出の連邦議会議員選挙に立候補したが落選した。1856年と1860年の両方で民主党全国大会代議員を務めた。フリーメイソンに加入し、1856年にマスター・メイソンとなった。
 0
 0
 -1
@@ -115885,7 +115885,7 @@ false
 0
 14
 false
-U.S. Counsel in Bourdeux 1841-49.
+1841年から1849年まで駐ボルドー米国領事。
 0
 0
 -1
@@ -115951,7 +115951,7 @@ false
 0
 35
 false
-Enlisted in a company of Texas Rangers in 1860, being elected a captain. Fought the natives in the Battle of Pease River.
+1860年、テキサス・レンジャー中隊に入隊し大尉に選出された。ピース川の戦いで先住民と戦った。
 0
 0
 -1
@@ -116083,7 +116083,7 @@ false
 0
 35
 false
-In 1836 moved to Texas to participate in its war for independence against Mexico. Briefly served as a Texas Ranger. In 1846 joined the First Regiment, Texas Mounted Riflemen, as a first lieutenant to fight in the Mexican War. Fought with honors at the Battle of Monterey and was given the rank of major and command of his own battalion.
+1836年、対メキシコ独立戦争に参加するためテキサスへ移った。短期間テキサス・レンジャーとして勤務した。1846年、米墨戦争に従軍するため第1テキサス騎馬ライフル連隊に中尉として加わった。モンテレーの戦いで名誉ある活躍を見せ、少佐に昇進し自らの大隊を指揮した。
 0
 0
 -1
@@ -116149,7 +116149,7 @@ false
 0
 35
 false
-Moved to Texas in 1835 and fought in the Texas War of Independence. Joined the Texas Rangers and fought in the Mexican War in 1846-47 under Ben McCulloch.
+1835年にテキサスへ移住し、テキサス独立戦争で戦った。テキサス・レンジャーに加わり、1846年から1847年の米墨戦争ではベン・マッカロックの下で戦った。
 0
 0
 -1
@@ -116545,7 +116545,7 @@ false
 0
 50
 false
-A Mexican militiaman since 1837, receiving the cross of honor from the Mexican government for negotiating the surrender of about half of the Texas Santa Fe Expedition in 1841. Joined the U.S. military in 1847 after Sante Fe was surrendered in the Mexican War. Fought the Indians in U.S. militia.
+1837年よりメキシコ民兵として活動し、1841年にはテキサス・サンタフェ遠征隊の約半数の降伏交渉を行った功績によりメキシコ政府から名誉十字章を授与された。米墨戦争でサンタフェが陥落した後、1847年に米軍へ加わった。米軍民兵として先住民と戦った。
 0
 0
 -1
@@ -116611,7 +116611,7 @@ false
 0
 47
 false
-Founder of the city of Denver, Colorado.
+コロラド州デンバー市の創設者。
 0
 0
 -1
@@ -116875,7 +116875,7 @@ false
 0
 47
 false
-A Boston abolitionist and underground railroader, who was one of the 29 New England settlers who found Lawrence, Kansas. Moved to Denver, Colorado Territory in 1860.
+ボストンの奴隷制廃止論者であり地下鉄道の活動家で、カンザス州ローレンスを建設した29名のニューイングランド入植者の一人。1860年にコロラド準州デンバーへ移った。
 0
 0
 -1
@@ -117535,7 +117535,7 @@ false
 0
 35
 false
-Mustered into federal service as a private in the Texas Mounter Rangers in 1845. Fought in the battle of Monterrey in the Mexican War. Discharged in September, 1846.
+1845年、テキサス騎馬レンジャーの一兵卒として連邦軍務に就いた。米墨戦争のモンテレーの戦いで戦った。1846年9月に除隊した。
 0
 0
 -1
@@ -117865,7 +117865,7 @@ false
 1
 0
 true
-Served with the 1st Regiment of Alabama Volunteers, as a first lieutenant, in the Mexican War. Trustee of University of Alabama 1851-1860 and member of Alabama House of Representatives 1859-1860.
+米墨戦争では第1アラバマ義勇連隊の中尉として従軍した。1851年から1860年までアラバマ大学理事、1859年から1860年までアラバマ州議会下院議員を務めた。
 0
 0
 -1
@@ -118525,7 +118525,7 @@ false
 1
 38
 false
-Elected captain of the 7th Company, 39th Virginia Militia Regiment in 1842. Fought in the Mexican War in the 1st Virginia Volunteer Regiment.
+1842年、バージニア民兵第39連隊第7中隊の大尉に選出された。米墨戦争では第1バージニア義勇連隊で戦った。
 0
 0
 -1
@@ -118591,7 +118591,7 @@ false
 1
 28
 false
-Attended West Point, but resigned in 1861.
+陸軍士官学校に在籍したが、1861年に退学した。
 0
 0
 -1
@@ -119119,7 +119119,7 @@ false
 1
 28
 true
-Served as North Carolina Attorney General and as a member of the North Carolina General Assembly. Was chosen as one of the three commissioners from North Carolina to the Confederate government at Montgomery, Alabama in 1861.
+ノースカロライナ州司法長官およびノースカロライナ州議会議員を務めた。1861年、アラバマ州モンゴメリーの南軍政府への派遣代表3名の一人としてノースカロライナ州より選ばれた。
 0
 0
 -1
@@ -119515,7 +119515,7 @@ false
 1
 33
 true
-Was elected in 1860 to the South Carolina House of Representatives as a secessionist.
+1860年、分離独立派としてサウスカロライナ州議会下院議員に選出された。
 0
 0
 -1
@@ -119779,7 +119779,7 @@ false
 1
 38
 false
-Engineer for Ohio and Mississippi Railroad Company.
+オハイオ・ミシシッピ鉄道会社の技師。
 0
 0
 -1
@@ -119845,7 +119845,7 @@ true
 1
 17
 false
-Severely wounded in the 2nd Seminole War. Earned brevet promotions to major during the Mexican War.
+第二次セミノール戦争で重傷を負った。米墨戦争では少佐に名誉昇進した。
 0
 0
 -1
@@ -119911,7 +119911,7 @@ true
 1
 14
 true
-Served in the Black Hawk War and the Mexican War. Elected as a Whig to the 31st and 32nd Congresses 1849-1852 and on the American Party ticket to the 34th and 35th Congresses 1855-1859.
+ブラックホーク戦争と米墨戦争に従軍した。1849年から1852年、ホイッグ党員として第31回・第32回連邦議会に、1855年から1859年、アメリカ党員として第34回・第35回連邦議会に選出された。
 0
 0
 -1
@@ -120109,7 +120109,7 @@ false
 0
 11
 true
-Elected to the Indiana State Senate in 1860.
+1860年、インディアナ州上院議員に選出された。
 0
 0
 -1
@@ -120175,7 +120175,7 @@ false
 0
 29
 false
-Fought in the Mexican War first as a Sergeant, later promoted to Lieutenant.
+米墨戦争では最初は軍曹として、後に中尉に昇進して戦った。
 0
 0
 -1
@@ -120241,7 +120241,7 @@ false
 0
 14
 false
-A painter and a captain of the Old Infantry state guard unit in Kentucky prior to the Civil War.
+画家であり、南北戦争前はケンタッキー州兵オールド・インファントリー部隊の大尉であった。
 0
 0
 -1
@@ -120373,7 +120373,7 @@ false
 0
 14
 true
-Fought in the Mexican War as a lieutenant in the 4th Kentucky Regiment. Member of Kentucky state legislature prior to the Civil War.
+米墨戦争では第4ケンタッキー連隊の中尉として戦った。南北戦争前はケンタッキー州議会議員を務めた。
 0
 0
 -1
@@ -120571,7 +120571,7 @@ false
 0
 14
 true
-A member of Kentucky House of Representatives and Senate prior to the Civil War. Served in the Mexican War as a captain in 16th U.S. Infantry, but saw no combat.
+南北戦争前はケンタッキー州議会下院・上院議員を務めた。米墨戦争では第16米国歩兵連隊の大尉として従軍したが、実戦は経験しなかった。
 0
 0
 -1
@@ -122617,7 +122617,7 @@ false
 0
 15
 false
-Served in the Mexican War with 1st Tennessee Mounted Regiment. Commissioned a colonel by Narciso Lopez in his Cuban filibustering expedition. In 1855 joined the Juan Alvarez campaign against Santa Anna as a brigadier general in charge of artillery by the state of Guerrero.
+米墨戦争では第1テネシー騎馬連隊で従軍した。ナルシソ・ロペスによるキューバ私兵遠征では大佐に任じられた。1855年には、ゲレロ州により砲兵担当准将としてサンタ・アナに対するフアン・アルバレスの作戦に参加した。
 0
 0
 -1
@@ -122881,7 +122881,7 @@ false
 1
 38
 true
-Representative in the Virginia House of Representatives. A captain in the 1st Virginia Infantry during the Mexican War.
+バージニア州議会下院議員。米墨戦争では第1バージニア歩兵連隊の大尉であった。
 0
 0
 -1
@@ -122947,7 +122947,7 @@ false
 1
 38
 false
-Virginia Military Institute Class of 1844. Captain in the 11th Regiment in the Mexican War.
+バージニア軍事大学校1844年卒業クラス。米墨戦争では第11連隊の大尉であった。
 0
 0
 -1
@@ -123013,7 +123013,7 @@ false
 1
 8
 true
-A Whig in the Georgia General Assembly in 1847, a pro-slavery Democrat since 1849. Member of U.S. House of Representatives since 1857 until Georgia's secession.
+1847年、ホイッグ党員としてジョージア州議会議員となり、1849年より奴隷制支持の民主党員となった。1857年からジョージア州の分離独立まで連邦下院議員を務めた。
 0
 0
 -1
@@ -123079,7 +123079,7 @@ true
 1
 8
 false
-Served in the Mexican War in the 2nd U.S. Infantry Regiment. Resigned from the U.S. Army on Jan 19, 1861.
+米墨戦争では第2米国歩兵連隊で従軍した。1861年1月19日に米陸軍を辞した。
 0
 0
 -1
@@ -123805,7 +123805,7 @@ false
 1
 31
 false
-Accompanies Pennsylvania troops to the Mexican War as a sutler. Later a colonel in Pennsylvania militia.
+米墨戦争にペンシルベニア部隊の従軍商人として同行した。後にペンシルベニア州民兵の大佐となった。
 0
 0
 -1
@@ -124465,7 +124465,7 @@ false
 1
 32
 false
-In 1841 joined a militia unit called Providence Marine Corps of Artillery. By 1857 had risen to command of Rhode Island's 2nd Militia Brigade.
+1841年、プロビデンス海兵砲兵隊と呼ばれる民兵部隊に加わった。1857年までにロードアイランド州民兵第2旅団の指揮官まで昇進した。
 0
 0
 -1
@@ -124861,7 +124861,7 @@ true
 1
 25
 false
-Assistant engineer building the Cumberland Road. Superintended the construction of Forts Kearney and Laramie, and supervised construction of Fort Jefferson and the Dry Tortuga Light.
+カンバーランド道路建設の補助技師を務めた。カーニー砦およびララミー砦の建設を監督し、ジェファーソン砦とドライ・トートゥガス灯台の建設も監督した。
 0
 0
 -1
@@ -125389,7 +125389,7 @@ true
 1
 26
 false
-Served in the 2nd Seminole War and in the Mexican War. He was dismissed from the army in December 1855 for his Free State views, while on duty in Kansas.
+第二次セミノール戦争および米墨戦争に従軍した。1855年12月、カンザス勤務中に自由州派の思想を理由に軍を免職となった。
 0
 0
 -1
@@ -125521,7 +125521,7 @@ false
 1
 27
 false
-Born in Hungary. Served in the Austrian Army, but defected to the Hungarian revolutionaries in 1848.
+ハンガリーに生まれた。オーストリア軍に勤務していたが、1848年にハンガリー革命側へ寝返った。
 0
 0
 -1
