@@ -59,48 +59,48 @@ Filters
 Background
 Panel_Main
 63
-Florida
-Mississippi
-Kansas Territory
-Ohio
-Connecticut
-Massachusetts
-Michigan
-New York
-Pennsylvania
-Rhode Island
-Maine
-New Jersey
-Maryland
-Virginia
-Illinois
-Iowa
-Missouri
-Indiana
-Nebraska Territory
-South Carolina
-Kentucky
-Wisconsin
-West Virginia
-Vermont
-New Hampshire
-Delaware
-Oregon
-Minnesota
-Kansas
-Tennessee
-District of Columbia
-Georgia
-North Carolina
-Texas
-California
-Colorado Territory
-Alabama
-Arkansas
-Louisiana
-New Mexico Territory
-Indian Territory
-Unorganized Territory
+フロリダ州
+ミシシッピ州
+カンザス準州
+オハイオ州
+コネチカット州
+マサチューセッツ州
+ミシガン州
+ニューヨーク州
+ペンシルベニア州
+ロードアイランド州
+メイン州
+ニュージャージー州
+メリーランド州
+バージニア州
+イリノイ州
+アイオワ州
+ミズーリ州
+インディアナ州
+ネブラスカ準州
+サウスカロライナ州
+ケンタッキー州
+ウィスコンシン州
+ウェストバージニア州
+バーモント州
+ニューハンプシャー州
+デラウェア州
+オレゴン州
+ミネソタ州
+カンザス州
+テネシー州
+コロンビア特別区
+ジョージア州
+ノースカロライナ州
+テキサス州
+カリフォルニア州
+コロラド準州
+アラバマ州
+アーカンソー州
+ルイジアナ州
+ニューメキシコ準州
+インディアン準州
+未組織準州
 No class
 Smoothbore musket
 Rifled musket
@@ -127,9 +127,10 @@ Bottom
 Filters
 Background
 Panel_Main
-1
+2
 武器種別
-12
+Weapon type
+18
 価格
 標準化率
 射程
@@ -142,6 +143,12 @@ Panel_Main
 糧食容量
 弾薬容量
 アルファベット順
+Alphabetic
+Price
+Standardization
+Range
+Rate of fire
+Weapons in stock
 Bottom
 Filters
 Background
@@ -283,10 +290,9 @@ Background
 Projects
 1
 助成コスト
-3
+2
 アルファベット順
 助成種別
-アルファベット順
 Top
 Filters
 Background
