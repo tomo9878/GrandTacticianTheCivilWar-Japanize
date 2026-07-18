@@ -1,0 +1,99 @@
+14
+0
+None
+None
+Line of sight reduction (factor)
+1
+Line of sight reduction (factor)
+1
+1
+Foggy
+Fog limits visibility, hiding troop movement and making artillery, long range fall of shot, hard to observe.
+Line of sight reduction (factor)
+0.8
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+0.8
+2
+Light Rain
+A little drizzle won't hurt! Even if the men may complain, from general's point of view the light rain hinders visibility only slightly, while reducing dust and the lingering of smoke.
+Line of sight reduction (factor)
+0.7
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+0.2
+3
+Thunder Storm
+Heavy rain, lightning and winds. In these conditions it would be better to stay in camp. The roads and fields turn into mud slowing everything down. A cunning general with crack troops may use these conditions to hide troop movement. The conditions are very bad for the men out in the field, and the storm hinders visibility. Who would fight in such a weather?
+Line of sight reduction (factor)
+0.5
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+0
+4
+Partly Cloudy
+The weather is good for warfare. Visibility may be slightly hampered, but not much.
+Line of sight reduction (factor)
+1
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+1
+5
+Snow Storm
+With freezing cold and poor visibility, military operations are difficult. The men fall sick easily and the mortality rate for the wounded is terrible. Out in the field, desertion will be in minds of the less spirited men.
+Line of sight reduction (factor)
+0.4
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+0
+6
+Snow
+It's cold and the men are chilly. Roads and fields are quite muddy and marching is tiring. Visibility is slightly hindered.
+Line of sight reduction (factor)
+0.5
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+0
+7
+Mostly Clear
+With some clouds in the sky, weather is excellent for war. The men won't suffer from the scorching sun.
+Line of sight reduction (factor)
+1
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+1
+8
+Sunny
+It's the optimal weather for war! Visibility is good and conditions tolerable, though dust or smoke could be a problem.
+Line of sight reduction (factor)
+1
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+1.2
+9
+None
+None
+Line of sight reduction (factor)
+1
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+0.8
+10
+Storm
+The storm winds blow hard, men are chilly, the pouring rain has turned roads and fields into mud, additionally the strong winds will make long range artillery fire less accurate.
+Line of sight reduction (factor)
+0.7
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+0
+11
+Mostly Cloudy
+It is good weather for military operations all around. But there is always the chance of rain.
+Line of sight reduction (factor)
+1
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+0.8
+12
+Heavy Rain
+Everyone is miserable. The roads and fields quickly turn into mud that makes marching exhausting and wagon movement nigh on impossible. Smoke will not be a problem if the powder remains dry.
+Line of sight reduction (factor)
+0.6
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+0
+13
+Falling Leaves
+It's Fall, chilly, the rains have made the soil moist, reducing dust.
+Line of sight reduction (factor)
+1
+Dust factor when units move (0-1, 0 means no dust, 1 means full dust like unit dust value determines)
+0.7
