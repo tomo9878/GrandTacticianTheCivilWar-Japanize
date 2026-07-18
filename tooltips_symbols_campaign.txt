@@ -1,9 +1,9 @@
 0
-Timed Movement
-The unit is waiting for the ordered time to carry out its orders.
+時限移動
+この部隊は命じられた時刻に命令を実行するのを待っている。
 1
-Order is on the way
-The unit is waiting for its orders to arrive. Using telegraph lines and shortening the distance to higher headquarters reduces order delay.
+命令伝達中
+この部隊は命令の到着を待っている。電信線の利用と上級司令部までの距離短縮は命令遅延を減らす。
 2
 [empty]
 [empty]
@@ -14,8 +14,8 @@ The unit is waiting for its orders to arrive. Using telegraph lines and shorteni
 [empty]
 [empty]
 5
-Battle result
-Click to open the battle report details.
+戦闘結果
+戦闘報告の詳細を開くにはクリック。
 48
-Embarking
-This unit currently gathers vessels for naval transportation from nearby harbors. The embarkment time depends on the unit size and the distance to the closest non-blocked harbor. Units cannot embark if enemy fleets are close.
+乗船中
+この部隊は現在、近隣の港から海上輸送用の船舶を集めている。乗船にかかる時間は部隊規模と最寄りの非封鎖港までの距離による。敵艦隊が近くにいる場合、乗船はできない。
