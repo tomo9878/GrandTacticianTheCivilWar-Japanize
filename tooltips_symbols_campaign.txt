@@ -1,0 +1,21 @@
+0
+Timed Movement
+The unit is waiting for the ordered time to carry out its orders.
+1
+Order is on the way
+The unit is waiting for its orders to arrive. Using telegraph lines and shortening the distance to higher headquarters reduces order delay.
+2
+[empty]
+[empty]
+3
+[empty]
+[empty]
+4
+[empty]
+[empty]
+5
+Battle result
+Click to open the battle report details.
+48
+Embarking
+This unit currently gathers vessels for naval transportation from nearby harbors. The embarkment time depends on the unit size and the distance to the closest non-blocked harbor. Units cannot embark if enemy fleets are close.
