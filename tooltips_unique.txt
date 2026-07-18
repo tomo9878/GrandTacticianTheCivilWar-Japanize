@@ -1,54 +1,54 @@
 970
-Hide
+隠す
 
 971
-Show
+表示
 
 3000
-Current command: 
-Staff Officer
+現在の指揮: 
+参謀将校
 3001
-Home state: 
-Age: 
+出身州: 
+年齢: 
 3002
-Infamous
-Fame
+悪名高い
+名声
 3005
-Professional officer 
-Pre-War experience
+職業将校 
+戦前の経験
 3006
-promoted to
+昇進：
 
 3007
-Greenhorn
-This officer has seen little or no combat during his lifetime, or has very little experience in his current assignment, and cannot be counted on to successfully lead his men in the thick of battle.
+新米
+この将校はこれまでほとんど、あるいは全く実戦を経験しておらず、現在の任務における経験も乏しいため、激戦の最中に部下をうまく率いることは期待できない。
 3008
-Inexperienced
-This officer has seen some combat, but is still too inexperienced in his current assignment to effectively lead his men in battle.
+未熟
+この将校はいくらかの実戦を経験しているが、現在の任務においてはまだ経験不足であり、戦闘で部下を効果的に率いることはできない。
 3009
-Battle experienced
-This officer has enough experience to lead his men reliably in most combat situations in his current assignment.
+実戦経験者
+この将校は、現在の任務におけるほとんどの戦闘状況で部下を確実に率いるのに十分な経験を持つ。
 3010
-Veteran officer
-This officer has seen many battles, is comfortable in his current assignment, and can be counted on to do his duty well, even when in command of greener troops.
+古参将校
+この将校は数多くの戦闘を経験しており、現在の任務にも慣れているため、経験の浅い部隊を指揮する場合でも職務を確実に果たすことが期待できる。
 3011
-Highly experienced
-This officer is at home in the thick of the battle and knows exactly what is expected from him.
+熟練
+この将校は激戦の最中にあっても平然としており、自分に何が求められているかを正確に理解している。
 3012
-Old hand
-This officer has seen it all and knows how to utilize all his knowledge and personal attributes to the fullest, to fulfill his tasks.
+百戦錬磨
+この将校はあらゆる戦いを経験しており、自らの知識と資質を最大限に活用して任務を遂行する術を心得ている。
 3020
-Initiative
-Click to adjust!
+積極性
+クリックして調整！
 3021
-Leadership
-Click to adjust!
+統率力
+クリックして調整！
 3022
-Administration
-Click to adjust!
+管理能力
+クリックして調整！
 3023
-Cunning
-Click to adjust!
+狡知
+クリックして調整！
 3024
 [VAR74]
 [VAR75]
@@ -62,122 +62,122 @@ Click to adjust!
 [VAR80]
 [VAR81]
 3030
-Experience
+経験
 
 3031
-Uninspiring
-This officer believes that communication flows one-way in the order of battle. His men dislike him and would rather follow anyone else into battle.
+凡庸
+この将校は、命令とは一方通行で伝わるものだと考えている。部下たちは彼を嫌っており、他の誰かの下で戦うことを望んでいる。
 3032
-Backward
-This officer does not like to be around his men much if not necessary. The men share the feeling, though don't think bad of him.
+内向的
+この将校は必要がない限り部下と一緒にいることを好まない。部下たちも同様に感じているが、彼を悪くは思っていない。
 3033
-Liked
-The men trust this officer, and he knows how to lead them, though he is not what could be considered an outstanding leader.
+好かれている
+部下たちはこの将校を信頼しており、彼も部下の率い方を心得ているが、傑出した指導者とまでは言えない。
 3034
-Distinguished
-Well trusted, with noticeable leadership skills, it's a common sight seeing this officer in the thick of the battle, rallying his men.
+卓越
+厚い信頼を得ており、目立った統率力を持つ。激戦の最中に部下を鼓舞するこの将校の姿はよく見られる光景である。
 3035
-Inspiring
-The men look up to him, giving nicknames and always telling stories of his courage. This officer thrives in the thick of the battle, leading by example.
+鼓舞的
+部下たちは彼を慕い、渾名をつけ、その勇気にまつわる逸話を語り継いでいる。この将校は激戦の最中でこそ真価を発揮し、自ら手本を示して部下を率いる。
 3036
-Exemplar
-Give a cheer to our leader! The men are honoured to follow him into battle, and trust him to get them through alive. A true leader of men, he can get the most out of even greenhorns or old lags.
+模範
+我らが指揮官に歓呼を！部下たちは彼と共に戦うことを誇りとし、生きて帰してくれると信頼している。真の指導者である彼は、新米であろうと古参であろうと部下の力を最大限に引き出すことができる。
 3040
-Unknown
-That one officer, what's his name? Seems like no-one has heard of him.
+無名
+あの将校、名前は何といったか？誰も彼のことを聞いたことがないようだ。
 3041
-Insignificant
-This officer has made little impression, even if his name has come up a few times.
+無名に近い
+この将校は名前が何度か話題に上ったことはあるものの、ほとんど印象を残していない。
 3042
-Little known
-This officer is quite well known within his army, but his fame has not yet reached the lips of the masses.
+やや知られている
+この将校は自軍内ではかなり知られているが、その名声はまだ大衆の口の端に上るには至っていない。
 3043
-Renown
-Well known in the military, this officer's deeds are already being noticed by the public.
+名声あり
+軍内で広く知られており、この将校の功績はすでに一般大衆にも注目され始めている。
 3044
-Rising star
-The troops cheer when he rides past, and the people tell tales of his heroic achievements. He is well noted by the enemy as well.
+新進気鋭
+部隊は彼が通り過ぎると歓声を上げ、人々はその英雄的な功績を語り継ぐ。敵からもよく知られた存在である。
 3045
-Legendary
-Everyone knows his name and deeds. Knowing he is there, fighting for the nation, raises spirits high. Even the foreign newspapers love to write of him, and all this makes the enemy nervous when facing him and his troops!
+伝説的
+誰もがその名と功績を知っている。彼が国のために戦っていると知るだけで士気は大いに高まる。外国の新聞ですら好んで彼のことを書き立て、こうしたことすべてが、彼とその部隊に対峙する敵を不安にさせる！
 3050
-Unenterprising
-This officer seems to get nothing done without his commanders pushing him. Taking the initiative in battle is unheard of from him, and even simple tasks take a long time to prepare.
+覇気がない
+この将校は上官に急かされない限り何も進めないようだ。戦闘で自ら主導権を取ることなど聞いたためしがなく、単純な作業でさえ準備に長い時間を要する。
 3051
-Passive
-Not only cautious, but also incapable. This commander would rather have someone tell him exactly what to do, than to make a decision of his own.
+消極的
+慎重であるだけでなく、無能でもある。この指揮官は自分で判断を下すより、誰かに正確な指示を出してもらうことを好む。
 3052
-Cautious
-To take the initiative, this officer requires perfect conditions and quite a lot of time. In battle, he likes to be defensive, even if he has the advantage.
+慎重
+この将校が主導権を取るには、完璧な条件とかなりの時間を要する。戦闘では、たとえ有利な状況であっても防御的な姿勢を好む。
 3053
-Active
-This officer is self-acting and capable, but in uncertain situations he may be cautious. He gets things done in reasonable time.
+積極的
+この将校は自主的で有能だが、不確実な状況では慎重になることがある。物事を妥当な時間内に成し遂げる。
 3054
-Venturous
-This officer likes to seek the initiative whenever it presents itself. He is quick to assess any situation and to get his men moving when needed.
+果敢
+この将校は機会があれば積極的に主導権を握ろうとする。状況を素早く見極め、必要とあらば速やかに部下を動かす。
 3055
-Aggressive
-This officer is famous for taking matters in his hands and taking the initiative. He is a rare talent in the art of war, usually push his men against, and beyond their limits.
+攻撃的
+この将校は自ら事に当たり主導権を握ることで知られている。稀有な用兵の才を持ち、しばしば部下をその限界まで、あるいは限界を超えて追い込む。
 3060
-Incapable administrator
-He does not understand the basics of military life or logistics. And probably does not even care about these trivial things.
+無能な管理者
+彼は軍隊生活や兵站の基本すら理解していない。おそらくこうした些事に関心すら持っていないのだろう。
 3061
-Poor administrator
-This officer understands the basic needs of soldiers, but hasn't got much idea on how to get things done.
+拙劣な管理者
+この将校は兵士の基本的な必要は理解しているが、物事をどう成し遂げるかについてはほとんど分かっていない。
 3062
-Mediocre administrator
-This officer has sufficient understanding about logistics and basic needs of soldiers, but he is not very effective in organizing it.
+平凡な管理者
+この将校は兵站と兵士の基本的な必要について十分な理解を持っているが、それを組織立てて実行することはあまり得意ではない。
 3063
-Good administrator
-When men are fed, have ammunition and are well drilled, they will perform in battle. This officer does his best to achieve this.
+有能な管理者
+兵士たちは食料と弾薬を与えられ、十分に訓練されていれば戦闘で力を発揮する。この将校はそれを実現すべく最善を尽くす。
 3064
-Skilled administrator
-This officer has his staff well organized and the logistics are handled professionally.
+熟練した管理者
+この将校は幕僚をよく組織しており、兵站も専門家らしく処理されている。
 3065
-Master administrator
-Amateurs study tactics; professionals study logistics. -is a famous quote from this officer, though unfortunately no records of him saying it will survive the war.
+管理の達人
+「素人は戦術を学び、玄人は兵站を学ぶ」――これはこの将校の有名な言葉であるが、残念ながら彼がそう語った記録は戦争を生き延びることはないだろう。
 3070
-Unimaginative
-He is not gifted or skilled enough to use any imagination. Enemies can read him like an open book. Shall we try another frontal assault?
+凡才
+彼には想像力を発揮するほどの才覚も技量もない。敵は彼の手の内を見透かしている。もう一度正面攻撃でも試してみようか？
 3071
-Foreseeable
-Does everything strictly by the book, and nothing else. Maybe he is afraid of taking risks or failure, but this makes him easy to read for the enemy.
+予測可能
+何事も教本通りに行い、それ以外はしない。危険や失敗を恐れているのかもしれないが、そのせいで敵に手の内を読まれやすい。
 3072
-Predictable
-This officers is cunning enough to fool an amateur on a good day, but his maneuvers are not imaginative enough to much more.
+読みやすい
+この将校は運が良ければ素人を騙せる程度の狡猾さはあるが、その用兵はそれ以上を望めるほどの独創性を持たない。
 3073
-Unpredictable
-This officer has read his Jomini, and he understands quite well the basics of military tactics, including deception.
+予測不能
+この将校はジョミニの著作を読んでおり、欺瞞戦術を含む軍事戦術の基本をかなりよく理解している。
 3074
-Skilled in diversion
-He is known to keep his enemies on their toes, as his movements are hard to predict. During battles he prefers maneuvers around the enemy flanks and knows the value of field fortifications.
+陽動の名手
+その動きは予測しがたく、敵を常に警戒させ続けることで知られている。戦闘では敵側面への機動を好み、野戦築城の価値も心得ている。
 3075
-Master of mystification
-He has the natural ability to predict what the enemy is up to, and will often trick them with false signals. In the battle he does skillful maneuvers and prefers flanking maneuvers whenever he can.
+欺瞞の達人
+彼は敵の意図を見抜く天賦の才を持ち、しばしば偽の合図で敵を欺く。戦闘では巧みな機動を行い、可能な限り側面機動を好む。
 3080
-This commander is not able to improve his skills through service as his experience is already higher than the nation's military experience.
-Latest changes:
+この指揮官の経験はすでに国家の軍事経験を上回っているため、勤務を通じてさらに能力を向上させることはできない。
+直近の変化:
 3081
-...promotions/demotions: 
-...battles: 
+……昇進/降格: 
+……戦闘: 
 3082
-...returning from WIA: 
-...policies/objectives: 
+……戦傷からの復帰: 
+……政策/目標: 
 3083
-Influence of senior officers: 
-...service: 
+上級将校の影響: 
+……勤務: 
 3084
-...staff: 
-...actions: 
+……幕僚: 
+……行動: 
 3085
-...items: 
-...companions: 
+……装備品: 
+……従者: 
 3086
-...camp:
+……野営地:
 
 3100
-promoted to [VAR89]
+[VAR89]に昇進
 
 3101
-Led his unit into the [VAR70] on [VAR71]
+[VAR71]、[VAR70]へ部隊を率いた
 
