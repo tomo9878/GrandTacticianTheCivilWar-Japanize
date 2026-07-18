@@ -1,0 +1,761 @@
+38
+0
+Break Confederate Morale
+Win campaign
+Break Confederate national morale, below 25 will to force them to sue for peace and you win the campaign.
+000;001;002;003;
+0
+001;002;
+01.01.1850
+01.01.1870
+
+
+0
+The War is Over!
+Confederacy Sues for Peace!
+Union Armies Triumphant!
+The Rebellion Crushed!
+The Campaign is Over!
+0
+Union Victory!
+\tThe American Civil War has ended with the Confederate Armies surrendering to the victorious Union Armies!\n\tUnion field commanders report Confederate soldiers laying down their weapons. Some smaller bands of Confederate soldiers are reported to be still resisting and trying to escape capture in Mexico. While small scale skirmishing and fighting is still ongoing, the War is finally over.\n\tThe President of the United States has called for a Grand Review of the Armies in Washington D.C. This grand display of the Union’s victorious forces on parade will fill the city full of amazed citizens to cheer the troops and the hard fought victory they achieved.\n\tThe President of the Confederate States of America is reportedly fleeing to avoid capture.\n\tThe Grand Herald congratulates the victorious troops of the Union. With the War over, it's time to think about the future. Will America heal from the wounds of the War, will it stand once again united, with Northern and Southern citizens of all colors, together?
+1
+Break Union Morale
+Win campaign
+Break Union national morale, below 25 will force them to sue for peace and you win the campaign.
+000;001;002;003;
+1
+001;002;
+01.01.1850
+01.01.1870
+
+
+0
+The War is Over!
+Union Sues for Peace!
+Confederate Armies Triumphant!
+Independence!
+The Campaign is Over!
+3
+Confederate Victory!
+\tThe American Civil War has ended, with the Union Armies surrendering to the victorious Confederate Armies!\n\tConfederate field commanders report Union soldiers laying down their weapons. This victory confirms the Confederate States of America as an independent nation among nations, free to choose its own destiny.\n\tThe President of the Confederate States has called for a Grand Review of the Armies in the Confederate capital city. This grand display of the South’s victorious forces on parade will fill the city full of amazed citizens to cheer the troops and the hard fought victory they achieved.\n\tThe President of the United States of America is humiliated, his support is wavering and the disgruntled population of the North demands that he stand down.\n\tThe Grand Herald congratulates the victorious troops of the Confederacy. With the War over, it's time to think about the future. What will become of the Americans of the two nations?
+2
+Capture Montgomery, AL
+Capture capital
+Take Montgomery, Alabama. CSA national morale -20.
+000;001;002;003;
+0
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Montgomery Falls!
+Confederate Capital Taken!
+The President Flees!
+Southerners in Shock!
+Union Presses On!
+30
+Montgomery has Fallen!
+\tToday's biggest news come from Alabama, the capital city of the Confederacy has been captured by Union armies! With the city in Union hands, the political leadership of the Confederacy has fled and will lead the nation from exile.\n\tThe fall of Montgomery has been received with great enthusiasm in the United States, where the President called it an important milestone on the road to victory.\n\tThe citizens of the Confederate States are shocked, their support for the war effort is greatly affected and the support of the political leadership is wavering. Many Southerners see the fall of the capital as an irreparable loss for southern prestige. Many Confederate volunteers see the war as lost and desertions from the ranks are on the rise.\n\tWhat remains to be seen is whether the Union armies can take advantage of their great victory and push on to win the war!
+3
+Capture Richmond, VA
+Capture capital
+Take Richmond, Virginia. CSA national morale -20.
+000;001;002;003;
+0
+001;002;
+01.01.1850
+01.01.1870
+
+
+0
+Richmond Falls!
+Confederate Capital Taken!
+The President Flees!
+Southerners in Shock!
+Union Presses On!
+30
+Richmond has Fallen!
+\tToday's biggest news come from Virginia, the capital city of the Confederacy has been captured by Union armies! With the city in Union hands, the political leadership of the Confederacy has fled and will lead the nation from exile.\n\tThe fall of Richmond has been received with great enthusiasm in the United States, where the President called it an important milestone on the road to victory.\n\tThe citizens of the Confederate States are shocked, their support for the war effort is greatly affected and the support of the political leadership is wavering. Many Southerners see the fall of the capital as an irreparable loss for southern prestige. Many Confederate volunteers see the war as lost and desertions from the ranks are on the rise.\n\tWhat remains to be seen is whether the Union armies can take advantage of their great victory and push on to win the war!
+4
+Capture Washington, D.C.
+Capture capital
+Take Washington, D.C. Union national morale -20.
+000;001;002;003;
+1
+001;002;
+01.01.1850
+01.01.1870
+
+
+0
+Washington Falls!
+Union Capital Taken!
+The President Flees!
+Northerners in Shock!
+Confederates Press On!
+30
+Washington D.C. has Fallen!
+\tToday's biggest news come from the North, the capital city of the United States has been captured by Confederate armies! With the city in rebel hands, the political leadership of the United States has fled and will lead the nation from exile.\n\tThe fall of Washington has been received with great enthusiasm in the Confederate States, where the President called it an important milestone on the road to victory.\n\tThe citizens of the Union are shocked, their support for the war effort is greatly affected and the support for the political leadership is wavering. Many Northerners see the fall of the capital as an irreparable loss for northern prestige. Many Union volunteers see the war as lost and desertions from the ranks are on the rise.\n\tWhat remains to be seen is whether the Confederate armies can take advantage of their great victory and push on to win the war!
+5
+Pre-emptive Action
+Initiate the Militia Act
+National morale is dropping. The people are in dismay and demand action. If you activate Militia Act I (in policies) before CSA attacks federal forces in their territory, national morale will cease to decrease and you will not lose any forts. But this could be a shock in the border states, still loyal to the Union.
+000;
+0
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Lincoln Calls for Volunteers!
+The States to Arm Militias!
+A Shock in the South!
+An Act of War?
+South to Resist!
+508
+Lincoln Calls for Volunteers!
+\tThe President of the United States Abraham Lincoln, has called for the formation of a militia, 75,000 strong. The militia will be formed of volunteers from across the nation and will serve for three months. The volunteers are to bolster the numbers of the U.S. Army that is preparing to fight the Confederacy.\n\tIn the South this call has been denounced as an act of war against the sovereign southern states. The citizens are aroused to resist against what they call unprovoked northern aggression.\n\tIn Arkansas, Tennessee, Virginia, North Carolina, Missouri and Kentucky the politicians are dismayed by Lincoln's orders and are refusing to form militias to fight their brethren. Whilst these states previously voted to remain in the Union, now secession conventions are being held in them. Any state that secedes will be welcomed with open arms by the Confederate States. While some states may initially declare to be independent or neutral, in the event that full scale fighting were to flare up it seems unlikely that they could remain as a neutral bystander.
+6
+Invade the Confederacy
+Take Action
+National morale in the Union is dropping while CSA support in slave states is rising. Attack the enemy in Confederate held territory to convince Union supporters that the government is acting. Union national morale will cease to decrease and CSA support will cease to increase. 
+001;
+0
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Union Armies on the Move!
+Lincoln Unwavering!
+Union Invades the South!
+Action, Finally!
+Southern Support Wavers!
+537
+Union Armies on the Move!
+\tThe citizens of the United States have been calling for action against the rebellion and the President has finally answered this call. Today Lincoln has announced that Union armies are moving into Confederate territory, to engage Confederate armies and to quell the rebellion.\n\tBefore this action was taken, support for the southern cause was steadily increasing in slave states, as Lincoln was seen to be unable to solve the crisis at hand, much like his predecessor Buchanan. However, with Lincoln showing a stronger resolve, many advocates of rebellion have grown concerned.\n\tNow that the people in the United States know that their leadership is acting, the anticipation for action has turned into hope for a quick victory.
+7
+Win a Major Battle
+First Victory
+Engage the enemy in a major land battle and win to motivate the citizens about Union superiority. Union national morale +2,5 and fame of the commander +50. To count as a major battle, each side must commit at least 10,000 troops and casualties in total must exceed 2000.
+001;
+0
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Major Union Victory!
+The Confederates Lose Morale!
+Union preparing to Press on!
+Davis Calls an Emergency Meeting!
+Southerners Losing Heart!
+31
+A Great Union Victory!
+\tFinally, a major field battle has been fought between the inexperienced armies of the Union and the Confederacy. In this battle the Union troops prevailed and they now hold the field having sent the rebels running for their lives.\n\tThis news is welcomed with enthusiasm in Washington D.C. President Lincoln calls it a great achievement on the road to the inevitable victory and offers his thanks to all of the men who fought in the battle. Union support is reportedly strong and it is believed to be only a matter of weeks or months before the Confederacy is defeated in detail and the Union restored.\n\tIn the South the population is in shock after the Confederate troops lost heart, turned and ran. While their situation is turning desperate, morale of the citizens remains high and the military leadership is declaring they will continue the desperate fight for independence, whatever the odds.
+8
+Win a Major Battle
+First Victory
+Engage the enemy in a major land battle and win to demoralize the Union citizens. Union national morale -5 and fame of the Confederate commander +50. To count as a major battle, each side must commit at least 10,000 troops and casualties in total must exceed 2000.
+001;
+1
+001;
+01.01.1850
+01.01.1870
+
+
+0
+A Disaster for Union!
+The Confederates Stand Firm!
+Federal Volunteers Skedaddle!
+Lincoln Calls an Emergency Meeting!
+Northerners Losing Heart!
+31
+A Great Confederate Victory!
+\tFinally a major field battle has been fought between the inexperienced armies of the Union and the Confederacy. In this battle the Confederate troops have prevailed and they now hold the field having sent the Yankees running for their lives.\n\tThe news is welcomed with enthusiasm in the Confederacy. President Davis calls it a great achievement on the road to the inevitable victory and offers his thanks to all the men who fought in the battle. Confederate support is reportedly strong and the citizens believe the northern armies can be beaten and independence gained.\n\tIn the North, the population is in shock after the Union troops lost heart, turned and ran. Lincoln is quoted as saying: "It's bad, it's damn bad". Already many are questioning his leadership and in are coming out in favor of a political compromise.
+9
+Maintain Support Above 60
+Republican Majority
+To maintain political control the Republican party must win the House of Representatives election of November 4, 1862. If support is below 60 on this date, a Democrat victory will cause national morale to start decreasing steadily due to loss of unity in the policy making.
+001;
+0
+001;002;
+01.01.1850
+01.01.1870
+
+
+0
+Republicans Maintain Majority!
+Lincoln's Support Secured!
+Union Stands United!
+A Disappointment for Davis!
+Copperheads lose Support!
+20
+The Republican Party Won the Elections.
+\tThe House of Representative elections are over, and the Republican Party maintained the majority in the House. President Lincoln can sleep assured that he has the support of his party in the war effort. While Democratic support has been strong and vocal for the past years, it's clear that the people of the United States stand united behind Lincoln.\n\tMany of the so called "Copperheads", or Democrats in support of Peace with the Confederacy, have lost their seats in the Congress. Among them is Ohio representative Clement Vallandigham, a possible future presidential candidate, who has opposed every military bill.\n\tThe Confederates saw these elections as a great opportunity to undermine Lincoln. Their efforts to demoralize the Union citizens have failed, inaction is not an option, the Confederates will need decisive victories.
+10
+Union Support Below 60
+Union Elections
+To continue the fight, Lincoln needs a Republican majority in the House of Representatives. Elections are coming on November 4, 1862. If Union support is below 60 on this date, a Democrat victory will cause Union national morale to decrease steadily until it breaks.
+001;
+1
+001;002;
+01.01.1850
+01.01.1870
+
+
+0
+Republicans Lose!
+A Disaster for Lincoln!
+The House is Divided!
+Policymaking in Turmoil!
+Copperheads gain Support!
+32
+Democrats Gain Majority!
+\tThe Democratic Party won the House of Representatives elections and now hold the majority in the House. This election may be a decisive moment in the war as the citizens have clearly shown their disapproval for President Lincoln's war effort against the Confederacy.\n\tThe Democratic Party is not unanimous about how to handle the crisis, but it's clear that they will stand against Lincoln's policy. Many believe the Democrats will eventually support peace negotiations with the Confederates. Whether this is true or not, it's clear that the policy making in the U.S. will soon be in turmoil.\n\tAlready we can see the Union population losing faith in their leaders. If the Union wishes to win the war, they must press on before the remaining support for the war is completely lost.
+11
+Capture 10 Forts
+Capture 10 forts
+Capturing Confederate fortifications during the early war will show unwavering Union resolve. If the task is completed before November 4, 1862, Union national morale will increase +5.
+001;
+0
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Confederate Defences Fall!
+Union Captures Forts!
+Way Open to Southern Heartlands!
+Union Citizen Rejoice!
+Morale Boosted!
+6
+Union has Captured 10 Forts.
+\tUnion armies have been victorious against Confederate defenses. The static fieldworks and fortifications that were supposed to stop any northern advances into Confederate lands have been rendered useless by the glorious Union armies, they stormed the parapets and forced the garrisons to surrender.\n\tThe citizens welcome the news and cheer, Union pride and morale has received a significant boost. The people are confident that the troops in blue will emerge victorious from this war and that the southern rebellion will be utterly crushed.\n\tIn the South the defensive plans have had to be completely revised with the fall of so many important fortifications. Retaking them should be a priority and many generals vow to take decisive action, however the people have started questioning the ability of their armies to protect their homes and lands from the successful Union armies.
+12
+Capture 3 Cities
+Capture 3 Union Cities
+Take the fight to the enemy! Capture three cities in states loyal to the Union. This will be seen as a great victory. CSA national morale +5.
+001;002;
+1
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Another City Falls!
+Confederates Victorious!
+Union Citizens in Dismay!
+Southern Morale is Boosted!
+President Davis Ecstatic!
+538
+Another Union City has Fallen!
+\tThe Confederate armies are once again triumphant and have captured a third major city in the Union heartlands. This great feat of arms shows that rebel armies, well commanded, can take the fight to the enemy and defeat them. President Davis is pleased with the performance and the southern citizens are cheering in the streets of all the major cities.\n\tSuch victories are seen as signs of Union weakness. The morale of the southern citizens is increased and the support for the war effort is stronger, with more victories anticipated.
+13
+Invade the North
+Invade the North
+Take the fight to the enemy! Draw enemy armies away from Confederate lands. A Union defeat on their own territory will demoralize the Northern citizens and make a hero of the Confederate commander. Union national morale -2,5 and fame of the CSA commander +50.
+001;
+1
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Rebels on the Move!
+Confederate Armies Invade the North!
+Northern Citizens Fearful!
+Union Forces Skedaddle!
+Davis Congratulates the Troops!
+539
+Confederate Invasion Continues!
+\tNews from the front lines is coming in, with reports that the Confederate armies have successfully defeated Union forces on their own territory. This victory is widely celebrated in the South, while northern citizens become afraid for their homes and property.\n\tPresident Lincoln is displeased with the commanders who were unable to prevent the rebels from attacking northern heartlands. The Union armies have been dealt a stinging blow and the Confederates are able to continue their attack. Lincoln's ability to run the war is loudly questioned and it is clear that the citizens of the North no longer stand united behind him.\nAll Southern newspapers, big and small, celebrate the new Confederate military hero!
+14
+Capture Western Virginia
+Control Western Virginia
+Capture Wheeling, Grafton and Charleston, VA, and defeat any Confederate armies there to control Western Virginia, enabling its loyal citizens to break away from the Confederacy and to eventually join the Union as a free state. CSA national morale -2,5.
+001;
+0
+001;
+01.01.1850
+01.01.1870
+
+
+0
+A State of Kanawha!
+Virginia Divided!
+Union Victorious in the Mountains!
+New Axis of Attack Open!
+Southern Morale Wavers!
+540
+The Western part breaks away from the State of Virginia.
+\tThe recent campaigns in Western Virginia and the Kanawha Valley have been a great success for the Union armies, they now control this mountain region and all of its important towns. With the Confederate forces removed from the area the local citizens, who mostly support the Union and voted against secession in early 1861, are preparing to form a new independent state loyal to the Union. But what will the name be? Kanawha, Allegheny, Augusta, Columbia, New Virginia, Vandalia perhaps? What best describe the state, formed of the Western part of Virginia?\n\tGeographically this is a stinging blow to the Confederacy. Whilst mountainous and a difficult terrain to support armies in, West Virginia offered them a route to undertake operations in the upper Shenandoah Valley. The benefits of the region’s mining industry will now go to the Union.
+15
+Capture Kentucky
+Kentucky to Secede
+Capture Louisville and defeat all of the Union armies in Kentucky to make Kentucky secede and join the Confederacy. Union national morale -5, CSA support in Kentucky will increase.
+001;002;003;
+1
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Kentucky Secedes!
+A New State in the Confederacy!
+Union Heartlands Threatened!
+Confederate Armies Triumphant!
+Blue Grass Turned Gray!
+26
+Kentucky Joins the Confederacy!
+\tIn Kentucky the Confederate armies have captured Louisville and removed Union armies from the state. The state now fully in the rebels grasp has held secession conventions and has decided to secede and join the Confederacy.\n\tWhile Kentucky declared itself neutral in the crisis, it was unable to prevent being dragged into the war. With strong southern sympathies and no Union armies to contest the gray clad soldiers, Kentucky will offer the Confederacy a rich base of supplies for further operations.\n\tHearing the news of this disaster, northern citizens are greatly demoralized, losing belief in the military leadership's ability to resist the southern invaders and win the war.
+16
+Capture Missouri
+Missouri to Secede
+Capture St. Louis and defeat all of the Union armies in Missouri to make Missouri secede and join the Confederacy. Union national morale -5. CSA support in Missouri will increase.
+001;002;003;
+1
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Missouri Secedes!
+A New State in the Confederacy!
+Union Mid-West Threatened!
+Confederate Armies Triumphant!
+St. Louis Flies a Rebel Flag!
+26
+Missouri Joins the Confederacy!
+\tThe Union has lost a border state, Missouri choose to officially secede after the Confederate armies took control of St. Louis and drove the Union armies from the state.\n\tWith the loss of Missouri, a state controlling the Mississippi River, citizens in the north are angry about the way the war is being conducted. Anti-Republican sentiment is growing and the number of volunteers is decreasing. The Union military high command is receiving a lot of critique and the people are demanding drastic changes at the top of the army. Significant losses like this are seen as unacceptable in the North.
+17
+Cut Confederacy in Half
+Control Mississippi
+Hold Memphis TN, Vicksburg MS, Baton Rouge and New Orleans LA before the 1864 presidential elections to motivate the Union public. Union national morale +5.
+001;002;
+0
+001;
+01.01.1850
+01.01.1870
+
+
+0
+The Mississippi in Union Hands!
+The Confederacy Cut in Half!
+Union Morale Soars!
+Scott's Anaconda Bites!
+A Decisive Union Victory in the West!
+34
+Union in Control of the Mississippi River!
+\tUnion military operations along the Mississippi river have been successful and all the major ports along America's greatest waterway have fallen to their armies. This success is widely celebrated in northern cities, it's recognized as being a major milestone on the road to victory.\n\tGeneral Winfield Scott designed the Anaconda plan in 1861 to strangle the Confederacy. Holding New Orleans, Baton Rouge, Vicksburg and Memphis allows Union river squadrons, troops and supplies to be moved rapidly to engage any Confederate troops in Louisiana, Mississippi or Arkansas. It also allows the opening of new fronts along other major waterways.\n\tThe news is received with great dismay in the South as the Confederacy has effectively been cut in half with no further hope of mutual support between the two. 
+18
+Win 5 Consecutive Land Battles
+Military Dominance
+Several great military victories in succession will reassure the citizens of our military effort. Union national morale +5.
+001;002;003;
+0
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Union Armies Unstoppable!
+Confederates Forced Skedaddle!
+Union Morale Intact!
+More Rebels Surrender!
+Union Citizens Pleased!
+0
+Union Armies are Triumphant!
+\tThe Union field armies have gained great victories and seem unstoppable. In the last five successive major engagements, the blue clad armies have emerged victorious. Confederate armies, suffering defeat after defeat, are reportedly suffering from deteriorating morale and discipline, with many men choosing to desert.\n\tCitizens in the North are cheering the commanders as they march with their men towards victory. Support for the war effort increases considerably, with more men volunteering to join the fight to win the war.
+19
+Win 5 Consecutive Land Battles
+Military Dominance
+Several great military victories in succession will reassure the citizens of our military effort. CSA national morale +5.
+001;002;003;
+1
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Confederate Armies Unstoppable!
+Yankees Forced Skedaddle!
+Southern Morale Intact!
+More Union Prisoners Taken!
+Confederate Citizens Pleased!
+3
+Confederate Armies are Triumphant!
+\tThe Confederate field armies have gained great victories and seem unstoppable. In the last five successive major engagements, the gray clad armies have emerged victorious. Union armies, suffering defeat after defeat, are reportedly suffering from deteriorating morale and discipline, with many men choosing to desert.\n\tCitizens in the South are cheering the commanders, as they march with their men towards victory. Support for the war effort increases considerably, with more men volunteering to join the fight to win the war, and independence.
+20
+Win 5 Consecutive Naval Battles
+Naval Dominance
+Several great naval victories in succession will reassure the citizens of our military effort. Union national morale +2,5.
+001;002;003;
+0
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Union Navy Unstoppable!
+Another Great Victory!
+Union Rules the Waves!
+Confederate Ships Forced to Flee!
+Union Citizens Ecstatic!
+9
+Union Navy is Victorious!
+\tThe Civil War rages on land and at sea. Recently the Union Navy has been victorious, it has crushed the opposition in the last five major engagements. With the Confederate fleets unable to challenge Union naval might, the North rules the waves.\n\tThis news has been received with great enthusiasm in the northern cities. Citizens are flocking to read about the heroic deeds of their sailors and their favorite commanders. With such men in charge of the war effort, it seems like the road to victory is open. "Damn the torpedoes, full speed ahead!"
+21
+Win 5 Consecutive Naval Battles
+Naval Dominance
+Several great naval victories in succession will reassure the citizens of our military effort. CSA national morale +2,5.
+001;002;003;
+1
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Confederate Navy Unstoppable!
+Another Great Victory!
+Confederacy Rules the Waves!
+Union Ships Forced to Flee!
+Confederate Citizens Ecstatic!
+9
+Confederate Navy is Victorious!
+ \tThe Civil War rages on land and at sea. Recently the Confederate Navy has been victorious, it has crushed the opposition in the last five major engagements. With the Union fleets unable to challenge Confederate naval might, the South rules the waves.\n\tThis news has been received with great enthusiasm in the northern cities. Citizens are flocking to read about the heroic deeds of their sailors and their favorite commanders. With such men in charge of the war effort, it seems like the road to victory is open.
+22
+Defeat the British
+Defeat the Allies
+The British have sided with the Confederacy! The forces opposing the Union are great, however a victory over the British would greatly strengthen Union morale. Union national morale +2,5.
+001;002;003;
+0
+001;
+01.01.1850
+01.01.1870
+
+
+0
+The Old Enemy Defeated!
+The British Flee After Battle!
+U.S. Military Victorious!
+The Empire Humiliated!
+British Considering Withdrawal!
+0
+Union defeats Queen Victoria.
+\tThe British have suffered a stinging defeat in combat with the Union military. While the intervention was seen as a great opportunity to humiliate their old enemy, it is the world's largest empire that finds itself humiliated.\n\tThe northern citizens are ecstatic about the recent news, with patriotic tunes played and the cracking of fireworks heard throughout the night in many major cities. The British intervention seems to be losing steam and already our reporters in London hear of plans to withdraw from the conflict after the defeat.\n\tThe British army was struggling in the Crimea a decade ago and it seems the rigid military traditions have not allowed the army to transform enough to be effective in modern combat. It's more than likely, that this will spark others to challenge their authority around the world.
+23
+Defeat the French
+Defeat the Allies
+The French have sided with the Confederacy! The forces opposing the Union are great, however a victory over the French would greatly strengthen Union morale. Union national morale +2,5.
+001;002;003;
+0
+001;
+01.01.1850
+01.01.1870
+
+
+0
+The French Taste Defeat!
+The French Flee After Battle!
+U.S. Military Victorious!
+The Empire Humiliated!
+French Considering Withdrawal!
+11
+Union defeats Napoleon III.
+\tThe French expeditionary force from Mexico has finally met their match in the Union military. Napoleon's crack troops, with the Foreign legion veterans, have suffered a humiliating defeat in North America.\n\tWith the French forced to fall back, morale among Union soldiers and citizen alike is greatly improved. This defeat is a major setback for the French army, emperor Napoleon III will most likely be regretting moving his army from Mexico to support the Confederacy. Already we hear reports of Mexican guerrilla fighters encouraged by the French defeat, recruiting more men to fight the invaders and to free their country from foreign occupation. It is only a matter of time before the situation in Mexico boils over.
+24
+Gain a Major Victory
+Discourage the Europeans
+The Europeans are showing a willingness to enter the war, siding with the Confederacy! A major victory will discourage the Europeans from intervening! Chance of intervention -10. A major defeat could cause the Europeans may intervene immediately!
+001;002;003;
+0
+001;002;
+01.01.1850
+01.01.1870
+
+
+0
+European Support Wavers!
+Confederacy Suffers a Major Defeat!
+Diplomats Report Little Enthusiasm!
+Foreign Intervention Averted?
+Canada not a Threat to Union?
+0
+News of Confederate Defeat Reaches Europe.
+\tThe widespread belief that the Europeans would be willing to join the Confederacy in its struggle for independence is abating. The possibility looks very unlikely given the recent military victories by Union armies. The Europeans have become very cautious and are unwilling to risk an invasion to aid the Confederacy because the South has not yet proven it has the ability to win battles or the war.\n\tDiplomats and newspapers in both London and Paris are declaring European neutrality in the American Civil War. The previous fervor to support the Confederacy, with hopes of increased cotton trade, had faded away.
+25
+Gain a Major Victory
+Encourage the Europeans
+The Europeans are showing a willingness to enter the war, siding with the Confederacy!  A major victory will encourage the Europeans to intervene! Chance of intervention +25. A major defeat could cause the Europeans to back down for now!
+001;002;003;
+1
+001;002;
+01.01.1850
+01.01.1870
+
+
+0
+London Cheers Confederate Victory!
+The British Ready to Assist!
+Invasion Force Being Formed!
+The Confederates Welcome European Support!
+Union Fears Invasion!
+3
+News of Confederate Victory Reaches Europe.
+\tThe Confederate diplomats have been engaged in discussions with the Europeans for a long time now, in their attempt to get recognized as an independent sovereign nation. Whilst their reception in Europe was warm, the British and the French were unwilling to take sides in the American Civil War. With the recent Confederate victories, the tone has completely changed.\n\tWith the Confederate armies showing the world that they can challenge and defeat the Union military, foreign intervention becomes increasingly likely. The British are preparing an expeditionary force and the French in Mexico are willing to open up a new trade route to Texas, and even to send military forces over the Rio Grande, if the Confederacy would offer open support for the Mexican intervention.
+26
+Maintain Morale Above 50
+Lincoln's Second Term
+The presidential elections of November 9, 1864 see Lincoln challenged by a Democrat candidate from within the Union General Corps. If the Democrats win, once in power they will surely  put a stop to the war, at any cost. Union national morale -20.
+002;
+0
+001;002;
+01.01.1850
+01.01.1870
+
+
+0
+Lincoln Wins Second Term!
+The Democrats Demoralized!
+Andrew Johnson the Vice President!
+The Confederates Shocked!
+Union Willing to Continue the Fight!
+25
+Lincoln Wins a Second Term!
+\tThe 1864 presidential elections were set to decide whether the Civil War might see a less bloody conclusion, or continue as terrible as ever until the bitter end. Lincoln's re-election shows that the people of the United States support the war effort and are willing to continue the fight.\n\tIn the Confederacy the news is greeted with disbelief. While delegations are still sent to try to negotiate a peace, it is now clear that the United States will continue the fight. At this point, the only hope for a Confederate victory is with a decisive military victory.
+27
+Union Morale below 50
+Demoralize Union Voters
+The presidential elections of November 9, 1864 see Lincoln challenged by a Democrat candidate from within the Union General Corps. If the Democrats win, once in power they will surely  put a stop to the war, at any cost. Union national morale -20.
+002;
+1
+001;002;
+01.01.1850
+01.01.1870
+
+
+0
+Lincoln Loses the Elections!
+A Democrat Elected President!
+Confederates Congratulate the Winner!
+Davis Willing to Enter Negotiations!
+The War About to End?
+541
+Lincoln Defeated!
+\tLincoln has lost the presidential elections of 1864! His opponent, a famous general from the Union Officer Corps has convinced the northern people that Lincoln's handling of the crisis has been a failure. With a Democratic president taking the office in March 1865, it's believed that support for the war will continue to diminish. The people are tired of the war and want a change.\n\tIn the Confederacy, politicians and people alike cheer as the news reaches the major cities. With Lincoln forced to step down, it's likely that the United States will finally agree to enter negotiations about ending the war. Already the fragile political unity in Washington has been compromised and the loud voices in favor of ending the fighting are gaining momentum.\n\tThe only way to avoid a complete humiliation is for Lincoln to defeat the Confederates militarily before the spring, before national morale collapses completely.
+28
+Inflict 50,000 casualties
+Bleed them out
+The northern superiority in manpower is staggering, however, making the cost of the war too high will greatly demoralize the northern population, already suffering from war weariness. Union national morale -10.
+003;
+1
+001;
+01.01.1850
+01.01.1870
+
+
+0
+Union Casualties Reach New High!
+Confederate Armies Stand Firm!
+Political Support in Union Wavering!
+Number of Volunteers Diminishing!
+Union Citizens Demoralized!
+33
+Union Losses Becoming Unacceptable.
+\tThe Union casualties have reached shocking new heights in futile fighting with Confederate armies. The high number of casualties has rocked Union citizens, who eagerly await the end of the war. However the Union generals keep committing their men in unwinnable battles with losses that result in much grief around the nation.\n\tAnti war sentiment has been gaining ground, with support for the war reaching a new low point, the people are tired of war. With no victories on the horizon, the Union armies could find themselves losing soldiers to desertion than can be replaced by recruitment. The Confederacy policy to bleed the life from the Union armies may yet force northern politicians to negotiate peace.
+29
+West Virginia
+Control West Virginia
+Control cities of Charleston, Grafton, Parkersburg and Wheeling, and capture towns of Lewisburg, Beverly and Romney to enable the region loyal to Union to break away from the Confederacy. Consolidates Union support in West Virginia and creates a new state loyal to Union.
+001;002;003;
+0
+002;
+01.01.1850
+01.01.1870
+Grafton;Charleston;Wheeling;Parkersburg;Town_lewisburg;Town_beverly;Town_Romney;
+
+500
+A State of Kanawha!
+Virginia Divided!
+Union Victorious in the Mountains!
+New Axis of Attack Open!
+Southern Support Wavers!
+540
+The Western part breaks away from the State of Virginia.
+\tThe recent campaigns in Western Virginia and the Kanawha Valley have been a great success for the Union armies, they now control this mountain region and all of its important towns. With the Confederate forces removed from the area the local citizens, who mostly support the Union and voted against secession in early 1861, are preparing to form a new independent state loyal to the Union. But what will the name be? Kanawha, Allegheny, Augusta, Columbia, New Virginia, Vandalia perhaps? What best describe the state, formed of the Western part of Virginia?\n\tGeographically this is a stinging blow to the Confederacy. Whilst mountainous and a difficult terrain to support armies in, West Virginia offered them a route to undertake operations in the upper Shenandoah Valley. The benefits of the region’s mining industry will now go to the Union.
+30
+West Virginia
+Restore Unity in Virginia
+Control towns of Lewisburg and Romney and capture cities of Charleston and Grafton to prevent the Unionists from creating a break-away state. Consolidates Confederate support in Western Virginia and makes sure Virginia remains united.
+001;002;003;
+1
+002;
+01.01.1850
+01.01.1870
+Charleston;Grafton;Town_lewisburg;Town_Romney;
+
+1000
+Western Virginia Captured!
+Unionists Fleeing Virginia!
+Confederacy Victorious in the Mountains!
+Union Heartlands Threatened!
+Union Support Wavers!
+538
+The Western part breaks away from the State of Virginia.
+\tThe recent campaigns in Western Virginia and the Kanawha Valley have been a great success for the Confederate armies, they now control this mountain region bordered by the Ohio River in the West. With the Union forces removed from the area the local Unionist citizens, who voted against secession in early 1861, fleeing the area, consolidating Confederate support. Any plans of breaking away from Virginia are thwarted.\n\tGeographically this is a stinging blow to the Union. Whilst mountainous and a difficult terrain to support armies in, Western part of Virginia offered them a route to undertake operations to threaten the upper Shenandoah Valley. Controlling the area, Confederate troops have effectively cut the Baltimore & Ohio Railroad, the main life-line connecting Washington and the Western states.
+31
+Shenandoah Valley
+The Valley Campaign
+Advance up the Valley along the pike. Capture Martinsburg, Winchester, Strasburg, and New Market. This will deny the CSA an important source of supplies and avenue of attack to flank Washington D.C.
+001;002;003;
+0
+002;
+01.01.1850
+01.01.1870
+Winchester;Town_martinsburg;Town_strasburg;Town_newmarket;
+
+1000
+Shenandoah Campaign a Success!
+Union Controls the Valley!
+Winchester Falls!
+CSA Lost its Bread Basket!
+Panic in Confederate Congress!
+537
+Union Forces Control the Strategically Important Valley.
+\tThe recent campaign up the Shenandoah Valley has left the strategically important corridor firmly in Union hands. As Union controls the Valley, troops and supplies can move fairly protected from Potomac up the Valley.\n\tThe Valley was important to Confederate war-effort in many ways. The fertile valley was able to feed large armies. It also allowed a covered line of advance to cut the Union's life line to the west, namely Baltimore & Ohio Railroad and canal system, and to bypass Washington D.C.'s defences from the west.\n\tNow, with the Valley under Union control, the opposite is true. The troops in blue are able to threaten cutting Virginia of from the Western Theater, or to turn the flank of the defences in the east.
+32
+Baltimore & Ohio Lines
+Cut Union's Lifeline
+Break out of the Shenandoah Valley and cut the Baltimore & Ohio R.R. and canals by capturing Cumberland, Hagerstown, Berkeley Springs, Martinsburg and Harper's Ferry.
+001;002;003;
+1
+002;
+01.01.1850
+01.01.1870
+Cumberland;Hagerstown;Town_BerkeleySpr;Town_martinsburg;Town_harpersfrry;
+
+1000
+Baltimore & Ohio Cut!
+CSA Controls the Lower Valley!
+Cumberland Falls!
+Union's Lifeline to West Lost!
+Panic in U.S. Congress!
+535
+Confederate Advance Cuts Baltimore & Ohio Railroad.
+\tBaltimore & Ohio Railroad connects the eastern states of the Union to Ohio and the west. The railroad runs from Baltimore, through the northern tip of Virginia, via Grafton in western Virginia to Wheeling. Alongside runs canals that together with the rail line provide a strategically important life line to Union's coordinated war-effort.\n\tThe recent Cofnederate campaign has been able to capture the vital chokepoint of this lifeline. With the gray-clad troops controlling Hagerstown and Cumberland in Maryland, Union can no longer use its most important railroad connection to Ohio. All goods must now be taken through a more rugged line further north through Pennsylvania, which has much lower capacity.\n\tThis turn of events has the Union leadership in disarray. Military commanders are blamed for the disaster, while the political leadership is said to be behind the lack of success due to lack of supporting the military.
+33
+Maryland Campaign
+Threaten Washington D.C.
+Break out of the Shenandoah Valley and threaten the defences of Washington D.C. by controlling Hagerstown and Frederick.
+001;002;003;
+1
+002;
+01.01.1862
+01.01.1870
+Hagerstown;Frederick;
+032;
+1000
+Maryland Campaign a Success!
+Frederick Falls!
+CSA Advances Deep into MD!
+Citizens in South Celebrating!
+Panic in U.S. Congress!
+538
+Confederate Forces Captured Hagerstown and Frederick.
+\tMaryland, the border state that surrounds Washington D.C., has been loyal to the Union since the war started, protecting the U.S. capital from all directions but south. With the recent successful offensive operation by the Confederacy, Maryland is effectively cut in half.\n\tThe situation is untenable for the Union, and all effort is being placed in operations to recapture the lost terrain. Failing to do so will have a severe impact on Union's capacity to fight, as the CSA has a freedom of movement and action in Maryland and into Pennsylvania.
+34
+Pennsylvania Campaign
+Flank Washington D.C.
+Break out of the Shenandoah Valley and flank Washington D.C. defenses. Capture Hagerstown, Harrisburg, Chambersburg, Carlisle, Gettysburg and York.
+001;002;003;
+1
+002;
+01.01.1863
+01.01.1870
+Hagerstown;Harrisburg;Town_Chambersburg;Town_Carlisle;Town_Gettysburg;Town_York;
+032;
+2500
+Pennsylvania Campaign a Success!
+Harrisburg Falls!
+CSA Advances Deep into PA!
+Citizens in South Celebrating!
+Panic in U.S. Congress!
+538
+Confederate Forces Advance up to Harrisburg.
+\tAn unstoppable Confederate offensive has penetrated deep into Pennsylvania. Following the Cumberland Valley Railroad, the attack has captured a line from Hagerstown all the way to Harrisburg. This attack has effectively cut the Union in half, even if movement of troops and supplies is still possible further north.\n\tThe Union leadership is total chaos. Military leadership is blamed for lack of effort to contain the Confederate offensive in the first place. All efforts are being diverted to capture back the lost ground, but in the current turmoil it seems questionable if the Union armies can manage such task.\n\tIn the south, citizens are ecstatic and cheering their grey-clad heroes. With such success, there seems to be no way that the Confederacy could lose this war.
+35
+Coastal Operations
+Invade North Carolina
+Conduct coastal operations in North Carolina and capture New Bern and Plymouth that can be used as bases for further advances inland.
+001;002;
+0
+002;
+01.01.1862
+01.01.1870
+NewBern;Plymouth;
+
+1000
+Union Coastal Operations Successful!
+New Bern and Plymouth Taken!
+Confederate Trade Compromised!
+Citizens in North Celebrating!
+Panic in Confederate Congress!
+537
+Union Forces Have Established a Firm Foothold in North Carolina Coast.
+\tIn recent operations Union forces have established a firm foothold in the North Carolina coasta by capturing towns of New Bern and Plymouth. This has severly disrupted Confederate sea trade and movement of supplies north along the coast, and secured a base for further operations in North Carolina Union forces.\n\tConfederate forces are reported consolidating further inland and most likely preparing to re-capture the towns. What remains to be seen, is whether a counter-attack will ever materialize, as the Confederate leadership is in state of confusion regarding where to place the main effort of future campaigns.
+36
+Salt Wars
+Raid Saltville Saltworks
+The Confederacy has only limited capacity for salt production. Salt is needed for food preservation. Saltville in Virginia produces much of the salt needed in the Eastern Theater. Capture Saltville and cut off the salt supply.
+002;003;
+0
+002;
+01.01.1862
+01.01.1870
+Town_saltville;
+029;
+500
+Saltville Captured by Union!
+Confederate Salt Production Weakened!
+Further Raids in Florida and Louisiana!
+
+
+537
+Saltville, Virginia, has been Captured by Union forces.
+\tSalt is important during times of war, as it is used to preserve food and curing leather. "Salt is eminently contraband," as one Union general put it. Recent Union operations have captured Saltville, Virginia, severely hampering Confederate salt production.\n\tConfederate salt comes mainly from salt plants in Florida coast, rock salt deposits in Avery Island, Louisiana, and from Saltville salt works in Virginia. Realizing the criticality of this commodity, Union has conducted coordinated raids to these locations. As a result, salt prices are rapidly increasing and distribution of salt is regulated. For example in Georgia, a half-bushel of salt costs 2,50 dollars. For a widow who has a son in the Confederate army, the price is one dollar.
+37
+Invasion of Norfolk
+Capture Gosport
+The largest shipyard in America, Gosport, fell to the Confederacy when Virginia seceded. Capture Norfolk and Portsmouth, and secure the are by capturing Suffolk as well.  
+001;002;003;
+0
+002;
+01.01.1862
+01.01.1870
+Norfolk;Town_portsmouth;Town_suffolk;
+
+1000
+Union Invasion of Norfolk a Success!
+Gosport Shipyard Re-Captured!
+Confederate Trade Compromised!
+Citizens in North Celebrating!
+Panic in Confederate Congress!
+67
+Union Forces have Captured Norfolk and the Gosport Shipyard.
+\tWhen Virginia joined the Confederate States of America they demanded the surrender of all Federal property in their state, including the Gosport Shipyard. Falling for an elaborate Confederate ruse orchestrated by civilian railroad builder, William Mahone, the Union shipyard commander Charles Stewart McCauley ordered the burning of the shipyard and the evacuation of its personal to Fort Monroe across Hampton Roads. The capture of the shipyard allowed a tremendous amount of war material to fall into Confederate hands including the remains of the burned and scuttled naval frigate USS Merrimac.\n\tNow, Union forces have returned and re-captured this strategically important shipyard. Doing so, Confederate trade has also been dealt a great blow. The Confederate government is in turmoil after this critical loss.
