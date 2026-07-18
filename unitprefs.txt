@@ -2,7 +2,7 @@
 Number of unit Types
 19
 Unit Type 0# Name ---------------------------------------------------------
-Infantry
+歩兵
 Maximum Unit Size
 3000
 Basic Unit Speed Factor dismounted 0#
@@ -46,7 +46,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 1# Name ---------------------------------------------------------
-Cavalry
+騎兵
 Maximum Unit Size
 2500
 Basic Unit Speed Factor dismounted 1#
@@ -90,7 +90,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 2# Name ---------------------------------------------------------
-Artillery
+砲兵
 Maximum Unit Size
 240
 Basic Unit Speed Factor dismounted 2#
@@ -134,7 +134,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 3# Name ---------------------------------------------------------
-Skirmishers
+散兵
 Maximum Unit Size
 200
 Basic Unit Speed Factor dismounted 3#
@@ -178,7 +178,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 4# Name ---------------------------------------------------------
-Scouts
+斥候
 Maximum Unit Size
 150
 Basic Unit Speed Factor dismounted 3#
@@ -222,7 +222,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 5# Name ---------------------------------------------------------
-Courier
+伝令
 Maximum Unit Size
 1
 Basic Unit Speed Factor dismounted 4#
@@ -266,7 +266,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 6# Name ---------------------------------------------------------
-Not used
+未使用
 Maximum Unit Size
 200
 Basic Unit Speed Factor dismounted 6#
@@ -310,7 +310,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 7# Name ---------------------------------------------------------
-Not used
+未使用
 Maximum Unit Size
 200
 Basic Unit Speed Factor dismounted 7#
@@ -354,7 +354,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 8# Name ---------------------------------------------------------
-Not used
+未使用
 Maximum Unit Size
 200
 Basic Unit Speed Factor dismounted 8#
@@ -398,7 +398,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 9# Name ---------------------------------------------------------
-Not used
+未使用
 Maximum Unit Size
 200
 Basic Unit Speed Factor dismounted 9#
@@ -442,7 +442,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 10# Name ---------------------------------------------------------
-Battery
+砲兵中隊
 Maximum Unit Size
 10
 Basic Unit Speed Factor dismounted 10#
@@ -486,7 +486,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 11# Name ---------------------------------------------------------
-Battalion
+大隊
 Maximum Unit Size
 10
 Basic Unit Speed Factor dismounted 11#
@@ -530,7 +530,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 12# Name ---------------------------------------------------------
-Regiment
+連隊
 Maximum Unit Size
 10
 Basic Unit Speed Factor dismounted 12#
@@ -574,7 +574,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 13# Name ---------------------------------------------------------
-Brigade
+旅団
 Maximum Unit Size
 10
 Basic Unit Speed Factor dismounted 13#
@@ -618,7 +618,7 @@ Command range campaign
 Combat range campaign
 0
 Unit Type 14# Name ---------------------------------------------------------
-Division
+師団
 Maximum Unit Size
 25
 Basic Unit Speed Factor dismounted 14#
@@ -662,7 +662,7 @@ Command range campaign
 Combat range campaign
 10
 Unit Type 15# Name ---------------------------------------------------------
-Corps
+軍団
 Maximum Unit Size
 25
 Basic Unit Speed Factor dismounted 15#
@@ -706,7 +706,7 @@ Command range campaign
 Combat range campaign
 13
 Unit Type 16# Name ---------------------------------------------------------
-Army
+軍
 Maximum Unit Size [do not change]
 10
 Basic Unit Speed Factor dismounted 16#
@@ -750,7 +750,7 @@ Command range campaign
 Combat range campaign
 15
 Unit Type 17# Name ---------------------------------------------------------
-Fleet
+艦隊
 Maximum Unit Size
 9999
 Basic Unit Speed Factor dismounted 17#
@@ -794,7 +794,7 @@ Command range campaign
 Combat range campaign
 15
 Unit Type 18# Name ---------------------------------------------------------
-Army Group
+軍集団
 Maximum Unit Size [do not change]
 10
 Basic Unit Speed Factor dismounted 16# [not applicable]
