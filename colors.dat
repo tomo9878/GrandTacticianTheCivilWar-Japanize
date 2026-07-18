@@ -1,176 +1,176 @@
 25
 0
-Prussian Blue
+プロシアンブルー
 000-049-083
-Union army coat blue
+北軍上着の青
 0
 
 true
 1
-Sky Blue
+スカイブルー
 135-206-235
-Union army trousers light blue
+北軍ズボンの淡青
 
 0
 true
 2
-Zouave Red
+ズアーブレッド
 169-010-015
-Zouave trouser red
+ズアーブ兵ズボンの赤
 
 3
 true
 3
-Light Gray
+ライトグレー
 147-141-129
-Militia light gray
+民兵の明るい灰色
 
 
 true
 4
-Confederate Gray
+コンフェデレートグレー
 128-128-128
-The C.S.A. default regulation gray
+南軍規定標準の灰色
 
 
 true
 5
-Green
+グリーン
 043-061-045
-Union sharpshooters' uniform
+北軍狙撃兵の軍服
 
 
 true
 6
-White
+ホワイト
 242-246-245
-U.S.M.C. trousers
+アメリカ海兵隊のズボン
 
 4
 true
 7
-Tannish Gray
+タンニッシュグレー
 200-168-127
-Militia tannish gray
+民兵の黄褐灰色
 
 
 true
 8
-British Red
+ブリティッシュレッド
 200-020-020
-British army jacket
+イギリス軍上着
 2
 
 true
 9
-French Blue
+フレンチブルー
 010-010-200
-French army jacket
+フランス軍上着
 3
 
 true
 10
-Yellow
+イエロー
 200-200-010
-Hampton zouave trousers
+ハンプトン・ズアーブ兵のズボン
 4
 
 true
 11
-Butternut
+バターナット
 210-159-106
-Militia butternut
+民兵のバターナット色
 
 
 true
 12
-British Black
+ブリティッシュブラック
 046-042-041
-British army trousers
+イギリス軍ズボン
 
 2
 true
 13
-Dark Red
+ダークレッド
 180-000-000
-C.S.A. national color for symbols
+南軍の記号用国色
 
 
 false
 14
-Bangladesh Green
+バングラデシュグリーン
 000-255-000
-Mexican national color for symbols
+メキシコの記号用国色
 5
 5
 false
 15
-Rust Brown
+ラストブラウン
 141-073-044
-Tiger zouave rust
+タイガー・ズアーブ兵の錆色
 
 
 true
 16
-Steel Gray
+スチールグレー
 127-131-134
-Standard Confederate manufactured
+南軍標準製造品
 
 
 true
 17
-Tait Kersey Gray
+テイト・カージーグレー
 095-110-116
-Imported late war regulation gray
+戦争後期輸入規定灰色
 
 
 true
 18
-Cadet Blue
+キャデットブルー
 141-152-168
-Imported early war regulation coat
+戦争初期輸入規定上着
 
 
 true
 19
-Richmond Gray
+リッチモンドグレー
 085-090-102
-Richmond Depot Uniforms
+リッチモンド工廠製軍服
 
 
 true
 20
-Light Gray
+ライトグレー
 159-163-168
-Bright Richmond Gray
+明るいリッチモンドグレー
 
 
 true
 21
-Field Green
+フィールドグリーン
 066-102-091
-Sharpshooters' uniform
+狙撃兵の軍服
 
 
 true
 22
-Tuscaloosa
+タスカルーサ
 135-150-133
-Tuscaloosa field green
+タスカルーサ野戦緑
 
 
 true
 23
-Olive Green
+オリーブグリーン
 114-134-060
-Sharpshooter trousers
+狙撃兵のズボン
 
 
 true
 24
-Wheat
+ウィート
 185-174-115
-Golden toned jean
+金色調のジーン地
 
 
 true
