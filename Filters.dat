@@ -4,8 +4,8 @@ Filters
 Background
 LoadSaveBig
 4
-Manual Saves
-Autosaves
+手動セーブ
+オートセーブ
 Union
 Confederacy
 0
@@ -51,8 +51,8 @@ Filters
 Background
 LoadSaveBig
 2
-Campaigns
-Historical Battles
+キャンペーン
+史実戦闘
 0
 Top
 Filters
@@ -116,47 +116,47 @@ Siege artillery
 Siege mortar
 Naval artillery
 Machinegun
-Sea going
-Sailing ships
-Steam ships
-Rams
-Ironclads
-River going
+外洋航行
+帆船
+蒸気船
+衝角艦
+装甲艦
+河川航行
 0
 Bottom
 Filters
 Background
 Panel_Main
 1
-Weapon type
+武器種別
 12
-Price
-Standardization
-Range
-Rate of fire
-Weapons in stock
-Speed
-Guns
-Combat strength
-Size
-Provisions capacity
-Ammo capacity
-Alphabetic
+価格
+標準化率
+射程
+発射速度
+在庫数
+速度
+砲数
+戦闘力
+規模
+糧食容量
+弾薬容量
+アルファベット順
 Bottom
 Filters
 Background
 Production
 1
-Level
+レベル
 8
-Alphabetic
-Type
-Location
-Workforce
-Slave ratio
-Production value
-Tax paid
-Efficiency
+アルファベット順
+種別
+所在地
+労働力
+奴隷比率
+生産額
+納税額
+効率
 Middle
 Filters
 Background
@@ -202,36 +202,36 @@ Filters
 Background
 Panel_Main
 12
-Army
-Unassigned
-Professional
-Assigned
-Political
-Veteran
-Volunteer
-Blocked ports
-Field armies
-Import available
-Technology available
-Available in depots
+陸軍
+未配属
+職業軍人
+配属済み
+政治任命
+退役軍人
+義勇兵
+封鎖港
+野戦軍
+輸入可能
+技術利用可能
+補給廠に在庫あり
 17
-Navy
-Suitable rank
-Infantry
-Artillery
-Cavalry
-Engineer
-WIA
-KIA
-POW
-Ready for duty
-Volunteer
-Veteran
-Political
-Assigned
-Garrisons
-Orders placed
-Orders available
+海軍
+適任階級
+歩兵
+砲兵
+騎兵
+工兵
+戦傷
+戦死
+捕虜
+任務可能
+義勇兵
+退役軍人
+政治任命
+配属済み
+守備隊
+発注済み
+発注可能
 Bottom
 Filters
 Background
@@ -244,27 +244,27 @@ ToolsPanelCampaign
 UI
 0
 21
-Market Capacity
-Fertility: Rice
-Fertility: Tobacco
-Fertility: Sugar
-Fertility: Crops
-Fertility: Wood
-Fertility: Cotton
-Workforce
-Intelligence
-Slavery
-Trade
-Available Capital
-Medical Treatment
-Frontlines
-Supply
-Support
-Market influences
-Transport Bottlenecks
-Shortages & Oversupply
-Precipitation
-Production & Demand
+市場能力
+肥沃度：米
+肥沃度：タバコ
+肥沃度：砂糖
+肥沃度：農作物
+肥沃度：木材
+肥沃度：綿花
+労働力
+諜報
+奴隷制
+貿易
+利用可能資本
+医療処置
+前線
+補給
+支持率
+市場への影響
+輸送のボトルネック
+不足と供給過多
+降水量
+生産と需要
 Middle
 Filters
 Background
@@ -282,24 +282,24 @@ Filters
 Background
 Projects
 1
-Subsidy Costs
+助成コスト
 3
-Alphabetically
-Subsidy Type
-Alphabetic
+アルファベット順
+助成種別
+アルファベット順
 Top
 Filters
 Background
 Projects
 6
-Politics
-Economy
-Agriculture
-Industry
-Military
-Diplomacy
+政治
+経済
+農業
+工業
+軍事
+外交
 1
-Assignable only
+配属可能のみ
 Top
 Filters
 Background
